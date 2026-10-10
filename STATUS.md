@@ -1,13 +1,13 @@
 # STATUS — XRHOT X 采集状态
 
-最后在本文件手工更新：2026-10-09 PT 晚 / 北京 2026-10-10 上午（手动补采一轮 + 廉价预检）。
+最后在本文件手工更新：2026-10-10 PT 凌晨 / 北京 2026-10-10 16:00 例行（四次采集）。
 
 ## 订阅现状
 
 | Feed | Items | lastBuildDate (GMT) | Raw URL |
 |------|------:|---------------------|---------|
 | x-official.xml | 52 | Sat, 10 Oct 2026 02:25:56 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-official.xml |
-| x-media-kol.xml | 35 | Fri, 09 Oct 2026 11:00:20 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml |
+| x-media-kol.xml | 36 | Sat, 10 Oct 2026 08:05:38 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml |
 
 核对命令：
 
@@ -16,11 +16,11 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-offic
 curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml | grep -c '<item>'
 ```
 
-## 本轮手动刷新（2026-10-10）
+## 本轮例行刷新（2026-10-10 北京 16:00）
 
 - 方法：`get_users_by_usernames` 廉价预检 → 仅对最新 id 更新的账号 `get_users_posts(since_id, exclude=replies,retweets)` → XR 初筛。
-- 官方：**+5**（XREAL_Global、getVITURE、PICOXR、pimaxofficial、RokidGlobal）；htcvive / BigscreenVR 最新为回复或转发，未入库。
-- 媒体/KOL：**+0**（nathie 最新为无文字引图帖，丢弃；Dilmerv 最新为回复/转发；ARealityEvent / kentbye 无新原创）。
+- 官方：**+0**（htcvive / BigscreenVR 最新为回复或转发；其余 9 账号无新 id）。
+- 媒体/KOL：**+1**（nathie：The Last of Us Part II VR support 串帖合并；Dilmerv 最新为回复/转发；ARealityEvent 无新 id；kentbye 抽查近期原创无新于例行窗口、未回填历史）。
 - 已 push：是（见 git log）。
 
 ## 定时更新
