@@ -1,0 +1,36 @@
+{
+  "feed": "feeds/x-media-kol.xml",
+  "feedTitle": "X · XR 媒体和 KOL",
+  "policy": "Media/event accounts and XR-heavy KOLs. Apply XR prefilter (life/fitness/non-VR games drop). Do not add X for outlets that already have site RSS in skipped-media-rss.json.",
+  "updatedAt": "2026-10-09",
+  "accounts": [
+    {
+      "handle": "ARealityEvent",
+      "role": "media-event",
+      "evidenceUrl": "https://x.com/ARealityEvent",
+      "addedAt": "2026-10-09",
+      "notes": "AWE; event/news leaning"
+    },
+    {
+      "handle": "nathie",
+      "role": "kol",
+      "evidenceUrl": "https://x.com/nathie",
+      "addedAt": "2026-10-09",
+      "notes": "Consumer try-on/pricing; many meetup posts — filter hard"
+    },
+    {
+      "handle": "Dilmerv",
+      "role": "kol",
+      "evidenceUrl": "https://x.com/Dilmerv",
+      "addedAt": "2026-10-09",
+      "notes": "Meta XR development; filter non-XR quotes"
+    },
+    {
+      "handle": "kentbye",
+      "role": "kol",
+      "evidenceUrl": "https://x.com/kentbye",
+      "addedAt": "2026-10-09",
+      "notes": "Voices of VR; may have long gaps with no original posts"
+    }
+  ]
+}

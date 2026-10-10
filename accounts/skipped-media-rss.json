@@ -1,0 +1,42 @@
+{
+  "policy": "These outlets already have website RSS (or filtered RSS) wired into the station. Do NOT add their X accounts to xrhot-ops feeds.",
+  "updatedAt": "2026-10-09",
+  "sources": [
+    {
+      "name": "UploadVR",
+      "rss": "https://www.uploadvr.com/rss/",
+      "xHandleIfAny": "UploadVR",
+      "reason": "Site RSS already ingested; avoid duplicate channel"
+    },
+    {
+      "name": "Road to VR",
+      "rss": "https://roadtovr.com/feed/",
+      "xHandleIfAny": "RtoVR",
+      "reason": "Site RSS already ingested"
+    },
+    {
+      "name": "映维资讯",
+      "rss": "https://news.nweon.com/feed",
+      "xHandleIfAny": null,
+      "reason": "Chinese media RSS; do not invent X"
+    },
+    {
+      "name": "93913",
+      "rss": "https://www.93913.com/feed",
+      "xHandleIfAny": null,
+      "reason": "Chinese media RSS; do not invent X"
+    },
+    {
+      "name": "MIXED · XR",
+      "rss": "https://mixed-news.com/en/feed/",
+      "xHandleIfAny": null,
+      "filterNote": "Station should keep only Virtual Reality, Augmented Reality, AI Glasses categories",
+      "reason": "Site RSS with category filter"
+    }
+  ],
+  "noteOfficialSiteRssStillAllowCompanyX": [
+    "Pimax https://store.pimax.com/blogs/blogs.atom — company X pimaxofficial still allowed",
+    "Play For Dream https://pfdm.ai/blogs/press-release.atom — Play_for_dream still allowed",
+    "Meta Newsroom https://about.fb.com/feed/ — does not replace MetaVR_Official"
+  ]
+}

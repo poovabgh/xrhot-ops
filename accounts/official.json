@@ -1,0 +1,85 @@
+{
+  "feed": "feeds/x-official.xml",
+  "feedTitle": "X · XR 官方账号",
+  "policy": "Company official accounts only. Personal executive accounts require explicit user approval.",
+  "updatedAt": "2026-10-09",
+  "accounts": [
+    {
+      "handle": "MetaVR_Official",
+      "brand": "Meta",
+      "evidenceUrl": "https://x.com/MetaVR_Official",
+      "addedAt": "2026-10-09",
+      "notes": "First batch; Meta VR / Quest / glasses"
+    },
+    {
+      "handle": "PICOXR",
+      "brand": "PICO",
+      "evidenceUrl": "https://x.com/PICOXR",
+      "addedAt": "2026-10-09",
+      "notes": "First batch; main consumer account"
+    },
+    {
+      "handle": "htcvive",
+      "brand": "HTC Vive",
+      "evidenceUrl": "https://x.com/htcvive",
+      "addedAt": "2026-10-09",
+      "notes": "First batch"
+    },
+    {
+      "handle": "BigscreenVR",
+      "brand": "Bigscreen",
+      "evidenceUrl": "https://x.com/BigscreenVR",
+      "addedAt": "2026-10-09",
+      "notes": "First batch; Beyond / SteamVR ecosystem"
+    },
+    {
+      "handle": "XREAL_Global",
+      "brand": "XREAL",
+      "evidenceUrl": "https://www.xreal.com/",
+      "addedAt": "2026-10-09",
+      "notes": "Verified via company site footer; expansion batch"
+    },
+    {
+      "handle": "RokidGlobal",
+      "brand": "Rokid",
+      "evidenceUrl": "https://global.rokid.com/",
+      "addedAt": "2026-10-09",
+      "notes": "Global site; expansion batch"
+    },
+    {
+      "handle": "getVITURE",
+      "brand": "VITURE",
+      "evidenceUrl": "https://www.viture.com/",
+      "addedAt": "2026-10-09",
+      "notes": "Expansion batch"
+    },
+    {
+      "handle": "rayneo_global",
+      "brand": "RayNeo",
+      "evidenceUrl": "https://www.rayneo.com/",
+      "addedAt": "2026-10-09",
+      "notes": "RayNeo / 雷鸟; expansion batch"
+    },
+    {
+      "handle": "pimaxofficial",
+      "brand": "Pimax",
+      "evidenceUrl": "https://store.pimax.com/",
+      "addedAt": "2026-10-09",
+      "notes": "Site also has blogs.atom in station sources; X kept for timeliness"
+    },
+    {
+      "handle": "Play_for_dream",
+      "brand": "Play For Dream",
+      "evidenceUrl": "https://pfdm.ai/",
+      "addedAt": "2026-10-09",
+      "notes": "玩出梦想; site has press-release.atom; X kept for timeliness"
+    },
+    {
+      "handle": "PICOXR_Dev",
+      "brand": "PICO",
+      "evidenceUrl": "https://x.com/PICOXR_Dev",
+      "addedAt": "2026-10-09",
+      "notes": "Developer-facing official account"
+    }
+  ]
+}

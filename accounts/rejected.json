@@ -1,0 +1,55 @@
+{
+  "updatedAt": "2026-10-09",
+  "entries": [
+    {
+      "handle": "boztank",
+      "status": "rejected-for-now",
+      "reason": "Meta CTO / Reality Labs personal account; user directed expansion to official company accounts only"
+    },
+    {
+      "handle": "valvesoftware",
+      "status": "rejected-first-batch",
+      "reason": "No dedicated Steam Frame account; broad game noise; would need heavy keyword filter"
+    },
+    {
+      "handle": "HardwareSteam",
+      "status": "rejected",
+      "reason": "Bio states unrelated to Valve; do not treat as official"
+    },
+    {
+      "handle": "Xiaomi",
+      "status": "rejected-first-batch",
+      "reason": "Company-wide account; XR posts rare / high noise"
+    },
+    {
+      "handle": "AlibabaGroup",
+      "status": "rejected-first-batch",
+      "reason": "Company-wide; Quark glasses not a dedicated X"
+    },
+    {
+      "handle": "Qualcomm",
+      "status": "rejected-first-batch",
+      "reason": "Company-wide; Snapdragon Spaces lacks dedicated high-signal X in first pass"
+    },
+    {
+      "handleOrTopic": "Apple Vision / visionOS dedicated X",
+      "status": "not-found",
+      "reason": "No reliable dedicated Vision Pro X found in 2026-10-09 pass"
+    },
+    {
+      "handleOrTopic": "Galaxy XR / Android XR dedicated X",
+      "status": "not-found",
+      "reason": "No reliable dedicated account found"
+    },
+    {
+      "handleOrTopic": "Huawei glasses / Baidu AI glasses dedicated X",
+      "status": "not-found",
+      "reason": "No reliable dedicated account found"
+    },
+    {
+      "handle": "keyword-search-feed",
+      "status": "killed",
+      "reason": "Theme keyword search removed in rules v2; do not recreate x-keyword.xml"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+# 02 — 账号清单说明
+
+机器可读清单在 `accounts/*.json`。本文是人类可读摘要。
+
+## Official → `feeds/x-official.xml`
+
+| Handle | 品牌 | 备注 |
+|--------|------|------|
+| MetaVR_Official | Meta | 首批 |
+| PICOXR | PICO | 首批 |
+| htcvive | HTC Vive | 首批 |
+| BigscreenVR | Bigscreen | 首批 |
+| XREAL_Global | XREAL | 2026-10-09 扩 |
+| RokidGlobal | Rokid | 2026-10-09 扩 |
+| getVITURE | VITURE | 2026-10-09 扩 |
+| rayneo_global | RayNeo | 2026-10-09 扩 |
+| pimaxofficial | Pimax | 2026-10-09 扩（站内另有 blog Atom） |
+| Play_for_dream | Play For Dream | 2026-10-09 扩（站内另有 press Atom） |
+| PICOXR_Dev | PICO | 开发者号，官方侧 |
+
+政策（用户 2026-10-09）：**只加官方公司号**；官方人员个人号（如 `boztank`）本轮不加。
+
+## Media + KOL → `feeds/x-media-kol.xml`
+
+| Handle | 类型 | 备注 |
+|--------|------|------|
+| ARealityEvent | 展会/媒体向 | AWE |
+| nathie | KOL | 试戴/消费向；需 XR 初筛 |
+| Dilmerv | KOL | Meta XR 开发向；需 XR 初筛 |
+| kentbye | KOL | Voices of VR；可能长时间无帖 |
+
+## 有网站 RSS → 不加 X
+
+见 `accounts/skipped-media-rss.json`：UploadVR、Road to VR、映维资讯、93913、MIXED（栏目过滤 VR/AR/AI Glasses）。
+
+厂商官网 RSS（Pimax blog、玩出梦想 press、Meta Newsroom 等）由站内 sources 配置，**不**因此禁止对应公司 X（公司 X 仍可在 official）。
+
+## 拒绝 / 低置信 / 未找到
+
+见 `accounts/rejected.json`（如 HardwareSteam、阀门/大厂主号噪声、未找到的专用号等）。
+
+## 品牌别名（站内评分，非 X 过滤）
+
+评分 A 名单在站代码 `industry/brands.ts`。别名匹配会算到公司。本仓不复制维护全表；扩账号时可用品牌名对齐 evidence。已知品牌包括：Meta、Apple、Valve、Samsung、Google、PICO、ByteDance、Qualcomm、Pimax、Play For Dream、HTC Vive、Bigscreen、XREAL、Rokid、RayNeo、VITURE、Xiaomi、Huawei、Alibaba/Quark、Baidu 等。
