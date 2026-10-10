@@ -53,3 +53,12 @@
 - **背景：** UploadVR、Road to VR 等已接站内 RSS。
 - **决定：** 跳过其 X，避免双通道重复与分级混乱。
 - **后果：** 见 `accounts/skipped-media-rss.json`。
+
+## ADR-008 — 刷新采用「最新帖 id 预检 + since_id」省 token（2026-10-10）
+
+**决策：** 例行/手动刷新先批量取各账号 `most_recent_tweet_id`，与 feed 内该账号最大 guid 比较；仅对有更新者调用 `get_users_posts(since_id, exclude=replies,retweets)`，再对未入库 id 取全文。
+
+**原因：** 全账号打开时间线并展开正文浪费配额与上下文；多数时刻无新原创帖。
+
+**详见：** `scripts/cheap_check_plan.md`、`scripts/extract_since_ids.py`。
+

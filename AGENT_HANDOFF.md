@@ -64,6 +64,8 @@
 
 细节与字段格式见 `docs/01-collection-rules.md` 与 `scripts/README.md`。
 
+**省 token：** 先跑 `scripts/extract_since_ids.py`，再用 `get_users_by_usernames` 的 `most_recent_tweet_id` 与 feed 内 max guid 比较；仅对有更新的账号拉 `get_users_posts(since_id)`。详见 `scripts/cheap_check_plan.md`。
+
 ## 5. 不要发明的东西
 
 - 不要 invent 未在 `accounts/` 登记的 handle。
