@@ -4,6 +4,14 @@
 
 ---
 
+## 2026-10-10 — 扩账号：官方 5 + 媒体/KOL 6
+
+- **背景：** 用户要求继续找常讨论 VR/MR/AR 的账号（硬件、游戏、内容、生态、商业），并明确「加进去」。
+- **决定：** official 增加 MetaVRDevs、LensStudioDev、magicleap、VRChat、BeatSaber；media-kol 增加 benz145、CasandChary、SkarredGhost、Flat2VR、VRDesktop、SadlyItsBradley。仍跳过已有站内 RSS 的媒体 X。采近约 14 天原创帖，XR 初筛后并入两路订阅；已有条目不改字；每路最多 100 条。
+- **后果：** 账号清单与 channel description 更新；见本轮 STATUS。
+
+---
+
 ## 2026-10-09 — 采集频次改为北京时间每日四次整点
 
 - **背景：** 第二版曾写「约每 30 分钟检查」；用户要求改为固定时段，避免高频与指令漂移。

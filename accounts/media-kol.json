@@ -2,7 +2,7 @@
   "feed": "feeds/x-media-kol.xml",
   "feedTitle": "X · XR 媒体和 KOL",
   "policy": "Media/event accounts and XR-heavy KOLs. Apply XR prefilter (life/fitness/non-VR games drop). Do not add X for outlets that already have site RSS in skipped-media-rss.json.",
-  "updatedAt": "2026-10-09",
+  "updatedAt": "2026-10-10",
   "accounts": [
     {
       "handle": "ARealityEvent",
@@ -31,6 +31,48 @@
       "evidenceUrl": "https://x.com/kentbye",
       "addedAt": "2026-10-09",
       "notes": "Voices of VR; may have long gaps with no original posts"
+    },
+    {
+      "handle": "benz145",
+      "role": "kol",
+      "evidenceUrl": "https://x.com/benz145",
+      "addedAt": "2026-10-10",
+      "notes": "Ben Lang / Road to VR co-founder; personal; XR prefilter"
+    },
+    {
+      "handle": "CasandChary",
+      "role": "kol",
+      "evidenceUrl": "https://x.com/CasandChary",
+      "addedAt": "2026-10-10",
+      "notes": "XR creator/reviewer; XR prefilter"
+    },
+    {
+      "handle": "SkarredGhost",
+      "role": "kol",
+      "evidenceUrl": "https://x.com/SkarredGhost",
+      "addedAt": "2026-10-10",
+      "notes": "AR/VR blogger; high volume; XR prefilter"
+    },
+    {
+      "handle": "Flat2VR",
+      "role": "kol",
+      "evidenceUrl": "https://x.com/Flat2VR",
+      "addedAt": "2026-10-10",
+      "notes": "Flat-to-VR modding community"
+    },
+    {
+      "handle": "VRDesktop",
+      "role": "kol",
+      "evidenceUrl": "https://x.com/VRDesktop",
+      "addedAt": "2026-10-10",
+      "notes": "Guy Godin / Virtual Desktop"
+    },
+    {
+      "handle": "SadlyItsBradley",
+      "role": "kol",
+      "evidenceUrl": "https://x.com/SadlyItsBradley",
+      "addedAt": "2026-10-10",
+      "notes": "Brad Lynch; hardware/spatial; XR prefilter"
     }
   ]
 }

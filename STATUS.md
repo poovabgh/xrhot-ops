@@ -1,13 +1,13 @@
 # STATUS — XRHOT X 采集状态
 
-最后在本文件手工更新：2026-10-10 PT 凌晨 / 北京 2026-10-10 16:00 例行（四次采集）。
+最后在本文件手工更新：2026-10-10 PT / 北京 扩账号并刷新 feeds。
 
 ## 订阅现状
 
 | Feed | Items | lastBuildDate (GMT) | Raw URL |
 |------|------:|---------------------|---------|
-| x-official.xml | 52 | Sat, 10 Oct 2026 02:25:56 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-official.xml |
-| x-media-kol.xml | 36 | Sat, 10 Oct 2026 08:05:38 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml |
+| x-official.xml | 80 | Sat, 10 Oct 2026 10:21:44 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-official.xml |
+| x-media-kol.xml | 100 | Sat, 10 Oct 2026 10:21:44 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml |
 
 核对命令：
 
@@ -16,12 +16,27 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-offic
 curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml | grep -c '<item>'
 ```
 
-## 本轮例行刷新（2026-10-10 北京 16:00）
+## 本轮：扩账号 + 近 14 天回填（2026-10-10）
 
-- 方法：`get_users_by_usernames` 廉价预检 → 仅对最新 id 更新的账号 `get_users_posts(since_id, exclude=replies,retweets)` → XR 初筛。
-- 官方：**+0**（htcvive / BigscreenVR 最新为回复或转发；其余 9 账号无新 id）。
-- 媒体/KOL：**+1**（nathie：The Last of Us Part II VR support 串帖合并；Dilmerv 最新为回复/转发；ARealityEvent 无新 id；kentbye 抽查近期原创无新于例行窗口、未回填历史）。
-- 已 push：是（见 git log）。
+- 新增 official：MetaVRDevs、LensStudioDev、magicleap、VRChat、BeatSaber（+28 条入库；feed 现 80）
+- 新增 media-kol：benz145、CasandChary、SkarredGhost、Flat2VR、VRDesktop、SadlyItsBradley（候选 +134；feed 截断至 100）
+- 方法：`get_users_posts(start_time≈2026-09-26, exclude=replies,retweets)` → XR 初筛 → 串帖合并 → t.co 展开 → 不改已有 guid
+
+### 新账号 seen / kept
+
+| Handle | 看了 | 留下 |
+|--------|-----:|-----:|
+| MetaVRDevs | 8 | 7 |
+| LensStudioDev | 1 | 1 |
+| magicleap | 2 | 2 |
+| VRChat | 14 | 10 |
+| BeatSaber | 9 | 8 |
+| benz145 | 26 | 20 |
+| CasandChary | 4 | 3 |
+| SkarredGhost | 83 | 68 |
+| Flat2VR | 5 | 3 |
+| VRDesktop | 2 | 1 |
+| SadlyItsBradley | 54 | 39 |
 
 ## 定时更新
 

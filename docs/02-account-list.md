@@ -17,8 +17,13 @@
 | pimaxofficial | Pimax | 2026-10-09 扩（站内另有 blog Atom） |
 | Play_for_dream | Play For Dream | 2026-10-09 扩（站内另有 press Atom） |
 | PICOXR_Dev | PICO | 开发者号，官方侧 |
+| MetaVRDevs | Meta | 2026-10-10 扩；Meta VR Developers |
+| LensStudioDev | Snap | 2026-10-10 扩；Lens Studio / Spectacles |
+| magicleap | Magic Leap | 2026-10-10 扩 |
+| VRChat | VRChat | 2026-10-10 扩；平台/内容 |
+| BeatSaber | Beat Games | 2026-10-10 扩 |
 
-政策（用户 2026-10-09）：**只加官方公司号**；官方人员个人号（如 `boztank`）本轮不加。
+政策（用户 2026-10-09）：**只加官方公司号**；官方人员个人号（如 `boztank`）不加。2026-10-10 扩的是公司/产品官方号（含平台与头部游戏官方号）。
 
 ## Media + KOL → `feeds/x-media-kol.xml`
 
@@ -28,6 +33,12 @@
 | nathie | KOL | 试戴/消费向；需 XR 初筛 |
 | Dilmerv | KOL | Meta XR 开发向；需 XR 初筛 |
 | kentbye | KOL | Voices of VR；可能长时间无帖 |
+| benz145 | KOL | 2026-10-10；Ben Lang；需 XR 初筛 |
+| CasandChary | KOL | 2026-10-10；试戴/评测 |
+| SkarredGhost | KOL | 2026-10-10；AR/VR 博主；量大需初筛 |
+| Flat2VR | KOL | 2026-10-10；Flat-to-VR 模组社区 |
+| VRDesktop | KOL | 2026-10-10；Virtual Desktop / Guy Godin |
+| SadlyItsBradley | KOL | 2026-10-10；硬件/空间计算；需初筛 |
 
 ## 有网站 RSS → 不加 X
 
