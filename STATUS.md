@@ -1,13 +1,13 @@
 # STATUS — XRHOT X 采集状态
 
-最后在本文件手工更新：2026-10-10 PT / 北京 扩账号并刷新 feeds。
+最后在本文件手工更新：2026-10-10 PT / 北京时间例行刷新（20:00 节点）。
 
 ## 订阅现状
 
 | Feed | Items | lastBuildDate (GMT) | Raw URL |
 |------|------:|---------------------|---------|
-| x-official.xml | 80 | Sat, 10 Oct 2026 10:21:44 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-official.xml |
-| x-media-kol.xml | 100 | Sat, 10 Oct 2026 10:21:44 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml |
+| x-official.xml | 83 | Sun, 11 Oct 2026 00:06:26 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-official.xml |
+| x-media-kol.xml | 100 | Sun, 11 Oct 2026 00:06:26 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml |
 
 核对命令：
 
@@ -16,27 +16,31 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-offic
 curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml | grep -c '<item>'
 ```
 
-## 本轮：扩账号 + 近 14 天回填（2026-10-10）
+## 本轮：例行刷新（2026-10-10 PT ≈ 北京 20:00）
 
-- 新增 official：MetaVRDevs、LensStudioDev、magicleap、VRChat、BeatSaber（+28 条入库；feed 现 80）
-- 新增 media-kol：benz145、CasandChary、SkarredGhost、Flat2VR、VRDesktop、SadlyItsBradley（候选 +134；feed 截断至 100）
-- 方法：`get_users_posts(start_time≈2026-09-26, exclude=replies,retweets)` → XR 初筛 → 串帖合并 → t.co 展开 → 不改已有 guid
+- 廉价预检：`get_users_by_usernames` → 仅对 most_recent_tweet_id > feed max guid 的账号 `get_users_posts(exclude=replies,retweets, since_id)`
+- official +3：rayneo_global、pimaxofficial、RokidGlobal（feed 80→83）
+- media-kol +4：SkarredGhost、nathie、Dilmerv、SadlyItsBradley（截断保持 100）
+- 丢掉：SkarredGhost Anthropic/Claude 一般 AI 帖；自回帖/串帖续写不改已发布 guid；多数「有更新」实为回复/转发
 
-### 新账号 seen / kept
+### 本轮 seen / kept
 
 | Handle | 看了 | 留下 |
 |--------|-----:|-----:|
-| MetaVRDevs | 8 | 7 |
-| LensStudioDev | 1 | 1 |
-| magicleap | 2 | 2 |
-| VRChat | 14 | 10 |
-| BeatSaber | 9 | 8 |
-| benz145 | 26 | 20 |
-| CasandChary | 4 | 3 |
-| SkarredGhost | 83 | 68 |
-| Flat2VR | 5 | 3 |
-| VRDesktop | 2 | 1 |
-| SadlyItsBradley | 54 | 39 |
+| RokidGlobal | 1 | 1 |
+| rayneo_global | 1 | 1 |
+| pimaxofficial | 1 | 1 |
+| VRChat | 1 | 0（自回帖，不改已有项） |
+| htcvive | 0 originals | 0 |
+| BigscreenVR | 0 originals | 0 |
+| nathie | 2 | 1 |
+| Dilmerv | 1 | 1 |
+| SkarredGhost | 2 | 1 |
+| SadlyItsBradley | 1 | 1 |
+| benz145 | 0 originals | 0 |
+| CasandChary | 0 originals | 0 |
+| Flat2VR | 0 originals | 0 |
+| kentbye / VRDesktop | 抽样无新于 feed 窗口 | 0 |
 
 ## 定时更新
 
