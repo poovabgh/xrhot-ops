@@ -1,13 +1,13 @@
 # STATUS — XRHOT X 采集状态
 
-最后在本文件手工更新：2026-10-11 PT / 北京时间例行刷新（16:00 节点）。
+最后在本文件手工更新：2026-10-11 PT / 北京时间例行刷新（20:00 节点）。
 
 ## 订阅现状
 
 | Feed | Items | lastBuildDate (GMT) | Raw URL |
 |------|------:|---------------------|---------|
 | x-official.xml | 84 | Sun, 11 Oct 2026 04:07:52 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-official.xml |
-| x-media-kol.xml | 100 | Sun, 11 Oct 2026 08:08:27 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml |
+| x-media-kol.xml | 100 | Sun, 11 Oct 2026 12:09:51 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml |
 
 核对命令：
 
@@ -16,19 +16,18 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-offic
 curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml | grep -c '<item>'
 ```
 
-## 本轮：例行刷新（2026-10-11 PT ≈ 北京 16:00）
+## 本轮：例行刷新（2026-10-11 PT ≈ 北京 20:00）
 
 - 廉价预检：`get_users_by_usernames` → 仅对 most_recent_tweet_id > feed max guid 的账号 `get_users_posts(exclude=replies,retweets, since_id)`
-- official：无新入库
-- media-kol +4（仍截断 100）：SkarredGhost×3（Pico Space Pro FCC 泄露、AltaspaceVR reboot、Steam Frame 2027 引用）、nathie×1（Oculus Rift→Meta 眼镜对比 meme）
-- 丢掉：VRChat 自回帖（TREATS plush 澄清）；htcvive / BigscreenVR / Dilmerv / benz145 / CasandChary / Flat2VR / SadlyItsBradley 无原创
+- official：无新入库（htcvive / BigscreenVR 最新为回复或转发；VRChat 仅自回帖澄清 plush）
+- media-kol +1（仍截断 100）：SkarredGhost×1（Rokid 眼镜 + Meta Neural Band 手写模型非官方适配）
+- 丢掉：VRChat 自回帖；htcvive / BigscreenVR / Dilmerv / benz145 / CasandChary / Flat2VR / SadlyItsBradley 无原创；kentbye / VRDesktop 抽查无新于站内水位的需补帖（历史帖不在本轮回填）
 
 ### 本轮 seen / kept
 
 | Handle | 看了 | 留下 |
 |--------|-----:|-----:|
-| SkarredGhost | 3 | 3 |
-| nathie | 1 | 1 |
+| SkarredGhost | 1 | 1 |
 | VRChat | 1（自回帖） | 0 |
 | htcvive | 0 originals | 0 |
 | BigscreenVR | 0 originals | 0 |
@@ -37,6 +36,8 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media
 | CasandChary | 0 originals | 0 |
 | Flat2VR | 0 originals | 0 |
 | SadlyItsBradley | 0 originals | 0 |
+| kentbye | 抽查近期原创 | 0（不回填历史） |
+| VRDesktop | 抽查近期原创 | 0（不回填历史） |
 | 其余预检无更新 | — | 0 |
 
 ## 定时更新
