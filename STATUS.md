@@ -1,12 +1,12 @@
 # STATUS — XRHOT X 采集状态
 
-最后在本文件手工更新：2026-10-10 PT / 北京时间例行刷新（20:00 节点）。
+最后在本文件手工更新：2026-10-11 PT / 北京时间例行刷新（12:00 节点）。
 
 ## 订阅现状
 
 | Feed | Items | lastBuildDate (GMT) | Raw URL |
 |------|------:|---------------------|---------|
-| x-official.xml | 83 | Sun, 11 Oct 2026 00:06:26 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-official.xml |
+| x-official.xml | 84 | Sun, 11 Oct 2026 04:07:52 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-official.xml |
 | x-media-kol.xml | 100 | Sun, 11 Oct 2026 00:06:26 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml |
 
 核对命令：
@@ -16,31 +16,27 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-offic
 curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml | grep -c '<item>'
 ```
 
-## 本轮：例行刷新（2026-10-10 PT ≈ 北京 20:00）
+## 本轮：例行刷新（2026-10-11 PT ≈ 北京 12:00）
 
 - 廉价预检：`get_users_by_usernames` → 仅对 most_recent_tweet_id > feed max guid 的账号 `get_users_posts(exclude=replies,retweets, since_id)`
-- official +3：rayneo_global、pimaxofficial、RokidGlobal（feed 80→83）
-- media-kol +4：SkarredGhost、nathie、Dilmerv、SadlyItsBradley（截断保持 100）
-- 丢掉：SkarredGhost Anthropic/Claude 一般 AI 帖；自回帖/串帖续写不改已发布 guid；多数「有更新」实为回复/转发
+- official +1：XREAL_Global（feed 83→84）
+- media-kol：无新入库（多数「有更新」为回复/转发；exclude 后 result_count=0）
+- 丢掉：VRChat 自回帖（TREATS plush 澄清，已有主帖 guid）；htcvive / BigscreenVR / Dilmerv / benz145 / CasandChary / Flat2VR / SadlyItsBradley 无原创
 
 ### 本轮 seen / kept
 
 | Handle | 看了 | 留下 |
 |--------|-----:|-----:|
-| RokidGlobal | 1 | 1 |
-| rayneo_global | 1 | 1 |
-| pimaxofficial | 1 | 1 |
-| VRChat | 1 | 0（自回帖，不改已有项） |
+| XREAL_Global | 1 | 1 |
+| VRChat | 1 | 0（自回帖） |
 | htcvive | 0 originals | 0 |
 | BigscreenVR | 0 originals | 0 |
-| nathie | 2 | 1 |
-| Dilmerv | 1 | 1 |
-| SkarredGhost | 2 | 1 |
-| SadlyItsBradley | 1 | 1 |
+| Dilmerv | 0 originals | 0 |
 | benz145 | 0 originals | 0 |
 | CasandChary | 0 originals | 0 |
 | Flat2VR | 0 originals | 0 |
-| kentbye / VRDesktop | 抽样无新于 feed 窗口 | 0 |
+| SadlyItsBradley | 0 originals | 0 |
+| kentbye / VRDesktop | most_recent 未超既有窗口，跳过 | 0 |
 
 ## 定时更新
 
