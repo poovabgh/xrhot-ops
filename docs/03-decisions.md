@@ -4,6 +4,13 @@
 
 ---
 
+## 2026-10-11 — 媒体/KOL 去掉 SkarredGhost、CasandChary、VRDesktop
+
+- **背景：** 用户要求分析噪声；SkarredGhost 约占订阅 1/3 且多为 UploadVR/Road to VR 标题转发（站内已有 RSS）；CasandChary、VRDesktop 近窗口 0 条。
+- **决定：** 从 `accounts/media-kol.json` 与 `feeds/x-media-kol.xml` 移除上述三账号；写入 `accounts/rejected.json`（dropped-from-media-kol）。其余 media-kol 与全部 official 保留。
+- **后果：** media-kol 条目从 100 降至去掉三家后的剩余条数（按时间保留）；例行采集不再预检这三家。
+
+
 ## 2026-10-10 — 扩账号：官方 5 + 媒体/KOL 6
 
 - **背景：** 用户要求继续找常讨论 VR/MR/AR 的账号（硬件、游戏、内容、生态、商业），并明确「加进去」。

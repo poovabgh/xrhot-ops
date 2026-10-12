@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-09",
+  "updatedAt": "2026-10-11",
   "entries": [
+    {
+      "handle": "VRDesktop",
+      "status": "dropped-from-media-kol",
+      "reason": "Zero yield in recent monitoring window after being added 2026-10-10; monitoring cost with no feed items",
+      "droppedAt": "2026-10-11"
+    },
+    {
+      "handle": "CasandChary",
+      "status": "dropped-from-media-kol",
+      "reason": "Zero yield in recent monitoring window after being added 2026-10-10; monitoring cost with no feed items",
+      "droppedAt": "2026-10-11"
+    },
+    {
+      "handle": "SkarredGhost",
+      "status": "dropped-from-media-kol",
+      "reason": "High volume; many UploadVR/Road to VR title-forward posts duplicate site RSS already ingested; low information gain and crowded the 100-item cap (~1/3 of feed)",
+      "droppedAt": "2026-10-11"
+    },
     {
       "handle": "boztank",
       "status": "rejected-for-now",

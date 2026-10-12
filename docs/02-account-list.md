@@ -34,11 +34,10 @@
 | Dilmerv | KOL | Meta XR 开发向；需 XR 初筛 |
 | kentbye | KOL | Voices of VR；可能长时间无帖 |
 | benz145 | KOL | 2026-10-10；Ben Lang；需 XR 初筛 |
-| CasandChary | KOL | 2026-10-10；试戴/评测 |
-| SkarredGhost | KOL | 2026-10-10；AR/VR 博主；量大需初筛 |
 | Flat2VR | KOL | 2026-10-10；Flat-to-VR 模组社区 |
-| VRDesktop | KOL | 2026-10-10；Virtual Desktop / Guy Godin |
 | SadlyItsBradley | KOL | 2026-10-10；硬件/空间计算；需初筛 |
+
+2026-10-11 从监控去掉（见 `accounts/rejected.json`）：SkarredGhost（与站内媒体 RSS 重复、占坑）、CasandChary / VRDesktop（近窗口零产出）。
 
 ## 有网站 RSS → 不加 X
 

@@ -3,8 +3,8 @@
   <channel>
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
-    <description>ARealityEvent / nathie / Dilmerv / kentbye / benz145 / CasandChary / SkarredGhost / Flat2VR / VRDesktop / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Mon, 12 Oct 2026 04:07:57 GMT</lastBuildDate>
+    <description>ARealityEvent / nathie / Dilmerv / kentbye / benz145 / Flat2VR / SadlyItsBradley 的帖子</description>
+    <lastBuildDate>Mon, 12 Oct 2026 06:54:25 GMT</lastBuildDate>
     <item>
       <title>Wow! Looks like gaussian splatting technology!</title>
       <link>https://x.com/SadlyItsBradley/status/2109474748526624911</link>
@@ -22,7 +22,6 @@ Manages to let us all hang out in the live volumetric pit lane with friends whil
 #F1 #SingaporeGP https://twitter.com/F1/status/2109283775993565455/video/1]]></content:encoded>
     </item>
 
-
     <item>
       <title>Built a really fun XR prototype this weekend for the Halo fans out there 😇</title>
       <link>https://x.com/SadlyItsBradley/status/2109389599932031176</link>
@@ -31,16 +30,7 @@ Manages to let us all hang out in the live volumetric pit lane with friends whil
       <dc:creator>SadlyItsBradley</dc:creator>
       <content:encoded><![CDATA[Built a really fun XR prototype this weekend for the Halo fans out there 😇 https://x.com/SadlyItsBradley/status/2109389599932031176/video/1]]></content:encoded>
     </item>
-    <item>
-      <title>#VirtualReality gaming situation now lol</title>
-      <link>https://x.com/SkarredGhost/status/2109388575263379688</link>
-      <guid isPermaLink="false">2109388575263379688</guid>
-      <pubDate>Sun, 11 Oct 2026 21:00:01 GMT</pubDate>
-      <dc:creator>SkarredGhost</dc:creator>
-      <content:encoded><![CDATA[#VirtualReality gaming situation now lol
 
-[source: https://www.reddit.com/r/virtualreality/comments/1wy562u/vr_gamers_after_years_of_no_games/] https://x.com/SkarredGhost/status/2109388575263379688/photo/1]]></content:encoded>
-    </item>
     <item>
       <title>One of the regulars in my Discord @zmiennys made great progress in bringing hand tracking UX to Steam Frame</title>
       <link>https://x.com/SadlyItsBradley/status/2109374629613601155</link>
@@ -51,6 +41,7 @@ Manages to let us all hang out in the live volumetric pit lane with friends whil
 
 https://www.reddit.com/r/SteamFrame/s/ZBVjdjgn1i https://x.com/SadlyItsBradley/status/2109374629613601155/video/1]]></content:encoded>
     </item>
+
     <item>
       <title>I updated HoloPrinter Bridge to fix/add support for the Remote Camera feature to more Bambu Labs 3D Printers</title>
       <link>https://x.com/SadlyItsBradley/status/2109361994960662919</link>
@@ -73,30 +64,7 @@ During prints, a virtual laser will draw out each layer your IRL printer is mani
 
 https://testflight.apple.com/join/j32BuRt2 https://twitter.com/sadlyitsbradley/status/2106759166668771473]]></content:encoded>
     </item>
-    <item>
-      <title>Wow, night vision is very cool</title>
-      <link>https://x.com/SkarredGhost/status/2109353917096317098</link>
-      <guid isPermaLink="false">2109353917096317098</guid>
-      <pubDate>Sun, 11 Oct 2026 18:42:18 GMT</pubDate>
-      <dc:creator>SkarredGhost</dc:creator>
-      <content:encoded><![CDATA[Wow, night vision is very cool https://twitter.com/arcturusvision/status/2108981621852643797
 
-引用 @arcturusvision：Shipped today: Now you can enable auto night vision and bind passthrough switching to any controller button. Here's a demo. https://x.com/arcturusvision/status/2108981621852643797/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>It seems that FINALLY, next month NVIDIA will release a driver that will fix the Quest Link freezing bug!</title>
-      <link>https://x.com/SkarredGhost/status/2109336728276504601</link>
-      <guid isPermaLink="false">2109336728276504601</guid>
-      <pubDate>Sun, 11 Oct 2026 17:34:00 GMT</pubDate>
-      <dc:creator>SkarredGhost</dc:creator>
-      <content:encoded><![CDATA[It seems that FINALLY, next month NVIDIA will release a driver that will fix the Quest Link freezing bug! 
-
-Thanks @neelbedekar for making this possible!
-
-source: https://www.reddit.com/r/OculusQuest/comments/1wyq3d4/workaround_meta_quest_link_freezing_on_newer/
-
-#VirtualReality #MetaQuest #NVIDIA https://x.com/SkarredGhost/status/2109336728276504601/photo/1]]></content:encoded>
-    </item>
     <item>
       <title>Splattery TestFlight users: I’m aware of a bug mostly affecting M2 Vision Pro models that causes the love splat previews</title>
       <link>https://x.com/SadlyItsBradley/status/2109322885223641227</link>
@@ -115,6 +83,7 @@ You can then place your splat objects in your room
 
 https://testflight.apple.com/join/Q1Rrkq5R https://twitter.com/sadlyitsbradley/status/2107596978775339154]]></content:encoded>
     </item>
+
     <item>
       <title>It’s actually insane how many more magnitudes of playable it adds to these games</title>
       <link>https://x.com/SadlyItsBradley/status/2109315588933972056</link>
@@ -127,55 +96,7 @@ https://testflight.apple.com/join/Q1Rrkq5R https://twitter.com/sadlyitsbradley/s
 
 More info: https://retrododo.com/virtual-boy-games-can-now-be-played-in-full-colour-thanks-to-new-emulator/ https://x.com/retro_dodo/status/2109003633773715679/video/1]]></content:encoded>
     </item>
-    <item>
-      <title>Interesting.. I would love if the Neural Band could be compatible with other hardware...</title>
-      <link>https://x.com/SkarredGhost/status/2109198593332859091</link>
-      <guid isPermaLink="false">2109198593332859091</guid>
-      <pubDate>Sun, 11 Oct 2026 08:25:06 GMT</pubDate>
-      <dc:creator>SkarredGhost</dc:creator>
-      <content:encoded><![CDATA[Interesting.. I would love if the Neural Band could be compatible with other hardware...
-Unofficial project drives Rokid glasses with Meta's Neural Band and its handwriting model
-https://mixed-news.com/en/rokid-lumen-meta-neural-band-handwriting-model-reverse-engineered/
 
-#smartglasses #AI]]></content:encoded>
-    </item>
-    <item>
-      <title>These images may be the first look we have of the #PicoSpacePro.</title>
-      <link>https://x.com/SkarredGhost/status/2109164236068778225</link>
-      <guid isPermaLink="false">2109164236068778225</guid>
-      <pubDate>Sun, 11 Oct 2026 06:08:34 GMT</pubDate>
-      <dc:creator>SkarredGhost</dc:creator>
-      <content:encoded><![CDATA[These images may be the first look we have of the #PicoSpacePro. They seem to have been leaked from the FCC certification by @TBluebox12 
-
-It looks like a mix of designs between Apple Vision Pro, Galaxy XR, and Lynx
-
-source: https://mp.weixin.qq.com/s/ap_r7l0g1VFPL7e4iAV-Gg
-
-#VirtualReality #MixedReality #China]]></content:encoded>
-    </item>
-    <item>
-      <title>It seems the AltaspaceVR reboot is coming in 3 weeks or so</title>
-      <link>https://x.com/SkarredGhost/status/2109154686410604919</link>
-      <guid isPermaLink="false">2109154686410604919</guid>
-      <pubDate>Sun, 11 Oct 2026 05:30:38 GMT</pubDate>
-      <dc:creator>SkarredGhost</dc:creator>
-      <content:encoded><![CDATA[It seems the AltaspaceVR reboot is coming in 3 weeks or so
-
-#VirtualReality #VR
-https://x.com/SkarredGhost/status/2109154686410604919/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Steam Frame is now shipping in 2027</title>
-      <link>https://x.com/SkarredGhost/status/2109145030128795836</link>
-      <guid isPermaLink="false">2109145030128795836</guid>
-      <pubDate>Sun, 11 Oct 2026 04:52:15 GMT</pubDate>
-      <dc:creator>SkarredGhost</dc:creator>
-      <content:encoded><![CDATA[Steam Frame is now shipping in 2027
-
-#VirtualReality #VR #SteamFrame
-
-引用 @GAMERTAGVR：I don’t know how Valve can be in the game this long, have so much money and still fuck up a launch this hard. So many gamers gone from hype to quitting.]]></content:encoded>
-    </item>
     <item>
       <title>Some things are simply built to last</title>
       <link>https://x.com/nathie/status/2109140376963723406</link>
@@ -185,19 +106,7 @@ https://x.com/SkarredGhost/status/2109154686410604919/photo/1]]></content:encode
       <content:encoded><![CDATA[Some things are simply built to last
 https://x.com/nathie/status/2109140376963723406/photo/1]]></content:encoded>
     </item>
-    <item>
-      <title>Oh damn...</title>
-      <link>https://x.com/SkarredGhost/status/2109041933507318221</link>
-      <guid isPermaLink="false">2109041933507318221</guid>
-      <pubDate>Fri, 10 Oct 2026 22:02:35 GMT</pubDate>
-      <dc:creator>SkarredGhost</dc:creator>
-      <content:encoded><![CDATA[Oh damn...
 
-Nvidia reportedly halts GeForce RTX 5090 production in favor of AI data center and professional GPUs — impending supply drought expected to drive up prices, RTX 5080 24GB rumored as new gaming flagship
-https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-halts-geforce-rtx-5090-production-in-favor-of-ai-data-center-and-professional-gpus-impending-supply-drought-expected-to-drive-up-prices-rtx-5080-24gb-rumored-as-new-gaming-flagship
-
-#VirtualReality #gaming #NVIDIA]]></content:encoded>
-    </item>
     <item>
       <title>the cat is out of the bag</title>
       <link>https://x.com/nathie/status/2109005318630068357</link>
@@ -211,6 +120,7 @@ https://twitter.com/TBluebox12/status/2108922973784826058
 Pico Space Pro?
 https://x.com/TBluebox12/status/2108922973784826058/photo/1]]></content:encoded>
     </item>
+
     <item>
       <title>When your hobby and passion become your job, every day feels like a new playground.</title>
       <link>https://x.com/Dilmerv/status/2108988431816864000</link>
@@ -219,6 +129,7 @@ https://x.com/TBluebox12/status/2108922973784826058/photo/1]]></content:encoded>
       <dc:creator>Dilmerv</dc:creator>
       <content:encoded><![CDATA[When your hobby and passion become your job, every day feels like a new playground. I truly love what I do. Getting to work with the most advanced AI models at Meta, cutting-edge VR tools, and our upcoming Meta VR Glasses headset is honestly incredible. I couldn’t be more excited about where we are now in XR and what’s coming!]]></content:encoded>
     </item>
+
     <item>
       <title>Wow. Thats a pretty long one, actually</title>
       <link>https://x.com/SadlyItsBradley/status/2108963886473121813</link>
@@ -234,6 +145,7 @@ A new Apple Immersive video is coming just in time for Halloween.
 Remnants is a 27 minute ghost story from director Ti West, set in a haunted castle. Arrives on Apple Vision Pro October 16.
 https://x.com/justinryanio/status/2108924730803986781/photo/1]]></content:encoded>
     </item>
+
     <item>
       <title>Spent a day rebuilding Steam Frame’s window manager to fit my liking..</title>
       <link>https://x.com/SadlyItsBradley/status/2108824877545169049</link>
@@ -246,34 +158,7 @@ While it looks really nice in this video, I don’t really want to work on it fu
 
 Was a bit too hacky to even get this far. Wasn’t ideal https://twitter.com/SadlyItsBradley/status/2108824877545169049]]></content:encoded>
     </item>
-    <item>
-      <title>Meta Brings Immersive College Football to Quest, Promises 100+ Live Sporting Events Next Year</title>
-      <link>https://x.com/SkarredGhost/status/2108800948269379963</link>
-      <guid isPermaLink="false">2108800948269379963</guid>
-      <pubDate>Sat, 10 Oct 2026 06:05:00 GMT</pubDate>
-      <dc:creator>SkarredGhost</dc:creator>
-      <content:encoded><![CDATA[Meta Brings Immersive College Football to Quest, Promises 100+ Live Sporting Events Next Year
-https://roadtovr.com/meta-vr-glasses-live-football-2026-schedule/
 
-#VirtualReality #vr #football]]></content:encoded>
-    </item>
-    <item>
-      <title>I'll miss @benz145's amazing reviews. I've always defined him as my "review hero" for the incredible amount of detail he</title>
-      <link>https://x.com/SkarredGhost/status/2108785179737137304</link>
-      <guid isPermaLink="false">2108785179737137304</guid>
-      <pubDate>Sat, 10 Oct 2026 05:02:20 GMT</pubDate>
-      <dc:creator>SkarredGhost</dc:creator>
-      <content:encoded><![CDATA[I'll miss @benz145's amazing reviews. I've always defined him as my "review hero" for the incredible amount of detail he put into his hands-on articles. But I'm happy he found a job at one of the leading glasses companies, and I wish him a lot of luck.
-
-As I wish a lot of luck to @vrbosenet, who, as the new executive editor at Road To VR, now has a lot of responsibilities on his shoulders!
-
-They're both great guys and I'm pretty sure both will do great. And you?
-
-#virtualreality #technology #smartglasses
-
-引用 @benz145：
-I have news. Longtime editor @vrbosenet is the new Executive Editor of @RtoVR! … joined @getVITURE as Head of Strategic Partnerships.]]></content:encoded>
-    </item>
     <item>
       <title>The Last of Us Part II is getting VR support soon and it’s already looking really promising.</title>
       <link>https://x.com/nathie/status/2108784251923804272</link>
@@ -284,6 +169,7 @@ I have news. Longtime editor @vrbosenet is the new Executive Editor of @RtoVR! �
 
 Check out more of the mod work of Riverence here: https://youtu.be/fh9nt0D7v-M?is=Ri6u6kL9TTDWtpf8]]></content:encoded>
     </item>
+
     <item>
       <title>Someone in my Discord nabbed a rare Google Daydream (2?) prototype from Goodwill</title>
       <link>https://x.com/SadlyItsBradley/status/2108684936962040118</link>
@@ -294,6 +180,7 @@ Check out more of the mod work of Riverence here: https://youtu.be/fh9nt0D7v-M?i
 
 Boots into the OS and everything! But they need to find or emulate a controller for it.. https://twitter.com/SadlyItsBradley/status/2108684936962040118]]></content:encoded>
     </item>
+
     <item>
       <title>Going to attempt something really funny https://twitter.com/SadlyItsBradley/status/2108657026259947842 https://twitter.c</title>
       <link>https://x.com/SadlyItsBradley/status/2108657026259947842</link>
@@ -307,16 +194,7 @@ STEAM FRAME UPDATE
 
 Valve has broken their silence and spoken up about Steam Frame reservations...]]></content:encoded>
     </item>
-    <item>
-      <title>Smartglasses represent a new opportunity for devs, but are unripe https://skarredghost.com/2026/10/08/killer-app-smartgl</title>
-      <link>https://x.com/SkarredGhost/status/2108616733866995734</link>
-      <guid isPermaLink="false">2108616733866995734</guid>
-      <pubDate>Fri, 09 Oct 2026 17:53:00 GMT</pubDate>
-      <dc:creator>SkarredGhost</dc:creator>
-      <content:encoded><![CDATA[Smartglasses represent a new opportunity for devs, but are unripe https://skarredghost.com/2026/10/08/killer-app-smartglasses/  
 
-#smartglasses #technology #indiedev #gamedev]]></content:encoded>
-    </item>
     <item>
       <title>I find it HILARIOUS that Steam Link from frame to vision pro allows you to do this https://twitter.com/SadlyItsBradley/s</title>
       <link>https://x.com/SadlyItsBradley/status/2108612237116195056</link>
@@ -325,6 +203,7 @@ Valve has broken their silence and spoken up about Steam Frame reservations...]]
       <dc:creator>SadlyItsBradley</dc:creator>
       <content:encoded><![CDATA[I find it HILARIOUS that Steam Link from frame to vision pro allows you to do this https://twitter.com/SadlyItsBradley/status/2108612237116195056]]></content:encoded>
     </item>
+
     <item>
       <title>so I may have borked my Steam Frame OS by trying to make the nested desktop in an ultrawide aspect ratio by default. Wou</title>
       <link>https://x.com/SadlyItsBradley/status/2108584484597575945</link>
@@ -349,6 +228,7 @@ I’m happy it gives me the ability
 
 But Microsoft’s user-hostility is just you getting shot by a disgruntled clown at the carnival]]></content:encoded>
     </item>
+
     <item>
       <title>I have news.</title>
       <link>https://x.com/benz145/status/2108576892748235193</link>
@@ -368,6 +248,7 @@ Welcoming Scott Hayden as Road to VR’s New Executive Editor
 
 See it 👉https://roadtovr.com/scott-hayden-executive-editor-road-to-vr]]></content:encoded>
     </item>
+
     <item>
       <title>So what extra battery solutions are people using for their Steam Frames?</title>
       <link>https://x.com/SadlyItsBradley/status/2108545709427609926</link>
@@ -376,18 +257,7 @@ See it 👉https://roadtovr.com/scott-hayden-executive-editor-road-to-vr]]></con
       <dc:creator>SadlyItsBradley</dc:creator>
       <content:encoded><![CDATA[So what extra battery solutions are people using for their Steam Frames?]]></content:encoded>
     </item>
-    <item>
-      <title>Futuristic Arena Sports Game Ultimechs Will Be Delisted Later This Month</title>
-      <link>https://x.com/SkarredGhost/status/2108486374944874587</link>
-      <guid isPermaLink="false">2108486374944874587</guid>
-      <pubDate>Fri, 09 Oct 2026 09:15:00 GMT</pubDate>
-      <dc:creator>SkarredGhost</dc:creator>
-      <content:encoded><![CDATA[Futuristic Arena Sports Game Ultimechs Will Be Delisted Later This Month
 
-https://www.uploadvr.com/futuristic-arena-sports-game-ultimechs-will-be-delisted/
-
-#VirtualReality #VR #gaming]]></content:encoded>
-    </item>
     <item>
       <title>Schneider Electric to acquire PTC for $22.6B, ENGO launches 28.9-gram AR glasses.</title>
       <link>https://x.com/ARealityEvent/status/2108466702468219337</link>
@@ -402,28 +272,7 @@ Subscribe: ➡️ https://www.awexr.com/global/subscribe-to-weekly-spatial
 
 #AWE2027 #XR https://x.com/ARealityEvent/status/2108466702468219337/video/1]]></content:encoded>
     </item>
-    <item>
-      <title>What Meta VR Glasses Mean for the Future of Quest</title>
-      <link>https://x.com/SkarredGhost/status/2108440069908640106</link>
-      <guid isPermaLink="false">2108440069908640106</guid>
-      <pubDate>Fri, 09 Oct 2026 06:11:00 GMT</pubDate>
-      <dc:creator>SkarredGhost</dc:creator>
-      <content:encoded><![CDATA[What Meta VR Glasses Mean for the Future of Quest
-https://roadtovr.com/meta-vr-glasses-future-of-quest/
 
-#VirtualReality #VR #Meta]]></content:encoded>
-    </item>
-    <item>
-      <title>This looks very cool! https://twitter.com/Alientrap/status/2108311285888627089</title>
-      <link>https://x.com/SkarredGhost/status/2108422301205106917</link>
-      <guid isPermaLink="false">2108422301205106917</guid>
-      <pubDate>Fri, 09 Oct 2026 05:00:23 GMT</pubDate>
-      <dc:creator>SkarredGhost</dc:creator>
-      <content:encoded><![CDATA[This looks very cool! https://twitter.com/Alientrap/status/2108311285888627089
-
-引用 @Alientrap：
-Prototyped an AR game where you push around a self-balancing robot]]></content:encoded>
-    </item>
     <item>
       <title>I tried these prototype Pico glasses more than 6 years ago. It's surprisng how long it has taken for this form-factor to</title>
       <link>https://x.com/benz145/status/2108388320354939161</link>
@@ -432,6 +281,7 @@ Prototyped an AR game where you push around a self-balancing robot]]></content:e
       <dc:creator>benz145</dc:creator>
       <content:encoded><![CDATA[I tried these prototype Pico glasses more than 6 years ago. It's surprisng how long it has taken for this form-factor to come to market. https://twitter.com/benz145/status/2108388320354939161]]></content:encoded>
     </item>
+
     <item>
       <title>Gee, I wonder why the company facing pressure from state, federal, and now international governments for directing its s</title>
       <link>https://x.com/SadlyItsBradley/status/2108356731088834644</link>
@@ -442,17 +292,7 @@ Prototyped an AR game where you push around a self-balancing robot]]></content:e
 
 No longer wishes to aim or admit it’s aiming its VR product toward kids..]]></content:encoded>
     </item>
-    <item>
-      <title>Sesame, the startup from @brendaniribe, may launch its AI glasses in 2027.</title>
-      <link>https://x.com/SkarredGhost/status/2108331614459818333</link>
-      <guid isPermaLink="false">2108331614459818333</guid>
-      <pubDate>Thu, 08 Oct 2026 23:00:02 GMT</pubDate>
-      <dc:creator>SkarredGhost</dc:creator>
-      <content:encoded><![CDATA[Sesame, the startup from @brendaniribe, may launch its AI glasses in 2027. 
-(The news is from @jank0's newsletter)
 
-#smartglasses #artificialintelligence https://twitter.com/SkarredGhost/status/2108331614459818333]]></content:encoded>
-    </item>
     <item>
       <title>AR glasses are slowly going mainstream and I just got a glimpse of what that future could look like.</title>
       <link>https://x.com/nathie/status/2108302849570726291</link>
@@ -463,6 +303,7 @@ No longer wishes to aim or admit it’s aiming its VR product toward kids..]]></
 
 Watch it here: https://youtu.be/UgTZg11T1KU https://x.com/nathie/status/2108302849570726291/video/1]]></content:encoded>
     </item>
+
     <item>
       <title>Splattery allows you to use your Spatial Videos recorded from Vision Pro:</title>
       <link>https://x.com/SadlyItsBradley/status/2108280731097055259</link>
@@ -477,6 +318,7 @@ You can then place your splat objects in your room
 
 https://testflight.apple.com/join/Q1Rrkq5R https://twitter.com/SadlyItsBradley/status/2107596978775339154]]></content:encoded>
     </item>
+
     <item>
       <title>I have released “HoloPrinter” on TestFlight. For those who have a Bambu Labs 3D Printer</title>
       <link>https://x.com/SadlyItsBradley/status/2108279120060686839</link>
@@ -491,6 +333,7 @@ During prints, a virtual laser will draw out each layer your IRL printer is mani
 
 https://testflight.apple.com/join/j32BuRt2 https://twitter.com/SadlyItsBradley/status/2106759166668771473]]></content:encoded>
     </item>
+
     <item>
       <title>4DGB: I added a fully working Game Boy Printer that you can place in your space</title>
       <link>https://x.com/SadlyItsBradley/status/2108277980233400446</link>
@@ -505,6 +348,7 @@ You can also save a 3D model or spatial photo of that print for later
 
 https://testflight.apple.com/join/kHSTmYJ4 https://twitter.com/SadlyItsBradley/status/2105717309553910118]]></content:encoded>
     </item>
+
     <item>
       <title>what’s an opinion on VR that will have you like this? https://x.com/nathie/status/2108272789354668297/photo/1</title>
       <link>https://x.com/nathie/status/2108272789354668297</link>
@@ -513,6 +357,7 @@ https://testflight.apple.com/join/kHSTmYJ4 https://twitter.com/SadlyItsBradley/s
       <dc:creator>nathie</dc:creator>
       <content:encoded><![CDATA[what’s an opinion on VR that will have you like this? https://x.com/nathie/status/2108272789354668297/photo/1]]></content:encoded>
     </item>
+
     <item>
       <title>Today I’ve Submitted Public TestFlights for THREE apps I’ve been building</title>
       <link>https://x.com/SadlyItsBradley/status/2108244417731866699</link>
@@ -531,6 +376,7 @@ They are optimized to work on both Vision Pro models (M2/M5)
 
 And they can all run at the same time, while also adding functionality to each other in some way]]></content:encoded>
     </item>
+
     <item>
       <title>In the near term, I'm far more bullish on the '3D portal' means of making flatscreen games work in VR than shoddy conver</title>
       <link>https://x.com/benz145/status/2108223186059800948</link>
@@ -543,6 +389,7 @@ This is a matter of pragmatism. If every flatscreen game could get the amount of
 
 And for anyone who says "isn't this just a 3D monitor?" ... there is a qualitative difference between a portal into a game with 6DOF tracking and zero crosstalk than anything you've seen from a 3D monitor or even 3D movie. It's a much more immersive experience.]]></content:encoded>
     </item>
+
     <item>
       <title>Once again, I’m exercising, and this is exactly when ideas spark! I’m going to add IK (inverse kinematics) to my Hand Gr</title>
       <link>https://x.com/Dilmerv/status/2108196275254628736</link>
@@ -551,21 +398,7 @@ And for anyone who says "isn't this just a 3D monitor?" ... there is a qualitati
       <dc:creator>Dilmerv</dc:creator>
       <content:encoded><![CDATA[Once again, I’m exercising, and this is exactly when ideas spark! I’m going to add IK (inverse kinematics) to my Hand Grab Baker tool. It’ll help a lot when devs need to adjust the generated poses.]]></content:encoded>
     </item>
-    <item>
-      <title>As a developer, I see #smartglasses as a huge opportunity: they are selling well, they are expanding, and they are a com</title>
-      <link>https://x.com/SkarredGhost/status/2108176455796392024</link>
-      <guid isPermaLink="false">2108176455796392024</guid>
-      <pubDate>Thu, 08 Oct 2026 12:43:29 GMT</pubDate>
-      <dc:creator>SkarredGhost</dc:creator>
-      <content:encoded><![CDATA[As a developer, I see #smartglasses as a huge opportunity: they are selling well, they are expanding, and they are a completely new market. 
-But I also see various problems that are impacting their potential: their SDKs are incomplete, stores are unripe or non-existent, and the use cases look pretty limited.
 
-I try to talk about the potentialities and the problems of glasses in my latest editorial, hoping to spark a debate. Read it and tell me what you think!
-
-https://skarredghost.com/2026/10/08/killer-app-smartglasses/
-
-#technology #innovation #AR #Meta]]></content:encoded>
-    </item>
     <item>
       <title>Be among the first in Europe to experience SPECS. Snap’s new augmented reality glasses will be on site at UnitedXR, givi</title>
       <link>https://x.com/ARealityEvent/status/2108165512022929881</link>
@@ -579,31 +412,7 @@ See the agenda and register: https://unitedxr.eu/
 
 #SPECS #UnitedXR https://x.com/ARealityEvent/status/2108165512022929881/photo/1]]></content:encoded>
     </item>
-    <item>
-      <title>Meta Is Working On A Virtual Cinema Environment For Quest &amp; VR Glasses</title>
-      <link>https://x.com/SkarredGhost/status/2108093284665205224</link>
-      <guid isPermaLink="false">2108093284665205224</guid>
-      <pubDate>Thu, 08 Oct 2026 07:13:00 GMT</pubDate>
-      <dc:creator>SkarredGhost</dc:creator>
-      <content:encoded><![CDATA[Meta Is Working On A Virtual Cinema Environment For Quest & VR Glasses
 
-https://www.uploadvr.com/meta-is-working-on-a-virtual-cinema-environment-for-quest-vr-glasses/
-
-#VirtualReality #VR]]></content:encoded>
-    </item>
-    <item>
-      <title>This seems to me a bit too extreme, especially if it concerns all public places</title>
-      <link>https://x.com/SkarredGhost/status/2108075165644919004</link>
-      <guid isPermaLink="false">2108075165644919004</guid>
-      <pubDate>Thu, 08 Oct 2026 06:01:00 GMT</pubDate>
-      <dc:creator>SkarredGhost</dc:creator>
-      <content:encoded><![CDATA[This seems to me a bit too extreme, especially if it concerns all public places 
-
-Norway Proposes Temporary Ban on Smart Glasses in Public Places
-https://roadtovr.com/norway-proposes-temporary-ban-on-smart-glasses-in-public-places/
-
-#smartglasses #privacy.]]></content:encoded>
-    </item>
     <item>
       <title>Steam Link TestFlight on visionOS added Pyrowave streaming support</title>
       <link>https://x.com/SadlyItsBradley/status/2108073854509989892</link>
@@ -614,6 +423,7 @@ https://roadtovr.com/norway-proposes-temporary-ban-on-smart-glasses-in-public-pl
 
 https://testflight.apple.com/join/Cye7Gfyy https://twitter.com/SadlyItsBradley/status/2108073854509989892]]></content:encoded>
     </item>
+
     <item>
       <title>Made so much progress with my Hand Grab Baker tool, this is incredible and it is SO FAST! It uses Unity Burst compiler f</title>
       <link>https://x.com/Dilmerv/status/2108073753041424568</link>
@@ -622,20 +432,7 @@ https://testflight.apple.com/join/Cye7Gfyy https://twitter.com/SadlyItsBradley/s
       <dc:creator>Dilmerv</dc:creator>
       <content:encoded><![CDATA[Made so much progress with my Hand Grab Baker tool, this is incredible and it is SO FAST! It uses Unity Burst compiler for certain sections of the code. It went from 2-3 mins to bake hand grab poses to 5-7 seconds! 🤯]]></content:encoded>
     </item>
-    <item>
-      <title>This may be an indicator that Sony is not interested in continuing to invest in VR. To be honest, its attitude was alrea</title>
-      <link>https://x.com/SkarredGhost/status/2108059479598129586</link>
-      <guid isPermaLink="false">2108059479598129586</guid>
-      <pubDate>Thu, 08 Oct 2026 04:58:40 GMT</pubDate>
-      <dc:creator>SkarredGhost</dc:creator>
-      <content:encoded><![CDATA[This may be an indicator that Sony is not interested in continuing to invest in VR. To be honest, its attitude was already pretty clear from how they handled the launch of PSVR 2. The headset was good, but was never promoted properly, and there was not the same level of high-quality exclusives we saw with the original PSVR. And that's a pity. 
 
-Sony Sells off Dozens of XR Patents to Meta in Apparent Pullback from AR/VR Hardware
-
-https://roadtovr.com/sony-sells-xr-headset-patents-meta/
-
-#VirtualReality #VR #PSVR2]]></content:encoded>
-    </item>
     <item>
       <title>Passthrough experiences like this (MR) are going to be extremely useful going forward. Glad to see this running on Quest</title>
       <link>https://x.com/Dilmerv/status/2108002889402872025</link>
@@ -648,6 +445,7 @@ https://roadtovr.com/sony-sells-xr-headset-patents-meta/
 
 still very early but this is already way too fun]]></content:encoded>
     </item>
+
     <item>
       <title>Marvel’s Spider-Man now has a VR mod that lets you web-swing through the streets of New York using motion controllers. h</title>
       <link>https://x.com/nathie/status/2107992789745295830</link>
@@ -658,6 +456,7 @@ still very early but this is already way too fun]]></content:encoded>
 
 Learn more here: https://www.reddit.com/r/OculusQuest/comments/1wzy674/i_made_spidyvr_a_free_mod_that_puts_marvels/]]></content:encoded>
     </item>
+
     <item>
       <title>Well, I’m testing CoreCLR right now with Unity 7 Alpha!</title>
       <link>https://x.com/Dilmerv/status/2107982732416663704</link>
@@ -686,33 +485,7 @@ Edit → Project Settings → Player → Other Settings → Configuration → Sc
 
 In summary: It’s supposed to be very, very fast when you hit Play in Unity. I’m testing that right now with the Meta XR SDKs!]]></content:encoded>
     </item>
-    <item>
-      <title>One of the best XR experiences I've tried this year. Greg is a genius.</title>
-      <link>https://x.com/SkarredGhost/status/2107944201031766400</link>
-      <guid isPermaLink="false">2107944201031766400</guid>
-      <pubDate>Wed, 07 Oct 2026 21:20:35 GMT</pubDate>
-      <dc:creator>SkarredGhost</dc:creator>
-      <content:encoded><![CDATA[One of the best XR experiences I've tried this year. Greg is a genius.
-And also the Guava juice at Greg's place is pretty good. 10/10 I would go again to Greg's house.
 
-#VirtualReality #MixedReality https://twitter.com/GregMadison/status/2107140882332102678
-
-引用 @GregMadison：
-XR veterans are hard to surprise...]]></content:encoded>
-    </item>
-    <item>
-      <title>As a European, I'm getting tired of this...</title>
-      <link>https://x.com/SkarredGhost/status/2107932900826189951</link>
-      <guid isPermaLink="false">2107932900826189951</guid>
-      <pubDate>Wed, 07 Oct 2026 20:35:41 GMT</pubDate>
-      <dc:creator>SkarredGhost</dc:creator>
-      <content:encoded><![CDATA[As a European, I'm getting tired of this...
-
-#technology #AR #VR https://twitter.com/xrdevrob/status/2107869403576402022
-
-引用 @xrdevrob：
-XREAL AURA will not be available in Europe anytime soon...]]></content:encoded>
-    </item>
     <item>
       <title>Making a great and successful flatscreen game is hard. Most people fail.</title>
       <link>https://x.com/benz145/status/2107929642271383575</link>
@@ -727,6 +500,7 @@ Making a game that's great and successful on both flatscreen and VR is the harde
 
 And that's the main case against telling developers they should "just build a game that works for both."]]></content:encoded>
     </item>
+
     <item>
       <title>XREAL AURA pricing is officially here.</title>
       <link>https://x.com/nathie/status/2107919408492667287</link>
@@ -742,6 +516,7 @@ Launching in the US, Canada, Japan and Korea.
 
 What do we think of the price? https://x.com/NathieVR/status/2067064734919360521/video/1]]></content:encoded>
     </item>
+
     <item>
       <title>Okay, let’s do this! Unity 7 Alpha! 🚀</title>
       <link>https://x.com/Dilmerv/status/2107911310721876045</link>
@@ -752,6 +527,7 @@ What do we think of the price? https://x.com/NathieVR/status/2067064734919360521
 
 Let’s see what you have to offer! Excited to check out the new XR features! https://x.com/Dilmerv/status/2107911310721876045/photo/1]]></content:encoded>
     </item>
+
     <item>
       <title>I just got to visit the first ever AR glasses pop-up experience where regular shoppers had the chance to try the future</title>
       <link>https://x.com/nathie/status/2107897087975419926</link>
@@ -764,6 +540,7 @@ Pop-ups like this might be the future of how we introduce people to wearable tec
 
 Watch the full video here: https://www.youtube.com/watch?v=UgTZg11T1KU]]></content:encoded>
     </item>
+
     <item>
       <title>Goal for this week is to launch a new video or at least schedule it on Meta For Developers YouTube channel and work on a</title>
       <link>https://x.com/Dilmerv/status/2107886081081561356</link>
@@ -772,6 +549,7 @@ Watch the full video here: https://www.youtube.com/watch?v=UgTZg11T1KU]]></conte
       <dc:creator>Dilmerv</dc:creator>
       <content:encoded><![CDATA[Goal for this week is to launch a new video or at least schedule it on Meta For Developers YouTube channel and work on a new video for my own channel. There is so much to talk about, and I am extremely excited!]]></content:encoded>
     </item>
+
     <item>
       <title>OK, now you've got me very, very interested! This is so cool!</title>
       <link>https://x.com/Dilmerv/status/2107868207084450166</link>
@@ -789,6 +567,7 @@ I tried it by tracking my monitors and attaching a portal shader to each of them
 3D models from asset store and Kenney.
 #AugmentedReality #MixedReality #MetaQuest #gamedev #Unity3D]]></content:encoded>
     </item>
+
     <item>
       <title>About a year and a half ago, I built a few demos with microgestures, and they’re extremely relevant now with Meta VR Gla</title>
       <link>https://x.com/Dilmerv/status/2107861677874258193</link>
@@ -805,17 +584,7 @@ I tried it by tracking my monitors and attaching a portal shader to each of them
 
 These are a few prototypes I built to test these features. Additionally, the gaze features that will be available in the future will further enhance this functionality. https://x.com/Dilmerv/status/2107861768072729059/photo/1]]></content:encoded>
     </item>
-    <item>
-      <title>Titanfall 2's VR Mod Is Stellar, And Its Installer Is The Best Thing About It</title>
-      <link>https://x.com/SkarredGhost/status/2107849931268755722</link>
-      <guid isPermaLink="false">2107849931268755722</guid>
-      <pubDate>Wed, 07 Oct 2026 15:06:00 GMT</pubDate>
-      <dc:creator>SkarredGhost</dc:creator>
-      <content:encoded><![CDATA[Titanfall 2's VR Mod Is Stellar, And Its Installer Is The Best Thing About It
-https://www.uploadvr.com/titanfall-2s-vr-mod-is-stellar-and-its-installer-is-the-best-thing-about-it/
 
-#VirtualReality #VR]]></content:encoded>
-    </item>
     <item>
       <title>I’m finally caught up on all the Meta Connect work! It was a lot of fun building prototypes and preparing talks. Now I’m</title>
       <link>https://x.com/Dilmerv/status/2107837250914689396</link>
@@ -824,21 +593,7 @@ https://www.uploadvr.com/titanfall-2s-vr-mod-is-stellar-and-its-installer-is-the
       <dc:creator>Dilmerv</dc:creator>
       <content:encoded><![CDATA[I’m finally caught up on all the Meta Connect work! It was a lot of fun building prototypes and preparing talks. Now I’m moving on to the second episode of VR Developer Level Up, which will cover a lot of what we announced and the practical side of using the new VR tools for VR Glasses and Quest.]]></content:encoded>
     </item>
-    <item>
-      <title>XREAL Aura starts from $1,279. I guess the price has been carefully studied so as not to be more than Meta VR Glasses. E</title>
-      <link>https://x.com/SkarredGhost/status/2107834790401511424</link>
-      <guid isPermaLink="false">2107834790401511424</guid>
-      <pubDate>Wed, 07 Oct 2026 14:05:50 GMT</pubDate>
-      <dc:creator>SkarredGhost</dc:creator>
-      <content:encoded><![CDATA[XREAL Aura starts from $1,279. I guess the price has been carefully studied so as not to be more than Meta VR Glasses. Even if the devices are different (this one is AR, the other is MR/VR), they share some use cases, and XREAL wanted to be sure to be more affordable.
 
-I think it's a fair price for what it offers. I tried it at AWE and it seemed to me a pretty solid AR device. What are your thoughts?
-
-#AugmentedReality #AR #China #XREAL
-
-引用 @XREAL_Global：
-XREAL AURA pricing is officially here...]]></content:encoded>
-    </item>
     <item>
       <title>Let’s say you could go back and “fix” a VR game that was promising but didn’t turn out well.</title>
       <link>https://x.com/benz145/status/2107823489927508353</link>
@@ -856,6 +611,7 @@ Can you mod an existing VR game that failed to live up to its potential?
 
 Like, for example, could you mod the  control mechanics from Glassbreakers into Grit & Valor 1949 and actually make it playable?]]></content:encoded>
     </item>
+
     <item>
       <title>XReal Aura pricing seems to be finalized</title>
       <link>https://x.com/SadlyItsBradley/status/2107805038382846088</link>
@@ -869,33 +625,7 @@ Like, for example, could you mod the  control mechanics from Glassbreakers into 
 
 Each SKU comes in either Medium or Large sizes https://twitter.com/SadlyItsBradley/status/2107805038382846088]]></content:encoded>
     </item>
-    <item>
-      <title>Thank you to @RtoVR for these 15 years of articles! @benz145 and @vrbosenet you are legends!</title>
-      <link>https://x.com/SkarredGhost/status/2107713029362033077</link>
-      <guid isPermaLink="false">2107713029362033077</guid>
-      <pubDate>Wed, 07 Oct 2026 06:02:00 GMT</pubDate>
-      <dc:creator>SkarredGhost</dc:creator>
-      <content:encoded><![CDATA[Thank you to @RtoVR for these 15 years of articles! @benz145 and @vrbosenet you are legends!
 
-15 Years of XR, Through the Lens of Road to VR
-https://roadtovr.com/xr-industry-timeline-road-to-vr-15-year-anniversary/
-
-#VirtualReality #VR]]></content:encoded>
-    </item>
-    <item>
-      <title>Pimax Aims to Take on Steam Frame with New ‘Crystal Pro’ Headset, Priced at $1,400</title>
-      <link>https://x.com/SkarredGhost/status/2107696498267795573</link>
-      <guid isPermaLink="false">2107696498267795573</guid>
-      <pubDate>Wed, 07 Oct 2026 04:56:18 GMT</pubDate>
-      <dc:creator>SkarredGhost</dc:creator>
-      <content:encoded><![CDATA[Pimax Aims to Take on Steam Frame with New ‘Crystal Pro’ Headset, Priced at $1,400
-https://x.com/afoxdesign/status/2107106781453582392
-
-#VirtualReality #VR
-
-引用 @afoxdesign：
-VR content creators trying to cover every PCVR mod release this past week]]></content:encoded>
-    </item>
     <item>
       <title>Some of the hardware is already here but VR has always been about content being king. With people from all walks of life</title>
       <link>https://x.com/nathie/status/2107683591241318888</link>
@@ -904,6 +634,7 @@ VR content creators trying to cover every PCVR mod release this past week]]></co
       <dc:creator>nathie</dc:creator>
       <content:encoded><![CDATA[Some of the hardware is already here but VR has always been about content being king. With people from all walks of life finally able to create their own mods and experiences with AI, I have a feeling we may have found the missing puzzle piece.]]></content:encoded>
     </item>
+
     <item>
       <title>Now this is VR Pod- Speeder racing! https://twitter.com/Flat2VR/status/2107674232461168705</title>
       <link>https://x.com/Flat2VR/status/2107674232461168705</link>
@@ -912,6 +643,7 @@ VR content creators trying to cover every PCVR mod release this past week]]></co
       <dc:creator>Flat2VR</dc:creator>
       <content:encoded><![CDATA[Now this is VR Pod- Speeder racing! https://twitter.com/Flat2VR/status/2107674232461168705]]></content:encoded>
     </item>
+
     <item>
       <title>These are the types of small experiments I love seeing from the community: futuristic, great hand interactions, minimali</title>
       <link>https://x.com/Dilmerv/status/2107620416202367408</link>
@@ -925,6 +657,7 @@ I'm building an AR minimap using Meta Quest 3, with help from Claude Opus 5.5. T
 
 #AugmentedReality #ar #vr #gamedev #Unity3D]]></content:encoded>
     </item>
+
     <item>
       <title>my next YouTube video is going to be so awesome https://twitter.com/SadlyItsBradley/status/2107611783238226263 https://t</title>
       <link>https://x.com/SadlyItsBradley/status/2107611783238226263</link>
@@ -933,6 +666,7 @@ I'm building an AR minimap using Meta Quest 3, with help from Claude Opus 5.5. T
       <dc:creator>SadlyItsBradley</dc:creator>
       <content:encoded><![CDATA[my next YouTube video is going to be so awesome https://twitter.com/SadlyItsBradley/status/2107611783238226263 https://twitter.com/SadlyItsBradley/status/2107596978775339154]]></content:encoded>
     </item>
+
     <item>
       <title>I didn't sleep the past 36 hours just so I can nail the UX for this..</title>
       <link>https://x.com/SadlyItsBradley/status/2107596978775339154</link>
@@ -955,6 +689,7 @@ Plan to release the app for free on the App Store after I make a YouTube video d
 
 SPATIAL COMPUTING!]]></content:encoded>
     </item>
+
     <item>
       <title>All, Unity 7 alpha is now available! 🚀</title>
       <link>https://x.com/Dilmerv/status/2107592317146472870</link>
@@ -977,18 +712,7 @@ This release brings a CoreCLR-powered Editor, a new script-reloading workflow, a
 
 📌 For more details about this version check out the Unity discussion https://discussions.unity.com/t/unity-7-0-alpha-is-now-available/1738310]]></content:encoded>
     </item>
-    <item>
-      <title>Is this Pimax's answer to the Steam Frame?</title>
-      <link>https://x.com/SkarredGhost/status/2107591318075564478</link>
-      <guid isPermaLink="false">2107591318075564478</guid>
-      <pubDate>Tue, 06 Oct 2026 21:58:22 GMT</pubDate>
-      <dc:creator>SkarredGhost</dc:creator>
-      <content:encoded><![CDATA[Is this Pimax's answer to the Steam Frame?
 
-https://www.pimax.com/explore/blogs/pimax-unveils-crystal-pro-with-native-foveated-streaming-sending-the-gpus-native-image-wirelessly-to-the-headset
-
-#VirtualReality #VR https://twitter.com/SkarredGhost/status/2107591318075564478]]></content:encoded>
-    </item>
     <item>
       <title>This Apple Vision Pro app makes ghosts appear in your house. It is called Hauntify and scans your rooms in real-time to</title>
       <link>https://x.com/nathie/status/2107565944587624469</link>
@@ -997,6 +721,7 @@ https://www.pimax.com/explore/blogs/pimax-unveils-crystal-pro-with-native-foveat
       <dc:creator>nathie</dc:creator>
       <content:encoded><![CDATA[This Apple Vision Pro app makes ghosts appear in your house. It is called Hauntify and scans your rooms in real-time to find the perfect spots to scare you. https://x.com/nathie/status/2107565944587624469/video/1]]></content:encoded>
     </item>
+
     <item>
       <title>I cooked up something fun for the 15 year anniversary of @RtoVR</title>
       <link>https://x.com/benz145/status/2107557639576306133</link>
@@ -1009,6 +734,7 @@ See the interactive version here: https://roadtovr.com/xr-industry-timeline-road
 
 cc @PalmerLuckey @ID_AA_Carmack @natemitchell]]></content:encoded>
     </item>
+
     <item>
       <title>The original Oculus Rift CV1 concept https://twitter.com/benz145/status/2107552744265433216</title>
       <link>https://x.com/benz145/status/2107552744265433216</link>
@@ -1017,6 +743,7 @@ cc @PalmerLuckey @ID_AA_Carmack @natemitchell]]></content:encoded>
       <dc:creator>benz145</dc:creator>
       <content:encoded><![CDATA[The original Oculus Rift CV1 concept https://twitter.com/benz145/status/2107552744265433216]]></content:encoded>
     </item>
+
     <item>
       <title>One of my favorite features on Quest &amp; 🕶️ Meta VR Glasses is passthrough, which opens up so many possibilities for Mixed</title>
       <link>https://x.com/Dilmerv/status/2107546954586808387</link>
@@ -1043,6 +770,7 @@ If your app frequently switches between passthrough and fully immersive VR, prov
 To learn more about Mixed Reality and passthrough best practices, check out this guide. It goes into much more detail about how these features work and how to use them effectively 👇
 https://developers.meta.com/vr/design/mr-design-passthrough/]]></content:encoded>
     </item>
+
     <item>
       <title>pimax machine</title>
       <link>https://x.com/SadlyItsBradley/status/2107477263210217493</link>
@@ -1051,6 +779,7 @@ https://developers.meta.com/vr/design/mr-design-passthrough/]]></content:encoded
       <dc:creator>SadlyItsBradley</dc:creator>
       <content:encoded><![CDATA[pimax machine]]></content:encoded>
     </item>
+
     <item>
       <title>pimax roy</title>
       <link>https://x.com/SadlyItsBradley/status/2107476845478207629</link>
@@ -1059,6 +788,7 @@ https://developers.meta.com/vr/design/mr-design-passthrough/]]></content:encoded
       <dc:creator>SadlyItsBradley</dc:creator>
       <content:encoded><![CDATA[pimax roy]]></content:encoded>
     </item>
+
     <item>
       <title>Oh no https://twitter.com/hybridherbst/status/2107441853482082623</title>
       <link>https://x.com/benz145/status/2107467500036198830</link>
@@ -1076,47 +806,7 @@ So now there's three official USD packages from Unity, all slightly incompatible
 2. USD for Unity (experimental, legacy)
 3. Unity USD Importer / Exporter (experimental)]]></content:encoded>
     </item>
-    <item>
-      <title>Quest PTC Overhauls Window Management &amp; Brings Back Classic Home Environments</title>
-      <link>https://x.com/SkarredGhost/status/2107411794935329126</link>
-      <guid isPermaLink="false">2107411794935329126</guid>
-      <pubDate>Tue, 06 Oct 2026 10:05:00 GMT</pubDate>
-      <dc:creator>SkarredGhost</dc:creator>
-      <content:encoded><![CDATA[Quest PTC Overhauls Window Management & Brings Back Classic Home Environments
 
-https://www.uploadvr.com/quests-latest-ptc-overhauls-window-management-brings-back-classic-home-environments/
-
-#VirtualReality #VR #MetaQuest]]></content:encoded>
-    </item>
-    <item>
-      <title>I've just seen that for #Amazon #PrimeDay in Italy you can buy a #MetaQuest gift card worth 50€ for 42.50€. It seems a n</title>
-      <link>https://x.com/SkarredGhost/status/2107404244534087987</link>
-      <guid isPermaLink="false">2107404244534087987</guid>
-      <pubDate>Tue, 06 Oct 2026 09:35:00 GMT</pubDate>
-      <dc:creator>SkarredGhost</dc:creator>
-      <content:encoded><![CDATA[I've just seen that for #Amazon #PrimeDay in Italy you can buy a #MetaQuest gift card worth 50€ for 42.50€. It seems a nice deal if you buy a lot of games. https://twitter.com/SkarredGhost/status/2107404244534087987]]></content:encoded>
-    </item>
-    <item>
-      <title>The XR Week Peek (2026.10.05): Samsung glasses get FCC clearance, Snap opens SPECS pop-up store, and more! https://skarr</title>
-      <link>https://x.com/SkarredGhost/status/2107365992708136974</link>
-      <guid isPermaLink="false">2107365992708136974</guid>
-      <pubDate>Tue, 06 Oct 2026 07:03:00 GMT</pubDate>
-      <dc:creator>SkarredGhost</dc:creator>
-      <content:encoded><![CDATA[The XR Week Peek (2026.10.05): Samsung glasses get FCC clearance, Snap opens SPECS pop-up store, and more! https://skarredghost.com/2026/10/05/samsung-glasses-fcc-specs/ 
-
-#AR #VR #XR #Meta #Snap #Google]]></content:encoded>
-    </item>
-    <item>
-      <title>This App Lets You Actually Experience Meta VR Glasses’ Field of View Before You Upgrade</title>
-      <link>https://x.com/SkarredGhost/status/2107349886287085785</link>
-      <guid isPermaLink="false">2107349886287085785</guid>
-      <pubDate>Tue, 06 Oct 2026 05:59:00 GMT</pubDate>
-      <dc:creator>SkarredGhost</dc:creator>
-      <content:encoded><![CDATA[This App Lets You Actually Experience Meta VR Glasses’ Field of View Before You Upgrade
-https://roadtovr.com/meta-vr-glasses-field-of-view-simulator/
-
-#VirtualReality #VR #Meta]]></content:encoded>
-    </item>
     <item>
       <title>This is awesome! It’s almost indistinguishable from reality. Now I want to experiment with Gaussian splats, great work!</title>
       <link>https://x.com/Dilmerv/status/2107340577448804488</link>
@@ -1135,17 +825,7 @@ It still works best when tracking the phone, though.
 
 #3DGS #GaussianSplatting #ComputerVision]]></content:encoded>
     </item>
-    <item>
-      <title>PSVR Exclusive ‘Astro Bot Rescue Mission’ Running on Quest 3 is the Latest in VR Mod Explosion</title>
-      <link>https://x.com/SkarredGhost/status/2107334535587500275</link>
-      <guid isPermaLink="false">2107334535587500275</guid>
-      <pubDate>Tue, 06 Oct 2026 04:58:00 GMT</pubDate>
-      <dc:creator>SkarredGhost</dc:creator>
-      <content:encoded><![CDATA[PSVR Exclusive ‘Astro Bot Rescue Mission’ Running on Quest 3 is the Latest in VR Mod Explosion
-https://roadtovr.com/psvr-astro-bot-quest-3-pc-vr-mod/
 
-#VirtualReality #PSVR #PCVR]]></content:encoded>
-    </item>
     <item>
       <title>Here’s a question I’ve been getting a lot recently: How do you move around in VR without controllers? 🙌</title>
       <link>https://x.com/Dilmerv/status/2107285810538291637</link>
@@ -1201,6 +881,7 @@ One thing for devs to keep in mind: current microgestures recognize discrete inp
 
 Which of these would you use in your hands-first game or app? 👇]]></content:encoded>
     </item>
+
     <item>
       <title>Here’s an example of how I use the XR Simulator to test ISDK Hand Grab Poses! It works very well, and I can now connect</title>
       <link>https://x.com/Dilmerv/status/2107273817425121491</link>
@@ -1211,6 +892,7 @@ Which of these would you use in your hands-first game or app? 👇]]></content:e
 
 The hand grab poses shown here were generated by the new tool I have been building, so no more manual creation of poses. However, the system allows you to tweak joints if needed. But having these poses authored by a tool can save a lot of time.]]></content:encoded>
     </item>
+
     <item>
       <title>Share of SteamVR headsets.</title>
       <link>https://x.com/benz145/status/2107270219064562101</link>
@@ -1221,6 +903,7 @@ The hand grab poses shown here were generated by the new tool I have been buildi
 
 Was there anything HTC could have done to avoid this (other than "charge less to compete more with Meta," which probably wasn't possible) https://twitter.com/benz145/status/2107270219064562101]]></content:encoded>
     </item>
+
     <item>
       <title>Here are a few new features added to my Hand Pose Baker prototype for ISDK! It helps bake a variety of hand grab poses b</title>
       <link>https://x.com/Dilmerv/status/2107259897595515215</link>
@@ -1231,22 +914,7 @@ Was there anything HTC could have done to avoid this (other than "charge less to
 
 For now, it works with simple shapes. Next, I’m going to leave it running through thousands of meshes using the >𝙢𝙚𝙩𝙖𝙫𝙧 𝙖𝙨𝙨𝙚𝙩𝙨 cli command, with the agent testing and iterating until we reach a specific quality bar. Excited to see how far I can take this! 🙌]]></content:encoded>
     </item>
-    <item>
-      <title>Read some of the most important AR/VR news of the week in my weekly roundup:</title>
-      <link>https://x.com/SkarredGhost/status/2107199898315583761</link>
-      <guid isPermaLink="false">2107199898315583761</guid>
-      <pubDate>Mon, 05 Oct 2026 20:03:00 GMT</pubDate>
-      <dc:creator>SkarredGhost</dc:creator>
-      <content:encoded><![CDATA[Read some of the most important AR/VR news of the week in my weekly roundup:
-- Samsung glasses get FCC approval and are closer to commercialization
-- Snap opens a SPECS pop-up store in LA
-- The community still debates the FOV of Meta VR Glasses
-- Some INMO Air3 smart glasses have been recalled for overheating problems
-- ... and much more!
-https://skarredghost.com/2026/10/05/samsung-glasses-fcc-specs/
 
-#VirtualReality #smartglasses #technology #Snap]]></content:encoded>
-    </item>
     <item>
       <title>The Prototype is working!</title>
       <link>https://x.com/SadlyItsBradley/status/2107128731831533733</link>
@@ -1269,6 +937,7 @@ I need to really nail down the UX of it all. Before I burn out from all of this 
 
 Then the future can truly be shown off in full detail]]></content:encoded>
     </item>
+
     <item>
       <title>https://dropvr.com/ has become my new favorite utility for getting info from a PC to a headset and vice-versa.</title>
       <link>https://x.com/benz145/status/2107125065230004359</link>
@@ -1279,6 +948,7 @@ Then the future can truly be shown off in full detail]]></content:encoded>
 
 It creates a local connection through a web browser. You can send text, URLs, files, and even screenshare between devices. Thanks for this great tool @huwprosser_!]]></content:encoded>
     </item>
+
     <item>
       <title>Gatekeeping VR by calling people who experience motion sickness “not real VR gamers” is not the way to grow VR 👌 https:/</title>
       <link>https://x.com/benz145/status/2107106144032616619</link>
@@ -1290,6 +960,7 @@ It creates a local connection through a web browser. You can send text, URLs, fi
 引用 @ExcapePortal：
 @RtoVR @CircuitLord “For those who can handle it” Road to VR and UploadVR have always proven to not have any real VR gamers working over there at all 😂]]></content:encoded>
     </item>
+
     <item>
       <title>Literally one of only two games we ever gave a 10/10 review score on @RtoVR. Very glad to know it might not be destined</title>
       <link>https://x.com/benz145/status/2107105480913101190</link>
@@ -1303,16 +974,6 @@ PSVR Exclusive ‘Astro Bot Rescue Mission’ Running on Quest 3 is the Latest i
 
 See more 👉https://roadtovr.com/]]></content:encoded>
     </item>
-    <item>
-      <title>Meta VR Glasses are a good thing for the industry, but I also have some doubts about them. Discover everything in my lat</title>
-      <link>https://x.com/SkarredGhost/status/2107089923689877816</link>
-      <guid isPermaLink="false">2107089923689877816</guid>
-      <pubDate>Mon, 05 Oct 2026 12:46:00 GMT</pubDate>
-      <dc:creator>SkarredGhost</dc:creator>
-      <content:encoded><![CDATA[Meta VR Glasses are a good thing for the industry, but I also have some doubts about them. Discover everything in my latest opinion piece! https://skarredghost.com/2026/10/01/meta-vr-glasses-opinion/ 
-(and then of course, tell me what you think in the comments)
 
-#VirtualReality #MixedReality #Meta #tech]]></content:encoded>
-    </item>
-    </channel>
+  </channel>
 </rss>
