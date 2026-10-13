@@ -25,7 +25,7 @@ STATUS.md                 # 当前条数、上次更新、待办
 docs/                     # 范围、规则、清单、决策、ingest 说明
 feeds/                    # 两路 RSS（唯一对外产出）
 accounts/                 # 账号 JSON（官方 / 媒体KOL / 跳过 / 拒绝）
-scripts/                  # 刷新约定（北京时间每日四次）
+scripts/                  # 刷新约定（北京时间每日五次）
 ```
 
 ## 快速规则摘要
@@ -34,10 +34,10 @@ scripts/                  # 刷新约定（北京时间每日四次）
 - XR = VR/MR 头显、AR/AI 眼镜及配件、XR 系统/平台、应用内容、技术零部件、业务与展会；AI 仅限用在 XR 设备上的。
 - 已有网站 RSS 的媒体（UploadVR、Road to VR、映维、93913、MIXED）**不加**它们的 X。
 - 正文逐字照录进 `content:encoded`；已发出条目不改字。
-- 采集频次：北京时间（Asia/Shanghai）每日 **08:00 / 12:00 / 16:00 / 20:00**；见 `STATUS.md`（Grok Bot routine 已建）。
+- 采集频次：北京时间（Asia/Shanghai）每日 **08:00 / 12:00 / 16:00 / 20:00 / 00:00（24:00）**；见 `STATUS.md`（Grok Bot routine 已建）。
 
 接手请先读 [`AGENT_HANDOFF.md`](./AGENT_HANDOFF.md)。
 
 ## 旧仓库
 
-原临时仓库 [`poovabgh/xrhot-feeds`](https://github.com/poovabgh/xrhot-feeds) 已改为指向本仓库的跳转说明，请勿再以其为事实来源。
+旧临时仓库 `poovabgh/xrhot-feeds` 与探测仓 `poovabgh/xrhot-feeds-probe` 已于 2026-10-13 删除；请勿再引用。

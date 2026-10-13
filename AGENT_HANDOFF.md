@@ -14,7 +14,7 @@
 - 给已有网站 RSS 的媒体再加 X 账号（见 `accounts/skipped-media-rss.json`）
 - 发明未核实的账号、改写已发出条目的正文
 - 点赞、发帖、关注、回复（只读采集）
-- 假定错误的调度（例如「每 30 分钟」）——规范是北京时间每日四次整点，见 `STATUS.md`
+- 假定错误的调度（例如「每 30 分钟」）——规范是北京时间每日五次整点（08/12/16/20/00），见 `STATUS.md`
 
 **要做：** 按 `docs/01-collection-rules.md` 采 X → 初筛 → 更新 `feeds/*.xml` → 有变化才 commit/push。
 
@@ -50,7 +50,7 @@
 
 ## 4. 如何刷新（例行唤醒或手动）
 
-**调度：** Asia/Shanghai 每日 08:00、12:00、16:00、20:00（由 Grok Bot routine 唤醒）。无变化不 push。
+**调度：** Asia/Shanghai 每日 08:00、12:00、16:00、20:00、00:00（24:00）（由 Grok Bot routine 唤醒）。无变化不 push。
 
 1. 用**已登录 X 的浏览器**，对每个 handle 搜：`from:<handle> -filter:replies`（Latest；可加 `since:YYYY-MM-DD`）。
 2. 展开「显示更多」；记录 `status` ID、`<time datetime>`、全文。
@@ -71,7 +71,7 @@
 - 不要 invent 未在 `accounts/` 登记的 handle。
 - 不要恢复关键词主题检索订阅。
 - 不要把 UploadVR / RtoVR 等加回 X feed。
-- 不要按「每 30 分钟」调度；以北京四时段与 `STATUS.md` 为准。不要谎报例行任务状态。
+- 不要按「每 30 分钟」调度；以北京五时段与 `STATUS.md` 为准。不要谎报例行任务状态。
 - 不要用 Grok 摘要代替帖子原文。
 
 ## 6. 当前账号快照（以 JSON 为准）

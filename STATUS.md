@@ -28,7 +28,7 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media
 
 | 项 | 状态 |
 |----|------|
-| 规范 | Asia/Shanghai 每日 **08:00、12:00、16:00、20:00**（整点），每周七天；有变化才 commit |
+| 规范 | Asia/Shanghai 每日 **08:00、12:00、16:00、20:00、00:00（24:00）** 共五次（整点），每周七天；有变化才 commit |
 | 调度机制 | **Grok Bot routine** 按上述时刻唤醒；**只更新 RSS，有变化也不主动通知用户** |
 | 旧规范「每 30 分钟」 | **已废止** |
 | 省 token | 见 `scripts/cheap_check_plan.md` |
@@ -43,4 +43,4 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media
 
 ## 旧仓库
 
-`poovabgh/xrhot-feeds` → 仅保留指向本仓库的 README，不再更新 feeds。
+`poovabgh/xrhot-feeds` 与 `poovabgh/xrhot-feeds-probe` 已删除（2026-10-13）；本仓库为唯一事实源。

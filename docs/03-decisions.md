@@ -4,6 +4,12 @@
 
 ---
 
+## 2026-10-13 — 采集改为北京时间每日五次；删除旧仓库
+
+- **背景：** 用户要求增加 24:00（00:00 BJT）一轮，并删除已停用的 `xrhot-feeds` / `xrhot-feeds-probe`。
+- **决定：** 调度改为 Asia/Shanghai **08:00、12:00、16:00、20:00、00:00**；Grok Bot routine「XRHOT X 五次采集」同步。旧仓删除后本仓库为唯一事实源。
+- **后果：** 文档与 STATUS 一律以五时段为准；勿再引用已删仓库。
+
 ## 2026-10-11 — 媒体/KOL 去掉 SkarredGhost、CasandChary、VRDesktop
 
 - **背景：** 用户要求分析噪声；SkarredGhost 约占订阅 1/3 且多为 UploadVR/Road to VR 标题转发（站内已有 RSS）；CasandChary、VRDesktop 近窗口 0 条。
