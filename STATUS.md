@@ -1,12 +1,12 @@
 # STATUS — XRHOT X 采集状态
 
-最后在本文件手工更新：2026-10-13 08:13 BJT 例行刷新。
+最后在本文件手工更新：2026-10-13 12:03 BJT 例行刷新。
 
 ## 订阅现状
 
 | Feed | Items | lastBuildDate (GMT) | Raw URL |
 |------|------:|---------------------|---------|
-| x-official.xml | 94 | Tue, 13 Oct 2026 00:12:58 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-official.xml |
+| x-official.xml | 95 | Tue, 13 Oct 2026 04:02:56 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-official.xml |
 | x-media-kol.xml | 75 | Tue, 13 Oct 2026 00:12:58 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml |
 
 核对命令：
@@ -16,23 +16,13 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-offic
 curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml | grep -c '<item>'
 ```
 
-## 本轮：2026-10-13 08:00 BJT
+## 本轮：2026-10-13 12:00 BJT
 
-- 廉价预检：23 账号 `most_recent_tweet_id`；14 个最新 id 高于 watermark；`exclude=replies,retweets` 后有原创候选的：PICOXR、htcvive、XREAL_Global、RokidGlobal、pimaxofficial、nathie、Dilmerv、benz145、SadlyItsBradley；BigscreenVR / rayneo_global / VRChat（仅串帖回复）/ kentbye / Flat2VR 为 0 或回复/转发。
-- **official：** 88→**94**（+6）
-  - htcvive `2109687924065206417`：VIVE Eagle 智能眼镜多模式
-  - RokidGlobal `2109667673508655591`：X Takeover 2026 / Giga Texas 展示 Rokid Glasses
-  - PICOXR `2109660593309307123`：SKY LEGENDS VR 航线游戏上架
-  - pimaxofficial `2109660373997723723`：Crystal Pro 光学与面板规格
-  - RokidGlobal `2109660360793854153`：Cybercab POV + Rokid Glasses
-  - XREAL_Global `2109630435126804605`：XREAL 1 Pro+ 倒计时（10/15）
-- **media-kol：** 70→**75**（+5）
-  - nathie `2109752713865261394`：Apple Vision Pro 上看 Remnants
-  - Dilmerv `2109726213765988525`：Table Troopers VR 开发者 showcase
-  - SadlyItsBradley `2109724676671119794`：Apple 再度营销 Vision Pro / Remnants
-  - Dilmerv `2109704177329086743`：自建 MR 桌面游戏（串帖合成）
-  - Dilmerv `2109695883868885498`：Muse Wonder 用于 VR 工作流（引用）
-  - 丢弃：benz145 机场卫生间；SadlyItsBradley 桌面 fidget / 宠物厨房 / 无 XR 语境短视频；VRChat Treats 澄清回复（已发条目不改、回复不单列）
+- 廉价预检：23 账号 `most_recent_tweet_id`；9 个最新 id 高于 watermark；`exclude=replies,retweets` 后有原创候选的：XREAL_Global、benz145、SadlyItsBradley；BigscreenVR / rayneo_global / VRChat（串帖回复）/ Dilmerv / kentbye / Flat2VR 为 0 或仅回复/转发。
+- **official：** 94→**95**（+1）
+  - XREAL_Global `2109827138413093034`：AR glasses 工作 POV（#XREAL #ARGlasses）
+- **media-kol：** 75→**75**（不变）
+- 丢弃：benz145 机场卫生间（非 XR）；SadlyItsBradley Halo3 scarab 桌面 fidget / 无 XR 语境短视频；VRChat Treats 澄清回复（回复不单列）
 
 ## 定时更新
 
@@ -43,7 +33,7 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media
 | 旧规范「每 30 分钟」 | **已废止** |
 | 省 token | 见 `scripts/cheap_check_plan.md` |
 
-下一例行节点（北京时间）：2026-10-13 **12:00**。
+下一例行节点（北京时间）：2026-10-13 **16:00**。
 
 ## 待办
 
