@@ -1,13 +1,13 @@
 # STATUS — XRHOT X 采集状态
 
-最后在本文件手工更新：2026-10-13 12:03 BJT 例行刷新。
+最后在本文件手工更新：2026-10-13 20:12 BJT 例行刷新。
 
 ## 订阅现状
 
 | Feed | Items | lastBuildDate (GMT) | Raw URL |
 |------|------:|---------------------|---------|
 | x-official.xml | 95 | Tue, 13 Oct 2026 04:02:56 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-official.xml |
-| x-media-kol.xml | 75 | Tue, 13 Oct 2026 00:12:58 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml |
+| x-media-kol.xml | 76 | Tue, 13 Oct 2026 12:11:00 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml |
 
 核对命令：
 
@@ -16,13 +16,13 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-offic
 curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml | grep -c '<item>'
 ```
 
-## 本轮：2026-10-13 12:00 BJT
+## 本轮：2026-10-13 20:00 BJT
 
-- 廉价预检：23 账号 `most_recent_tweet_id`；9 个最新 id 高于 watermark；`exclude=replies,retweets` 后有原创候选的：XREAL_Global、benz145、SadlyItsBradley；BigscreenVR / rayneo_global / VRChat（串帖回复）/ Dilmerv / kentbye / Flat2VR 为 0 或仅回复/转发。
-- **official：** 94→**95**（+1）
-  - XREAL_Global `2109827138413093034`：AR glasses 工作 POV（#XREAL #ARGlasses）
-- **media-kol：** 75→**75**（不变）
-- 丢弃：benz145 机场卫生间（非 XR）；SadlyItsBradley Halo3 scarab 桌面 fidget / 无 XR 语境短视频；VRChat Treats 澄清回复（回复不单列）
+- 廉价预检：23 账号 `most_recent_tweet_id`；9 个最新 id 高于 watermark；`exclude=replies,retweets` 后有原创候选的：nathie、benz145、SadlyItsBradley、VRChat（串帖回复）；BigscreenVR / rayneo_global / Dilmerv / kentbye / Flat2VR 为 0。
+- **official：** 95→**95**（不变）
+- **media-kol：** 75→**76**（+1）
+  - nathie `2109919763099234445`：Max Payne in VR is a wild experience
+- 丢弃：VRChat Treats clarifying reply（回复不单列）；benz145 机场卫生间（非 XR）；SadlyItsBradley Halo3 scarab 桌面 fidget + 无 XR 语境短视频
 
 ## 定时更新
 
@@ -33,14 +33,8 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media
 | 旧规范「每 30 分钟」 | **已废止** |
 | 省 token | 见 `scripts/cheap_check_plan.md` |
 
-下一例行节点（北京时间）：2026-10-13 **16:00**。
+下一例行节点（北京时间）：2026-10-14 **00:00**。
 
 ## 待办
 
 - [ ] 可选：实现 `refresh_feeds.py` 自动化合并
-- [ ] 可选：kentbye / Flat2VR 等低产出账号的保留策略复核
-- [ ] 用户若批准再考虑官方人员号；当前政策为只收公司官方号
-
-## 旧仓库
-
-`poovabgh/xrhot-feeds` 与 `poovabgh/xrhot-feeds-probe` 已删除（2026-10-13）；本仓库为唯一事实源。
