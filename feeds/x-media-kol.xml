@@ -4,8 +4,31 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / kentbye / benz145 / Flat2VR / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Wed, 14 Oct 2026 00:12:09 GMT</lastBuildDate>
-    <item>
+    <lastBuildDate>Wed, 14 Oct 2026 08:11:57 GMT</lastBuildDate>
+        <item>
+      <title>Last week, I worked on a small project to bring back a game I built years ago!</title>
+      <link>https://x.com/Dilmerv/status/2110232719900708875</link>
+      <guid isPermaLink="false">2110232719900708875</guid>
+      <pubDate>Wed, 14 Oct 2026 04:54:21 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Last week, I worked on a small project to bring back a game I built years ago! It was originally made for mobile, and I used agentic workflows to turn it into a Mixed Reality tabletop game. 🙌
+
+⚙️ Tools I used:
+- Muse Code (𝗺𝘂𝘀𝗲-𝘄𝗼𝗻𝗱𝗲𝗿-𝟭.𝟬)
+- Unity / Unity CLI
+- Meta SDKs (ISDK, MRUK, PSDK)
+- Meta VR CLI
+- Adobe Photoshop
+
+My plan is to launch it in the store as a demo by tomorrow morning and I’ll be doing a video about my learnings!
+
+The original mobile game video is on this thread👇
+https://x.com/Dilmerv/status/2110232719900708875/video/1
+
+This was originally built for iOS & Android, and I pulled the old code from BitBucket, which I don’t use anymore. I moved the code to GitHub and created a new branch to do the conversion. It took exactly 3 days.
+https://x.com/Dilmerv/status/2110232782601609559/video/1]]></content:encoded>
+    </item>
+<item>
       <title>I’ll always have a very special place in my heart for you, Valve Index</title>
       <link>https://x.com/SadlyItsBradley/status/2110140656509161814</link>
       <guid isPermaLink="false">2110140656509161814</guid>
