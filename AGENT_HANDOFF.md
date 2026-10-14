@@ -76,4 +76,4 @@
 
 ## 6. 当前账号快照（以 JSON 为准）
 
-见 `accounts/official.json` 与 `accounts/media-kol.json`。截至迁仓时 official 11 个 handle，media-kol 4 个。
+见 `accounts/official.json` 与 `accounts/media-kol.json`。截至 2026-10-14：**official 15** 个 handle，**media-kol 4** 个（ARealityEvent / nathie / Dilmerv / SadlyItsBradley）。2026-10-14 已去掉 benz145、rayneo_global、Flat2VR、kentbye（见 `accounts/rejected.json`）。

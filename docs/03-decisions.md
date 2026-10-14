@@ -4,6 +4,12 @@
 
 ---
 
+## 2026-10-14 — 去掉 benz145 / rayneo_global / Flat2VR / kentbye
+
+- **背景：** 近窗口（约 2026-10-12～15）噪声与入库成功率复盘：`benz145` 几乎每轮超水位但多为非 XR；`rayneo_global` / `Flat2VR` 本窗 0 入库；`kentbye` 成功率约 11%。用户要求去掉上述四家，其余保留。
+- **决定：** 从 `accounts/official.json` 移除 `rayneo_global`；从 `accounts/media-kol.json` 移除 `benz145`、`Flat2VR`、`kentbye`；四家写入 `accounts/rejected.json`（dropped-from-*）；并从对应 feed 删除其全部 `<item>`。VRChat、BigscreenVR、SadlyItsBradley 等保留。
+- **后果：** official 账号 16→15、media-kol 7→4；例行预检不再包含这四家；feed 条数随删项下降（见本轮 STATUS）。
+
 ## 2026-10-13 — 采集改为北京时间每日五次；删除旧仓库
 
 - **背景：** 用户要求增加 24:00（00:00 BJT）一轮，并删除已停用的 `xrhot-feeds` / `xrhot-feeds-probe`。

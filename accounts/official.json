@@ -2,7 +2,7 @@
   "feed": "feeds/x-official.xml",
   "feedTitle": "X · XR 官方账号",
   "policy": "Company official accounts only. Personal executive accounts require explicit user approval.",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-14",
   "accounts": [
     {
       "handle": "MetaVR_Official",
@@ -52,13 +52,6 @@
       "evidenceUrl": "https://www.viture.com/",
       "addedAt": "2026-10-09",
       "notes": "Expansion batch"
-    },
-    {
-      "handle": "rayneo_global",
-      "brand": "RayNeo",
-      "evidenceUrl": "https://www.rayneo.com/",
-      "addedAt": "2026-10-09",
-      "notes": "RayNeo / 雷鸟; expansion batch"
     },
     {
       "handle": "pimaxofficial",

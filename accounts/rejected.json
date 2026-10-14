@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-10-11",
+  "updatedAt": "2026-10-14",
   "entries": [
+    {
+      "handle": "kentbye",
+      "status": "dropped-from-media-kol",
+      "reason": "~11% ingest success: watermark often exceeded but almost no new originals after early window; long quiet gaps / low yield",
+      "droppedAt": "2026-10-14",
+      "notes": "User directed drop 2026-10-14 (noise / low ingest success)"
+    },
+    {
+      "handle": "Flat2VR",
+      "status": "dropped-from-media-kol",
+      "reason": "Zero ingest in recent monitoring window; nearly all activity replies/retweets after exclude; only 1 historical feed item",
+      "droppedAt": "2026-10-14",
+      "notes": "User directed drop 2026-10-14 (noise / low ingest success)"
+    },
+    {
+      "handle": "benz145",
+      "status": "dropped-from-media-kol",
+      "reason": "High noise / ~11% ingest success: almost every round had candidates but mostly non-XR (airport restroom, phone form-factor, TrellisWM sticky posts); rare XR keepers not worth precheck cost",
+      "droppedAt": "2026-10-14",
+      "notes": "User directed drop 2026-10-14 (noise / low ingest success)"
+    },
+    {
+      "handle": "rayneo_global",
+      "status": "dropped-from-official",
+      "reason": "Near-zero ingest success in 2026-10-12..15 window: watermark exceeded every round but exclude=replies,retweets yielded 0 originals; monitoring cost with no feed value",
+      "droppedAt": "2026-10-14",
+      "notes": "User directed drop 2026-10-14 (noise / low ingest success)"
+    },
     {
       "handle": "VRDesktop",
       "status": "dropped-from-media-kol",

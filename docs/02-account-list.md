@@ -13,7 +13,6 @@
 | XREAL_Global | XREAL | 2026-10-09 扩 |
 | RokidGlobal | Rokid | 2026-10-09 扩 |
 | getVITURE | VITURE | 2026-10-09 扩 |
-| rayneo_global | RayNeo | 2026-10-09 扩 |
 | pimaxofficial | Pimax | 2026-10-09 扩（站内另有 blog Atom） |
 | Play_for_dream | Play For Dream | 2026-10-09 扩（站内另有 press Atom） |
 | PICOXR_Dev | PICO | 开发者号，官方侧 |
@@ -25,6 +24,8 @@
 
 政策（用户 2026-10-09）：**只加官方公司号**；官方人员个人号（如 `boztank`）不加。2026-10-10 扩的是公司/产品官方号（含平台与头部游戏官方号）。
 
+2026-10-14 从监控去掉：`rayneo_global`（近窗口超水位但几乎无原创入库）——见 `accounts/rejected.json`。
+
 ## Media + KOL → `feeds/x-media-kol.xml`
 
 | Handle | 类型 | 备注 |
@@ -32,12 +33,11 @@
 | ARealityEvent | 展会/媒体向 | AWE |
 | nathie | KOL | 试戴/消费向；需 XR 初筛 |
 | Dilmerv | KOL | Meta XR 开发向；需 XR 初筛 |
-| kentbye | KOL | Voices of VR；可能长时间无帖 |
-| benz145 | KOL | 2026-10-10；Ben Lang；需 XR 初筛 |
-| Flat2VR | KOL | 2026-10-10；Flat-to-VR 模组社区 |
 | SadlyItsBradley | KOL | 2026-10-10；硬件/空间计算；需初筛 |
 
 2026-10-11 从监控去掉（见 `accounts/rejected.json`）：SkarredGhost（与站内媒体 RSS 重复、占坑）、CasandChary / VRDesktop（近窗口零产出）。
+
+2026-10-14 从监控去掉：`benz145`（噪声高、入库成功率约 11%）、`Flat2VR` / `kentbye`（近窗口接近零入库）。
 
 ## 有网站 RSS → 不加 X
 
@@ -47,7 +47,7 @@
 
 ## 拒绝 / 低置信 / 未找到
 
-见 `accounts/rejected.json`（如 HardwareSteam、阀门/大厂主号噪声、未找到的专用号等）。
+见 `accounts/rejected.json`（如 HardwareSteam、阀门/大厂主号噪声、未找到的专用号、2026-10-14 去掉的低产出号等）。
 
 ## 品牌别名（站内评分，非 X 过滤）
 

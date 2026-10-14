@@ -3,8 +3,8 @@
   <channel>
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
-    <description>ARealityEvent / nathie / Dilmerv / kentbye / benz145 / Flat2VR / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Wed, 14 Oct 2026 16:04:18 GMT</lastBuildDate>
+    <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
+    <lastBuildDate>Wed, 14 Oct 2026 16:41:44 GMT</lastBuildDate>
             <item>
       <title>One more thing: for many years, before Valve had any actual hardware to develop SteamOS (ARM)</title>
       <link>https://x.com/SadlyItsBradley/status/2110387400975475032</link>
@@ -21,19 +21,6 @@ https://x.com/SadlyItsBradley/status/2110383561916162386
 引用 @SadlyItsBradley：tl;dr - I speculate the whole SM8650 board references to this is them just trying to prototype headsets with this optical stack based on what’s already lying around
 
 Rather than them just.. building a whole module that is ready soon for mass production or whatever]]></content:encoded>
-    </item>
-
-    <item>
-      <title>Hopefully not a big delay, this Quest game looks fascinating.</title>
-      <link>https://x.com/benz145/status/2110386236796129749</link>
-      <guid isPermaLink="false">2110386236796129749</guid>
-      <pubDate>Wed, 14 Oct 2026 15:04:22 GMT</pubDate>
-      <dc:creator>benz145</dc:creator>
-      <content:encoded><![CDATA[Hopefully not a big delay, this Quest game looks fascinating.
-https://x.com/MiddleManGames1/status/2110357322392371623
-
-引用 @MiddleManGames1：There might have to be a delay with launch for reasons that can only be described as Meta. More info when I work out what's going on. #vr #virtualreality #games #metaquest
-https://x.com/MiddleManGames1/status/2110357322392371623/video/1]]></content:encoded>
     </item>
 
     <item>
@@ -106,18 +93,6 @@ https://steamframehub.com/exclusive-here-we-go-again-valve-is-making-an-oled-ste
     </item>
 
     <item>
-      <title>The average age of headsets in use on SteamVR.</title>
-      <link>https://x.com/benz145/status/2110350910954291339</link>
-      <guid isPermaLink="false">2110350910954291339</guid>
-      <pubDate>Wed, 14 Oct 2026 12:44:00 GMT</pubDate>
-      <dc:creator>benz145</dc:creator>
-      <content:encoded><![CDATA[The average age of headsets in use on SteamVR. I think this is actually a pretty useful metric because it helps understand the balance between existing users who keep using their headset vs. hardware that's attracting people to upgrade (or join VR for the first time). 
-
-This value consistently getting higher suggests PC VR hardware hasn't been 'hot' enough to drive upgrades for a while. This data is as of September, so Steam Frame hasn't entered the picture yet. Granted, I don't expect it to make a very big impact to this chart.
-https://x.com/benz145/status/2110350910954291339/photo/1]]></content:encoded>
-    </item>
-
-<item>
       <title>Last week, I worked on a small project to bring back a game I built years ago!</title>
       <link>https://x.com/Dilmerv/status/2110232719900708875</link>
       <guid isPermaLink="false">2110232719900708875</guid>
@@ -525,26 +500,6 @@ https://x.com/alexandr_wang/status/2109689491300794551/video/1]]></content:encod
 
     </item>
 <item>
-      <title>I have news.</title>
-      <link>https://x.com/benz145/status/2108576892748235193</link>
-      <guid isPermaLink="false">2108576892748235193</guid>
-      <pubDate>Fri, 09 Oct 2026 15:14:41 GMT</pubDate>
-      <dc:creator>benz145</dc:creator>
-      <content:encoded><![CDATA[I have news.
-
-      Longtime editor @vrbosenet is the new Executive Editor of @RtoVR!
-
-      I’m stepping back from editorial to the role of Business Director to focus on reader experience and platform. I have also joined @getVITURE as Head of Strategic Partnerships. 
-
-      With the Executive Editorship in Scott’s hands—and a contractual agreement that VITURE cannot attempt to influence Road to VR by using my position as leverage—I’m confident that Road to VR will retain the editorial independence that we’ve worked to maintain over all these years.
-
-      引用 @RtoVR：
-      Welcoming Scott Hayden as Road to VR’s New Executive Editor 
-
-      See it 👉https://roadtovr.com/scott-hayden-executive-editor-road-to-vr]]></content:encoded>
-
-    </item>
-<item>
       <title>So what extra battery solutions are people using for their Steam Frames?</title>
       <link>https://x.com/SadlyItsBradley/status/2108545709427609926</link>
       <guid isPermaLink="false">2108545709427609926</guid>
@@ -566,15 +521,6 @@ https://x.com/alexandr_wang/status/2109689491300794551/video/1]]></content:encod
       Subscribe: ➡️ https://www.awexr.com/global/subscribe-to-weekly-spatial
 
       #AWE2027 #XR https://x.com/ARealityEvent/status/2108466702468219337/video/1]]></content:encoded>
-
-    </item>
-<item>
-      <title>I tried these prototype Pico glasses more than 6 years ago. It's surprisng how long it has taken for this form-factor to</title>
-      <link>https://x.com/benz145/status/2108388320354939161</link>
-      <guid isPermaLink="false">2108388320354939161</guid>
-      <pubDate>Fri, 09 Oct 2026 02:45:22 GMT</pubDate>
-      <dc:creator>benz145</dc:creator>
-      <content:encoded><![CDATA[I tried these prototype Pico glasses more than 6 years ago. It's surprisng how long it has taken for this form-factor to come to market. https://twitter.com/benz145/status/2108388320354939161]]></content:encoded>
 
     </item>
 <item>
@@ -670,19 +616,6 @@ https://x.com/alexandr_wang/status/2109689491300794551/video/1]]></content:encod
       They are optimized to work on both Vision Pro models (M2/M5)
 
       And they can all run at the same time, while also adding functionality to each other in some way]]></content:encoded>
-
-    </item>
-<item>
-      <title>In the near term, I'm far more bullish on the '3D portal' means of making flatscreen games work in VR than shoddy conver</title>
-      <link>https://x.com/benz145/status/2108223186059800948</link>
-      <guid isPermaLink="false">2108223186059800948</guid>
-      <pubDate>Thu, 08 Oct 2026 15:49:11 GMT</pubDate>
-      <dc:creator>benz145</dc:creator>
-      <content:encoded><![CDATA[In the near term, I'm far more bullish on the '3D portal' means of making flatscreen games work in VR than shoddy conversations which end up with a 'VR-compatible' version of the game that's more work and less fun (and for many people, uncomfortable) to play in a headset than on a flatscreen.
-
-      This is a matter of pragmatism. If every flatscreen game could get the amount of time and investment needed to be thoroughly redesigned to be *great* in VR, then I'd obviously prefer that. The reality is that that's a time consuming, expensive, and very challenging to do right for 95% of games, and the ROI simply isn't there for the developer.
-
-      And for anyone who says "isn't this just a 3D monitor?" ... there is a qualitative difference between a portal into a game with 6DOF tracking and zero crosstalk than anything you've seen from a 3D monitor or even 3D movie. It's a much more immersive experience.]]></content:encoded>
 
     </item>
 <item>
@@ -782,21 +715,6 @@ https://x.com/alexandr_wang/status/2109689491300794551/video/1]]></content:encod
 
     </item>
 <item>
-      <title>Making a great and successful flatscreen game is hard. Most people fail.</title>
-      <link>https://x.com/benz145/status/2107929642271383575</link>
-      <guid isPermaLink="false">2107929642271383575</guid>
-      <pubDate>Wed, 07 Oct 2026 20:22:44 GMT</pubDate>
-      <dc:creator>benz145</dc:creator>
-      <content:encoded><![CDATA[Making a great and successful flatscreen game is hard. Most people fail.
-
-      Making a great and successful VR game is hard. Most people fail.
-
-      Making a game that's great and successful on both flatscreen and VR is the hardest of all. 
-
-      And that's the main case against telling developers they should "just build a game that works for both."]]></content:encoded>
-
-    </item>
-<item>
       <title>XREAL AURA pricing is officially here.</title>
       <link>https://x.com/nathie/status/2107919408492667287</link>
       <guid isPermaLink="false">2107919408492667287</guid>
@@ -890,24 +808,6 @@ https://x.com/alexandr_wang/status/2109689491300794551/video/1]]></content:encod
 
     </item>
 <item>
-      <title>Let’s say you could go back and “fix” a VR game that was promising but didn’t turn out well.</title>
-      <link>https://x.com/benz145/status/2107823489927508353</link>
-      <guid isPermaLink="false">2107823489927508353</guid>
-      <pubDate>Wed, 07 Oct 2026 13:20:56 GMT</pubDate>
-      <dc:creator>benz145</dc:creator>
-      <content:encoded><![CDATA[Let’s say you could go back and “fix” a VR game that was promising but didn’t turn out well. 
-
-      What would be your top pick? https://twitter.com/GlitchFandango/status/2107541147577098394
-
-      引用 @GlitchFandango：
-      Here’s a naive question about mods…
-
-      Can you mod an existing VR game that failed to live up to its potential? 
-
-      Like, for example, could you mod the  control mechanics from Glassbreakers into Grit & Valor 1949 and actually make it playable?]]></content:encoded>
-
-    </item>
-<item>
       <title>XReal Aura pricing seems to be finalized</title>
       <link>https://x.com/SadlyItsBradley/status/2107805038382846088</link>
       <guid isPermaLink="false">2107805038382846088</guid>
@@ -928,15 +828,6 @@ https://x.com/alexandr_wang/status/2109689491300794551/video/1]]></content:encod
       <pubDate>Wed, 07 Oct 2026 04:05:01 GMT</pubDate>
       <dc:creator>nathie</dc:creator>
       <content:encoded><![CDATA[Some of the hardware is already here but VR has always been about content being king. With people from all walks of life finally able to create their own mods and experiences with AI, I have a feeling we may have found the missing puzzle piece.]]></content:encoded>
-
-    </item>
-<item>
-      <title>Now this is VR Pod- Speeder racing! https://twitter.com/Flat2VR/status/2107674232461168705</title>
-      <link>https://x.com/Flat2VR/status/2107674232461168705</link>
-      <guid isPermaLink="false">2107674232461168705</guid>
-      <pubDate>Wed, 07 Oct 2026 03:27:50 GMT</pubDate>
-      <dc:creator>Flat2VR</dc:creator>
-      <content:encoded><![CDATA[Now this is VR Pod- Speeder racing! https://twitter.com/Flat2VR/status/2107674232461168705]]></content:encoded>
 
     </item>
 <item>
@@ -1018,28 +909,6 @@ https://x.com/alexandr_wang/status/2109689491300794551/video/1]]></content:encod
 
     </item>
 <item>
-      <title>I cooked up something fun for the 15 year anniversary of @RtoVR</title>
-      <link>https://x.com/benz145/status/2107557639576306133</link>
-      <guid isPermaLink="false">2107557639576306133</guid>
-      <pubDate>Tue, 06 Oct 2026 19:44:32 GMT</pubDate>
-      <dc:creator>benz145</dc:creator>
-      <content:encoded><![CDATA[I cooked up something fun for the 15 year anniversary of @RtoVR 
-
-      See the interactive version here: https://roadtovr.com/xr-industry-timeline-road-to-vr-15-year-anniversary/ https://twitter.com/benz145/status/2107557639576306133
-
-      cc @PalmerLuckey @ID_AA_Carmack @natemitchell]]></content:encoded>
-
-    </item>
-<item>
-      <title>The original Oculus Rift CV1 concept https://twitter.com/benz145/status/2107552744265433216</title>
-      <link>https://x.com/benz145/status/2107552744265433216</link>
-      <guid isPermaLink="false">2107552744265433216</guid>
-      <pubDate>Tue, 06 Oct 2026 19:25:05 GMT</pubDate>
-      <dc:creator>benz145</dc:creator>
-      <content:encoded><![CDATA[The original Oculus Rift CV1 concept https://twitter.com/benz145/status/2107552744265433216]]></content:encoded>
-
-    </item>
-<item>
       <title>One of my favorite features on Quest &amp; 🕶️ Meta VR Glasses is passthrough, which opens up so many possibilities for Mixed</title>
       <link>https://x.com/Dilmerv/status/2107546954586808387</link>
       <guid isPermaLink="false">2107546954586808387</guid>
@@ -1082,24 +951,6 @@ https://x.com/alexandr_wang/status/2109689491300794551/video/1]]></content:encod
       <pubDate>Tue, 06 Oct 2026 14:23:29 GMT</pubDate>
       <dc:creator>SadlyItsBradley</dc:creator>
       <content:encoded><![CDATA[pimax roy]]></content:encoded>
-
-    </item>
-<item>
-      <title>Oh no https://twitter.com/hybridherbst/status/2107441853482082623</title>
-      <link>https://x.com/benz145/status/2107467500036198830</link>
-      <guid isPermaLink="false">2107467500036198830</guid>
-      <pubDate>Tue, 06 Oct 2026 13:46:21 GMT</pubDate>
-      <dc:creator>benz145</dc:creator>
-      <content:encoded><![CDATA[Oh no https://twitter.com/hybridherbst/status/2107441853482082623
-
-      引用 @hybridherbst：
-      Cool, Unity has released USD Toolkit !
-
-      So now there's three official USD packages from Unity, all slightly incompatible to each other's USD versions 😄
-
-      1. USD Toolkit (experimental)
-      2. USD for Unity (experimental, legacy)
-      3. Unity USD Importer / Exporter (experimental)]]></content:encoded>
 
     </item>
 <item>
@@ -1189,17 +1040,6 @@ https://x.com/alexandr_wang/status/2109689491300794551/video/1]]></content:encod
 
     </item>
 <item>
-      <title>Share of SteamVR headsets.</title>
-      <link>https://x.com/benz145/status/2107270219064562101</link>
-      <guid isPermaLink="false">2107270219064562101</guid>
-      <pubDate>Tue, 06 Oct 2026 00:42:26 GMT</pubDate>
-      <dc:creator>benz145</dc:creator>
-      <content:encoded><![CDATA[Share of SteamVR headsets.
-
-      Was there anything HTC could have done to avoid this (other than "charge less to compete more with Meta," which probably wasn't possible) https://twitter.com/benz145/status/2107270219064562101]]></content:encoded>
-
-    </item>
-<item>
       <title>Here are a few new features added to my Hand Pose Baker prototype for ISDK! It helps bake a variety of hand grab poses b</title>
       <link>https://x.com/Dilmerv/status/2107259897595515215</link>
       <guid isPermaLink="false">2107259897595515215</guid>
@@ -1233,66 +1073,5 @@ https://x.com/alexandr_wang/status/2109689491300794551/video/1]]></content:encod
       Then the future can truly be shown off in full detail]]></content:encoded>
 
     </item>
-<item>
-      <title>https://dropvr.com/ has become my new favorite utility for getting info from a PC to a headset and vice-versa.</title>
-      <link>https://x.com/benz145/status/2107125065230004359</link>
-      <guid isPermaLink="false">2107125065230004359</guid>
-      <pubDate>Mon, 05 Oct 2026 15:05:38 GMT</pubDate>
-      <dc:creator>benz145</dc:creator>
-      <content:encoded><![CDATA[https://dropvr.com/ has become my new favorite utility for getting info from a PC to a headset and vice-versa.
-
-      It creates a local connection through a web browser. You can send text, URLs, files, and even screenshare between devices. Thanks for this great tool @huwprosser_!]]></content:encoded>
-
-    </item>
-<item>
-      <title>Gatekeeping VR by calling people who experience motion sickness “not real VR gamers” is not the way to grow VR 👌 https:/</title>
-      <link>https://x.com/benz145/status/2107106144032616619</link>
-      <guid isPermaLink="false">2107106144032616619</guid>
-      <pubDate>Mon, 05 Oct 2026 13:50:27 GMT</pubDate>
-      <dc:creator>benz145</dc:creator>
-      <content:encoded><![CDATA[Gatekeeping VR by calling people who experience motion sickness “not real VR gamers” is not the way to grow VR 👌 https://twitter.com/ExcapePortal/status/2106451923012636828
-
-      引用 @ExcapePortal：
-      @RtoVR @CircuitLord “For those who can handle it” Road to VR and UploadVR have always proven to not have any real VR gamers working over there at all 😂]]></content:encoded>
-
-    </item>
-<item>
-      <title>Literally one of only two games we ever gave a 10/10 review score on @RtoVR. Very glad to know it might not be destined</title>
-      <link>https://x.com/benz145/status/2107105480913101190</link>
-      <guid isPermaLink="false">2107105480913101190</guid>
-      <pubDate>Mon, 05 Oct 2026 13:47:49 GMT</pubDate>
-      <dc:creator>benz145</dc:creator>
-      <content:encoded><![CDATA[Literally one of only two games we ever gave a 10/10 review score on @RtoVR. Very glad to know it might not be destined to be forgotten. https://twitter.com/RtoVR/status/2107085902954524696
-
-      引用 @RtoVR：
-      PSVR Exclusive ‘Astro Bot Rescue Mission’ Running on Quest 3 is the Latest in VR Mod Explosion
-
-      See more 👉https://roadtovr.com/]]></content:encoded>
-
-    </item>
-<item>
-      <title>This is a really great rundown of the experience of the Steam Frame from an XR dev perspective who has had it for the pa</title>
-      <link>https://x.com/kentbye/status/2102166575092748795</link>
-      <guid isPermaLink="false">2102166575092748795</guid>
-      <pubDate>Mon, 21 Sep 2026 22:42:22 GMT</pubDate>
-      <dc:creator>kentbye</dc:creator>
-      <content:encoded><![CDATA[This is a really great rundown of the experience of the Steam Frame from an XR dev perspective who has had it for the past four months. Digs into some aspects of what makes it a unique device, specifically the boundless potential of having an open Linux platform on an XR device https://x.com/Cade_XR/status/2102146766703407172
-
-      引用 @Cade_XR：And for my first post on https://VRDev.Net , I wrote something I have been wanting to write for a while
-
-      we got lots of Frame reviews recently, but they didnt hit a lot of things Frame can do, so I wrote up some of my experiences with the device!
-      https://vrdev.net/projects/cadexrs-grid/updates/1c58607d-2c1a-4e43-a088-a3f4b3eac71d
-      https://x.com/Cade_XR/status/2102146766703407172/photo/1]]></content:encoded>
-
-    </item>
-<item>
-      <title>Participated in a #BasisLoadTest @BasisVR, an open source, social VR framework got 200+ people &amp; 1630 people + bots into</title>
-      <link>https://x.com/kentbye/status/2101195541111832920</link>
-      <guid isPermaLink="false">2101195541111832920</guid>
-      <pubDate>Sat, 19 Sep 2026 06:23:49 GMT</pubDate>
-      <dc:creator>kentbye</dc:creator>
-      <content:encoded><![CDATA[Participated in a #BasisLoadTest @BasisVR, an open source, social VR framework got 200+ people & 1630 people + bots into a single instance. Self-hosted instances make it feel like the early days of the Internet & what High Fidelity aspired to do but with VRChat culture to do it. https://x.com/kentbye/status/2101195541111832920/photo/1]]></content:encoded>
-
-    </item>
-  </channel>
+</channel>
 </rss>

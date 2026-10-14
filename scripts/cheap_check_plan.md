@@ -12,7 +12,7 @@
 2. **批量解析 handle → user id + 最新帖 id（1 次 API）**  
    调用 X 工具 `get_users_by_usernames`（或等价），字段含 `most_recent_post_id` / `most_recent_tweet_id`。  
    - 若 `most_recent_tweet_id <= 该账号 feed 内 max guid` → **跳过**该账号。  
-   - 若无 feed 记录（如长期无帖的 kentbye）→ 仍用 `get_users_posts` 抽查少量近期原创，避免漏。
+   - 若无 feed 记录（新号或长期无帖）→ 仍用 `get_users_posts` 抽查少量近期原创，避免漏。
 
 3. **仅对「可能有新帖」的账号拉时间线头**  
    `get_users_posts`：`exclude=replies,retweets`，`since_id=<该账号 max guid>`，`max_results` 宜小（10–20）。  
