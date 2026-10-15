@@ -4,7 +4,67 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Wed, 14 Oct 2026 16:41:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 00:07:35 GMT</lastBuildDate>
+    <item>
+      <title>Steam Frame OS on the main staging branch (used mostly by Valve) upgraded the Linux Kernel from 6.18 to 7.2</title>
+      <link>https://x.com/SadlyItsBradley/status/2110494074985746794</link>
+      <guid isPermaLink="false">2110494074985746794</guid>
+      <pubDate>Wed, 14 Oct 2026 22:12:53 GMT</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[Steam Frame OS on the main staging branch (used mostly by Valve) upgraded the Linux Kernel from 6.18 to 7.2
+
+That is 4 major version steps, so I expect the next Preview/Beta channel patch notes for Steam Frame to be somewhat large]]></content:encoded>
+    </item>
+    <item>
+      <title>Yippee</title>
+      <link>https://x.com/SadlyItsBradley/status/2110462740074758171</link>
+      <guid isPermaLink="false">2110462740074758171</guid>
+      <pubDate>Wed, 14 Oct 2026 20:08:22 GMT</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[Yippee
+https://x.com/SadlyItsBradley/status/2110462740074758171/video/1
+
+引用 @SadlyItsBradley：Making great progress!
+https://x.com/SadlyItsBradley/status/2110429346217230457/photo/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Sigh.. Another thing. The foveated scaling in the Deckard-Plano panel is actually nothing special to Valve/SteamOS</title>
+      <link>https://x.com/SadlyItsBradley/status/2110446416631857419</link>
+      <guid isPermaLink="false">2110446416631857419</guid>
+      <pubDate>Wed, 14 Oct 2026 19:03:30 GMT</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[Sigh.. Another thing. The foveated scaling in the Deckard-Plano panel is actually nothing special to Valve/SteamOS
+
+It is a built in feature for the Micro-OLED display’s backplane that make it possible for headsets like the Galaxy XR, for example, to even WORK on a lame SOC
+https://x.com/SadlyItsBradley/status/2110446416631857419/photo/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Making great progress!</title>
+      <link>https://x.com/SadlyItsBradley/status/2110429346217230457</link>
+      <guid isPermaLink="false">2110429346217230457</guid>
+      <pubDate>Wed, 14 Oct 2026 17:55:40 GMT</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[Making great progress!
+https://x.com/SadlyItsBradley/status/2110429346217230457/photo/1
+
+引用 @SadlyItsBradley：Working on something I think will be REALLY cool when it all comes together
+https://x.com/SadlyItsBradley/status/2110064328523366532/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Steam Frame OLED edition is apparently already in development.</title>
+      <link>https://x.com/nathie/status/2110408971802865955</link>
+      <guid isPermaLink="false">2110408971802865955</guid>
+      <pubDate>Wed, 14 Oct 2026 16:34:43 GMT</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[Steam Frame OLED edition is apparently already in development.
+
+引用 @FoxletFox：Valve is working on a Frame OLED:
+- 3552×3840 up to 90Hz (similar to those on the Galaxy XR)
+- same SoC as Frame LCD
+- renders at half res (1776×1920) to hit the same perf as LCD with an option for "Foveated Scaling" to show the UI at native res
+more at: 
+https://steamframehub.com/exclusive-here-we-go-again-valve-is-making-an-oled-steam-frame/]]></content:encoded>
+    </item>
             <item>
       <title>One more thing: for many years, before Valve had any actual hardware to develop SteamOS (ARM)</title>
       <link>https://x.com/SadlyItsBradley/status/2110387400975475032</link>
