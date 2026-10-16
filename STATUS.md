@@ -7,7 +7,7 @@
 | Feed | Items | lastBuildDate (GMT) | Raw URL |
 |------|------:|---------------------|---------|
 | x-official.xml | 100 | Thu, 15 Oct 2026 16:10:45 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-official.xml |
-| x-media-kol.xml | 81 | Fri, 16 Oct 2026 04:09:18 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml |
+| x-media-kol.xml | 81 | Fri, 16 Oct 2026 04:09:51 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml |
 
 核对命令：
 
