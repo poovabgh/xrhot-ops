@@ -4,8 +4,37 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Fri, 16 Oct 2026 04:09:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 08:08:45 GMT</lastBuildDate>
+        <item>
+      <title>📬 This week in the Weekly Spatial:</title>
+      <link>https://x.com/ARealityEvent/status/2110993380910174631</link>
+      <guid isPermaLink="false">2110993380910174631</guid>
+      <pubDate>Fri, 16 Oct 2026 07:16:57 GMT</pubDate>
+      <dc:creator>ARealityEvent</dc:creator>
+      <content:encoded><![CDATA[📬 This week in the Weekly Spatial:
+XREAL just launched the 1 Pro+, a refresh of its flagship One Pro AR glasses. Pico’s Space Pro has leaked in Japanese regulatory filings ahead of its planned Q4 2026 launch.
+
+🔗Subscribe to the Weekly Spatial: https://www.awexr.com/global/subscribe-to-weekly-spatial?utm_campaign=341551836-AWE%20USA%202027&utm_content=468895456&utm_medium=social&utm_source=twitter&hss_channel=tw-106035107
+
+#AWE2026
+https://x.com/ARealityEvent/status/2110993380910174631/video/1]]></content:encoded>
+    </item>
     <item>
+      <title>When the explosion gets uh… a little too crazy for the GPU..</title>
+      <link>https://x.com/SadlyItsBradley/status/2110972781768982877</link>
+      <guid isPermaLink="false">2110972781768982877</guid>
+      <pubDate>Fri, 16 Oct 2026 05:55:05 GMT</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[When the explosion gets uh… a little too crazy for the GPU..
+https://x.com/SadlyItsBradley/status/2110972781768982877/photo/1
+
+Im honestly spending way too much time trying to recreate all of the effects to match exactly how they were in Halo 3
+
+But I have to wait for the object tracking model to train. Which takes like 18 hours anyway… so…
+
+Making my whole IRL overexposed by Bloom is REALLY funny tho]]></content:encoded>
+    </item>
+<item>
       <title>I’ve gone to previous Somnium Connects.</title>
       <link>https://x.com/SadlyItsBradley/status/2110945856589602968</link>
       <guid isPermaLink="false">2110945856589602968</guid>
@@ -154,7 +183,6 @@ https://x.com/SadlyItsBradley/status/2110383561916162386
 
 Rather than them just.. building a whole module that is ready soon for mass production or whatever]]></content:encoded>
     </item>
-
     <item>
       <title>I got to do something super cool this morning</title>
       <link>https://x.com/SadlyItsBradley/status/2110379760178074039</link>
@@ -164,7 +192,6 @@ Rather than them just.. building a whole module that is ready soon for mass prod
       <content:encoded><![CDATA[I got to do something super cool this morning
 https://x.com/SadlyItsBradley/status/2110379760178074039/video/1]]></content:encoded>
     </item>
-
     <item>
       <title>Took a look at the Deckard-Plano (Micro-OLED Frame) stuff… after waking up to pure panic</title>
       <link>https://x.com/SadlyItsBradley/status/2110376728111534123</link>
@@ -204,7 +231,6 @@ tl;dr - I speculate the whole SM8650 board references to this is them just tryin
 
 Rather than them just.. building a whole module that is ready soon for mass production or whatever]]></content:encoded>
     </item>
-
     <item>
       <title>oh Jesus fuck</title>
       <link>https://x.com/SadlyItsBradley/status/2110363642881257893</link>
@@ -223,7 +249,6 @@ https://x.com/FoxletFox/status/2110280869185286529
 more at: 
 https://steamframehub.com/exclusive-here-we-go-again-valve-is-making-an-oled-steam-frame/]]></content:encoded>
     </item>
-
     <item>
       <title>Last week, I worked on a small project to bring back a game I built years ago!</title>
       <link>https://x.com/Dilmerv/status/2110232719900708875</link>
@@ -1205,5 +1230,5 @@ https://x.com/alexandr_wang/status/2109689491300794551/video/1]]></content:encod
       Then the future can truly be shown off in full detail]]></content:encoded>
 
     </item>
-</channel>
+  </channel>
 </rss>
