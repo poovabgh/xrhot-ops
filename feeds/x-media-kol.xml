@@ -4,8 +4,55 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Sat, 17 Oct 2026 00:10:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 00:09:24 GMT</lastBuildDate>
+        <item>
+      <title>It’s a bit hard to capture how cool this is with Meta XR Simulator, but using the sim during development is saving me so</title>
+      <link>https://x.com/Dilmerv/status/2111570325855175084</link>
+      <guid isPermaLink="false">2111570325855175084</guid>
+      <pubDate>Sat, 17 Oct 2026 21:29:31 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[It’s a bit hard to capture how cool this is with Meta XR Simulator, but using the sim during development is saving me so much time! Here’s how I’m testing the hand gestures.
+https://x.com/Dilmerv/status/2111570325855175084/video/1]]></content:encoded>
+    </item>
     <item>
+      <title>Spending the weekend experimenting with Blender MCP and seeing how it integrates with Unity &amp; Mixed Reality!</title>
+      <link>https://x.com/Dilmerv/status/2111550087809978412</link>
+      <guid isPermaLink="false">2111550087809978412</guid>
+      <pubDate>Sat, 17 Oct 2026 20:09:06 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Spending the weekend experimenting with Blender MCP and seeing how it integrates with Unity & Mixed Reality! 
+
+Here’s a look at the models + textures generated so far for a miniature tabletop game I’m building called “Hand Skate.” And yes, it will be controlled entirely through hand tracking! 🙌🛹
+https://x.com/Dilmerv/status/2111550087809978412/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>You can now fish in VR and still watch your actual TV.</title>
+      <link>https://x.com/nathie/status/2111507588214902900</link>
+      <guid isPermaLink="false">2111507588214902900</guid>
+      <pubDate>Sat, 17 Oct 2026 17:20:13 GMT</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[You can now fish in VR and still watch your actual TV.
+https://x.com/nathie/status/2111507588214902900/video/1
+
+The game is called Real VR Fishing. Learn more here!
+https://www.reddit.com/r/OculusQuest/s/cAWGF8HvOg]]></content:encoded>
+    </item>
+    <item>
+      <title>3D printed a Remote Control Car</title>
+      <link>https://x.com/SadlyItsBradley/status/2111494768840835554</link>
+      <guid isPermaLink="false">2111494768840835554</guid>
+      <pubDate>Sat, 17 Oct 2026 16:29:17 GMT</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[3D printed a Remote Control Car
+
+Rewired its motor to be controlled by Apple Vision Pro
+
+Added object tracking so a Halo 3 Scarab’s AI will follow it until its destroyed
+
+AND gave it special effects such as occlusion, destruction debris, and spatial audio to hide IRL motor noises
+https://x.com/SadlyItsBradley/status/2111494768840835554/video/1]]></content:encoded>
+    </item>
+<item>
       <title>After you successfully destroy the Scarab</title>
       <link>https://x.com/SadlyItsBradley/status/2111209658635391472</link>
       <guid isPermaLink="false">2111209658635391472</guid>

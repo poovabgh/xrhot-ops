@@ -1,13 +1,13 @@
 # STATUS — XRHOT X 采集状态
 
-最后在本文件手工更新：2026-10-17 08:23 PDT（例行补刷：漏掉的 16:00/20:00 BJT 节点，于 23:23 BJT 附近完成）。
+最后在本文件手工更新：2026-10-17 17:09 PDT（例行 2026-10-18 08:00 BJT）。
 
 ## 订阅现状
 
 | Feed | Items | lastBuildDate (GMT) | Raw URL |
 |------|------:|---------------------|---------|
-| x-official.xml | 100 | Sat, 17 Oct 2026 15:23:58 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-official.xml |
-| x-media-kol.xml | 87 | Sat, 17 Oct 2026 00:10:22 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml |
+| x-official.xml | 100 | Sun, 18 Oct 2026 00:09:24 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-official.xml |
+| x-media-kol.xml | 91 | Sun, 18 Oct 2026 00:09:24 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml |
 
 核对命令：
 
@@ -16,12 +16,12 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-offic
 curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml | grep -c '<item>'
 ```
 
-## 本轮：2026-10-17 补刷（覆盖漏掉的 16:00/20:00 BJT）
+## 本轮：2026-10-18 08:00 BJT
 
-- 预检 19 账号；最新 id 高于 watermark：PICOXR、RokidGlobal、Play_for_dream、VRChat、nathie、Dilmerv、SadlyItsBradley；PICOXR_Dev most_recent 未变、仍无 feed 条目，不回溯。
-- **official 100→100（+2：PICOXR 多人联机宣传 2111472393231216688；RokidGlobal 香港旗舰店体验 2111472306782445709；顶掉最旧 2 条）。**
-- **media-kol 87 不变**（SadlyItsBradley / Dilmerv / nathie 高于 watermark 但 exclude 后为 0 或仅串帖续帖）。
-- 高于 watermark 但 exclude / 初筛后无入库：Play_for_dream（仅回复/转发）；VRChat（已入库 Spookality 串帖续帖）；nathie（已入库 C&C VR mod 串帖续帖）；Dilmerv（exclude 后 0）；SadlyItsBradley（exclude 后 0）。
+- 预检 19 账号；最新 id 高于 watermark：BigscreenVR、pimaxofficial、Play_for_dream、VRChat、BeatSaber、nathie、Dilmerv、SadlyItsBradley；PICOXR_Dev most_recent 未变、仍无 feed 条目，不回溯。
+- **official 100→100（+4：VRChat Spookality 邀请 2111546004361334792；BeatSaber Ghostbusters/Ghost Notes 2111533119014600775；pimaxofficial Simracing Expo 2111532720601841721；BigscreenVR Index 手柄指南 2111501740009034228；顶掉最旧 4 条）。**
+- **media-kol 87→91（+4：Dilmerv Meta XR Simulator 2111570325855175084；Dilmerv Blender MCP / Hand Skate MR 2111550087809978412；nathie Real VR Fishing 串帖合成 2111507588214902900；SadlyItsBradley Vision Pro RC Scarab 2111494768840835554）。**
+- 高于 watermark 但 exclude / 已入库串帖续帖后无入库：Play_for_dream（exclude 0）；VRChat Spookality 串帖续帖 2111200616886526227 / 2111200615040729239；nathie C&C VR mod 串帖续帖 2110768324309303719。
 - 监控名单未变（official 15 / media-kol 4）。
 
 ## 定时更新
@@ -33,7 +33,7 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media
 | 旧规范「每 30 分钟」 | **已废止** |
 | 省 token | 见 `scripts/cheap_check_plan.md` |
 
-下一例行节点（北京时间）：2026-10-18 **00:00**。
+下一例行节点（北京时间）：2026-10-18 **12:00**。
 
 ## 待办
 
