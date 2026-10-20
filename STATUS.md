@@ -1,12 +1,12 @@
 # STATUS — XRHOT X 采集状态
 
-最后在本文件手工更新：2026-10-19 21:02 PDT（例行 2026-10-20 12:00 BJT）。
+最后在本文件手工更新：2026-10-20 05:03 PDT（例行 2026-10-20 20:00 BJT）。
 
 ## 订阅现状
 
 | Feed | Items | lastBuildDate (GMT) | Raw URL |
 |------|------:|---------------------|---------|
-| x-official.xml | 100 | Tue, 20 Oct 2026 00:07:55 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-official.xml |
+| x-official.xml | 100 | Tue, 20 Oct 2026 12:03:11 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-official.xml |
 | x-media-kol.xml | 99 | Tue, 20 Oct 2026 04:02:30 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml |
 
 核对命令：
@@ -16,12 +16,12 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-offic
 curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml | grep -c '<item>'
 ```
 
-## 本轮：2026-10-20 12:00 BJT
+## 本轮：2026-10-20 20:00 BJT
 
-- 预检 19 账号；最新 id 高于 watermark：getVITURE、Play_for_dream、VRChat、nathie、Dilmerv、SadlyItsBradley；PICOXR_Dev most_recent 未变（2105447602997354733）、仍无 feed 条目，不回溯。
-- **official 100 不变。**
-- **media-kol 98→99（+1）：** SadlyItsBradley spatial video to splat / Disney World garden 2112343344919531836（引用自有旧帖）。
-- 高于 watermark 但 exclude / 已入库串帖续帖后无入库：getVITURE / Play_for_dream / VRChat / Dilmerv exclude 后 0；SadlyItsBradley most_recent 2112378916497498511 为回复/转发已排除，原创入库见上；nathie Real VR Fishing 串帖续帖 2111508094346002895（根帖已合并，本轮无改）。
+- 预检 19 账号；最新 id 高于 watermark：getVITURE、pimaxofficial、Play_for_dream、VRChat、nathie、Dilmerv、SadlyItsBradley；PICOXR_Dev most_recent 未变（2105447602997354733）、仍无 feed 条目，不回溯。
+- **official 100→100（+1）：** pimaxofficial Sim Racing Expo @PXNgame booth 2112462870747177174；丢掉最旧 RokidGlobal 2107137634422398998。
+- **media-kol 99 不变。**
+- 高于 watermark 但 exclude / 串帖续帖后无入库：getVITURE / Play_for_dream / VRChat / Dilmerv / SadlyItsBradley exclude 后 0；nathie Real VR Fishing 串帖续帖 2111508094346002895（根帖已合并，本轮无改）。
 - 监控名单未变（official 15 / media-kol 4）。
 
 ## 定时更新
@@ -33,7 +33,7 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media
 | 旧规范「每 30 分钟」 | **已废止** |
 | 省 token | 见 `scripts/cheap_check_plan.md` |
 
-下一例行节点（北京时间）：2026-10-20 **16:00**。
+下一例行节点（北京时间）：2026-10-21 **00:00**。
 
 ## 待办
 
