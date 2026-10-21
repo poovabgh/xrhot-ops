@@ -4,8 +4,46 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Tue, 20 Oct 2026 16:05:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 00:03:52 GMT</lastBuildDate>
+
     <item>
+      <title>Here’s another example of what you can build for Meta VR Glasses!</title>
+      <link>https://x.com/Dilmerv/status/2112679677718577510</link>
+      <guid isPermaLink="false">2112679677718577510</guid>
+      <pubDate>Tue, 20 Oct 2026 22:57:41 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Here’s another example of what you can build for Meta VR Glasses!
+
+I previously shared placement options in another demo I built. This is a second prototype I’m working on called “Hand Skate.” It shows table placement, interactions with the skater character, hand gestures to control the skater, and a variety of skate parks and themes!
+https://x.com/Dilmerv/status/2112679677718577510/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>I’m in Orange County this week and captured all of this with Meta Fury sunglasses!</title>
+      <link>https://x.com/Dilmerv/status/2112663359611121756</link>
+      <guid isPermaLink="false">2112663359611121756</guid>
+      <pubDate>Tue, 20 Oct 2026 21:52:50 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[I’m in Orange County this week and captured all of this with Meta Fury sunglasses! These are the non-Ray-Ban version, and honestly, the photos and videos look so good. Zero editing! 😎
+
+- 12MP camera with 3K video recording
+- Over 8 hours of battery life
+- Discreet open-ear speakers and 6 microphones
+https://x.com/Dilmerv/status/2112663359611121756/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>I love Iron Man, and honestly, this was such a great selection.</title>
+      <link>https://x.com/Dilmerv/status/2112652056679092513</link>
+      <guid isPermaLink="false">2112652056679092513</guid>
+      <pubDate>Tue, 20 Oct 2026 21:07:56 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[I love Iron Man, and honestly, this was such a great selection. Every time I want to reference futuristic UI/UX, I just tend to watch that movie.
+
+引用 @specs：Lights on. 💡 Introducing SPECS x Robert Downey Jr.
+
+https://www.specs.com/
+https://x.com/specs/status/2112533822013079986/video/1]]></content:encoded>
+    </item>
+<item>
       <title>Here are a few great features to consider when building your game for Meta VR Glasses: easy transitions between MR and V</title>
       <link>https://x.com/Dilmerv/status/2112567968731439344</link>
       <guid isPermaLink="false">2112567968731439344</guid>
@@ -19,8 +57,7 @@ https://x.com/Dilmerv/status/2112567968731439344/video/1
 📌 Passthrough transitioning developed by @xrdevrob is available here
 https://developers.meta.com/vr/documentation/unity/unity-mrmotifs-passthrough-transitioning/]]></content:encoded>
     </item>
-
-    <item>
+<item>
       <title>Robert Downey Jr. is officially teaming up with Snap's SPECS AR glasses to help shape the future of wearables.</title>
       <link>https://x.com/nathie/status/2112548527125471716</link>
       <guid isPermaLink="false">2112548527125471716</guid>
@@ -33,8 +70,7 @@ https://x.com/nathie/status/2112548527125471716/video/1
 
 Learn more here: https://investor.snap.com/news/news-details/2026/Robert-Downey-Jr--Joins-SPECS-as-Chief-Customer-Experience-Officer/default.aspx]]></content:encoded>
     </item>
-
-    <item>
+<item>
       <title>⏰ Last chance: UnitedXR Europe Early Bird ends 21 October, midnight CET</title>
       <link>https://x.com/ARealityEvent/status/2112529268223926290</link>
       <guid isPermaLink="false">2112529268223926290</guid>
@@ -50,7 +86,6 @@ Learn more here: https://investor.snap.com/news/news-details/2026/Robert-Downey-
 #UnitedXR #XR #AR #VR
 https://x.com/ARealityEvent/status/2112529268223926290/photo/1]]></content:encoded>
     </item>
-
 <item>
       <title>You wouldn’t download an entire Disney World garden + fountain fixture, would you?</title>
       <link>https://x.com/SadlyItsBradley/status/2112343344919531836</link>
@@ -1359,91 +1394,5 @@ https://x.com/alexandr_wang/status/2109689491300794551/video/1]]></content:encod
       <content:encoded><![CDATA[pimax roy]]></content:encoded>
 
     </item>
-<item>
-      <title>This is awesome! It’s almost indistinguishable from reality. Now I want to experiment with Gaussian splats, great work!</title>
-      <link>https://x.com/Dilmerv/status/2107340577448804488</link>
-      <guid isPermaLink="false">2107340577448804488</guid>
-      <pubDate>Tue, 06 Oct 2026 05:22:00 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[This is awesome! It’s almost indistinguishable from reality. Now I want to experiment with Gaussian splats, great work! 👇 https://x.com/smallfly/status/2107275439936881029
-
-      引用 @smallfly：This time the tracking runs with a 120 fps global-shutter camera.
-
-      Getting twice as many position updates, with much fewer gaps when tracking faster movements… It feels much better.
-
-      The window is still rendering from a position roughly 20–24 ms in the past, but I compensate for some of that by predicting the position slightly forward.
-
-      It still works best when tracking the phone, though.
-
-      #3DGS #GaussianSplatting #ComputerVision]]></content:encoded>
-
-    </item>
-<item>
-      <title>Here’s a question I’ve been getting a lot recently: How do you move around in VR without controllers? 🙌</title>
-      <link>https://x.com/Dilmerv/status/2107285810538291637</link>
-      <guid isPermaLink="false">2107285810538291637</guid>
-      <pubDate>Tue, 06 Oct 2026 01:44:23 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Here’s a question I’ve been getting a lot recently: How do you move around in VR without controllers? 🙌
-
-      𝗧𝗵𝗮𝘁’𝘀 𝘄𝗵𝗲𝗿𝗲 𝗹𝗼𝗰𝗼𝗺𝗼𝘁𝗶𝗼𝗻 𝗰𝗼𝗺𝗲𝘀 𝗶𝗻. It’s simply how we move through a virtual world, even when our physical space is limited.
-
-      For hands-first experiences on Meta VR Glasses, we can combine hand movements with microgestures to move, turn, crouch, and more!
-
-      A single thumb tap while your hand is idle, rather than aiming at UI, activates the locomotion method selected in your app’s preferences.
-
-      Let’s look at Walkingsticks, Telepath, and the familiar Teleport 👇
-
-      Walkingsticks 🚶
-
-      This one is pretty cool: swing your hands/arms to walk through the virtual world!
-
-      Here’s how the controls work:
-
-      - Walk: Swing your hands/arms.
-      - Snap turn: Swipe your right thumb left/right.
-      - Step: Swipe your left thumb left/right/up/down.
-      - Crouch: Swipe your right thumb down.
-      - Jump: Move both hands down as if pushing off the ground.
-
-      Your arm movements become part of how you navigate!
-
-      Telepath 👀
-
-      Pick where you want to go, then walk there virtually. Move your arm to aim at a destination and tap to start moving!
-
-      - Walk to a destination: Aim with your arm and tap.
-      - Snap turn: Swipe your right thumb left/right.
-      - Step: Swipe your left thumb left/right/up/down.
-      - Crouch: Swipe your right thumb down.
-      - Jump: Swipe your right thumb up.
-
-      The key difference from teleporting is that you travel through the space to reach your destination.
-
-      Teleport 🙌
-
-      This is probably the one most of you already know! Aim at where you want to go, then tap to teleport there.
-
-      - Teleport: Aim with your arm and tap.
-      - Snap turn: Swipe your right thumb left/right.
-      - Step: Swipe your left thumb left/right/up/down.
-      - Crouch: Swipe your right thumb down.
-
-      One thing for devs to keep in mind: current microgestures recognize discrete inputs, not a continuous thumbstick-style input.
-
-      Which of these would you use in your hands-first game or app? 👇]]></content:encoded>
-
-    </item>
-<item>
-      <title>Here’s an example of how I use the XR Simulator to test ISDK Hand Grab Poses! It works very well, and I can now connect</title>
-      <link>https://x.com/Dilmerv/status/2107273817425121491</link>
-      <guid isPermaLink="false">2107273817425121491</guid>
-      <pubDate>Tue, 06 Oct 2026 00:56:43 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Here’s an example of how I use the XR Simulator to test ISDK Hand Grab Poses! It works very well, and I can now connect Meta XR Operator to my agent and have it iterate through a lot of different models to evaluate the accuracy of the grab poses, or at least assign them a quality score. I use WASD to move around and the mouse to pan or rotate.
-
-      The hand grab poses shown here were generated by the new tool I have been building, so no more manual creation of poses. However, the system allows you to tweak joints if needed. But having these poses authored by a tool can save a lot of time.]]></content:encoded>
-
-    </item>
-  </channel>
+</channel>
 </rss>
