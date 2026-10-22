@@ -4,7 +4,16 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Thu, 22 Oct 2026 00:08:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 08:10:00 GMT</lastBuildDate>
+    <item>
+      <title>Here’s Inverse Kinematics (IK) in action with my Hand Grab Pose Baker tool!</title>
+      <link>https://x.com/Dilmerv/status/2113140426890993809</link>
+      <guid isPermaLink="false">2113140426890993809</guid>
+      <pubDate>Thu, 22 Oct 2026 05:28:32 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Here’s Inverse Kinematics (IK) in action with my Hand Grab Pose Baker tool! This lets you lock specific joints, and the video shows the results.
+https://x.com/Dilmerv/status/2113140426890993809/video/1]]></content:encoded>
+    </item>
     <item>
       <title>A Gaussian Splat of my friend’s VRChat avatar that I captured with my WIP Spatial Video Capture prefab</title>
       <link>https://x.com/SadlyItsBradley/status/2113043532684337408</link>
@@ -1382,29 +1391,6 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       Plan to release the app for free on the App Store after I make a YouTube video discussing this and the other two apps I built alongside this
       
       SPATIAL COMPUTING!]]></content:encoded>
-      
-    </item>
-    <item>
-      <title>All, Unity 7 alpha is now available! 🚀</title>
-      <link>https://x.com/Dilmerv/status/2107592317146472870</link>
-      <guid isPermaLink="false">2107592317146472870</guid>
-      <pubDate>Tue, 06 Oct 2026 22:02:20 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[All, Unity 7 alpha is now available! 🚀
-      
-      This release brings a CoreCLR-powered Editor, a new script-reloading workflow, and several XR rendering improvements. It’s an early step toward Unity’s modern .NET foundation, with C# 14 and .NET 10 support in the Editor planned for later.
-      
-      - CoreCLR replaces Mono in the Editor, laying the foundation for modern .NET support.
-      
-      - A new code-reloading system uses AssemblyLoadContext, with bigger iteration-speed improvements planned for future releases.
-      
-      - Temporal Pixel Synthesis support has been added for XR rendering.
-      
-      - XR Quad Views optimizations reduce CPU and GPU work by reusing rendering data and reducing redundant geometry rendering.
-      
-      - IL2CPP improvements eliminate unnecessary boxing and memory allocations in several common value-type operations.
-      
-      📌 For more details about this version check out the Unity discussion https://discussions.unity.com/t/unity-7-0-alpha-is-now-available/1738310]]></content:encoded>
       
     </item>
 </channel>
