@@ -4,7 +4,27 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Wed, 21 Oct 2026 16:08:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 00:08:00 GMT</lastBuildDate>
+    <item>
+      <title>A Gaussian Splat of my friend’s VRChat avatar that I captured with my WIP Spatial Video Capture prefab</title>
+      <link>https://x.com/SadlyItsBradley/status/2113043532684337408</link>
+      <guid isPermaLink="false">2113043532684337408</guid>
+      <pubDate>Wed, 21 Oct 2026 23:03:31 GMT</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[A Gaussian Splat of my friend’s VRChat avatar that I captured with my WIP Spatial Video Capture prefab
+      
+      Training it fully locally on my Vision Pro with my Splattery app
+      
+      So fun to have a life sized figurine of them in my room or shrinked down to a tiny desk one. Group photo next!
+      https://x.com/SadlyItsBradley/status/2113043532684337408/video/1
+      
+      引用 @SadlyItsBradley：This Weekend's Project: a Spatial Video capture tool inside VRChat!
+      
+      Using the same parameters and MV-HEVC codec as what Apple uses with Vision Pro:
+      
+      This allows me to capture and create holograms of my friends and other really cool things I find in the metaverse, using Splattery
+      https://x.com/SadlyItsBradley/status/2112098584409907622/video/1]]></content:encoded>
+    </item>
     <item>
       <title>Fuse Balls is officially available in the Meta Store as of this morning! 🎉 I’m really excited to have brought my old iOS</title>
       <link>https://x.com/Dilmerv/status/2112934213028880678</link>
@@ -1385,15 +1405,6 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       - IL2CPP improvements eliminate unnecessary boxing and memory allocations in several common value-type operations.
       
       📌 For more details about this version check out the Unity discussion https://discussions.unity.com/t/unity-7-0-alpha-is-now-available/1738310]]></content:encoded>
-      
-    </item>
-    <item>
-      <title>This Apple Vision Pro app makes ghosts appear in your house. It is called Hauntify and scans your rooms in real-time to</title>
-      <link>https://x.com/nathie/status/2107565944587624469</link>
-      <guid isPermaLink="false">2107565944587624469</guid>
-      <pubDate>Tue, 06 Oct 2026 20:17:32 GMT</pubDate>
-      <dc:creator>nathie</dc:creator>
-      <content:encoded><![CDATA[This Apple Vision Pro app makes ghosts appear in your house. It is called Hauntify and scans your rooms in real-time to find the perfect spots to scare you. https://x.com/nathie/status/2107565944587624469/video/1]]></content:encoded>
       
     </item>
 </channel>
