@@ -4,8 +4,24 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Thu, 22 Oct 2026 08:10:00 GMT</lastBuildDate>
-    <item>
+    <lastBuildDate>Thu, 22 Oct 2026 16:10:00 GMT</lastBuildDate>
+        <item>
+      <title>🎟️ Only have one day for UnitedXR Europe?</title>
+      <link>https://x.com/ARealityEvent/status/2113254045658099848</link>
+      <guid isPermaLink="false">2113254045658099848</guid>
+      <pubDate>Thu, 22 Oct 2026 13:00:01 GMT</pubDate>
+      <dc:creator>ARealityEvent</dc:creator>
+      <content:encoded><![CDATA[🎟️ Only have one day for UnitedXR Europe? 
+
+Make it Wednesday, 9 December. 
+The 1-Day Pass (€185) gets you into the sessions and the expo floor with 180+ exhibitors in Brussels. 
+
+🚀 Get your 1-Day Pass: https://na2.hubs.ly/H08x3_c0 
+
+#UnitedXR
+https://x.com/ARealityEvent/status/2113254045658099848/photo/1]]></content:encoded>
+    </item>
+<item>
       <title>Here’s Inverse Kinematics (IK) in action with my Hand Grab Pose Baker tool!</title>
       <link>https://x.com/Dilmerv/status/2113140426890993809</link>
       <guid isPermaLink="false">2113140426890993809</guid>
@@ -1370,28 +1386,5 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       <content:encoded><![CDATA[my next YouTube video is going to be so awesome https://twitter.com/SadlyItsBradley/status/2107611783238226263 https://twitter.com/SadlyItsBradley/status/2107596978775339154]]></content:encoded>
       
     </item>
-    <item>
-      <title>I didn't sleep the past 36 hours just so I can nail the UX for this..</title>
-      <link>https://x.com/SadlyItsBradley/status/2107596978775339154</link>
-      <guid isPermaLink="false">2107596978775339154</guid>
-      <pubDate>Tue, 06 Oct 2026 22:20:51 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[I didn't sleep the past 36 hours just so I can nail the UX for this..
-      
-      I am so unbelievably excited on how this turned out!
-      
-      My app takes headset-recorded spatial videos, and lets you grab 3D objects from within them
-      
-      You can then recolor, re-sculpt, and 3D print them afterwards! https://twitter.com/SadlyItsBradley/status/2107596978775339154
-      
-      ALL OF THIS, happens fully locally on device
-      
-      No internet, cloud rendering, or subscriptions needed
-      
-      Plan to release the app for free on the App Store after I make a YouTube video discussing this and the other two apps I built alongside this
-      
-      SPATIAL COMPUTING!]]></content:encoded>
-      
-    </item>
-</channel>
+    </channel>
 </rss>
