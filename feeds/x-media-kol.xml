@@ -4,8 +4,93 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Fri, 23 Oct 2026 08:10:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 00:02:49 GMT</lastBuildDate>
 
+    <item>
+      <title>The future we’ll experience with Meta VR Glasses and all the like-minded companies building lightweight, powerful mixed </title>
+      <link>https://x.com/Dilmerv/status/2113781442945880236</link>
+      <guid isPermaLink="false">2113781442945880236</guid>
+      <pubDate>Fri, 23 Oct 2026 23:55:42 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[The future we’ll experience with Meta VR Glasses and all the like-minded companies building lightweight, powerful mixed reality devices is extremely exciting. I’m so happy that so many of us who started years ago get to experience what we’ve always dreamed of!]]></content:encoded>
+    </item>
+    <item>
+      <title>📣 XR devs, here are few more great tips!</title>
+      <link>https://x.com/Dilmerv/status/2113767854638342414</link>
+      <guid isPermaLink="false">2113767854638342414</guid>
+      <pubDate>Fri, 23 Oct 2026 23:01:43 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[📣 XR devs, here are few more great tips! 
+
+Virtual shadows and lighting can make your MR content feel like it actually belongs in your room. Think of a character casting a shadow on your floor or a virtual flame lighting up your desk. Small details, but they can make such a big difference! Meta’s MRUK Passthrough Relighting sample shows how to build these effects in Unity. 
+
+- Use MRUK room data to align effects with floors, walls, and furniture.
+
+- Add EffectMesh geometry to receive virtual shadows and highlights.
+
+- Combine directional-light shadows with point-light highlights.
+
+- Compare Scene Model geometry with Global Mesh to see what works best for your environment.
+
+- Tune shadow quality and profile on-device. Try blob shadows for a less expensive alternative.
+https://x.com/Dilmerv/status/2113767854638342414/photo/1
+
+💡 Few useful resources to help you with the implementation in your own games:
+
+- Guide and visuals: https://developers.meta.com/vr/documentation/unity/unity-passthrough-relighting
+
+- GitHub Sample project: https://github.com/oculus-samples/Unity-MRUtilityKitSample]]></content:encoded>
+    </item>
+    <item>
+      <title>CD-ROM is support coming to Steam Frame</title>
+      <link>https://x.com/SadlyItsBradley/status/2113731023645102102</link>
+      <guid isPermaLink="false">2113731023645102102</guid>
+      <pubDate>Fri, 23 Oct 2026 20:35:21 GMT</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[CD-ROM is support coming to Steam Frame
+
+..Oh my god 🤣
+https://x.com/SadlyItsBradley/status/2113731023645102102/photo/1
+
+I want to see someone mount a disc drive directly on top of their head alongside the Steam frame]]></content:encoded>
+    </item>
+    <item>
+      <title>This is exciting for XR devs!</title>
+      <link>https://x.com/Dilmerv/status/2113726842779861304</link>
+      <guid isPermaLink="false">2113726842779861304</guid>
+      <pubDate>Fri, 23 Oct 2026 20:18:45 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[This is exciting for XR devs! Khronos has published new OpenXR Spatial Container extensions for apps that can share your space and switch into fully immersive experiences. 
+
+What interests me is the common API that game engines can integrate across compatible platforms! 🙌
+
+- Switch between bounded and fully immersive modes
+- Support multitasking with multiple apps
+- Create multiple spatial containers within an app
+- Let the system manage container positioning
+- Render into containers using OpenXR composition layers
+
+The specs and sample are published; availability depends on engine and runtime support.
+https://x.com/Dilmerv/status/2113726842779861304/video/1
+
+Full announcement from Khronos 👇
+https://www.khronos.org/blog/openxr-spatial-containers]]></content:encoded>
+    </item>
+    <item>
+      <title>🤝 There’s still time to bring your XR app, meetup or side event to UnitedXR Europe, 7–9 December in Brussels.</title>
+      <link>https://x.com/ARealityEvent/status/2113676830779797755</link>
+      <guid isPermaLink="false">2113676830779797755</guid>
+      <pubDate>Fri, 23 Oct 2026 17:00:01 GMT</pubDate>
+      <dc:creator>ARealityEvent</dc:creator>
+      <content:encoded><![CDATA[🤝 There’s still time to bring your XR app, meetup or side event to UnitedXR Europe, 7–9 December in Brussels. 
+
+Activation partners may receive free passes, space and marketing support. 
+
+Share your idea: https://na2.hubs.ly/H08x4_-0 
+Deadline: 30 October
+
+#UnitedXR #XR https://x.com/ARealityEvent/status/2113676830779797755/photo/1]]></content:encoded>
+    </item>
     <item>
       <title>🕶️ Robert Downey Jr. joins SPECS as Chief Customer Experience Officer.</title>
       <link>https://x.com/ARealityEvent/status/2113527055493304395</link>
@@ -1305,84 +1390,5 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       Learn more here: https://www.reddit.com/r/OculusQuest/comments/1wzy674/i_made_spidyvr_a_free_mod_that_puts_marvels/]]></content:encoded>
       
     </item>
-    <item>
-      <title>Well, I’m testing CoreCLR right now with Unity 7 Alpha!</title>
-      <link>https://x.com/Dilmerv/status/2107982732416663704</link>
-      <guid isPermaLink="false">2107982732416663704</guid>
-      <pubDate>Wed, 07 Oct 2026 23:53:42 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Well, I’m testing CoreCLR right now with Unity 7 Alpha!
-      
-      Below are the steps to enable it, but looks like it is set by default in Unity 7 Alpha.
-      
-      Edit → Project Settings → Player → Other Settings → Configuration → Scripting Backend → CoreCLR.
-      
-      📌 Here're a few great things about it:
-      
-      - Modern JIT compiler to optimize C# execution.
-      - Generational garbage collection for managing memory.
-      - Better debugging with standard .NET tools.
-      - .NET 10 and C# 14 support planned for future updates.
-      
-      📊 Few community benchmarks with Unity 6.7’s experimental desktop player (from Unity forums):
-      
-      - C# CPU path tracing, single thread: 17.1× speedup vs Mono and 2.49× vs IL2CPP.
-      - C# CPU path tracing, multiple threads: 17.85× speedup vs Mono and 2.81× vs IL2CPP.
-      - Boat Attack: ~10% lower average frame time vs Mono in a quick single-run test.
-      - Happy Harvest: ~15% lower average frame time vs Mono in a quick single-run test.
-      
-      In summary: It’s supposed to be very, very fast when you hit Play in Unity. I’m testing that right now with the Meta XR SDKs!]]></content:encoded>
-      
-    </item>
-    <item>
-      <title>XREAL AURA pricing is officially here.</title>
-      <link>https://x.com/nathie/status/2107919408492667287</link>
-      <guid isPermaLink="false">2107919408492667287</guid>
-      <pubDate>Wed, 07 Oct 2026 19:42:04 GMT</pubDate>
-      <dc:creator>nathie</dc:creator>
-      <content:encoded><![CDATA[XREAL AURA pricing is officially here.
-      
-      • 12GB RAM + 256GB — $1,279
-      • 16GB RAM + 512GB — $1,499
-      
-      Launching in the US, Canada, Japan and Korea.
-      
-      What do we think of the price? https://x.com/NathieVR/status/2067064734919360521/video/1]]></content:encoded>
-      
-    </item>
-    <item>
-      <title>Okay, let’s do this! Unity 7 Alpha! 🚀</title>
-      <link>https://x.com/Dilmerv/status/2107911310721876045</link>
-      <guid isPermaLink="false">2107911310721876045</guid>
-      <pubDate>Wed, 07 Oct 2026 19:09:54 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Okay, let’s do this! Unity 7 Alpha! 🚀
-      
-      Let’s see what you have to offer! Excited to check out the new XR features! https://x.com/Dilmerv/status/2107911310721876045/photo/1]]></content:encoded>
-      
-    </item>
-    <item>
-      <title>I just got to visit the first ever AR glasses pop-up experience where regular shoppers had the chance to try the future</title>
-      <link>https://x.com/nathie/status/2107897087975419926</link>
-      <guid isPermaLink="false">2107897087975419926</guid>
-      <pubDate>Wed, 07 Oct 2026 18:13:23 GMT</pubDate>
-      <dc:creator>nathie</dc:creator>
-      <content:encoded><![CDATA[I just got to visit the first ever AR glasses pop-up experience where regular shoppers had the chance to try the future of augmented reality with SPECS.
-      
-      Pop-ups like this might be the future of how we introduce people to wearable tech letting them discover it in a familiar place.
-      
-      Watch the full video here: https://www.youtube.com/watch?v=UgTZg11T1KU]]></content:encoded>
-      
-    </item>
-    <item>
-      <title>Goal for this week is to launch a new video or at least schedule it on Meta For Developers YouTube channel and work on a</title>
-      <link>https://x.com/Dilmerv/status/2107886081081561356</link>
-      <guid isPermaLink="false">2107886081081561356</guid>
-      <pubDate>Wed, 07 Oct 2026 17:29:39 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Goal for this week is to launch a new video or at least schedule it on Meta For Developers YouTube channel and work on a new video for my own channel. There is so much to talk about, and I am extremely excited!]]></content:encoded>
-      
-    </item>
-
   </channel>
 </rss>
