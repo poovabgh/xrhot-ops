@@ -4,8 +4,85 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Sat, 24 Oct 2026 16:07:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 00:02:49 GMT</lastBuildDate>
 
+        <item>
+      <title>Got to try out my custom VRChat to Splattery pipeline today during a community meetup</title>
+      <link>https://x.com/SadlyItsBradley/status/2114114352035033091</link>
+      <guid isPermaLink="false">2114114352035033091</guid>
+      <pubDate>Sat, 24 Oct 2026 21:58:34 GMT</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[Got to try out my custom VRChat to Splattery pipeline today during a community meetup
+
+Now I will have a fully volumetric group “photo” of my friends in that virtual moment, FOREVER
+https://x.com/SadlyItsBradley/status/2114114352035033091/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Here’s an example of gaze interactions I added to the VR/MR version of “Cubiques” and how you can test these features ea</title>
+      <link>https://x.com/Dilmerv/status/2114100282154156373</link>
+      <guid isPermaLink="false">2114100282154156373</guid>
+      <pubDate>Sat, 24 Oct 2026 21:02:40 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Here’s an example of gaze interactions I added to the VR/MR version of “Cubiques” and how you can test these features early with Meta XR Simulator. The SDK provides gaze simulation out of the box as part of v207! 🙌
+https://x.com/Dilmerv/status/2114100282154156373/video/1
+
+📌 Here’s a variety of resources to help you with Gaze (prior to Meta VR Glasses release).
+
+Simulating Gaze with XR Simulator:
+https://developers.meta.com/vr/documentation/unity/xrsim-look-and-pinch/
+
+Unity ISDK Gaze Interactions:
+https://developers.meta.com/vr/documentation/unity/unity-isdk-gaze-interaction/
+
+Unreal: https://developers.meta.com/vr/documentation/unreal/unreal-isdk-gaze-getting-started/]]></content:encoded>
+    </item>
+    <item>
+      <title>Duolingo in VR is one of the coolest things I’ve seen in a while.</title>
+      <link>https://x.com/nathie/status/2114077508249256216</link>
+      <guid isPermaLink="false">2114077508249256216</guid>
+      <pubDate>Sat, 24 Oct 2026 19:32:10 GMT</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[Duolingo in VR is one of the coolest things I’ve seen in a while.
+https://x.com/nathie/status/2114077508249256216/video/1
+
+This project was made for the XR design challenge by a talented dev team calling themselves the Lemon Sharks. You can learn more about their amazing concept here and even try yourself: https://devpost.com/software/duolingo-xr]]></content:encoded>
+    </item>
+    <item>
+      <title>X is making me think I dodged quite a few bullets by not owning a TV</title>
+      <link>https://x.com/SadlyItsBradley/status/2114067287770882121</link>
+      <guid isPermaLink="false">2114067287770882121</guid>
+      <pubDate>Sat, 24 Oct 2026 18:51:33 GMT</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[X is making me think I dodged quite a few bullets by not owning a TV
+
+Now let me go back to playing vr on my trustworthy and privacy-safe meta quest]]></content:encoded>
+    </item>
+    <item>
+      <title>2026 Modernized</title>
+      <link>https://x.com/SadlyItsBradley/status/2114053357493199030</link>
+      <guid isPermaLink="false">2114053357493199030</guid>
+      <pubDate>Sat, 24 Oct 2026 17:56:12 GMT</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[2026 Modernized
+https://x.com/SadlyItsBradley/status/2114053357493199030/video/1
+
+引用 @SadlyItsBradley：VRChat Workrooms
+https://x.com/SadlyItsBradley/status/1720395472286761424/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Here’s another game I built about 5 years ago for iOS and Apple TV that was featured by Apple on both platforms!</title>
+      <link>https://x.com/Dilmerv/status/2114037069341421726</link>
+      <guid isPermaLink="false">2114037069341421726</guid>
+      <pubDate>Sat, 24 Oct 2026 16:51:28 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Here’s another game I built about 5 years ago for iOS and Apple TV that was featured by Apple on both platforms!
+
+I’m now bringing it to mixed reality as a tabletop game with pinch interactions, and I’m working on adding more features with MRUK + Gaze. 🙌
+https://x.com/Dilmerv/status/2114037069341421726/video/1
+
+For reference purposes, here’s the original game. I believe this was the TVOS version, but I pulled this video from an old YouTube channel I had when I was making iOS games.
+https://x.com/Dilmerv/status/2114104864615907737/video/1]]></content:encoded>
+    </item>
     <item>
       <title>What's the best VR mod you can play right now?</title>
       <link>https://x.com/nathie/status/2114022656827650248</link>
@@ -1313,80 +1390,5 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       <content:encoded><![CDATA[what’s an opinion on VR that will have you like this? https://x.com/nathie/status/2108272789354668297/photo/1]]></content:encoded>
       
     </item>
-    <item>
-      <title>Today I’ve Submitted Public TestFlights for THREE apps I’ve been building</title>
-      <link>https://x.com/SadlyItsBradley/status/2108244417731866699</link>
-      <guid isPermaLink="false">2108244417731866699</guid>
-      <pubDate>Thu, 08 Oct 2026 17:13:33 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[Today I’ve Submitted Public TestFlights for THREE apps I’ve been building
-      
-      Either adding major features to Retro games, or creating completely new tools that I believe takes advantage of real world interactions via a Shared XR Space
-      
-      I’m excited to share them with you all soon 🥹 https://twitter.com/SadlyItsBradley/status/2107611783238226263
-      
-      I’ll post links to them when they’re approved by Apple
-      
-      They are optimized to work on both Vision Pro models (M2/M5)
-      
-      And they can all run at the same time, while also adding functionality to each other in some way]]></content:encoded>
-      
-    </item>
-    <item>
-      <title>Once again, I’m exercising, and this is exactly when ideas spark! I’m going to add IK (inverse kinematics) to my Hand Gr</title>
-      <link>https://x.com/Dilmerv/status/2108196275254628736</link>
-      <guid isPermaLink="false">2108196275254628736</guid>
-      <pubDate>Thu, 08 Oct 2026 14:02:15 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Once again, I’m exercising, and this is exactly when ideas spark! I’m going to add IK (inverse kinematics) to my Hand Grab Baker tool. It’ll help a lot when devs need to adjust the generated poses.]]></content:encoded>
-      
-    </item>
-    <item>
-      <title>Be among the first in Europe to experience SPECS. Snap’s new augmented reality glasses will be on site at UnitedXR, givi</title>
-      <link>https://x.com/ARealityEvent/status/2108165512022929881</link>
-      <guid isPermaLink="false">2108165512022929881</guid>
-      <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
-      <dc:creator>ARealityEvent</dc:creator>
-      <content:encoded><![CDATA[Be among the first in Europe to experience SPECS. Snap’s new augmented reality glasses will be on site at UnitedXR, giving attendees the opportunity to try them firsthand.
-      
-      📍 Brussels | 7–9 December 2026
-      See the agenda and register: https://unitedxr.eu/
-      
-      #SPECS #UnitedXR https://x.com/ARealityEvent/status/2108165512022929881/photo/1]]></content:encoded>
-      
-    </item>
-    <item>
-      <title>Steam Link TestFlight on visionOS added Pyrowave streaming support</title>
-      <link>https://x.com/SadlyItsBradley/status/2108073854509989892</link>
-      <guid isPermaLink="false">2108073854509989892</guid>
-      <pubDate>Thu, 08 Oct 2026 05:55:47 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[Steam Link TestFlight on visionOS added Pyrowave streaming support
-      
-      https://testflight.apple.com/join/Cye7Gfyy https://twitter.com/SadlyItsBradley/status/2108073854509989892]]></content:encoded>
-      
-    </item>
-    <item>
-      <title>Made so much progress with my Hand Grab Baker tool, this is incredible and it is SO FAST! It uses Unity Burst compiler f</title>
-      <link>https://x.com/Dilmerv/status/2108073753041424568</link>
-      <guid isPermaLink="false">2108073753041424568</guid>
-      <pubDate>Thu, 08 Oct 2026 05:55:23 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Made so much progress with my Hand Grab Baker tool, this is incredible and it is SO FAST! It uses Unity Burst compiler for certain sections of the code. It went from 2-3 mins to bake hand grab poses to 5-7 seconds! 🤯]]></content:encoded>
-      
-    </item>
-    <item>
-      <title>Passthrough experiences like this (MR) are going to be extremely useful going forward. Glad to see this running on Quest</title>
-      <link>https://x.com/Dilmerv/status/2108002889402872025</link>
-      <guid isPermaLink="false">2108002889402872025</guid>
-      <pubDate>Thu, 08 Oct 2026 01:13:48 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Passthrough experiences like this (MR) are going to be extremely useful going forward. Glad to see this running on Quest 3! https://x.com/carterdev/status/2107250949375004674
-      
-      引用 @carterdev：started building an AR interface for the @DobotRobotics Rover X1 in @godotengine, running on a Quest 3
-      
-      still very early but this is already way too fun]]></content:encoded>
-      
-    </item>
-</channel>
+  </channel>
 </rss>
