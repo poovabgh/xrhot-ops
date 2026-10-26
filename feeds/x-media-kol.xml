@@ -4,7 +4,23 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Mon, 26 Oct 2026 04:06:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 12:14:55 GMT</lastBuildDate>
+
+    <item>
+      <title>What would you like me to cover next on YouTube?</title>
+      <link>https://x.com/Dilmerv/status/2114687508659249594</link>
+      <guid isPermaLink="false">2114687508659249594</guid>
+      <pubDate>Mon, 26 Oct 2026 11:56:05 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[What would you like me to cover next on YouTube?
+
+- Gaze interactions
+- Persistent spatial anchors
+- Hand grab poses
+- Switching between MR and VR
+
+Curious which one would help you most with what you’re building! 👇]]></content:encoded>
+    </item>
 
     <item>
       <title>XR devs, what’s one part of your workflow that still takes way too much time? For me, getting hand grab poses to look ri</title>
@@ -1341,20 +1357,6 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       <content:encoded><![CDATA[Someone in my Discord nabbed a rare Google Daydream (2?) prototype from Goodwill
       
       Boots into the OS and everything! But they need to find or emulate a controller for it.. https://twitter.com/SadlyItsBradley/status/2108684936962040118]]></content:encoded>
-      
-    </item>
-    <item>
-      <title>Going to attempt something really funny https://twitter.com/SadlyItsBradley/status/2108657026259947842 https://twitter.c</title>
-      <link>https://x.com/SadlyItsBradley/status/2108657026259947842</link>
-      <guid isPermaLink="false">2108657026259947842</guid>
-      <pubDate>Fri, 09 Oct 2026 20:33:06 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[Going to attempt something really funny https://twitter.com/SadlyItsBradley/status/2108657026259947842 https://twitter.com/HardwareSteam/status/2108626827233100142
-      
-      引用 @HardwareSteam：
-      STEAM FRAME UPDATE
-      
-      Valve has broken their silence and spoken up about Steam Frame reservations...]]></content:encoded>
       
     </item>
   </channel>
