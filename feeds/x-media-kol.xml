@@ -4,8 +4,38 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Mon, 26 Oct 2026 12:14:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 16:16:03 GMT</lastBuildDate>
 
+    <item>
+      <title>Quick question for devs: what are you building for Meta VR Glasses right now, and what tools or examples would help you?</title>
+      <link>https://x.com/Dilmerv/status/2114741454429950462</link>
+      <guid isPermaLink="false">2114741454429950462</guid>
+      <pubDate>Mon, 26 Oct 2026 15:30:27 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Quick question for devs: what are you building for Meta VR Glasses right now, and what tools or examples would help you? I want to keep sharing things that help you build and ship your ideas! 🚀]]></content:encoded>
+    </item>
+    <item>
+      <title>Thank you for your feedback John! So happy things are working better! If anyone needs anything related to Meta VR, just </title>
+      <link>https://x.com/Dilmerv/status/2114714454776836443</link>
+      <guid isPermaLink="false">2114714454776836443</guid>
+      <pubDate>Mon, 26 Oct 2026 13:43:10 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Thank you for your feedback John! So happy things are working better! If anyone needs anything related to Meta VR, just DM me. There are areas I can help with directly, and others where I can try to make sure your feedback is heard internally.
+
+引用 @jmdagdelen：A year ago I got in some pretty heated public arguments with VR execs at Meta.  
+
+I was standing up for 3rd party devs, pointing out that the communication between the two sides was broken. 
+
+I’m happy to say that over the last 12 months, that situation has improved dramatically.]]></content:encoded>
+    </item>
+    <item>
+      <title>For those testing with Meta XR Simulator, what would you like me to cover in more detail? I use it so much while buildin</title>
+      <link>https://x.com/Dilmerv/status/2114712912635863190</link>
+      <guid isPermaLink="false">2114712912635863190</guid>
+      <pubDate>Mon, 26 Oct 2026 13:37:02 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[For those testing with Meta XR Simulator, what would you like me to cover in more detail? I use it so much while building, and I would love to share more of that process.]]></content:encoded>
+    </item>
     <item>
       <title>What would you like me to cover next on YouTube?</title>
       <link>https://x.com/Dilmerv/status/2114687508659249594</link>
@@ -21,7 +51,6 @@
 
 Curious which one would help you most with what you’re building! 👇]]></content:encoded>
     </item>
-
     <item>
       <title>XR devs, what’s one part of your workflow that still takes way too much time? For me, getting hand grab poses to look ri</title>
       <link>https://x.com/Dilmerv/status/2114563928713789607</link>
@@ -1322,41 +1351,6 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       
       Remnants is a 27 minute ghost story from director Ti West, set in a haunted castle. Arrives on Apple Vision Pro October 16.
       https://x.com/justinryanio/status/2108924730803986781/photo/1]]></content:encoded>
-      
-    </item>
-    <item>
-      <title>Spent a day rebuilding Steam Frame’s window manager to fit my liking..</title>
-      <link>https://x.com/SadlyItsBradley/status/2108824877545169049</link>
-      <guid isPermaLink="false">2108824877545169049</guid>
-      <pubDate>Sat, 10 Oct 2026 07:40:05 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[Spent a day rebuilding Steam Frame’s window manager to fit my liking..
-      
-      While it looks really nice in this video, I don’t really want to work on it further until the OS matures way more
-      
-      Was a bit too hacky to even get this far. Wasn’t ideal https://twitter.com/SadlyItsBradley/status/2108824877545169049]]></content:encoded>
-      
-    </item>
-    <item>
-      <title>The Last of Us Part II is getting VR support soon and it’s already looking really promising.</title>
-      <link>https://x.com/nathie/status/2108784251923804272</link>
-      <guid isPermaLink="false">2108784251923804272</guid>
-      <pubDate>Sat, 10 Oct 2026 04:58:39 GMT</pubDate>
-      <dc:creator>nathie</dc:creator>
-      <content:encoded><![CDATA[The Last of Us Part II is getting VR support soon and it’s already looking really promising. https://x.com/nathie/status/2108784251923804272/video/1
-      
-      Check out more of the mod work of Riverence here: https://youtu.be/fh9nt0D7v-M?is=Ri6u6kL9TTDWtpf8]]></content:encoded>
-      
-    </item>
-    <item>
-      <title>Someone in my Discord nabbed a rare Google Daydream (2?) prototype from Goodwill</title>
-      <link>https://x.com/SadlyItsBradley/status/2108684936962040118</link>
-      <guid isPermaLink="false">2108684936962040118</guid>
-      <pubDate>Fri, 09 Oct 2026 22:24:01 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[Someone in my Discord nabbed a rare Google Daydream (2?) prototype from Goodwill
-      
-      Boots into the OS and everything! But they need to find or emulate a controller for it.. https://twitter.com/SadlyItsBradley/status/2108684936962040118]]></content:encoded>
       
     </item>
   </channel>
