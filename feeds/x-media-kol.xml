@@ -4,8 +4,46 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Tue, 27 Oct 2026 00:03:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 15:26:00 GMT</lastBuildDate>
 
+    <item>
+      <title>🔬 The selected papers for the Scientific Conference at UnitedXR Europe 2026 are now live!</title>
+      <link>https://x.com/ARealityEvent/status/2115096228669366736</link>
+      <guid isPermaLink="false">2115096228669366736</guid>
+      <pubDate>Tue, 27 Oct 2026 15:00:12 GMT</pubDate>
+      <dc:creator>ARealityEvent</dc:creator>
+      <content:encoded><![CDATA[🔬 The selected papers for the Scientific Conference at UnitedXR Europe 2026 are now live!
+
+38 papers have been selected. 👉 Discover them: https://unitedxr.eu/scientific-conference
+
+UnitedXR Europe is organized by AWE and Stereopsia.
+
+#UnitedXR #XR #AR #VR #ScientificConference #XRResearch
+https://x.com/ARealityEvent/status/2115096228669366736/photo/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Honestly, you don’t need to have the whole project figured out to start.</title>
+      <link>https://x.com/Dilmerv/status/2115088728259522589</link>
+      <guid isPermaLink="false">2115088728259522589</guid>
+      <pubDate>Tue, 27 Oct 2026 14:30:23 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Honestly, you don’t need to have the whole project figured out to start. Pick one XR interaction or mechanic you’re curious about and see where it takes you. I have dozens of unfinished projects, but many of them helped me find just the right idea to push another project to the finish line.]]></content:encoded>
+    </item>
+    <item>
+      <title>XR devs, here’s a quick tip for today! 👇</title>
+      <link>https://x.com/Dilmerv/status/2115066911163646220</link>
+      <guid isPermaLink="false">2115066911163646220</guid>
+      <pubDate>Tue, 27 Oct 2026 13:03:42 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[XR devs, here’s a quick tip for today! 👇
+
+Preparing a Unity app for Meta VR Glasses? With Meta XR Core SDK v207+, open:
+
+Window → Meta → Tools → Device Readiness Check.
+
+The standard scan checks project setup and looks for controller-only input in your C# scripts. A useful starting point!
+https://x.com/Dilmerv/status/2115066911163646220/photo/1]]></content:encoded>
+    </item>
     <item>
       <title>Half-Life Alyx just added Foveated Rendering for all SteamVR headsets on Desktop</title>
       <link>https://x.com/SadlyItsBradley/status/2114856770480799894</link>
@@ -1285,41 +1323,6 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       
       our largest and most capable model yet—rivals the big bois
       https://x.com/alexandr_wang/status/2109689491300794551/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Would love to experience this in 3D VR</title>
-      <link>https://x.com/nathie/status/2109550889245827471</link>
-      <guid isPermaLink="false">2109550889245827471</guid>
-      <pubDate>Mon, 12 Oct 2026 07:45:00 GMT</pubDate>
-      <dc:creator>nathie</dc:creator>
-      <content:encoded><![CDATA[Would love to experience this in 3D VR https://x.com/F1/status/2109283775993565455/video/1]]></content:encoded>
-      
-    </item>
-    <item>
-      <title>Wow! Looks like gaussian splatting technology!</title>
-      <link>https://x.com/SadlyItsBradley/status/2109474748526624911</link>
-      <guid isPermaLink="false">2109474748526624911</guid>
-      <pubDate>Mon, 12 Oct 2026 02:42:26 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[Wow! Looks like gaussian splatting technology!
-      
-      Imagine if a headset company who just so happens to be sponsoring the hell out of F1
-      
-      Manages to let us all hang out in the live volumetric pit lane with friends while we all watch the race together https://twitter.com/F1/status/2109283775993565455
-      
-      引用 @F1：Seamless 🤩
-      
-      #F1 #SingaporeGP https://twitter.com/F1/status/2109283775993565455/video/1]]></content:encoded>
-      
-    </item>
-    <item>
-      <title>Built a really fun XR prototype this weekend for the Halo fans out there 😇</title>
-      <link>https://x.com/SadlyItsBradley/status/2109389599932031176</link>
-      <guid isPermaLink="false">2109389599932031176</guid>
-      <pubDate>Sun, 11 Oct 2026 21:04:05 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[Built a really fun XR prototype this weekend for the Halo fans out there 😇 https://x.com/SadlyItsBradley/status/2109389599932031176/video/1]]></content:encoded>
-      
     </item>
   </channel>
 </rss>

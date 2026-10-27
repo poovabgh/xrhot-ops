@@ -1,13 +1,13 @@
 # STATUS — XRHOT X 采集状态
 
-最后在本文件手工更新：2026-10-27 01:04 PDT（例行 2026-10-27 16:00 BJT）。
+最后在本文件手工更新：2026-10-27 08:26 PDT（例行补跑 2026-10-27 20:00 BJT 窗口后）。
 
 ## 订阅现状
 
 | Feed | Items | lastBuildDate (GMT) | Raw URL |
 |------|------:|---------------------|---------|
-| x-official.xml | 100 | Tue, 27 Oct 2026 08:03:12 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-official.xml |
-| x-media-kol.xml | 100 | Tue, 27 Oct 2026 00:03:54 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml |
+| x-official.xml | 100 | Tue, 27 Oct 2026 15:26:00 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-official.xml |
+| x-media-kol.xml | 100 | Tue, 27 Oct 2026 15:26:00 GMT | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml |
 
 核对命令：
 
@@ -16,13 +16,13 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-offic
 curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml | grep -c '<item>'
 ```
 
-## 本轮：2026-10-27 16:00 BJT
+## 本轮：2026-10-27 20:00 BJT（08:26 PDT 补跑）
 
-- 预检 19 账号；最新 id 高于 watermark：pimaxofficial、VRChat、MetaVRDevs、BeatSaber、BigscreenVR、nathie、Dilmerv；LensStudioDev 无 watermark、most_recent 已出队旧帖（不回溯）；其余等于 watermark 跳过。
-- **official 100→100（+2）：** pimaxofficial Comfort Kit / Dream Air fiber cable 2114974709129650285；pimaxofficial 引用 nextlevelsim VR sim racing 2114964987177525651。丢掉最旧 2 条（2109630435126804605 / 2109615071043244250）。MetaVRDevs / BeatSaber / BigscreenVR `exclude` 后 result_count 0；VRChat 续帖 2114865055992811866 等（referral 串已合入 2114850030842761366）跳过。
-- **media-kol 100 不变：** nathie / Dilmerv `exclude` 后 result_count 0。
+- 预检 19 账号；最新 id 高于 watermark：VRChat、MetaVRDevs、BeatSaber、BigscreenVR、ARealityEvent、nathie、Dilmerv、SadlyItsBradley；LensStudioDev 无新原创可入库；其余等于 watermark 跳过。
+- **official 100→100（+1）：** VRChat Spookality free hat 2115079649050906798。丢掉最旧 1 条。MetaVRDevs / BeatSaber / BigscreenVR `exclude` 后 result_count 0；VRChat 串帖回复跳过。
+- **media-kol 100→100（+3）：** ARealityEvent UnitedXR papers 2115096228669366736；Dilmerv XR unfinished-projects tip 2115088728259522589；Dilmerv Meta VR Glasses Device Readiness Check 2115066911163646220。nathie / Bradley `exclude` 后 0。丢掉最旧 3 条。
 - 监控名单未变（official 15 / media-kol 4）。
-- 上一有变更档 2026-10-27 12:00 BJT：official +1 XREAL AURA（HEAD f5cdf72）。
+- 上一有变更档 2026-10-27 16:00 BJT：official +2 pimax（HEAD d9fa626）。
 
 ## 定时更新
 
@@ -33,7 +33,7 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media
 | 旧规范「每 30 分钟」 | **已废止** |
 | 省 token | 见 `scripts/cheap_check_plan.md` |
 
-下一例行节点（北京时间）：2026-10-27 **20:00**。
+下一例行节点（北京时间）：2026-10-28 **00:00**。
 
 ## 待办
 
