@@ -4,8 +4,91 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Mon, 26 Oct 2026 16:16:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 00:03:54 GMT</lastBuildDate>
 
+    <item>
+      <title>Half-Life Alyx just added Foveated Rendering for all SteamVR headsets on Desktop</title>
+      <link>https://x.com/SadlyItsBradley/status/2114856770480799894</link>
+      <guid isPermaLink="false">2114856770480799894</guid>
+      <pubDate>Mon, 26 Oct 2026 23:08:40 GMT</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[Half-Life Alyx just added Foveated Rendering for all SteamVR headsets on Desktop
+
+Previously this was only enabled for Steam Frame’s standalone build]]></content:encoded>
+    </item>
+    <item>
+      <title>My two favorite Apple devices at the moment.</title>
+      <link>https://x.com/nathie/status/2114824469566890131</link>
+      <guid isPermaLink="false">2114824469566890131</guid>
+      <pubDate>Mon, 26 Oct 2026 21:00:19 GMT</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[My two favorite Apple devices at the moment.]]></content:encoded>
+    </item>
+    <item>
+      <title>I love building tools that solve something I personally struggled with. That’s how my Hand Pose Baker started, and hones</title>
+      <link>https://x.com/Dilmerv/status/2114801777832812778</link>
+      <guid isPermaLink="false">2114801777832812778</guid>
+      <pubDate>Mon, 26 Oct 2026 19:30:09 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[I love building tools that solve something I personally struggled with. That’s how my Hand Pose Baker started, and honestly, seeing the poses improve has been just as exciting as building a game!]]></content:encoded>
+    </item>
+    <item>
+      <title>I am building something extremely cool 🤯 between calls today. Already have a prototype and can’t wait to share more! It </title>
+      <link>https://x.com/Dilmerv/status/2114798895385698736</link>
+      <guid isPermaLink="false">2114798895385698736</guid>
+      <pubDate>Mon, 26 Oct 2026 19:18:42 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[I am building something extremely cool 🤯 between calls today. Already have a prototype and can’t wait to share more! It will use Mixed Reality unlike anything I have seen so far.]]></content:encoded>
+    </item>
+    <item>
+      <title>It’s been a while since my last YouTube tutorial! I’ve been heads down building new VR/MR games and creating developer c</title>
+      <link>https://x.com/Dilmerv/status/2114790506978803856</link>
+      <guid isPermaLink="false">2114790506978803856</guid>
+      <pubDate>Mon, 26 Oct 2026 18:45:22 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[It’s been a while since my last YouTube tutorial! I’ve been heads down building new VR/MR games and creating developer content for Meta Connect, so finding time for my own videos has been hard.
+
+Getting into the weeds is so important to me. Honestly, this time away from YouTube has been the best investment in making better videos. I’ve learned so much by building and testing.
+
+I’m planning to resume tutorials this week, and I can’t wait to share what I’ve learned!]]></content:encoded>
+    </item>
+    <item>
+      <title>🚨 If you are a VR developer, how likely are you to use Meta's developer tools and platforms in the next 12 months?</title>
+      <link>https://x.com/Dilmerv/status/2114779142151721244</link>
+      <guid isPermaLink="false">2114779142151721244</guid>
+      <pubDate>Mon, 26 Oct 2026 18:00:12 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[🚨 If you are a VR developer, how likely are you to use Meta's developer tools and platforms in the next 12 months?
+
+Note: This is very important to help us drive efforts internally at Meta. Be sure to vote and reply to the follow-up questions below!]]></content:encoded>
+    </item>
+    <item>
+      <title>I can build a lot faster with agents, but I still spend a lot of time testing how everything feels. Especially with hand</title>
+      <link>https://x.com/Dilmerv/status/2114769028463951906</link>
+      <guid isPermaLink="false">2114769028463951906</guid>
+      <pubDate>Mon, 26 Oct 2026 17:20:01 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[I can build a lot faster with agents, but I still spend a lot of time testing how everything feels. Especially with hands, getting something to work is only part of it. The interaction has to feel right too.]]></content:encoded>
+    </item>
+    <item>
+      <title>Worked on something this weekend that turned this prototype into a fully useful workflow</title>
+      <link>https://x.com/SadlyItsBradley/status/2114758759394484335</link>
+      <guid isPermaLink="false">2114758759394484335</guid>
+      <pubDate>Mon, 26 Oct 2026 16:39:13 GMT</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[Worked on something this weekend that turned this prototype into a fully useful workflow
+
+Finally tapping into the Spatial Accessories Framework introduced in visionOS 27
+
+Will produce/edit/render my next YouTube video ENTIRELY in spatial, on headset, with this project
+https://x.com/SadlyItsBradley/status/2066586183694455175
+
+引用 @SadlyItsBradley：I have the first prototype running
+
+After seeing the early results, definitely going to continue this project and add WAY more polish to it
+
+Planning to add cropping, stereo output (from dual fisheye feed), auto viewfinder rotate via head position, and persona view for Vloggin’]]></content:encoded>
+    </item>
     <item>
       <title>Quick question for devs: what are you building for Meta VR Glasses right now, and what tools or examples would help you?</title>
       <link>https://x.com/Dilmerv/status/2114741454429950462</link>
@@ -1236,121 +1319,6 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       <pubDate>Sun, 11 Oct 2026 21:04:05 GMT</pubDate>
       <dc:creator>SadlyItsBradley</dc:creator>
       <content:encoded><![CDATA[Built a really fun XR prototype this weekend for the Halo fans out there 😇 https://x.com/SadlyItsBradley/status/2109389599932031176/video/1]]></content:encoded>
-      
-    </item>
-    <item>
-      <title>One of the regulars in my Discord @zmiennys made great progress in bringing hand tracking UX to Steam Frame</title>
-      <link>https://x.com/SadlyItsBradley/status/2109374629613601155</link>
-      <guid isPermaLink="false">2109374629613601155</guid>
-      <pubDate>Sun, 11 Oct 2026 20:04:36 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[One of the regulars in my Discord @zmiennys made great progress in bringing hand tracking UX to Steam Frame
-      
-      https://www.reddit.com/r/SteamFrame/s/ZBVjdjgn1i https://x.com/SadlyItsBradley/status/2109374629613601155/video/1]]></content:encoded>
-      
-    </item>
-    <item>
-      <title>I updated HoloPrinter Bridge to fix/add support for the Remote Camera feature to more Bambu Labs 3D Printers</title>
-      <link>https://x.com/SadlyItsBradley/status/2109361994960662919</link>
-      <guid isPermaLink="false">2109361994960662919</guid>
-      <pubDate>Sun, 11 Oct 2026 19:14:24 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[I updated HoloPrinter Bridge to fix/add support for the Remote Camera feature to more Bambu Labs 3D Printers
-      
-      This doesn’t require an update to visionOS client app
-      
-      Bridge update here: https://github.com/Bradllez/holoprinter-bridge/releases/tag/v0.1.1
-      
-      visionOS TestFlight: https://testflight.apple.com/join/j32BuRt2 https://x.com/SadlyItsBradley/status/2109361994960662919/video/1 https://twitter.com/sadlyitsbradley/status/2108279120060686839
-      
-      引用 @SadlyItsBradley：I have released “HoloPrinter” on TestFlight. For those who have a Bambu Labs 3D Printer
-      
-      With this app, you can slice your models with a fully hand tracked focused UX
-      
-      During prints, a virtual laser will draw out each layer your IRL printer is manifesting
-      
-      https://testflight.apple.com/join/j32BuRt2 https://twitter.com/sadlyitsbradley/status/2106759166668771473]]></content:encoded>
-      
-    </item>
-    <item>
-      <title>Splattery TestFlight users: I’m aware of a bug mostly affecting M2 Vision Pro models that causes the love splat previews</title>
-      <link>https://x.com/SadlyItsBradley/status/2109322885223641227</link>
-      <guid isPermaLink="false">2109322885223641227</guid>
-      <pubDate>Sun, 11 Oct 2026 16:38:59 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[Splattery TestFlight users: I’m aware of a bug mostly affecting M2 Vision Pro models that causes the love splat previews to go invisible during training steps and Review
-      
-      I’m looking into releasing a fix for this during the week https://twitter.com/sadlyitsbradley/status/2108280731097055259
-      
-      引用 @SadlyItsBradley：Splattery allows you to use your Spatial Videos recorded from Vision Pro:
-      
-      To create, edit, or play with 3D objects pulled directly from those videos thanks to CV models running fully local on device
-      
-      You can then place your splat objects in your room
-      
-      https://testflight.apple.com/join/Q1Rrkq5R https://twitter.com/sadlyitsbradley/status/2107596978775339154]]></content:encoded>
-      
-    </item>
-    <item>
-      <title>It’s actually insane how many more magnitudes of playable it adds to these games</title>
-      <link>https://x.com/SadlyItsBradley/status/2109315588933972056</link>
-      <guid isPermaLink="false">2109315588933972056</guid>
-      <pubDate>Sun, 11 Oct 2026 16:10:00 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[It’s actually insane how many more magnitudes of playable it adds to these games https://twitter.com/retro_dodo/status/2109003633773715679
-      
-      引用 @retro_dodo：A new Virtual Boy emulator is here that can play your games in full colour, known as VBoy Color. 🚨
-      
-      More info: https://retrododo.com/virtual-boy-games-can-now-be-played-in-full-colour-thanks-to-new-emulator/ https://x.com/retro_dodo/status/2109003633773715679/video/1]]></content:encoded>
-      
-    </item>
-    <item>
-      <title>Some things are simply built to last</title>
-      <link>https://x.com/nathie/status/2109140376963723406</link>
-      <guid isPermaLink="false">2109140376963723406</guid>
-      <pubDate>Sun, 11 Oct 2026 04:33:46 GMT</pubDate>
-      <dc:creator>nathie</dc:creator>
-      <content:encoded><![CDATA[Some things are simply built to last
-      https://x.com/nathie/status/2109140376963723406/photo/1]]></content:encoded>
-      
-    </item>
-    <item>
-      <title>the cat is out of the bag</title>
-      <link>https://x.com/nathie/status/2109005318630068357</link>
-      <guid isPermaLink="false">2109005318630068357</guid>
-      <pubDate>Fri, 10 Oct 2026 19:37:06 GMT</pubDate>
-      <dc:creator>nathie</dc:creator>
-      <content:encoded><![CDATA[the cat is out of the bag
-      https://twitter.com/TBluebox12/status/2108922973784826058
-      
-      引用 @TBluebox12：
-      Pico Space Pro?
-      https://x.com/TBluebox12/status/2108922973784826058/photo/1]]></content:encoded>
-      
-    </item>
-    <item>
-      <title>When your hobby and passion become your job, every day feels like a new playground.</title>
-      <link>https://x.com/Dilmerv/status/2108988431816864000</link>
-      <guid isPermaLink="false">2108988431816864000</guid>
-      <pubDate>Fri, 10 Oct 2026 18:29:59 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[When your hobby and passion become your job, every day feels like a new playground. I truly love what I do. Getting to work with the most advanced AI models at Meta, cutting-edge VR tools, and our upcoming Meta VR Glasses headset is honestly incredible. I couldn’t be more excited about where we are now in XR and what’s coming!]]></content:encoded>
-      
-    </item>
-    <item>
-      <title>Wow. Thats a pretty long one, actually</title>
-      <link>https://x.com/SadlyItsBradley/status/2108963886473121813</link>
-      <guid isPermaLink="false">2108963886473121813</guid>
-      <pubDate>Fri, 10 Oct 2026 16:52:27 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[Wow. Thats a pretty long one, actually
-      https://twitter.com/justinryanio/status/2108924730803986781
-      
-      引用 @justinryanio：
-      A new Apple Immersive video is coming just in time for Halloween.
-      
-      Remnants is a 27 minute ghost story from director Ti West, set in a haunted castle. Arrives on Apple Vision Pro October 16.
-      https://x.com/justinryanio/status/2108924730803986781/photo/1]]></content:encoded>
       
     </item>
   </channel>
