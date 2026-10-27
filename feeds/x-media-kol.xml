@@ -4,8 +4,64 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Tue, 27 Oct 2026 15:26:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 19:14:34 GMT</lastBuildDate>
+    <item>
+      <title>It’s interesting when you build a tool to help with your own games. I built the Hand Grab Pose Baker tool, and I’m now u</title>
+      <link>https://x.com/Dilmerv/status/2115152843816464880</link>
+      <guid isPermaLink="false">2115152843816464880</guid>
+      <pubDate>Tue, 27 Oct 2026 18:45:10 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[It’s interesting when you build a tool to help with your own games. I built the Hand Grab Pose Baker tool, and I’m now using it in a new VR game where realistic hand poses will add a lot of polish to the experience.
 
+I’m also turning it into a package you’ll be able to add through Unity’s Package Manager using a Git URL.
+
+Would anyone be interested in trying it?]]></content:encoded>
+    </item>
+    <item>
+      <title>Applied adjustments to allow your HoloPrinter to be positioned in several rooms throughout your home</title>
+      <link>https://x.com/SadlyItsBradley/status/2115148895357423636</link>
+      <guid isPermaLink="false">2115148895357423636</guid>
+      <pubDate>Tue, 27 Oct 2026 18:29:28 GMT</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[Applied adjustments to allow your HoloPrinter to be positioned in several rooms throughout your home
+
+Including the toilet room 🥹
+https://x.com/SadlyItsBradley/status/2115148895357423636/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Danny built a lot of the ISDK tools while he was at Meta, and I definitely recommend following his work. Love the minima</title>
+      <link>https://x.com/Dilmerv/status/2115120676051063002</link>
+      <guid isPermaLink="false">2115120676051063002</guid>
+      <pubDate>Tue, 27 Oct 2026 16:37:20 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Danny built a lot of the ISDK tools while he was at Meta, and I definitely recommend following his work. Love the minimalistic game he’s creating with hand tracking! Perfect fit for Meta VR Glasses. 👇
+https://x.com/dannyaroslavski/status/2114916913684095027
+
+引用 @dannyaroslavski：Designing my VR game to be as futuristic as possible.
+https://x.com/dannyaroslavski/status/2114916913684095027/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Meta has confirmed that Quest sales are declining and says future VR headsets will need to deliver “major breakthroughs”</title>
+      <link>https://x.com/nathie/status/2115119023348187141</link>
+      <guid isPermaLink="false">2115119023348187141</guid>
+      <pubDate>Tue, 27 Oct 2026 16:30:46 GMT</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[Meta has confirmed that Quest sales are declining and says future VR headsets will need to deliver “major breakthroughs” to get people interested again.
+https://roadtovr.com/meta-declining-quest-sales-major-breakthroughs/]]></content:encoded>
+    </item>
+    <item>
+      <title>Exporting Canon R5C RAW video to Spatial Video (MV-HEVC) from my Dual Fisheye Lens ENTIRELY on headset</title>
+      <link>https://x.com/SadlyItsBradley/status/2115112480229712201</link>
+      <guid isPermaLink="false">2115112480229712201</guid>
+      <pubDate>Tue, 27 Oct 2026 16:04:46 GMT</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[Exporting Canon R5C RAW video to Spatial Video (MV-HEVC) from my Dual Fisheye Lens ENTIRELY on headset
+
+It shows me exactly how the final footage will look. Color Grading, level, and depth
+
+I can also apply these lens-calibrated views LIVE from my camera to confirm the framing
+https://x.com/SadlyItsBradley/status/2115112480229712201/video/1]]></content:encoded>
+    </item>
     <item>
       <title>🔬 The selected papers for the Scientific Conference at UnitedXR Europe 2026 are now live!</title>
       <link>https://x.com/ARealityEvent/status/2115096228669366736</link>
@@ -1251,78 +1307,6 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       <dc:creator>nathie</dc:creator>
       <content:encoded><![CDATA[Max Payne in VR is a wild experience
       https://x.com/nathie/status/2109919763099234445/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Can’t wait to check this out on Apple Vision Pro.</title>
-      <link>https://x.com/nathie/status/2109752713865261394</link>
-      <guid isPermaLink="false">2109752713865261394</guid>
-      <pubDate>Mon, 12 Oct 2026 21:06:58 GMT</pubDate>
-      <dc:creator>nathie</dc:creator>
-      <content:encoded><![CDATA[Can’t wait to check this out on Apple Vision Pro.
-      https://x.com/AppleTV/status/2109695779967205510/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>📣 NEW VR Developer Showcase!</title>
-      <link>https://x.com/Dilmerv/status/2109726213765988525</link>
-      <guid isPermaLink="false">2109726213765988525</guid>
-      <pubDate>Mon, 12 Oct 2026 19:21:40 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[📣 NEW VR Developer Showcase!
-      
-      Table Troopers combines turn-based tabletop battles with hand tracking and physics-driven destruction. For developers, it offers a look at how gesture controls, reactive environments and Meta SDK integration can work together in one experience.
-      
-      - Hand interactions: Pinch to place troops and aim attacks, mapping familiar gestures directly to tactical actions.
-      
-      - Destruction: Physics-driven terrain damage makes the consequences of each attack visible.
-      
-      - Interaction SDK: Meta's hand-input tools power the game's gesture controls.
-      
-      - Platform SDK: Friend invites, leaderboards and DLC purchases connect gameplay to platform services.
-      
-      - Content design: The optional paid Halloween Pack extends the core game with themed maps, troops and weapons.
-      https://x.com/Dilmerv/status/2109726213765988525/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>The true jumpscare was seeing apple actually market the vision pro again</title>
-      <link>https://x.com/SadlyItsBradley/status/2109724676671119794</link>
-      <guid isPermaLink="false">2109724676671119794</guid>
-      <pubDate>Mon, 12 Oct 2026 19:15:34 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[The true jumpscare was seeing apple actually market the vision pro again
-      https://x.com/appletv/status/2109695779967205510
-      
-      引用 @AppleTV：See real reactions from people experiencing, #Remnants, Apple’s first immersive horror film.
-      
-      Watch as they step inside Woldmere Castle and experience the terrifying world created by writer and director Ti West.
-      
-      Watch on Oct 16 only on Apple Vision Pro.
-      https://x.com/AppleTV/status/2109695779967205510/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>I was heads down all of last week building a new Mixed Reality tabletop game. I took an old game I built for iOS years a</title>
-      <link>https://x.com/Dilmerv/status/2109704177329086743</link>
-      <guid isPermaLink="false">2109704177329086743</guid>
-      <pubDate>Mon, 12 Oct 2026 17:54:06 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[I was heads down all of last week building a new Mixed Reality tabletop game. I took an old game I built for iOS years ago and converted it to VR. Honestly, it looks so great, and it plays really well with hands too! I’ll be posting a video soon!
-      
-      The crazy part is that I am 99% done and about to submit it to the store. I can’t wait to share my learnings with devs.]]></content:encoded>
-    </item>
-    <item>
-      <title>Everyone, meet Muse Wonder and Muse Wonder Full, our most capable models yet! 🔥 Extremely excited to test these with my</title>
-      <link>https://x.com/Dilmerv/status/2109695883868885498</link>
-      <guid isPermaLink="false">2109695883868885498</guid>
-      <pubDate>Mon, 12 Oct 2026 17:21:09 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Everyone, meet Muse Wonder and Muse Wonder Full, our most capable models yet! 🔥 Extremely excited to test these with my VR dev workflows.
-      https://x.com/alexandr_wang/status/2109689491300794551
-      
-      引用 @alexandr_wang：introducing muse wonder
-      
-      our new frontier model. state-of-the-art at personal agents and professional agents.
-      
-      our largest and most capable model yet—rivals the big bois
-      https://x.com/alexandr_wang/status/2109689491300794551/video/1]]></content:encoded>
     </item>
   </channel>
 </rss>
