@@ -4,8 +4,64 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Wed, 28 Oct 2026 08:07:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 16:05:00 GMT</lastBuildDate>
+        <item>
+      <title>Get a preview of the Enterprise VIP Program at the #1 XR Event in Europe</title>
+      <link>https://x.com/ARealityEvent/status/2115458570737385579</link>
+      <guid isPermaLink="false">2115458570737385579</guid>
+      <pubDate>Wed, 28 Oct 2026 15:00:01 GMT</pubDate>
+      <dc:creator>ARealityEvent</dc:creator>
+      <content:encoded><![CDATA[Get a preview of the Enterprise VIP Program at the #1 XR Event in Europe
+See how enterprises use XR to cut costs, boost productivity and deliver real ROI.
+🗓️ 4 Nov · 4 PM CET
+Join us: https://na2.hubs.ly/H08GwFl0 
+
+UnitedXR Europe is organized by AWE and Stereopsia.
+
+#UnitedXR
+https://x.com/ARealityEvent/status/2115458570737385579/photo/1]]></content:encoded>
+    </item>
     <item>
+      <title>The full video of him explaining their entire 4DGS workflow is truly even more incredible</title>
+      <link>https://x.com/SadlyItsBradley/status/2115451725603885397</link>
+      <guid isPermaLink="false">2115451725603885397</guid>
+      <pubDate>Wed, 28 Oct 2026 14:32:49 GMT</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[The full video of him explaining their entire 4DGS workflow is truly even more incredible
+
+https://youtu.be/4IlGywDGasA
+https://x.com/mediastorm_en/status/2114688637904552243
+
+引用 @mediastorm_en：Vogue. Shot on 70 iPhone 18 Pro
+https://x.com/mediastorm_en/status/2114688637904552243/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>With all these moves toward AI, I feel like we still need people doing walkthroughs/tutorials of how SDKs, APIs, and too</title>
+      <link>https://x.com/Dilmerv/status/2115444591390507201</link>
+      <guid isPermaLink="false">2115444591390507201</guid>
+      <pubDate>Wed, 28 Oct 2026 14:04:28 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[With all these moves toward AI, I feel like we still need people doing walkthroughs/tutorials of how SDKs, APIs, and tools work.
+
+💡Would you agree that walkthroughs are still very relevant for learning how SDKs/tools work, what APIs are available, and how to use them?
+
+Before you vote, think about this. This is something that is always in my mind. 
+
+If we as devs don’t understand the underlying systems, what will happen to our knowledge years from now?
+
+For additional context, I am struggling to find out if I should go back and do step-by-step tutorials on YouTube or more high-level “I Built this with AI & here is what I learned”.]]></content:encoded>
+    </item>
+    <item>
+      <title>I always try to look at my work this way: I have many unfinished XR projects, but they’ve taught me lessons I’ll use for</title>
+      <link>https://x.com/Dilmerv/status/2115437691823067382</link>
+      <guid isPermaLink="false">2115437691823067382</guid>
+      <pubDate>Wed, 28 Oct 2026 13:37:03 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[I always try to look at my work this way: I have many unfinished XR projects, but they’ve taught me lessons I’ll use for years.
+
+Keep those lessons. You’ll bring them into the next project and, ultimately, the game or app you release! 🙌]]></content:encoded>
+    </item>
+<item>
       <title>Room reflections at runtime with a Quest 3 look amazing! 👇🔥</title>
       <link>https://x.com/Dilmerv/status/2115314617933283528</link>
       <guid isPermaLink="false">2115314617933283528</guid>
@@ -17,7 +73,7 @@ https://x.com/ElasticSea/status/2115099841198215602
 引用 @ElasticSea：Capturing room reflections at runtime on Quest 3. I noticed AVP adds studio highlights up to 5 times brighter than pure white for that nice bright specular light.
 https://x.com/ElasticSea/status/2115099841198215602/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>My plan for this week is to work on a new YouTube video covering all the cool things in the new SDKs that you can use to</title>
       <link>https://x.com/Dilmerv/status/2115237113113219140</link>
       <guid isPermaLink="false">2115237113113219140</guid>
@@ -27,7 +83,7 @@ https://x.com/ElasticSea/status/2115099841198215602/video/1]]></content:encoded>
 
 I’ll also be submitting “Cubiques” to the Meta Store, but I need to do some additional QA testing first.]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>I did a talk today on our Meta VR Start server about Agentic Workflows, and it was interesting how many people were conf</title>
       <link>https://x.com/Dilmerv/status/2115170092266983588</link>
       <guid isPermaLink="false">2115170092266983588</guid>
@@ -35,7 +91,7 @@ I’ll also be submitting “Cubiques” to the Meta Store, but I need to do som
       <dc:creator>Dilmerv</dc:creator>
       <content:encoded><![CDATA[I did a talk today on our Meta VR Start server about Agentic Workflows, and it was interesting how many people were confused about Unity CLI vs Meta VR CLI. Is this confusing to you?]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>It’s interesting when you build a tool to help with your own games. I built the Hand Grab Pose Baker tool, and I’m now u</title>
       <link>https://x.com/Dilmerv/status/2115152843816464880</link>
       <guid isPermaLink="false">2115152843816464880</guid>
@@ -47,7 +103,7 @@ I’m also turning it into a package you’ll be able to add through Unity’s P
 
 Would anyone be interested in trying it?]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Applied adjustments to allow your HoloPrinter to be positioned in several rooms throughout your home</title>
       <link>https://x.com/SadlyItsBradley/status/2115148895357423636</link>
       <guid isPermaLink="false">2115148895357423636</guid>
@@ -58,7 +114,7 @@ Would anyone be interested in trying it?]]></content:encoded>
 Including the toilet room 🥹
 https://x.com/SadlyItsBradley/status/2115148895357423636/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Danny built a lot of the ISDK tools while he was at Meta, and I definitely recommend following his work. Love the minima</title>
       <link>https://x.com/Dilmerv/status/2115120676051063002</link>
       <guid isPermaLink="false">2115120676051063002</guid>
@@ -70,7 +126,7 @@ https://x.com/dannyaroslavski/status/2114916913684095027
 引用 @dannyaroslavski：Designing my VR game to be as futuristic as possible.
 https://x.com/dannyaroslavski/status/2114916913684095027/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Meta has confirmed that Quest sales are declining and says future VR headsets will need to deliver “major breakthroughs”</title>
       <link>https://x.com/nathie/status/2115119023348187141</link>
       <guid isPermaLink="false">2115119023348187141</guid>
@@ -79,7 +135,7 @@ https://x.com/dannyaroslavski/status/2114916913684095027/video/1]]></content:enc
       <content:encoded><![CDATA[Meta has confirmed that Quest sales are declining and says future VR headsets will need to deliver “major breakthroughs” to get people interested again.
 https://roadtovr.com/meta-declining-quest-sales-major-breakthroughs/]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Exporting Canon R5C RAW video to Spatial Video (MV-HEVC) from my Dual Fisheye Lens ENTIRELY on headset</title>
       <link>https://x.com/SadlyItsBradley/status/2115112480229712201</link>
       <guid isPermaLink="false">2115112480229712201</guid>
@@ -92,7 +148,7 @@ It shows me exactly how the final footage will look. Color Grading, level, and d
 I can also apply these lens-calibrated views LIVE from my camera to confirm the framing
 https://x.com/SadlyItsBradley/status/2115112480229712201/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>🔬 The selected papers for the Scientific Conference at UnitedXR Europe 2026 are now live!</title>
       <link>https://x.com/ARealityEvent/status/2115096228669366736</link>
       <guid isPermaLink="false">2115096228669366736</guid>
@@ -107,7 +163,7 @@ UnitedXR Europe is organized by AWE and Stereopsia.
 #UnitedXR #XR #AR #VR #ScientificConference #XRResearch
 https://x.com/ARealityEvent/status/2115096228669366736/photo/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Honestly, you don’t need to have the whole project figured out to start.</title>
       <link>https://x.com/Dilmerv/status/2115088728259522589</link>
       <guid isPermaLink="false">2115088728259522589</guid>
@@ -115,7 +171,7 @@ https://x.com/ARealityEvent/status/2115096228669366736/photo/1]]></content:encod
       <dc:creator>Dilmerv</dc:creator>
       <content:encoded><![CDATA[Honestly, you don’t need to have the whole project figured out to start. Pick one XR interaction or mechanic you’re curious about and see where it takes you. I have dozens of unfinished projects, but many of them helped me find just the right idea to push another project to the finish line.]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>XR devs, here’s a quick tip for today! 👇</title>
       <link>https://x.com/Dilmerv/status/2115066911163646220</link>
       <guid isPermaLink="false">2115066911163646220</guid>
@@ -130,7 +186,7 @@ Window → Meta → Tools → Device Readiness Check.
 The standard scan checks project setup and looks for controller-only input in your C# scripts. A useful starting point!
 https://x.com/Dilmerv/status/2115066911163646220/photo/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Half-Life Alyx just added Foveated Rendering for all SteamVR headsets on Desktop</title>
       <link>https://x.com/SadlyItsBradley/status/2114856770480799894</link>
       <guid isPermaLink="false">2114856770480799894</guid>
@@ -140,7 +196,7 @@ https://x.com/Dilmerv/status/2115066911163646220/photo/1]]></content:encoded>
 
 Previously this was only enabled for Steam Frame’s standalone build]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>My two favorite Apple devices at the moment.</title>
       <link>https://x.com/nathie/status/2114824469566890131</link>
       <guid isPermaLink="false">2114824469566890131</guid>
@@ -148,7 +204,7 @@ Previously this was only enabled for Steam Frame’s standalone build]]></conten
       <dc:creator>nathie</dc:creator>
       <content:encoded><![CDATA[My two favorite Apple devices at the moment.]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>I love building tools that solve something I personally struggled with. That’s how my Hand Pose Baker started, and hones</title>
       <link>https://x.com/Dilmerv/status/2114801777832812778</link>
       <guid isPermaLink="false">2114801777832812778</guid>
@@ -156,7 +212,7 @@ Previously this was only enabled for Steam Frame’s standalone build]]></conten
       <dc:creator>Dilmerv</dc:creator>
       <content:encoded><![CDATA[I love building tools that solve something I personally struggled with. That’s how my Hand Pose Baker started, and honestly, seeing the poses improve has been just as exciting as building a game!]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>I am building something extremely cool 🤯 between calls today. Already have a prototype and can’t wait to share more! It </title>
       <link>https://x.com/Dilmerv/status/2114798895385698736</link>
       <guid isPermaLink="false">2114798895385698736</guid>
@@ -164,7 +220,7 @@ Previously this was only enabled for Steam Frame’s standalone build]]></conten
       <dc:creator>Dilmerv</dc:creator>
       <content:encoded><![CDATA[I am building something extremely cool 🤯 between calls today. Already have a prototype and can’t wait to share more! It will use Mixed Reality unlike anything I have seen so far.]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>It’s been a while since my last YouTube tutorial! I’ve been heads down building new VR/MR games and creating developer c</title>
       <link>https://x.com/Dilmerv/status/2114790506978803856</link>
       <guid isPermaLink="false">2114790506978803856</guid>
@@ -176,7 +232,7 @@ Getting into the weeds is so important to me. Honestly, this time away from YouT
 
 I’m planning to resume tutorials this week, and I can’t wait to share what I’ve learned!]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>🚨 If you are a VR developer, how likely are you to use Meta's developer tools and platforms in the next 12 months?</title>
       <link>https://x.com/Dilmerv/status/2114779142151721244</link>
       <guid isPermaLink="false">2114779142151721244</guid>
@@ -186,7 +242,7 @@ I’m planning to resume tutorials this week, and I can’t wait to share what I
 
 Note: This is very important to help us drive efforts internally at Meta. Be sure to vote and reply to the follow-up questions below!]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>I can build a lot faster with agents, but I still spend a lot of time testing how everything feels. Especially with hand</title>
       <link>https://x.com/Dilmerv/status/2114769028463951906</link>
       <guid isPermaLink="false">2114769028463951906</guid>
@@ -194,7 +250,7 @@ Note: This is very important to help us drive efforts internally at Meta. Be sur
       <dc:creator>Dilmerv</dc:creator>
       <content:encoded><![CDATA[I can build a lot faster with agents, but I still spend a lot of time testing how everything feels. Especially with hands, getting something to work is only part of it. The interaction has to feel right too.]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Worked on something this weekend that turned this prototype into a fully useful workflow</title>
       <link>https://x.com/SadlyItsBradley/status/2114758759394484335</link>
       <guid isPermaLink="false">2114758759394484335</guid>
@@ -213,7 +269,7 @@ After seeing the early results, definitely going to continue this project and ad
 
 Planning to add cropping, stereo output (from dual fisheye feed), auto viewfinder rotate via head position, and persona view for Vloggin’]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Quick question for devs: what are you building for Meta VR Glasses right now, and what tools or examples would help you?</title>
       <link>https://x.com/Dilmerv/status/2114741454429950462</link>
       <guid isPermaLink="false">2114741454429950462</guid>
@@ -221,7 +277,7 @@ Planning to add cropping, stereo output (from dual fisheye feed), auto viewfinde
       <dc:creator>Dilmerv</dc:creator>
       <content:encoded><![CDATA[Quick question for devs: what are you building for Meta VR Glasses right now, and what tools or examples would help you? I want to keep sharing things that help you build and ship your ideas! 🚀]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Thank you for your feedback John! So happy things are working better! If anyone needs anything related to Meta VR, just </title>
       <link>https://x.com/Dilmerv/status/2114714454776836443</link>
       <guid isPermaLink="false">2114714454776836443</guid>
@@ -235,7 +291,7 @@ I was standing up for 3rd party devs, pointing out that the communication betwee
 
 I’m happy to say that over the last 12 months, that situation has improved dramatically.]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>For those testing with Meta XR Simulator, what would you like me to cover in more detail? I use it so much while buildin</title>
       <link>https://x.com/Dilmerv/status/2114712912635863190</link>
       <guid isPermaLink="false">2114712912635863190</guid>
@@ -243,7 +299,7 @@ I’m happy to say that over the last 12 months, that situation has improved dra
       <dc:creator>Dilmerv</dc:creator>
       <content:encoded><![CDATA[For those testing with Meta XR Simulator, what would you like me to cover in more detail? I use it so much while building, and I would love to share more of that process.]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>What would you like me to cover next on YouTube?</title>
       <link>https://x.com/Dilmerv/status/2114687508659249594</link>
       <guid isPermaLink="false">2114687508659249594</guid>
@@ -258,7 +314,7 @@ I’m happy to say that over the last 12 months, that situation has improved dra
 
 Curious which one would help you most with what you’re building! 👇]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>XR devs, what’s one part of your workflow that still takes way too much time? For me, getting hand grab poses to look ri</title>
       <link>https://x.com/Dilmerv/status/2114563928713789607</link>
       <guid isPermaLink="false">2114563928713789607</guid>
@@ -266,7 +322,7 @@ Curious which one would help you most with what you’re building! 👇]]></cont
       <dc:creator>Dilmerv</dc:creator>
       <content:encoded><![CDATA[XR devs, what’s one part of your workflow that still takes way too much time? For me, getting hand grab poses to look right is what motivated me to start building my Hand Pose Baker. Curious what yours is! 👇]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Curious, when you try a tabletop MR game, do you prefer sitting down and keeping everything within reach, or walking aro</title>
       <link>https://x.com/Dilmerv/status/2114533728697335809</link>
       <guid isPermaLink="false">2114533728697335809</guid>
@@ -274,7 +330,7 @@ Curious which one would help you most with what you’re building! 👇]]></cont
       <dc:creator>Dilmerv</dc:creator>
       <content:encoded><![CDATA[Curious, when you try a tabletop MR game, do you prefer sitting down and keeping everything within reach, or walking around the table to explore it from different angles? 👀]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>XR devs, here’s a detail to keep in mind when building gaze interactions for Meta VR Glasses: looking at a button doesn’</title>
       <link>https://x.com/Dilmerv/status/2114532245495250952</link>
       <guid isPermaLink="false">2114532245495250952</guid>
@@ -290,7 +346,7 @@ https://x.com/Dilmerv/status/2114532245495250952/video/1
 Take a look at all of these best practices in more detail here 👇
 https://developers.meta.com/vr/design/eyes-best-practices/]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Devs, what’s a project you built years ago that you would love to bring back? I’ve been turning some of my old iOS games</title>
       <link>https://x.com/Dilmerv/status/2114514870431346908</link>
       <guid isPermaLink="false">2114514870431346908</guid>
@@ -298,7 +354,7 @@ https://developers.meta.com/vr/design/eyes-best-practices/]]></content:encoded>
       <dc:creator>Dilmerv</dc:creator>
       <content:encoded><![CDATA[Devs, what’s a project you built years ago that you would love to bring back? I’ve been turning some of my old iOS games into mixed reality experiences, and honestly, it has been so much fun! 🙌]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>I’ve updated all my project details and links at https://www.learnxr.io/links. I’m very excited to finish up Cubiques VR</title>
       <link>https://x.com/Dilmerv/status/2114511873022587104</link>
       <guid isPermaLink="false">2114511873022587104</guid>
@@ -307,7 +363,7 @@ https://developers.meta.com/vr/design/eyes-best-practices/]]></content:encoded>
       <content:encoded><![CDATA[I’ve updated all my project details and links at https://www.learnxr.io/links. I’m very excited to finish up Cubiques VR/MR and Hand Skate within the next few weeks!
 https://x.com/Dilmerv/status/2114511873022587104/photo/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>One thing I’m enjoying with Cubiques is experimenting with how you interact with it in VR/MR. The game already existed, </title>
       <link>https://x.com/Dilmerv/status/2114492224373235713</link>
       <guid isPermaLink="false">2114492224373235713</guid>
@@ -315,7 +371,7 @@ https://x.com/Dilmerv/status/2114511873022587104/photo/1]]></content:encoded>
       <dc:creator>Dilmerv</dc:creator>
       <content:encoded><![CDATA[One thing I’m enjoying with Cubiques is experimenting with how you interact with it in VR/MR. The game already existed, but figuring out how it should feel with mixed reality, hands, and gaze is a whole new challenge!]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Honestly, the more time I spend with lightweight VR glasses, the more I think the best experiences will be the ones you </title>
       <link>https://x.com/Dilmerv/status/2114484389400936796</link>
       <guid isPermaLink="false">2114484389400936796</guid>
@@ -323,7 +379,7 @@ https://x.com/Dilmerv/status/2114511873022587104/photo/1]]></content:encoded>
       <dc:creator>Dilmerv</dc:creator>
       <content:encoded><![CDATA[Honestly, the more time I spend with lightweight VR glasses, the more I think the best experiences will be the ones you forget you’re wearing. Still early, but that direction feels right.]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Lightweight VR glasses change the game because they can stay on for a very long period of time. The experiences that win</title>
       <link>https://x.com/Dilmerv/status/2114450668065034714</link>
       <guid isPermaLink="false">2114450668065034714</guid>
@@ -333,7 +389,7 @@ https://x.com/Dilmerv/status/2114511873022587104/photo/1]]></content:encoded>
 
 Excited to see what devs ship once the form factor is no longer the barrier it used to be.]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>This is epic and it is all running with IWSDK (in the browser with WebXR) 👏</title>
       <link>https://x.com/Dilmerv/status/2114401477259309467</link>
       <guid isPermaLink="false">2114401477259309467</guid>
@@ -351,7 +407,7 @@ Source: https://github.com/felixtrz/chinese-garden
 Prompt below ↓
 https://x.com/felix_trz/status/2111528908080517570/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>It's crazy how VR modders keep making me want to buy games I had zero interest in playing on a flat screen.</title>
       <link>https://x.com/nathie/status/2114310023207952731</link>
       <guid isPermaLink="false">2114310023207952731</guid>
@@ -359,7 +415,7 @@ https://x.com/felix_trz/status/2111528908080517570/video/1]]></content:encoded>
       <dc:creator>nathie</dc:creator>
       <content:encoded><![CDATA[It's crazy how VR modders keep making me want to buy games I had zero interest in playing on a flat screen.]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Got to try out my custom VRChat to Splattery pipeline today during a community meetup</title>
       <link>https://x.com/SadlyItsBradley/status/2114114352035033091</link>
       <guid isPermaLink="false">2114114352035033091</guid>
@@ -370,7 +426,7 @@ https://x.com/felix_trz/status/2111528908080517570/video/1]]></content:encoded>
 Now I will have a fully volumetric group “photo” of my friends in that virtual moment, FOREVER
 https://x.com/SadlyItsBradley/status/2114114352035033091/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Here’s an example of gaze interactions I added to the VR/MR version of “Cubiques” and how you can test these features ea</title>
       <link>https://x.com/Dilmerv/status/2114100282154156373</link>
       <guid isPermaLink="false">2114100282154156373</guid>
@@ -389,7 +445,7 @@ https://developers.meta.com/vr/documentation/unity/unity-isdk-gaze-interaction/
 
 Unreal: https://developers.meta.com/vr/documentation/unreal/unreal-isdk-gaze-getting-started/]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Duolingo in VR is one of the coolest things I’ve seen in a while.</title>
       <link>https://x.com/nathie/status/2114077508249256216</link>
       <guid isPermaLink="false">2114077508249256216</guid>
@@ -400,7 +456,7 @@ https://x.com/nathie/status/2114077508249256216/video/1
 
 This project was made for the XR design challenge by a talented dev team calling themselves the Lemon Sharks. You can learn more about their amazing concept here and even try yourself: https://devpost.com/software/duolingo-xr]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>X is making me think I dodged quite a few bullets by not owning a TV</title>
       <link>https://x.com/SadlyItsBradley/status/2114067287770882121</link>
       <guid isPermaLink="false">2114067287770882121</guid>
@@ -410,7 +466,7 @@ This project was made for the XR design challenge by a talented dev team calling
 
 Now let me go back to playing vr on my trustworthy and privacy-safe meta quest]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>2026 Modernized</title>
       <link>https://x.com/SadlyItsBradley/status/2114053357493199030</link>
       <guid isPermaLink="false">2114053357493199030</guid>
@@ -422,7 +478,7 @@ https://x.com/SadlyItsBradley/status/2114053357493199030/video/1
 引用 @SadlyItsBradley：VRChat Workrooms
 https://x.com/SadlyItsBradley/status/1720395472286761424/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Here’s another game I built about 5 years ago for iOS and Apple TV that was featured by Apple on both platforms!</title>
       <link>https://x.com/Dilmerv/status/2114037069341421726</link>
       <guid isPermaLink="false">2114037069341421726</guid>
@@ -436,7 +492,7 @@ https://x.com/Dilmerv/status/2114037069341421726/video/1
 For reference purposes, here’s the original game. I believe this was the TVOS version, but I pulled this video from an old YouTube channel I had when I was making iOS games.
 https://x.com/Dilmerv/status/2114104864615907737/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>What's the best VR mod you can play right now?</title>
       <link>https://x.com/nathie/status/2114022656827650248</link>
       <guid isPermaLink="false">2114022656827650248</guid>
@@ -445,7 +501,7 @@ https://x.com/Dilmerv/status/2114104864615907737/video/1]]></content:encoded>
       <content:encoded><![CDATA[What's the best VR mod you can play right now?
 https://x.com/nathie/status/2114022656827650248/photo/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>The future we’ll experience with Meta VR Glasses and all the like-minded companies building lightweight, powerful mixed </title>
       <link>https://x.com/Dilmerv/status/2113781442945880236</link>
       <guid isPermaLink="false">2113781442945880236</guid>
@@ -453,7 +509,7 @@ https://x.com/nathie/status/2114022656827650248/photo/1]]></content:encoded>
       <dc:creator>Dilmerv</dc:creator>
       <content:encoded><![CDATA[The future we’ll experience with Meta VR Glasses and all the like-minded companies building lightweight, powerful mixed reality devices is extremely exciting. I’m so happy that so many of us who started years ago get to experience what we’ve always dreamed of!]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>📣 XR devs, here are few more great tips!</title>
       <link>https://x.com/Dilmerv/status/2113767854638342414</link>
       <guid isPermaLink="false">2113767854638342414</guid>
@@ -480,7 +536,7 @@ https://x.com/Dilmerv/status/2113767854638342414/photo/1
 
 - GitHub Sample project: https://github.com/oculus-samples/Unity-MRUtilityKitSample]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>CD-ROM is support coming to Steam Frame</title>
       <link>https://x.com/SadlyItsBradley/status/2113731023645102102</link>
       <guid isPermaLink="false">2113731023645102102</guid>
@@ -493,7 +549,7 @@ https://x.com/SadlyItsBradley/status/2113731023645102102/photo/1
 
 I want to see someone mount a disc drive directly on top of their head alongside the Steam frame]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>This is exciting for XR devs!</title>
       <link>https://x.com/Dilmerv/status/2113726842779861304</link>
       <guid isPermaLink="false">2113726842779861304</guid>
@@ -515,7 +571,7 @@ https://x.com/Dilmerv/status/2113726842779861304/video/1
 Full announcement from Khronos 👇
 https://www.khronos.org/blog/openxr-spatial-containers]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>🤝 There’s still time to bring your XR app, meetup or side event to UnitedXR Europe, 7–9 December in Brussels.</title>
       <link>https://x.com/ARealityEvent/status/2113676830779797755</link>
       <guid isPermaLink="false">2113676830779797755</guid>
@@ -530,7 +586,7 @@ Deadline: 30 October
 
 #UnitedXR #XR https://x.com/ARealityEvent/status/2113676830779797755/photo/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>🕶️ Robert Downey Jr. joins SPECS as Chief Customer Experience Officer.</title>
       <link>https://x.com/ARealityEvent/status/2113527055493304395</link>
       <guid isPermaLink="false">2113527055493304395</guid>
@@ -543,7 +599,7 @@ Deadline: 30 October
 #AWE #XR #SpatialAI
 https://x.com/ARealityEvent/status/2113527055493304395/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Someone from my discord:</title>
       <link>https://x.com/SadlyItsBradley/status/2113389888498229459</link>
       <guid isPermaLink="false">2113389888498229459</guid>
@@ -553,7 +609,7 @@ https://x.com/ARealityEvent/status/2113527055493304395/video/1]]></content:encod
 
 “Everyone ready for the randomized queue to see when you get to purchase HLX?”]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Submitting Fuse Balls to the Meta Store literally took minutes! The longest part was preparing the trailer, but all the </title>
       <link>https://x.com/Dilmerv/status/2113361945302913391</link>
       <guid isPermaLink="false">2113361945302913391</guid>
@@ -564,7 +620,7 @@ https://x.com/ARealityEvent/status/2113527055493304395/video/1]]></content:encod
 If you’re interested, check out this skill! 👇
 https://github.com/meta-quest/agentic-tools/blob/main/skills/hz-store-submit/SKILL.md]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>The gaming industry’s finale</title>
       <link>https://x.com/SadlyItsBradley/status/2113333764168569138</link>
       <guid isPermaLink="false">2113333764168569138</guid>
@@ -577,7 +633,7 @@ https://github.com/meta-quest/agentic-tools/blob/main/skills/hz-store-submit/SKI
 HLX files today. I'm working as quickly as I can.
 https://x.com/Tyler_McV/status/2113313815110770690/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>This PCVR Streamer will also recolor, or in some cases relight, your passthrough zones you draw out as well</title>
       <link>https://x.com/SadlyItsBradley/status/2113318461971828770</link>
       <guid isPermaLink="false">2113318461971828770</guid>
@@ -593,7 +649,7 @@ https://x.com/SadlyItsBradley/status/2113318461971828770/video/1
 (Except for the lack of Eye and Face tracking APIs 🥲)
 https://x.com/SadlyItsBradley/status/2113302629606461583/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>This VR podracing simulator looks unreal.</title>
       <link>https://x.com/nathie/status/2113315308299513970</link>
       <guid isPermaLink="false">2113315308299513970</guid>
@@ -605,7 +661,7 @@ https://x.com/nathie/status/2113315308299513970/video/1
 Definitely give KrisKalis a follow for more amazing VR content including flight, space and full-body motion simulators!
 https://linktr.ee/kriskalis?utm_source=linktree_profile_share&ltsid=663e6a49-8e6f-4f7b-85e7-a9ce9d2d4420]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Vision Pro will soon have the most immersive PCVR streaming app..</title>
       <link>https://x.com/SadlyItsBradley/status/2113302629606461583</link>
       <guid isPermaLink="false">2113302629606461583</guid>
@@ -616,7 +672,7 @@ https://linktr.ee/kriskalis?utm_source=linktree_profile_share&ltsid=663e6a49-8e6
 (Except for the lack of Eye and Face tracking APIs 🥲)
 https://x.com/SadlyItsBradley/status/2113302629606461583/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>🎟️ Only have one day for UnitedXR Europe?</title>
       <link>https://x.com/ARealityEvent/status/2113254045658099848</link>
       <guid isPermaLink="false">2113254045658099848</guid>
@@ -632,7 +688,7 @@ The 1-Day Pass (€185) gets you into the sessions and the expo floor with 180+ 
 #UnitedXR
 https://x.com/ARealityEvent/status/2113254045658099848/photo/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Here’s Inverse Kinematics (IK) in action with my Hand Grab Pose Baker tool!</title>
       <link>https://x.com/Dilmerv/status/2113140426890993809</link>
       <guid isPermaLink="false">2113140426890993809</guid>
@@ -641,7 +697,7 @@ https://x.com/ARealityEvent/status/2113254045658099848/photo/1]]></content:encod
       <content:encoded><![CDATA[Here’s Inverse Kinematics (IK) in action with my Hand Grab Pose Baker tool! This lets you lock specific joints, and the video shows the results.
 https://x.com/Dilmerv/status/2113140426890993809/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>A Gaussian Splat of my friend’s VRChat avatar that I captured with my WIP Spatial Video Capture prefab</title>
       <link>https://x.com/SadlyItsBradley/status/2113043532684337408</link>
       <guid isPermaLink="false">2113043532684337408</guid>
@@ -661,7 +717,7 @@ https://x.com/Dilmerv/status/2113140426890993809/video/1]]></content:encoded>
       This allows me to capture and create holograms of my friends and other really cool things I find in the metaverse, using Splattery
       https://x.com/SadlyItsBradley/status/2112098584409907622/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Fuse Balls is officially available in the Meta Store as of this morning! 🎉 I’m really excited to have brought my old iOS</title>
       <link>https://x.com/Dilmerv/status/2112934213028880678</link>
       <guid isPermaLink="false">2112934213028880678</guid>
@@ -676,7 +732,7 @@ I’ve learned so much about building hands-first experiences, and I can’t wai
 You can download Fuse Balls for free here! 👇
 https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>I’ve been quietly building a new Hand Pose Baking tool for Meta VR Glasses that also works with Quest devices.</title>
       <link>https://x.com/Dilmerv/status/2112800102712775157</link>
       <guid isPermaLink="false">2112800102712775157</guid>
@@ -689,7 +745,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       So far, I’m getting better results. It’s not perfect, but honestly, the improvements are so good! It now takes just 2–3 seconds to bake one object.
       https://x.com/Dilmerv/status/2112800102712775157/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>I’ve been a dev for decades, but recently I’ve developed a huge passion for agentic workflows.</title>
       <link>https://x.com/Dilmerv/status/2112769827605828079</link>
       <guid isPermaLink="false">2112769827605828079</guid>
@@ -709,7 +765,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       #MetaVR #MetaVRGlasses #DevTools #AICoding
       https://x.com/MetaVRDevs/status/2112667703203021055/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Here’s another example of what you can build for Meta VR Glasses!</title>
       <link>https://x.com/Dilmerv/status/2112679677718577510</link>
       <guid isPermaLink="false">2112679677718577510</guid>
@@ -720,7 +776,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       I previously shared placement options in another demo I built. This is a second prototype I’m working on called “Hand Skate.” It shows table placement, interactions with the skater character, hand gestures to control the skater, and a variety of skate parks and themes!
       https://x.com/Dilmerv/status/2112679677718577510/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>I’m in Orange County this week and captured all of this with Meta Fury sunglasses!</title>
       <link>https://x.com/Dilmerv/status/2112663359611121756</link>
       <guid isPermaLink="false">2112663359611121756</guid>
@@ -733,7 +789,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       - Discreet open-ear speakers and 6 microphones
       https://x.com/Dilmerv/status/2112663359611121756/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>I love Iron Man, and honestly, this was such a great selection.</title>
       <link>https://x.com/Dilmerv/status/2112652056679092513</link>
       <guid isPermaLink="false">2112652056679092513</guid>
@@ -746,7 +802,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       https://www.specs.com/
       https://x.com/specs/status/2112533822013079986/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Here are a few great features to consider when building your game for Meta VR Glasses: easy transitions between MR and V</title>
       <link>https://x.com/Dilmerv/status/2112567968731439344</link>
       <guid isPermaLink="false">2112567968731439344</guid>
@@ -760,7 +816,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       📌 Passthrough transitioning developed by @xrdevrob is available here
       https://developers.meta.com/vr/documentation/unity/unity-mrmotifs-passthrough-transitioning/]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Robert Downey Jr. is officially teaming up with Snap's SPECS AR glasses to help shape the future of wearables.</title>
       <link>https://x.com/nathie/status/2112548527125471716</link>
       <guid isPermaLink="false">2112548527125471716</guid>
@@ -773,7 +829,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       
       Learn more here: https://investor.snap.com/news/news-details/2026/Robert-Downey-Jr--Joins-SPECS-as-Chief-Customer-Experience-Officer/default.aspx]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>⏰ Last chance: UnitedXR Europe Early Bird ends 21 October, midnight CET</title>
       <link>https://x.com/ARealityEvent/status/2112529268223926290</link>
       <guid isPermaLink="false">2112529268223926290</guid>
@@ -789,7 +845,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       #UnitedXR #XR #AR #VR
       https://x.com/ARealityEvent/status/2112529268223926290/photo/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>You wouldn’t download an entire Disney World garden + fountain fixture, would you?</title>
       <link>https://x.com/SadlyItsBradley/status/2112343344919531836</link>
       <guid isPermaLink="false">2112343344919531836</guid>
@@ -809,11 +865,11 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       You can then recolor, re-sculpt, and 3D print them afterwards!
       https://x.com/SadlyItsBradley/status/2107596978775339154/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>This Weekend's Project: a Spatial Video capture tool inside VRChat!</title>
       <link>https://x.com/SadlyItsBradley/status/2112098584409907622</link>
       <guid isPermaLink="false">2112098584409907622</guid>
-      <pubDate>Mon, 19 Oct 2026 08:28:38 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 08:28:38 GMT</pubDate>
       <dc:creator>SadlyItsBradley</dc:creator>
       <content:encoded><![CDATA[This Weekend's Project: a Spatial Video capture tool inside VRChat!
       
@@ -831,7 +887,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       You can then recolor, re-sculpt, and 3D print them afterwards!
       https://x.com/SadlyItsBradley/status/2107596978775339154/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Would you believe me if I told you I had a little portal to VRChat on my desk?</title>
       <link>https://x.com/SadlyItsBradley/status/2112008731617624085</link>
       <guid isPermaLink="false">2112008731617624085</guid>
@@ -844,7 +900,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       Truly a glorious future we live in
       https://x.com/SadlyItsBradley/status/2112008731617624085/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>⏰ Early Bird for UnitedXR Europe ends on 21 October. Register at the best price and save €120 on your pass.</title>
       <link>https://x.com/ARealityEvent/status/2111819592423367119</link>
       <guid isPermaLink="false">2111819592423367119</guid>
@@ -859,7 +915,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       #UnitedXR
       https://x.com/ARealityEvent/status/2111819592423367119/photo/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>I am building tools today to extend our SDKs, and then I am using those same tools to build new games!</title>
       <link>https://x.com/Dilmerv/status/2111699786135130429</link>
       <guid isPermaLink="false">2111699786135130429</guid>
@@ -867,7 +923,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       <dc:creator>Dilmerv</dc:creator>
       <content:encoded><![CDATA[I am building tools today to extend our SDKs, and then I am using those same tools to build new games! These are crazy times.]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Well, it happened!</title>
       <link>https://x.com/Dilmerv/status/2111698441219063861</link>
       <guid isPermaLink="false">2111698441219063861</guid>
@@ -876,7 +932,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       <content:encoded><![CDATA[Well, it happened! I worked on this all day and submitted it to the Meta Developer Portal! 🎉
       https://x.com/Dilmerv/status/2111698441219063861/photo/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>I did a lot of work this weekend polishing Fuse Balls, and it’s now submitted to the Store! 🎉</title>
       <link>https://x.com/Dilmerv/status/2111684239154631101</link>
       <guid isPermaLink="false">2111684239154631101</guid>
@@ -887,7 +943,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       Curious to hear your thoughts!
       https://x.com/Dilmerv/status/2111684239154631101/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>About to submit a new game!</title>
       <link>https://x.com/Dilmerv/status/2111621160161186272</link>
       <guid isPermaLink="false">2111621160161186272</guid>
@@ -896,7 +952,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       <content:encoded><![CDATA[About to submit a new game! Fuse Balls is a game I originally developed for iOS years ago, and now it’s coming to Meta Quest!
       https://x.com/Dilmerv/status/2111621160161186272/photo/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>It’s a bit hard to capture how cool this is with Meta XR Simulator, but using the sim during development is saving me so</title>
       <link>https://x.com/Dilmerv/status/2111570325855175084</link>
       <guid isPermaLink="false">2111570325855175084</guid>
@@ -905,7 +961,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       <content:encoded><![CDATA[It’s a bit hard to capture how cool this is with Meta XR Simulator, but using the sim during development is saving me so much time! Here’s how I’m testing the hand gestures.
       https://x.com/Dilmerv/status/2111570325855175084/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Spending the weekend experimenting with Blender MCP and seeing how it integrates with Unity &amp; Mixed Reality!</title>
       <link>https://x.com/Dilmerv/status/2111550087809978412</link>
       <guid isPermaLink="false">2111550087809978412</guid>
@@ -916,7 +972,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       Here’s a look at the models + textures generated so far for a miniature tabletop game I’m building called “Hand Skate.” And yes, it will be controlled entirely through hand tracking! 🙌🛹
       https://x.com/Dilmerv/status/2111550087809978412/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>You can now fish in VR and still watch your actual TV.</title>
       <link>https://x.com/nathie/status/2111507588214902900</link>
       <guid isPermaLink="false">2111507588214902900</guid>
@@ -928,7 +984,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       The game is called Real VR Fishing. Learn more here!
       https://www.reddit.com/r/OculusQuest/s/cAWGF8HvOg]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>3D printed a Remote Control Car</title>
       <link>https://x.com/SadlyItsBradley/status/2111494768840835554</link>
       <guid isPermaLink="false">2111494768840835554</guid>
@@ -943,7 +999,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       AND gave it special effects such as occlusion, destruction debris, and spatial audio to hide IRL motor noises
       https://x.com/SadlyItsBradley/status/2111494768840835554/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>After you successfully destroy the Scarab</title>
       <link>https://x.com/SadlyItsBradley/status/2111209658635391472</link>
       <guid isPermaLink="false">2111209658635391472</guid>
@@ -954,7 +1010,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       The Hornets will come to land on the palm of your hand, where you can then flick them the heck off
       https://x.com/SadlyItsBradley/status/2111209658635391472/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Some of the swag we got during our team offsites! This brings back so many great memories of when I first started creating videos with the Oculus Integration!</title>
       <link>https://x.com/Dilmerv/status/2111132714288259578</link>
       <guid isPermaLink="false">2111132714288259578</guid>
@@ -963,7 +1019,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       <content:encoded><![CDATA[Some of the swag we got during our team offsites! This brings back so many great memories of when I first started creating videos with the Oculus Integration!
       https://x.com/Dilmerv/status/2111132714288259578/photo/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>📣 Sponsor or exhibit at UnitedXR Europe!</title>
       <link>https://x.com/ARealityEvent/status/2111110002341753043</link>
       <guid isPermaLink="false">2111110002341753043</guid>
@@ -980,7 +1036,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       #UnitedXR #XR #AR #VR
       https://x.com/ARealityEvent/status/2111110002341753043/photo/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Working on a feature that captures a timelapse of your 3D HoloPrint job for sharing as a Spatial Video</title>
       <link>https://x.com/SadlyItsBradley/status/2111108585283580184</link>
       <guid isPermaLink="false">2111108585283580184</guid>
@@ -992,7 +1048,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       引用 @SadlyItsBradley：I still cant get over how cool this is
       https://x.com/SadlyItsBradley/status/2109753838185964005/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>📬 This week in the Weekly Spatial:</title>
       <link>https://x.com/ARealityEvent/status/2110993380910174631</link>
       <guid isPermaLink="false">2110993380910174631</guid>
@@ -1006,7 +1062,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       #AWE2026
       https://x.com/ARealityEvent/status/2110993380910174631/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>When the explosion gets uh… a little too crazy for the GPU..</title>
       <link>https://x.com/SadlyItsBradley/status/2110972781768982877</link>
       <guid isPermaLink="false">2110972781768982877</guid>
@@ -1021,7 +1077,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       
       Making my whole IRL overexposed by Bloom is REALLY funny tho]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>I’ve gone to previous Somnium Connects.</title>
       <link>https://x.com/SadlyItsBradley/status/2110945856589602968</link>
       <guid isPermaLink="false">2110945856589602968</guid>
@@ -1043,7 +1099,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       https://somniumspace.com/connect2026
       https://x.com/SomniumSpace/status/2110685540005859776/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Command &amp; Conquer Generals: Zero Hour has a fully playable VR mod that you can check out on Meta Quest.</title>
       <link>https://x.com/nathie/status/2110766224577884411</link>
       <guid isPermaLink="false">2110766224577884411</guid>
@@ -1058,7 +1114,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       
       https://github.com/Cesarus85/Generals-Zero-Hour-XR]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>🕶️ Meet the exhibitors joining UnitedXR Europe 2026</title>
       <link>https://x.com/ARealityEvent/status/2110608600448245796</link>
       <guid isPermaLink="false">2110608600448245796</guid>
@@ -1075,7 +1131,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       #UnitedXR #XR #AR #VR
       https://x.com/ARealityEvent/status/2110608600448245796/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>SanDisk is partnering with Meta as the exclusive storage partner for its upcoming Meta VR glasses, offering officially t</title>
       <link>https://x.com/nathie/status/2110598714859655257</link>
       <guid isPermaLink="false">2110598714859655257</guid>
@@ -1084,7 +1140,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       <content:encoded><![CDATA[SanDisk is partnering with Meta as the exclusive storage partner for its upcoming Meta VR glasses, offering officially tested microSD Express cards and USB-C flash drives.
       https://x.com/nathie/status/2110598714859655257/photo/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>How I do “sync tests” for HoloPrinter:</title>
       <link>https://x.com/SadlyItsBradley/status/2110556386765742335</link>
       <guid isPermaLink="false">2110556386765742335</guid>
@@ -1093,7 +1149,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       <content:encoded><![CDATA[How I do “sync tests” for HoloPrinter:
       https://x.com/SadlyItsBradley/status/2110556386765742335/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Steam Frame OS on the main staging branch (used mostly by Valve) upgraded the Linux Kernel from 6.18 to 7.2</title>
       <link>https://x.com/SadlyItsBradley/status/2110494074985746794</link>
       <guid isPermaLink="false">2110494074985746794</guid>
@@ -1103,7 +1159,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       
       That is 4 major version steps, so I expect the next Preview/Beta channel patch notes for Steam Frame to be somewhat large]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Yippee</title>
       <link>https://x.com/SadlyItsBradley/status/2110462740074758171</link>
       <guid isPermaLink="false">2110462740074758171</guid>
@@ -1115,7 +1171,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       引用 @SadlyItsBradley：Making great progress!
       https://x.com/SadlyItsBradley/status/2110429346217230457/photo/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Sigh.. Another thing. The foveated scaling in the Deckard-Plano panel is actually nothing special to Valve/SteamOS</title>
       <link>https://x.com/SadlyItsBradley/status/2110446416631857419</link>
       <guid isPermaLink="false">2110446416631857419</guid>
@@ -1126,7 +1182,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       It is a built in feature for the Micro-OLED display’s backplane that make it possible for headsets like the Galaxy XR, for example, to even WORK on a lame SOC
       https://x.com/SadlyItsBradley/status/2110446416631857419/photo/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Making great progress!</title>
       <link>https://x.com/SadlyItsBradley/status/2110429346217230457</link>
       <guid isPermaLink="false">2110429346217230457</guid>
@@ -1138,7 +1194,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       引用 @SadlyItsBradley：Working on something I think will be REALLY cool when it all comes together
       https://x.com/SadlyItsBradley/status/2110064328523366532/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Steam Frame OLED edition is apparently already in development.</title>
       <link>https://x.com/nathie/status/2110408971802865955</link>
       <guid isPermaLink="false">2110408971802865955</guid>
@@ -1153,7 +1209,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       more at: 
       https://steamframehub.com/exclusive-here-we-go-again-valve-is-making-an-oled-steam-frame/]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>One more thing: for many years, before Valve had any actual hardware to develop SteamOS (ARM)</title>
       <link>https://x.com/SadlyItsBradley/status/2110387400975475032</link>
       <guid isPermaLink="false">2110387400975475032</guid>
@@ -1170,7 +1226,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       
       Rather than them just.. building a whole module that is ready soon for mass production or whatever]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>I got to do something super cool this morning</title>
       <link>https://x.com/SadlyItsBradley/status/2110379760178074039</link>
       <guid isPermaLink="false">2110379760178074039</guid>
@@ -1179,7 +1235,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       <content:encoded><![CDATA[I got to do something super cool this morning
       https://x.com/SadlyItsBradley/status/2110379760178074039/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>Took a look at the Deckard-Plano (Micro-OLED Frame) stuff… after waking up to pure panic</title>
       <link>https://x.com/SadlyItsBradley/status/2110376728111534123</link>
       <guid isPermaLink="false">2110376728111534123</guid>
@@ -1218,7 +1274,7 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       
       Rather than them just.. building a whole module that is ready soon for mass production or whatever]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>oh Jesus fuck</title>
       <link>https://x.com/SadlyItsBradley/status/2110363642881257893</link>
       <guid isPermaLink="false">2110363642881257893</guid>
@@ -1236,71 +1292,5 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       more at: 
       https://steamframehub.com/exclusive-here-we-go-again-valve-is-making-an-oled-steam-frame/]]></content:encoded>
     </item>
-    <item>
-      <title>Last week, I worked on a small project to bring back a game I built years ago!</title>
-      <link>https://x.com/Dilmerv/status/2110232719900708875</link>
-      <guid isPermaLink="false">2110232719900708875</guid>
-      <pubDate>Wed, 14 Oct 2026 04:54:21 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Last week, I worked on a small project to bring back a game I built years ago! It was originally made for mobile, and I used agentic workflows to turn it into a Mixed Reality tabletop game. 🙌
-      
-      ⚙️ Tools I used:
-      - Muse Code (𝗺𝘂𝘀𝗲-𝘄𝗼𝗻𝗱𝗲𝗿-𝟭.𝟬)
-      - Unity / Unity CLI
-      - Meta SDKs (ISDK, MRUK, PSDK)
-      - Meta VR CLI
-      - Adobe Photoshop
-      
-      My plan is to launch it in the store as a demo by tomorrow morning and I’ll be doing a video about my learnings!
-      
-      The original mobile game video is on this thread👇
-      https://x.com/Dilmerv/status/2110232719900708875/video/1
-      
-      This was originally built for iOS & Android, and I pulled the old code from BitBucket, which I don’t use anymore. I moved the code to GitHub and created a new branch to do the conversion. It took exactly 3 days.
-      https://x.com/Dilmerv/status/2110232782601609559/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>I’ll always have a very special place in my heart for you, Valve Index</title>
-      <link>https://x.com/SadlyItsBradley/status/2110140656509161814</link>
-      <guid isPermaLink="false">2110140656509161814</guid>
-      <pubDate>Tue, 13 Oct 2026 22:48:31 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[I’ll always have a very special place in my heart for you, Valve Index
-      
-      Thank you for the many years of being the best and true all-rounder PCVR experience
-      https://x.com/HardwareSteam/status/2110138753649913956
-      
-      引用 @HardwareSteam：VALVE INDEX UPDATE
-      
-      Valve has formally announced that they will be sun-setting Valve Index. Coupled with this announcement is a new page where you can order the last remaining stock of certain Valve Index hardware. After these are out of stock, Valve Index will no longer be sold on Steam.
-      
-      The products listed are as follows:
-      
-      Valve Index Headset
-      Valve Index Replacement Left Controller
-      Valve Index Replacement Tether
-      https://x.com/HardwareSteam/status/2110138753649913956/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>The Meta Ray-Ban Display smart glasses are now available in France, Italy and Germany costing €899.</title>
-      <link>https://x.com/nathie/status/2110099934250971300</link>
-      <guid isPermaLink="false">2110099934250971300</guid>
-      <pubDate>Tue, 13 Oct 2026 20:06:42 GMT</pubDate>
-      <dc:creator>nathie</dc:creator>
-      <content:encoded><![CDATA[The Meta Ray-Ban Display smart glasses are now available in France, Italy and Germany costing €899.
-      https://x.com/nathie/status/2110099934250971300/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Bro is playing Minecraft VR standalone on Steam Frame right next to the Mojang office</title>
-      <link>https://x.com/SadlyItsBradley/status/2110022104569557172</link>
-      <guid isPermaLink="false">2110022104569557172</guid>
-      <pubDate>Tue, 13 Oct 2026 14:57:26 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[Bro is playing Minecraft VR standalone on Steam Frame right next to the Mojang office
-      
-      https://bsky.app/profile/friz64.de/post/3mxqywyznhs24
-      
-      I love it 🥹]]></content:encoded>
-    </item>
-  </channel>
+</channel>
 </rss>
