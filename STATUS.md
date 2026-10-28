@@ -1,6 +1,6 @@
 # STATUS — XRHOT X 采集状态
 
-最后在本文件手工更新：2026-10-27 21:02 PDT（例行 2026-10-28 12:00 BJT）。
+最后在本文件手工更新：2026-10-28 01:08 PDT（例行 2026-10-28 16:00 BJT）。
 
 ## 订阅现状
 
@@ -16,13 +16,13 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-offic
 curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml | grep -c '<item>'
 ```
 
-## 本轮：2026-10-28 12:00 BJT
+## 本轮：2026-10-28 16:00 BJT
 
-- 预检 19 账号；最新 id 高于 watermark：XREAL_Global、MetaVRDevs、VRChat、BeatSaber、Dilmerv、SadlyItsBradley；其余等于 watermark 跳过；LensStudioDev 无新可入库（aged-out）。
-- **official 100→100（+2）：** XREAL_Global AURA Android Dev Summit 2115287671849578778；BeatSaber Ghostbusters environment 2115250452988035453。丢掉最旧 2 条。MetaVRDevs / VRChat `exclude` 后 result_count 0（最新为 RT/回复）。
-- **media-kol 100→100（+1）：** Dilmerv Meta VR Glasses SDK / Cubiques Meta Store 2115237113113219140。丢掉最旧 1 条。Dilmerv 动机闲聊 2115273852016058663 非 XR 丢弃；SadlyItsBradley Deadlock map 2115229006073078194 非 XR 游戏丢弃。
+- 预检 19 账号；最新 id 高于 watermark：XREAL_Global、RokidGlobal、magicleap、VRChat、MetaVRDevs、Dilmerv、SadlyItsBradley；其余等于 watermark 跳过；LensStudioDev aged-out skip（most_recent 2107190748114481270）。
+- **official 100→100（+2）：** magicleap waveguide / consumer AR 2115352876562239627；RokidGlobal CES 2027 quote（Glasses 2 / Color）2115341770716569859。丢掉最旧 2 条（2110044805669527903 VRChat / 2110022750995988754 pimaxofficial）。XREAL_Global / VRChat / MetaVRDevs `exclude` 后 result_count 0（最新为 RT/回复）。
+- **media-kol 100→100（+1）：** Dilmerv Quest 3 room reflections quote 2115314617933283528。丢掉最旧 1 条（2110019036528697453 SadlyItsBradley）。Dilmerv 动机闲聊 2115273852016058663 非 XR 丢弃；SadlyItsBradley Deadlock map 2115229006073078194 非 XR 游戏丢弃（最新 2115280803257372748 为回复/RT）。
 - 监控名单未变（official 15 / media-kol 4）。
-- 上一有变更档 2026-10-28 08:00 BJT：official +2；media-kol +1（HEAD 4c82390）。
+- 上一有变更档 2026-10-28 12:00 BJT：official +2；media-kol +1（HEAD 5d770ec）。
 
 ## 定时更新
 
@@ -33,7 +33,7 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media
 | 旧规范「每 30 分钟」 | **已废止** |
 | 省 token | 见 `scripts/cheap_check_plan.md` |
 
-下一例行节点（北京时间）：2026-10-28 **16:00**。
+下一例行节点（北京时间）：2026-10-28 **20:00**。
 
 ## 待办
 
