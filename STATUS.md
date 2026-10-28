@@ -1,6 +1,6 @@
 # STATUS — XRHOT X 采集状态
 
-最后在本文件手工更新：2026-10-27 12:14 PDT（补跑 2026-10-28 00:00 BJT 窗口后）。
+最后在本文件手工更新：2026-10-27 17:06 PDT（例行 2026-10-28 08:00 BJT）。
 
 ## 订阅现状
 
@@ -16,13 +16,13 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-offic
 curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml | grep -c '<item>'
 ```
 
-## 本轮：2026-10-28 00:00 BJT（12:14 PDT 补跑）
+## 本轮：2026-10-28 08:00 BJT
 
-- 预检 19 账号；最新 id 高于 watermark：htcvive、pimaxofficial、VRChat、BigscreenVR、MetaVRDevs、BeatSaber、nathie、Dilmerv、SadlyItsBradley；其余等于 watermark 跳过；LensStudioDev 无新可入库。
-- **official 100→100（+3）：** htcvive VIVE Eagle 2115155446482817172；pimaxofficial Comfort Kit fiber 2115145755203715515；VRChat Halloween party 2115137647970800092。丢掉最旧 3 条。BigscreenVR / MetaVRDevs / BeatSaber `exclude` 后 result_count 0（最新为 RT/回复）。
-- **media-kol 100→100（+5）：** Dilmerv Hand Grab Pose Baker 2115152843816464880；SadlyItsBradley HoloPrinter rooms 2115148895357423636；Dilmerv quote Meta VR Glasses + hand tracking 2115120676051063002；nathie Quest sales / breakthroughs 2115119023348187141；SadlyItsBradley Spatial Video on headset 2115112480229712201。丢掉最旧 5 条。Dilmerv 健身闲聊丢弃。
+- 预检 19 账号；最新 id 高于 watermark：htcvive、BigscreenVR、MetaVRDevs、VRChat、BeatSaber、Dilmerv、SadlyItsBradley；其余等于 watermark 跳过；LensStudioDev 无新可入库（aged-out）。
+- **official 100→100（+2）：** htcvive VIVE Eagle Fashion Week 2115222607754625453；BigscreenVR Beyond 3DoF Mode 2115219525843247443。丢掉最旧 2 条。MetaVRDevs / VRChat / BeatSaber `exclude` 后 result_count 0（最新为 RT/回复）。
+- **media-kol 100→100（+1）：** Dilmerv Meta VR Start Agentic Workflows / CLI 2115170092266983588。丢掉最旧 1 条。SadlyItsBradley Deadlock map 非 XR 游戏丢弃。
 - 监控名单未变（official 15 / media-kol 4）。
-- 上一有变更档 2026-10-27 20:00 BJT：official +1 VRChat；media-kol +3（HEAD 123f8c6）。
+- 上一有变更档 2026-10-28 00:00 BJT：official +3；media-kol +5（HEAD 179a23b）。
 
 ## 定时更新
 
@@ -33,7 +33,7 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media
 | 旧规范「每 30 分钟」 | **已废止** |
 | 省 token | 见 `scripts/cheap_check_plan.md` |
 
-下一例行节点（北京时间）：2026-10-28 **08:00**。
+下一例行节点（北京时间）：2026-10-28 **12:00**。
 
 ## 待办
 
