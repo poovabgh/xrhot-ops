@@ -4,8 +4,174 @@
     <title>X · XR 官方账号</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>MetaVR_Official / PICOXR / htcvive / BigscreenVR / XREAL_Global / RokidGlobal / getVITURE / pimaxofficial / Play_for_dream / PICOXR_Dev / MetaVRDevs / LensStudioDev / magicleap / VRChat / BeatSaber 的帖子</description>
-    <lastBuildDate>Wed, 28 Oct 2026 16:05:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 04:13:43 GMT</lastBuildDate>
         <item>
+      <title>A dog mid-jump. A ball in the air. A moment to revisit in XR. ⏳</title>
+      <link>https://x.com/PICOXR_Dev/status/2115634287437570110</link>
+      <guid isPermaLink="false">2115634287437570110</guid>
+      <pubDate>Thu, 29 Oct 2026 02:38:15 GMT</pubDate>
+      <dc:creator>PICOXR_Dev</dc:creator>
+      <content:encoded><![CDATA[A dog mid-jump. A ball in the air. A moment to revisit in XR. ⏳
+
+This developer built a time-freezing app with Claude Code, with PICO CLI helping take the workflow to “ready for you to test.”
+
+We love seeing our tools help developers bring playful XR ideas to life.
+https://x.com/lucas_martinic/status/2112514417300758643
+
+引用 @lucas_martinic：Opus 5.5 built me an app to freeze time ⏳
+
+End to end, from scratch. Claude Code installed everything I needed on my new MacBook Neo:
+- Unity 6
+- Unity CLI
+- Pico CLI
+Then it went ahead and built the first iteration using headless versions of every program involved (no UI), built the .apk, installed it on my device (new Pico headset), and told me it was “ready for you to test.” I was 🤯
+https://x.com/lucas_martinic/status/2112514417300758643/video/1]]></content:encoded>
+    </item>
+<item>
+      <title>Your favorite apps. A whole new dimension.</title>
+      <link>https://x.com/XREAL_Global/status/2115580072698462386</link>
+      <guid isPermaLink="false">2115580072698462386</guid>
+      <pubDate>Wed, 28 Oct 2026 23:02:49 GMT</pubDate>
+      <dc:creator>XREAL_Global</dc:creator>
+      <content:encoded><![CDATA[Your favorite apps. A whole new dimension.
+With XREAL AURA, powered by Android XR, discover more ways to work, watch, play, and explore.
+Bring familiar apps into your spatial workspace, enjoy entertainment on an expansive virtual screen, and discover experiences built specifically for XR.
+With access to millions of mobile and tablet apps from Google Play and over 150 experiences
+designed specifically for XR, there's always something new to discover.
+Which experience would you try first?
+#XREAL #AURA #AndroidXR
+Android XR and Google Play are trademarks of Google LLC.
+https://x.com/XREAL_Global/status/2115580072698462386/video/1]]></content:encoded>
+    </item>
+<item>
+      <title>A few weeks ago, we asked the community to submit feedback on how they felt about AI in VRChat.</title>
+      <link>https://x.com/VRChat/status/2115542209785446488</link>
+      <guid isPermaLink="false">2115542209785446488</guid>
+      <pubDate>Wed, 28 Oct 2026 20:32:22 GMT</pubDate>
+      <dc:creator>VRChat</dc:creator>
+      <content:encoded><![CDATA[A few weeks ago, we asked the community to submit feedback on how they felt about AI in VRChat. 
+
+Here's our takeaways and next steps: 
+
+https://ask.vrchat.com/t/where-were-landing-on-ai-in-vrchat/49178]]></content:encoded>
+    </item>
+<item>
+      <title>2026.4.1 is Live! This is *NOT* a network-compatible release! You've been warned!</title>
+      <link>https://x.com/VRChat/status/2115512628550205783</link>
+      <guid isPermaLink="false">2115512628550205783</guid>
+      <pubDate>Wed, 28 Oct 2026 18:34:49 GMT</pubDate>
+      <dc:creator>VRChat</dc:creator>
+      <content:encoded><![CDATA[2026.4.1 is Live! This is *NOT* a network-compatible release! You've been warned!
+
+This patch introduces the Safety Center, Improved Face Tracking, a new login flow... and more!
+
+Read here: https://docs.vrchat.com/docs/vrchat-202641
+https://x.com/VRChat/status/2115512628550205783/photo/1
+
+As always, you can watch 'em here:
+
+https://www.youtube.com/watch?v=yq5Ifoci5vk]]></content:encoded>
+    </item>
+<item>
+      <title>A new chapter for Android XR, in a lighter and more natural form.</title>
+      <link>https://x.com/XREAL_Global/status/2115507076671914376</link>
+      <guid isPermaLink="false">2115507076671914376</guid>
+      <pubDate>Wed, 28 Oct 2026 18:12:45 GMT</pubDate>
+      <dc:creator>XREAL_Global</dc:creator>
+      <content:encoded><![CDATA[A new chapter for Android XR, in a lighter and more natural form.
+
+Thanks for sharing your experience with XREAL AURA, @ssamat—from multi-screen productivity and entertainment to hands-free help from Gemini. 🙌
+https://x.com/ssamat/status/2115491862060421127
+
+引用 @ssamat：I’ve always believed that the endgame of spatial computing is something close to the holodeck on Star Trek – computing that feels limitless, immersive, and completely natural.
+
+When we started building Android XR, we knew the early chapters of that story would require bulky headsets. That was the price of admission for the technology at the time.
+
+Today, you can see the transition to the next generation happening in real time.
+
+XREAL just officially launched XREAL AURA, the first wired XR glasses running Android XR. Because they’re dramatically lighter and more balanced than traditional headsets, they cross a critical barrier: you can comfortably keep them on for hours whether watching a movie or getting work done on multiple screens. 
+
+I’ve been using a pair recently, and it changes how you think about screens:
+
+🟢 For productivity: I can pull up multiple virtual windows in a public space without anyone seeing my work. It completely changes working on the go.
+🟢 For entertainment & daily apps: Because it runs Android, all of your favorite Google Play apps are natively there alongside immersive XR content.
+🟢 For everyday life: With Gemini integrated, the glasses understand what you're looking at and can give you hands-free, contextual help as you walk around.
+
+We wanted Android XR to be more than a cool tech demo – we wanted it to fit effortlessly into daily life. Today feels like a huge step in that direction.
+
+Proud of the Google and XREAL teams who pulled this off!
+
+Learn more about XREAL AURA here: https://blog.google/products-and-platforms/platforms/android/xreal-aura/
+https://x.com/ssamat/status/2115491862060421127/video/1]]></content:encoded>
+    </item>
+<item>
+      <title>Every new experience begins with a question: What if?</title>
+      <link>https://x.com/XREAL_Global/status/2115496951621787701</link>
+      <guid isPermaLink="false">2115496951621787701</guid>
+      <pubDate>Wed, 28 Oct 2026 17:32:31 GMT</pubDate>
+      <dc:creator>XREAL_Global</dc:creator>
+      <content:encoded><![CDATA[Every new experience begins with a question: What if?
+What if you could take an idea beyond the screen and start building it in the world around you?
+With XREAL AURA, powered by Android XR, developers and creators have a new spatial canvas to imagine, prototype, and experiment.
+Build something new. Test it. Shape it into something better.
+Before anyone else experiences what you create, you will.
+#XREAL #AURA #AndroidXR
+Android XR is a trademark of Google LLC.
+https://x.com/XREAL_Global/status/2115496951621787701/video/1]]></content:encoded>
+    </item>
+<item>
+      <title>Six questions sit between a hands prototype and a hands-first VR game that people stick with. 👇</title>
+      <link>https://x.com/MetaVRDevs/status/2115494685728964795</link>
+      <guid isPermaLink="false">2115494685728964795</guid>
+      <pubDate>Wed, 28 Oct 2026 17:23:31 GMT</pubDate>
+      <dc:creator>MetaVRDevs</dc:creator>
+      <content:encoded><![CDATA[Six questions sit between a hands prototype and a hands-first VR game that people stick with. 👇
+
+Is it a fit? Direct or indirect? How many gestures? How do you design for gaze? How do you forgive a miss? And how do you know it's ready?
+
+Watch all six now on Meta VR Academy 👉 https://bit.ly/3UlkcBy
+https://x.com/MetaVRDevs/status/2115494685728964795/video/1]]></content:encoded>
+    </item>
+<item>
+      <title>XREAL AURA is officially here. 🕶️</title>
+      <link>https://x.com/XREAL_Global/status/2115489213281894825</link>
+      <guid isPermaLink="false">2115489213281894825</guid>
+      <pubDate>Wed, 28 Oct 2026 17:01:46 GMT</pubDate>
+      <dc:creator>XREAL_Global</dc:creator>
+      <content:encoded><![CDATA[XREAL AURA is officially here. 🕶️
+Meet lightweight wired spatial computing glasses powered by Android XR, giving you a portable spatial canvas to work, watch, play, and explore.
+Expand your laptop into a multi-monitor workspace. Transform any room into a personal theater.
+Enjoy immersive 3D gaming experiences, access to millions of mobile and tablet apps from
+Google Play and over 150 experiences designed specifically for XR, and get contextual help from Gemini based on what you see.
+With an expansive 70° field of view, transparent lenses, and a dedicated pocket-sized Compute
+Puck, AURA brings spatial computing into a lightweight, portable design.
+For a limited time, enjoy special launch pricing on both standalone configurations:
+1️⃣ 12GB RAM + 256GB storage: $1,099
+2️⃣ 16GB RAM + 512GB storage: $1,299
+Already ordered? Customers who paid the original price before October 28 will also receive the launch pricing, with the applicable price difference refunded.
+Or choose the setup that fits your needs with our bundles:
+⌨️ Productivity Bundle: AURA + keyboard
+🎮 Gaming Bundle: AURA + controller
+🚀 All-in-One Bundle: AURA + keyboard + controller
+Available at https://us.shop.xreal.com/products/xreal-aura?utm_source=X&utm_medium=organic&utm_campaign=AURA_Preorder&utm_content=1007fullpayment and Best Buy online. 
+Shipping begins mid-November.
+#XREAL #AURA #AndroidXR
+Google, Android XR, Gemini and Google Play are trademarks of Google LLC.
+https://x.com/XREAL_Global/status/2115489213281894825/photo/1]]></content:encoded>
+    </item>
+<item>
+      <title>More power usually means more heat and weight. But better VR also needs to be comfortable enough to wear for hours.</title>
+      <link>https://x.com/Play_for_dream/status/2115488772582179178</link>
+      <guid isPermaLink="false">2115488772582179178</guid>
+      <pubDate>Wed, 28 Oct 2026 17:00:01 GMT</pubDate>
+      <dc:creator>Play_for_dream</dc:creator>
+      <content:encoded><![CDATA[More power usually means more heat and weight. But better VR also needs to be comfortable enough to wear for hours.
+Split design offers another path: move the compute off the head, without giving up immersion.
+
+#PlayForDream #VR #XR #SpatialComputing
+https://x.com/Play_for_dream/status/2115488772582179178/photo/1]]></content:encoded>
+    </item>
+<item>
       <title>Headset care doesn't have to take long. These easy tips are vital to caring for your device.</title>
       <link>https://x.com/PICOXR/status/2115458752539242783</link>
       <guid isPermaLink="false">2115458752539242783</guid>
@@ -1231,121 +1397,6 @@ See every scene in a new light.
       When pixels, limited FOV and latency stop reminding you there’s a display in front of your eyes, VR gets closer to the Visual Turing Test.
       #PlayForDream #VR #XR
       https://x.com/Play_for_dream/status/2110415336302391327/photo/1]]></content:encoded>
-    </item>
-<item>
-      <title>One garden under siege.</title>
-      <link>https://x.com/PICOXR/status/2110385283392778519</link>
-      <guid isPermaLink="false">2110385283392778519</guid>
-      <pubDate>Wed, 14 Oct 2026 15:00:35 GMT</pubDate>
-      <dc:creator>PICOXR</dc:creator>
-      <content:encoded><![CDATA[One garden under siege. One arena with no room to stand still. Which first-person battle would you take on first?
-      https://x.com/PICOXR/status/2110385283392778519/video/1]]></content:encoded>
-    </item>
-<item>
-      <title>The best ideas rarely wait until you have somewhere to write them down.</title>
-      <link>https://x.com/RokidGlobal/status/2110385141608825040</link>
-      <guid isPermaLink="false">2110385141608825040</guid>
-      <pubDate>Wed, 14 Oct 2026 15:00:01 GMT</pubDate>
-      <dc:creator>RokidGlobal</dc:creator>
-      <content:encoded><![CDATA[The best ideas rarely wait until you have somewhere to write them down.
-      Rokid Style lets you capture a thought or set a reminder using your voice, so inspiration can stay with you while you stay in the moment. 👓
-      #Rokid #RokidStyle #AIGlasses #WearableAI
-      https://x.com/RokidGlobal/status/2110385141608825040/photo/1]]></content:encoded>
-    </item>
-<item>
-      <title>We're selling more Beyond 2 and 2e headsets per day than we did over the 2025 holidays!</title>
-      <link>https://x.com/BigscreenVR/status/2110174479544680861</link>
-      <guid isPermaLink="false">2110174479544680861</guid>
-      <pubDate>Wed, 14 Oct 2026 01:02:55 GMT</pubDate>
-      <dc:creator>BigscreenVR</dc:creator>
-      <content:encoded><![CDATA[We're selling more Beyond 2 and 2e headsets per day than we did over the 2025 holidays! That's stretching shipping times, so here's where things stand.
-      
-      https://store.bigscreenvr.com/blogs/beyond/halo-mount-shipping-update-and-the-great-universal-cushion-swapy
-      
-      TL;DR
-      Need a headset ASAP? Grab the Beyond 2e in Clear with the new Universal-Fit Light Seal or a Custom-Fit Cushion. Ships in 2–3 business days.
-      
-      Plus: a Halo Mount shipping update, and 3DoF mode + a major eyetracking upgrade are on the way.
-      https://x.com/BigscreenVR/status/2110174479544680861/photo/1]]></content:encoded>
-    </item>
-<item>
-      <title>Nobody:</title>
-      <link>https://x.com/BeatSaber/status/2110109890718953984</link>
-      <guid isPermaLink="false">2110109890718953984</guid>
-      <pubDate>Tue, 13 Oct 2026 20:46:16 GMT</pubDate>
-      <dc:creator>BeatSaber</dc:creator>
-      <content:encoded><![CDATA[Nobody:
-      The cat during your Beat Saber session: 🐈💨💨💨
-      
-      📹 by Natylacz
-      https://x.com/BeatSaber/status/2110109890718953984/video/1]]></content:encoded>
-    </item>
-<item>
-      <title>Before you adapt your game for hands, decide whether it's a fit.</title>
-      <link>https://x.com/MetaVRDevs/status/2110104112406868209</link>
-      <guid isPermaLink="false">2110104112406868209</guid>
-      <pubDate>Tue, 13 Oct 2026 20:23:18 GMT</pubDate>
-      <dc:creator>MetaVRDevs</dc:creator>
-      <content:encoded><![CDATA[Before you adapt your game for hands, decide whether it's a fit. Speed plus precision, thumbstick-style control, and simultaneous actions all raise the cost of the port.
-      
-      This lesson and others are now available for developers on Meta VR Academy 👉  https://bit.ly/4hYPdTW
-      https://x.com/MetaVRDevs/status/2110104112406868209/video/1]]></content:encoded>
-    </item>
-<item>
-      <title>Your office is wherever you sit down now.</title>
-      <link>https://x.com/getVITURE/status/2110084514399539515</link>
-      <guid isPermaLink="false">2110084514399539515</guid>
-      <pubDate>Tue, 13 Oct 2026 19:05:26 GMT</pubDate>
-      <dc:creator>getVITURE</dc:creator>
-      <content:encoded><![CDATA[Your office is wherever you sit down now. ☕🥽
-      
-      Mac mini. Beast. Keyboard. 174 inches, three screens, zero monitors.
-      
-      Office anywhere. → https://viture.com/beast
-      
-      #OfficeAnywhere #VITURE #VITUREBeast #MacMini #XRGlasses
-      https://x.com/getVITURE/status/2110084514399539515/video/1]]></content:encoded>
-    </item>
-<item>
-      <title>We Heard You.</title>
-      <link>https://x.com/pimaxofficial/status/2110068052012454104</link>
-      <guid isPermaLink="false">2110068052012454104</guid>
-      <pubDate>Tue, 13 Oct 2026 18:00:01 GMT</pubDate>
-      <dc:creator>pimaxofficial</dc:creator>
-      <content:encoded><![CDATA[We Heard You. Wireless freedom. Wired-level visual clarity. Your next VR experience is closer than you think.  
-      
-      Watch the full launch video: https://www.youtube.com/watch?v=lhJ5d1qS5cM 
-      Pre-order now: https://store.pimax.com/products/crystal-pro  
-      
-      #Pimax #PimaxCrystalPro #PCVR #VRHeadset #VirtualReality
-      https://x.com/pimaxofficial/status/2110068052012454104/video/1]]></content:encoded>
-    </item>
-<item>
-      <title>More handovers, more hassle.</title>
-      <link>https://x.com/magicleap/status/2110061296716513688</link>
-      <guid isPermaLink="false">2110061296716513688</guid>
-      <pubDate>Tue, 13 Oct 2026 17:33:10 GMT</pubDate>
-      <dc:creator>magicleap</dc:creator>
-      <content:encoded><![CDATA[More handovers, more hassle.
-      
-      Having a vertically integrated partner reduces the complexity of waveguide development by bringing critical capabilities under one roof.
-      
-      Learn more about the benefits and cost savings: https://www.magicleap.com/stories/the-importance-of-vertical-integration-in-waveguide-and-prototype-design
-      https://x.com/magicleap/status/2110061296716513688/photo/1]]></content:encoded>
-    </item>
-<item>
-      <title>Dream OS 4.7 is here.</title>
-      <link>https://x.com/Play_for_dream/status/2110052949439455422</link>
-      <guid isPermaLink="false">2110052949439455422</guid>
-      <pubDate>Tue, 13 Oct 2026 17:00:00 GMT</pubDate>
-      <dc:creator>Play_for_dream</dc:creator>
-      <content:encoded><![CDATA[Dream OS 4.7 is here. 🚀
-      🔌 Wired streaming support for Virtual Desktop & Steam Link
-      ⚡ Optimized anchored-window background scheduling
-      🛠️ System fixes & improvements
-      More ways to connect. A smoother Dream OS experience.
-      #PlayForDream #DreamOS #VR #PCVR
-      https://x.com/Play_for_dream/status/2110052949439455422/photo/1]]></content:encoded>
     </item>
 </channel>
 </rss>

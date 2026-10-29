@@ -4,8 +4,175 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Wed, 28 Oct 2026 16:05:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 04:13:43 GMT</lastBuildDate>
         <item>
+      <title>XR devs, a FAST dev iteration tip for today! 👇</title>
+      <link>https://x.com/Dilmerv/status/2115636246148005981</link>
+      <guid isPermaLink="false">2115636246148005981</guid>
+      <pubDate>Thu, 29 Oct 2026 02:46:02 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[XR devs, a FAST dev iteration tip for today! 👇
+
+Enable Immersive Debugger in Unity and expose a float with [DebugMember(Min = 0, Max = 1)].
+
+You can tune that value inside the headset while your app runs. Super useful for testing interactions!
+https://x.com/Dilmerv/status/2115636246148005981/photo/1]]></content:encoded>
+    </item>
+<item>
+      <title>I’ve been playing with this concept all week. It’s still extremely early, but I’m working on a spooky pet you can play w</title>
+      <link>https://x.com/Dilmerv/status/2115624302724948032</link>
+      <guid isPermaLink="false">2115624302724948032</guid>
+      <pubDate>Thu, 29 Oct 2026 01:58:34 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[I’ve been playing with this concept all week. It’s still extremely early, but I’m working on a spooky pet you can play with (hands-first) and feed for Halloween. If you feed it and keep it happy, it’ll look happy. Otherwise, it turns into a monster.
+
+I don’t show it in this video, but you can hold out your hand, palm up, and the creature will jump toward it. You can also grab it, and when you let go, it lands beautifully in the MR room, just like a spider.
+
+💡Let me know if you like to see anything in particular? Or feature?
+https://x.com/Dilmerv/status/2115624302724948032/video/1
+
+Here are a few screenshots of the UI direction, device, and creature.
+https://x.com/Dilmerv/status/2115624308458590433/photo/1]]></content:encoded>
+    </item>
+<item>
+      <title>Would love to see this level of quality on XR devices. I can already picture this being available in the near future! 🤯</title>
+      <link>https://x.com/Dilmerv/status/2115611906186911782</link>
+      <guid isPermaLink="false">2115611906186911782</guid>
+      <pubDate>Thu, 29 Oct 2026 01:09:19 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Would love to see this level of quality on XR devices. I can already picture this being available in the near future! 🤯
+https://x.com/diveshnaidoo/status/2115477721455214623
+
+引用 @diveshnaidoo：Introducing Reality-Aware Rendering in @Simulon, a completely new way to create with the real world.
+
+Place neural assets with your phone and act out the scene. When you stop recording, Simulon renders the take, reading everything in it (what you do, what you say and the place around you), and your assets respond to all of it.
+
+The final is regenerated from your recording: a new performance of the scene, not a copy of the footage.
+
+Available now on iPhone. Coming to Android soon.
+https://x.com/diveshnaidoo/status/2115477721455214623/video/1]]></content:encoded>
+    </item>
+<item>
+      <title>Congratulations to the XREAL and Android XR teams! Great to see new products launching and more on the way across XR. Lo</title>
+      <link>https://x.com/Dilmerv/status/2115605676869431672</link>
+      <guid isPermaLink="false">2115605676869431672</guid>
+      <pubDate>Thu, 29 Oct 2026 00:44:34 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Congratulations to the XREAL and Android XR teams! Great to see new products launching and more on the way across XR. Love seeing some familiar titles here that are also available on Meta devices!
+https://x.com/XREAL_Global/status/2115580072698462386
+
+引用 @XREAL_Global：Your favorite apps. A whole new dimension.
+With XREAL AURA, powered by Android XR, discover more ways to work, watch, play, and explore.
+Bring familiar apps into your spatial workspace, enjoy entertainment on an expansive virtual screen, and discover experiences built specifically for XR.
+With access to millions of mobile and tablet apps from Google Play and over 150 experiences
+designed specifically for XR, there's always something new to discover.
+Which experience would you try first?
+#XREAL #AURA #AndroidXR
+Android XR and Google Play are trademarks of Google LLC.
+https://x.com/XREAL_Global/status/2115580072698462386/video/1]]></content:encoded>
+    </item>
+<item>
+      <title>The best PCVR Streamer App for Vision Pro has just entered TestFlight!</title>
+      <link>https://x.com/SadlyItsBradley/status/2115599863455035570</link>
+      <guid isPermaLink="false">2115599863455035570</guid>
+      <pubDate>Thu, 29 Oct 2026 00:21:28 GMT</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[The best PCVR Streamer App for Vision Pro has just entered TestFlight!
+
+If you gave up on previous solutions for one reason or another, I STRONGLY suggest trying this one out
+
+It’s FANTASTIC. And not just due to my constant feedback to make it PEAK 🤣
+
+https://testflight.apple.com/join/UDAxV9M5
+https://x.com/SadlyItsBradley/status/2112008731617624085
+
+Discord Server here for feedback, bug reports, and suggestions: https://discord.gg/mTMrR9YJYK
+
+引用 @SadlyItsBradley：Would you believe me if I told you I had a little portal to VRChat on my desk?
+
+Alongside all of my other spatial computing apps/tools/windows?
+
+Truly a glorious future we live in
+https://x.com/SadlyItsBradley/status/2112008731617624085/video/1]]></content:encoded>
+    </item>
+<item>
+      <title>XR devs, this is very useful for Meta VR Glasses development! 👇</title>
+      <link>https://x.com/Dilmerv/status/2115599523791708495</link>
+      <guid isPermaLink="false">2115599523791708495</guid>
+      <pubDate>Thu, 29 Oct 2026 00:20:07 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[XR devs, this is very useful for Meta VR Glasses development! 👇
+
+With Immersive Debugger enabled in Unity, open Custom Inspectors → FoV Simulator.
+
+Toggle and adjust the simulated Meta VR Glasses view while your app runs. Useful for catching clipped menus early!
+https://x.com/Dilmerv/status/2115599523791708495/photo/1]]></content:encoded>
+    </item>
+<item>
+      <title>Valve had some pretty candid comments about how they see VR</title>
+      <link>https://x.com/SadlyItsBradley/status/2115536547873542470</link>
+      <guid isPermaLink="false">2115536547873542470</guid>
+      <pubDate>Wed, 28 Oct 2026 20:09:52 GMT</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[Valve had some pretty candid comments about how they see VR
+
+Talking about how Steam Frame is only a small piece of the much larger VR ecosystem they want to support
+
+And how users are already using Steam Frame to play regular games rather than just VR-only games
+https://x.com/SadlyItsBradley/status/2115536547873542470/photo/1
+
+From: https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones]]></content:encoded>
+    </item>
+<item>
+      <title>XR devs, here’s a tip for today! 👇</title>
+      <link>https://x.com/Dilmerv/status/2115515222660149571</link>
+      <guid isPermaLink="false">2115515222660149571</guid>
+      <pubDate>Wed, 28 Oct 2026 18:45:08 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[XR devs, here’s a tip for today! 👇
+
+With Meta VR CLI installed, you can search the docs right from your terminal:
+
+metavr docs search “passthrough rendering”
+
+It searches docs & API references.
+
+👨🏻‍💻 Setup:
+macOS/Linux:
+curl -fsSL https://developers.meta.com/horizon/install-cli/ | sh
+
+Windows:
+iwr -useb https://developers.meta.com/horizon/install-cli/windows/ | iex
+https://x.com/Dilmerv/status/2115515222660149571/photo/1]]></content:encoded>
+    </item>
+<item>
+      <title>Okay Apple</title>
+      <link>https://x.com/SadlyItsBradley/status/2115514674250936756</link>
+      <guid isPermaLink="false">2115514674250936756</guid>
+      <pubDate>Wed, 28 Oct 2026 18:42:57 GMT</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[Okay Apple
+
+Apply this, and the spread out context menus: to eye gaze hovers for Mac Virtual Display on visionOS
+
+This might be good enough UX for a fallback if you are streaming your Mac in a room separately from your keyboard/mouse
+https://x.com/neilcybart/status/2115503830268055874
+
+I feel it makes more sense than tapping a laptop screen tbh
+
+引用 @neilcybart：A closer look at how window controls in macOS respond to touch.
+https://x.com/neilcybart/status/2115503830268055874/video/1]]></content:encoded>
+    </item>
+<item>
+      <title>I got to play Half-Life: Alyx on an omnidirectional treadmill that was used in the movie "Ready Player One."</title>
+      <link>https://x.com/nathie/status/2115511377552916534</link>
+      <guid isPermaLink="false">2115511377552916534</guid>
+      <pubDate>Wed, 28 Oct 2026 18:29:51 GMT</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[I got to play Half-Life: Alyx on an omnidirectional treadmill that was used in the movie "Ready Player One."
+https://x.com/nathie/status/2115511377552916534/video/1]]></content:encoded>
+    </item>
+<item>
       <title>Get a preview of the Enterprise VIP Program at the #1 XR Event in Europe</title>
       <link>https://x.com/ARealityEvent/status/2115458570737385579</link>
       <guid isPermaLink="false">2115458570737385579</guid>
@@ -21,7 +188,7 @@ UnitedXR Europe is organized by AWE and Stereopsia.
 #UnitedXR
 https://x.com/ARealityEvent/status/2115458570737385579/photo/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>The full video of him explaining their entire 4DGS workflow is truly even more incredible</title>
       <link>https://x.com/SadlyItsBradley/status/2115451725603885397</link>
       <guid isPermaLink="false">2115451725603885397</guid>
@@ -35,7 +202,7 @@ https://x.com/mediastorm_en/status/2114688637904552243
 引用 @mediastorm_en：Vogue. Shot on 70 iPhone 18 Pro
 https://x.com/mediastorm_en/status/2114688637904552243/video/1]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>With all these moves toward AI, I feel like we still need people doing walkthroughs/tutorials of how SDKs, APIs, and too</title>
       <link>https://x.com/Dilmerv/status/2115444591390507201</link>
       <guid isPermaLink="false">2115444591390507201</guid>
@@ -51,7 +218,7 @@ If we as devs don’t understand the underlying systems, what will happen to our
 
 For additional context, I am struggling to find out if I should go back and do step-by-step tutorials on YouTube or more high-level “I Built this with AI & here is what I learned”.]]></content:encoded>
     </item>
-    <item>
+<item>
       <title>I always try to look at my work this way: I have many unfinished XR projects, but they’ve taught me lessons I’ll use for</title>
       <link>https://x.com/Dilmerv/status/2115437691823067382</link>
       <guid isPermaLink="false">2115437691823067382</guid>
@@ -1139,158 +1306,6 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       <dc:creator>nathie</dc:creator>
       <content:encoded><![CDATA[SanDisk is partnering with Meta as the exclusive storage partner for its upcoming Meta VR glasses, offering officially tested microSD Express cards and USB-C flash drives.
       https://x.com/nathie/status/2110598714859655257/photo/1]]></content:encoded>
-    </item>
-<item>
-      <title>How I do “sync tests” for HoloPrinter:</title>
-      <link>https://x.com/SadlyItsBradley/status/2110556386765742335</link>
-      <guid isPermaLink="false">2110556386765742335</guid>
-      <pubDate>Thu, 15 Oct 2026 02:20:29 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[How I do “sync tests” for HoloPrinter:
-      https://x.com/SadlyItsBradley/status/2110556386765742335/video/1]]></content:encoded>
-    </item>
-<item>
-      <title>Steam Frame OS on the main staging branch (used mostly by Valve) upgraded the Linux Kernel from 6.18 to 7.2</title>
-      <link>https://x.com/SadlyItsBradley/status/2110494074985746794</link>
-      <guid isPermaLink="false">2110494074985746794</guid>
-      <pubDate>Wed, 14 Oct 2026 22:12:53 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[Steam Frame OS on the main staging branch (used mostly by Valve) upgraded the Linux Kernel from 6.18 to 7.2
-      
-      That is 4 major version steps, so I expect the next Preview/Beta channel patch notes for Steam Frame to be somewhat large]]></content:encoded>
-    </item>
-<item>
-      <title>Yippee</title>
-      <link>https://x.com/SadlyItsBradley/status/2110462740074758171</link>
-      <guid isPermaLink="false">2110462740074758171</guid>
-      <pubDate>Wed, 14 Oct 2026 20:08:22 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[Yippee
-      https://x.com/SadlyItsBradley/status/2110462740074758171/video/1
-      
-      引用 @SadlyItsBradley：Making great progress!
-      https://x.com/SadlyItsBradley/status/2110429346217230457/photo/1]]></content:encoded>
-    </item>
-<item>
-      <title>Sigh.. Another thing. The foveated scaling in the Deckard-Plano panel is actually nothing special to Valve/SteamOS</title>
-      <link>https://x.com/SadlyItsBradley/status/2110446416631857419</link>
-      <guid isPermaLink="false">2110446416631857419</guid>
-      <pubDate>Wed, 14 Oct 2026 19:03:30 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[Sigh.. Another thing. The foveated scaling in the Deckard-Plano panel is actually nothing special to Valve/SteamOS
-      
-      It is a built in feature for the Micro-OLED display’s backplane that make it possible for headsets like the Galaxy XR, for example, to even WORK on a lame SOC
-      https://x.com/SadlyItsBradley/status/2110446416631857419/photo/1]]></content:encoded>
-    </item>
-<item>
-      <title>Making great progress!</title>
-      <link>https://x.com/SadlyItsBradley/status/2110429346217230457</link>
-      <guid isPermaLink="false">2110429346217230457</guid>
-      <pubDate>Wed, 14 Oct 2026 17:55:40 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[Making great progress!
-      https://x.com/SadlyItsBradley/status/2110429346217230457/photo/1
-      
-      引用 @SadlyItsBradley：Working on something I think will be REALLY cool when it all comes together
-      https://x.com/SadlyItsBradley/status/2110064328523366532/video/1]]></content:encoded>
-    </item>
-<item>
-      <title>Steam Frame OLED edition is apparently already in development.</title>
-      <link>https://x.com/nathie/status/2110408971802865955</link>
-      <guid isPermaLink="false">2110408971802865955</guid>
-      <pubDate>Wed, 14 Oct 2026 16:34:43 GMT</pubDate>
-      <dc:creator>nathie</dc:creator>
-      <content:encoded><![CDATA[Steam Frame OLED edition is apparently already in development.
-      
-      引用 @FoxletFox：Valve is working on a Frame OLED:
-      - 3552×3840 up to 90Hz (similar to those on the Galaxy XR)
-      - same SoC as Frame LCD
-      - renders at half res (1776×1920) to hit the same perf as LCD with an option for "Foveated Scaling" to show the UI at native res
-      more at: 
-      https://steamframehub.com/exclusive-here-we-go-again-valve-is-making-an-oled-steam-frame/]]></content:encoded>
-    </item>
-<item>
-      <title>One more thing: for many years, before Valve had any actual hardware to develop SteamOS (ARM)</title>
-      <link>https://x.com/SadlyItsBradley/status/2110387400975475032</link>
-      <guid isPermaLink="false">2110387400975475032</guid>
-      <pubDate>Wed, 14 Oct 2026 15:09:00 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[One more thing: for many years, before Valve had any actual hardware to develop SteamOS (ARM)
-      
-      They were literally tethering Valve Index headsets to Snapdragon 865 dev boards to build the Software
-      
-      All the EV2, EV3, and MP references to Deckard-Plano are likely in the same vein
-      https://x.com/SadlyItsBradley/status/2110383561916162386
-      
-      引用 @SadlyItsBradley：tl;dr - I speculate the whole SM8650 board references to this is them just trying to prototype headsets with this optical stack based on what’s already lying around
-      
-      Rather than them just.. building a whole module that is ready soon for mass production or whatever]]></content:encoded>
-    </item>
-<item>
-      <title>I got to do something super cool this morning</title>
-      <link>https://x.com/SadlyItsBradley/status/2110379760178074039</link>
-      <guid isPermaLink="false">2110379760178074039</guid>
-      <pubDate>Wed, 14 Oct 2026 14:38:38 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[I got to do something super cool this morning
-      https://x.com/SadlyItsBradley/status/2110379760178074039/video/1]]></content:encoded>
-    </item>
-<item>
-      <title>Took a look at the Deckard-Plano (Micro-OLED Frame) stuff… after waking up to pure panic</title>
-      <link>https://x.com/SadlyItsBradley/status/2110376728111534123</link>
-      <guid isPermaLink="false">2110376728111534123</guid>
-      <pubDate>Wed, 14 Oct 2026 14:26:35 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[Took a look at the Deckard-Plano (Micro-OLED Frame) stuff… after waking up to pure panic
-      
-      Yeah it’s in there. And they do a lot of wacky things to make it possible… with the current 8 Gen 3 chip
-      
-      They even pair it with the upcoming hotswappable battery headstrap by default
-      
-      In my opinion, that’s probably required due to power consumption.. And while I would love to say “True Deckard soon,” I genuinely think they’re better off waiting a bit more for the Compute module to upgraded to a newer chip, with these Micro-OLED displays that ALSO need new optics
-      
-      You could argue that it’s only for streaming PCVR, but I disagree. Valve built just enough of FrameOS to support the Spatial Computing usecase to where people can do some amazing things with a Linux PC on their Face. And while that’s still hella buggy, and taped together.. that’s just software waiting to be fixed
-      
-      When you switch to Micro-OLED, you get way better visuals. But lose VR gaming focused aspects such as FoV and motion clarity. BUT it still is a greater experience, in my opinion, for many other things
-      
-      Valve positions the current Frame as a way to play the entire 2D game library. Verified titles for those is quickly growing way faster than VR titles
-      
-      But frankly, the current display/optics setup truly doesn’t make that usecase more enjoyable. A slightly lower FoV + Micro-OLED system definitely would
-      
-      But even with the foveal magic they’re introducing here in the code, that doesn’t solve the heat and performance problems even with streaming. The 8 Gen 3 isn’t THAT much better than the chip in the Samsung Galaxy XR. Which uses a lot of these same tricks on an XR2+ Gen 2
-      
-      That headset throttles a lot even when streaming. It’s a serious problem
-      
-      So when I combine all of these thoughts together in my head. I actually just hope that this is an optics/display prototype being prepped for a bit later down the line. Rather than a Steam Deck/Steam Deck OLED situation
-      
-      The software situation on Steam OS (for Frame) is still a mess. And to have valve engineers and contractors split between supporting two models THIS FAST, after such a rough launch, would be a bit of negligence, imo
-      
-      At the end of the day, I knew valve would adopt Micro-OLED in one of their Headset products at some point. They’ve put serious effort into it over the past deckade and a half they’ve been doing VR. I’ve reported on some truly insane stuff they did in this field. It is inevitable
-      
-      But for this, I pray that inevitability is a bit further out..
-      https://x.com/SadlyItsBradley/status/2110376728111534123/photo/1
-      
-      tl;dr - I speculate the whole SM8650 board references to this is them just trying to prototype headsets with this optical stack based on what’s already lying around
-      
-      Rather than them just.. building a whole module that is ready soon for mass production or whatever]]></content:encoded>
-    </item>
-<item>
-      <title>oh Jesus fuck</title>
-      <link>https://x.com/SadlyItsBradley/status/2110363642881257893</link>
-      <guid isPermaLink="false">2110363642881257893</guid>
-      <pubDate>Wed, 14 Oct 2026 13:34:35 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[oh Jesus fuck
-      
-      I’m not letting myself get carried away this time 😰
-      https://x.com/FoxletFox/status/2110280869185286529
-      
-      引用 @FoxletFox：Valve is working on a Frame OLED:
-      - 3552×3840 up to 90Hz (similar to those on the Galaxy XR)
-      - same SoC as Frame LCD
-      - renders at half res (1776×1920) to hit the same perf as LCD with an option for "Foveated Scaling" to show the UI at native res
-      more at: 
-      https://steamframehub.com/exclusive-here-we-go-again-valve-is-making-an-oled-steam-frame/]]></content:encoded>
     </item>
 </channel>
 </rss>
