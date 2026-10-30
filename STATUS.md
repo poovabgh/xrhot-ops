@@ -1,6 +1,6 @@
 # STATUS — XRHOT X 采集状态
 
-最后在本文件手工更新：2026-10-30 01:09 PDT（例行 2026-10-30 16:00 BJT）。
+最后在本文件手工更新：2026-10-30 05:04 PDT（例行 2026-10-30 20:00 BJT）。
 
 ## 订阅现状
 
@@ -16,13 +16,13 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-offic
 curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml | grep -c '<item>'
 ```
 
-## 本轮：2026-10-30 16:00 BJT
+## 本轮：2026-10-30 20:00 BJT
 
-- 预检 19 账号；最新 id 高于 watermark：BigscreenVR、getVITURE、pimaxofficial、nathie、Dilmerv；其余等于 watermark 跳过；LensStudioDev aged-out skip（most_recent 2107190748114481270）。
-- **official 100→100（+1）：** pimaxofficial Frontier FAQ Crystal Pro/ringless controllers/Spation 2116041443626131539。丢掉最旧 1 条。BigscreenVR / getVITURE `exclude` 后 result_count 0（最新为回复/RT）。
-- **media-kol 100 不变：** nathie / Dilmerv `exclude` 后无新原帖（most_recent 均为回复；Dilmerv 另有自串回复 2115896880756625845 丢掉）。
+- 预检 19 账号；最新 id 高于 watermark：BigscreenVR、XREAL_Global、getVITURE、ARealityEvent、nathie、Dilmerv；其余等于 watermark 跳过；LensStudioDev aged-out skip（most_recent 2107190748114481270）。
+- **official 100→100（+1）：** XREAL_Global Meet XREAL 1 Pro+ 2116119650618736697（timeline/search 暂未索引，经 get_posts_by_id 取全文）。丢掉最旧 1 条。BigscreenVR / getVITURE `exclude` 后 result_count 0（最新为回复/RT）。
+- **media-kol 100→100（+1）：** ARealityEvent Weekly Spatial（XREAL Aura / CoStar Vexcel）2116084259748511796。丢掉最旧 1 条。nathie `exclude` 0；Dilmerv 仅自串回复 2115896880756625845（及对他人回复）丢掉。
 - 监控名单未变（official 15 / media-kol 4）。
-- 上一有变更档 2026-10-30 12:00 BJT：official +7 / media-kol +5（HEAD f2379d6）。
+- 上一有变更档 2026-10-30 16:00 BJT：official +1 pimaxofficial（HEAD ac479ed）。
 
 ## 定时更新
 
@@ -33,7 +33,7 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media
 | 旧规范「每 30 分钟」 | **已废止** |
 | 省 token | 见 `scripts/cheap_check_plan.md` |
 
-下一例行节点（北京时间）：2026-10-30 **20:00**。
+下一例行节点（北京时间）：2026-10-31 **00:00**。
 
 ## 待办
 
