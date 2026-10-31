@@ -1,6 +1,6 @@
 # STATUS — XRHOT X 采集状态
 
-最后在本文件手工更新：2026-10-30 21:08 PDT（例行 2026-10-31 12:00 BJT）。
+最后在本文件手工更新：2026-10-31 01:09 PDT（例行 2026-10-31 16:00 BJT）。
 
 ## 订阅现状
 
@@ -16,13 +16,13 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-offic
 curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml | grep -c '<item>'
 ```
 
-## 本轮：2026-10-31 12:00 BJT
+## 本轮：2026-10-31 16:00 BJT
 
-- 预检 19 账号；最新 id 高于 watermark：MetaVR_Official、BigscreenVR、XREAL_Global、RokidGlobal、getVITURE、VRChat、nathie、Dilmerv；其余等于 watermark 跳过；LensStudioDev aged-out skip（most_recent 2107190748114481270）。
-- **official 100→100（+2）：** XREAL_Global AURA bundles 2116334695814176854；MetaVR_Official horror movie season ask 2116330178683314619。丢掉最旧 2 条。BigscreenVR / RokidGlobal / getVITURE / VRChat `exclude` 后 result_count 0（最新为回复/RT）。
-- **media-kol 100→100（+1）：** Dilmerv prototyping / YouTube teaching 2116363312963194911。丢掉最旧 1 条。nathie 仅自串回复 App: Immerrock 2116230625548255616（parent 已在 feed）丢掉；最新 watermark 超出部分为回复/RT。
+- 预检 19 账号；最新 id 高于 watermark：getVITURE、RokidGlobal、pimaxofficial、VRChat、BigscreenVR、nathie；其余等于 watermark 跳过；LensStudioDev aged-out skip（most_recent 2107190748114481270）。
+- **official 100→100（+1）：** pimaxofficial Dream Air front plates Printables 2116435495827673341。丢掉最旧 1 条。getVITURE / RokidGlobal / VRChat / BigscreenVR `exclude` 后 result_count 0（最新为回复/RT）。
+- **media-kol 100 不变：** nathie 仅自串回复 App: Immerrock 2116230625548255616（parent 已在 feed）丢掉；最新 watermark 超出部分为回复/RT。
 - 监控名单未变（official 15 / media-kol 4）。
-- 上一有变更档 2026-10-31 08:00 BJT：official +4 / media-kol +4（HEAD e19f027）。
+- 上一有变更档 2026-10-31 12:00 BJT：official +2 / media-kol +1（HEAD 288974d）。
 
 ## 定时更新
 
@@ -33,7 +33,7 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media
 | 旧规范「每 30 分钟」 | **已废止** |
 | 省 token | 见 `scripts/cheap_check_plan.md` |
 
-下一例行节点（北京时间）：2026-10-31 **16:00**。
+下一例行节点（北京时间）：2026-10-31 **20:00**。
 
 ## 待办
 
