@@ -4,7 +4,20 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Sat, 31 Oct 2026 04:08:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 16:03:31 +0000</lastBuildDate>
+    <item>
+      <title>XR devs, here’s a quick tip for today!</title>
+      <link>https://x.com/Dilmerv/status/2116542778184479108</link>
+      <guid isPermaLink="false">2116542778184479108</guid>
+      <pubDate>Sat, 31 Oct 2026 14:48:16 +0000</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[XR devs, here’s a quick tip for today!
+
+Using MRUK in Unity? Subscribe to MRUK.Instance.SceneLoadedEvent before initializing room-dependent content.
+
+This helps ensure your room anchors and surfaces are ready before you start placing objects!
+https://x.com/Dilmerv/status/2116542778184479108/video/1]]></content:encoded>
+    </item>
     <item>
       <title>I’ve been prototyping for the last two months, and even though it feels awesome to have games in the store, I miss teach</title>
       <link>https://x.com/Dilmerv/status/2116363312963194911</link>
@@ -1304,17 +1317,6 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       <dc:creator>Dilmerv</dc:creator>
       <content:encoded><![CDATA[Well, it happened! I worked on this all day and submitted it to the Meta Developer Portal! 🎉
       https://x.com/Dilmerv/status/2111698441219063861/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>I did a lot of work this weekend polishing Fuse Balls, and it’s now submitted to the Store! 🎉</title>
-      <link>https://x.com/Dilmerv/status/2111684239154631101</link>
-      <guid isPermaLink="false">2111684239154631101</guid>
-      <pubDate>Sun, 18 Oct 2026 05:02:10 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[I did a lot of work this weekend polishing Fuse Balls, and it’s now submitted to the Store! 🎉 It will be completely free, and I’ll be sharing the dev process in my upcoming talks.
-      
-      Curious to hear your thoughts!
-      https://x.com/Dilmerv/status/2111684239154631101/video/1]]></content:encoded>
     </item>
 </channel>
 </rss>
