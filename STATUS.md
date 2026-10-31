@@ -1,6 +1,6 @@
 # STATUS — XRHOT X 采集状态
 
-最后在本文件手工更新：2026-10-30 09:03 PDT（例行 2026-10-31 00:00 BJT）。
+最后在本文件手工更新：2026-10-30 17:06 PDT（例行 2026-10-31 08:00 BJT）。
 
 ## 订阅现状
 
@@ -16,13 +16,13 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-offic
 curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml | grep -c '<item>'
 ```
 
-## 本轮：2026-10-31 00:00 BJT
+## 本轮：2026-10-31 08:00 BJT
 
-- 预检 19 账号；最新 id 高于 watermark：PICOXR、BigscreenVR、RokidGlobal、getVITURE、VRChat、ARealityEvent、nathie、Dilmerv；其余等于 watermark 跳过；LensStudioDev aged-out skip（most_recent 2107190748114481270）。
-- **official 100→100（+2）：** PICOXR How to God / PICO Store 10% 2116183610386509978；RokidGlobal Hi Rokid 1.16.0 Vision AI（Google 协作）2116183344056832166。丢掉最旧 2 条。BigscreenVR / getVITURE / VRChat `exclude` 后 result_count 0（最新为回复/RT）。
-- **media-kol 100→100（+1）：** ARealityEvent UnitedXR Europe 2026 sponsors 2116183348976795833。丢掉最旧 1 条。nathie `exclude` 0；Dilmerv 仅自串回复 2115896880756625845（及更新回复）丢掉。
+- 预检 19 账号；最新 id 高于 watermark：MetaVR_Official、BigscreenVR、RokidGlobal、getVITURE、VRChat、BeatSaber、nathie、Dilmerv；其余等于 watermark 跳过；LensStudioDev aged-out skip（most_recent 2107190748114481270）。
+- **official 100→100（+4）：** getVITURE Phantom Beast XR Glasses $599 2116263369808253157；MetaVR_Official Florida vs Georgia Immersive 180° 2116231178164560223；BeatSaber Fall Sale 2116230227739181431；RokidGlobal CES 2027 / Color quote 2116201780778586270。丢掉最旧 4 条。BigscreenVR / VRChat `exclude` 后 result_count 0（最新为回复/RT）。
+- **media-kol 100→100（+4）：** Dilmerv Spider Web MR 2116315964350591037；Dilmerv Cubiques iOS→VR 2116239926434140561；nathie Meta Quest guitar / Immerrock 2116229244195926044；Dilmerv Hand Pose Baker spooky pet MR 2116227340229660770。丢掉最旧 4 条。nathie 自串回复 App: Immerrock 丢掉；Dilmerv 自串回复 hand poses 丢掉。
 - 监控名单未变（official 15 / media-kol 4）。
-- 上一有变更档 2026-10-30 20:00 BJT：official +1 XREAL_Global / media-kol +1 ARealityEvent（HEAD 06379c9）。
+- 上一有变更档 2026-10-31 00:00 BJT：official +2 PICOXR/RokidGlobal / media-kol +1 ARealityEvent（HEAD b2850a7）。
 
 ## 定时更新
 
@@ -33,7 +33,7 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media
 | 旧规范「每 30 分钟」 | **已废止** |
 | 省 token | 见 `scripts/cheap_check_plan.md` |
 
-下一例行节点（北京时间）：2026-10-31 **08:00**。
+下一例行节点（北京时间）：2026-10-31 **12:00**。
 
 ## 待办
 
