@@ -4,8 +4,30 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Sun, 01 Nov 2026 00:05:44 +0000</lastBuildDate>
-        <item>
+    <lastBuildDate>Sun, 01 Nov 2026 04:02:40 +0000</lastBuildDate>
+    <item>
+      <title>New sunglasses added to the collection! 😎</title>
+      <link>https://x.com/Dilmerv/status/2116723423694950836</link>
+      <guid isPermaLink="false">2116723423694950836</guid>
+      <pubDate>Sun, 01 Nov 2026 02:46:05 +0000</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[New sunglasses added to the collection! 😎
+
+I finally got around to unboxing these after Meta Connect 2026. They’re the special edition sold at the event!
+
+Also, I’ve been using the external charger a lot more than I thought I would. It’s so convenient to just drop the glasses into place and let them charge.
+https://x.com/Dilmerv/status/2116723423694950836/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Well, I am about to start recording a small trailer in VR/MR for Cubiques, which I am bringing to the Meta store complet</title>
+      <link>https://x.com/Dilmerv/status/2116686712533385363</link>
+      <guid isPermaLink="false">2116686712533385363</guid>
+      <pubDate>Sun, 01 Nov 2026 00:20:13 +0000</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Well, I am about to start recording a small trailer in VR/MR for Cubiques, which I am bringing to the Meta store completely free. I am very proud of this little game and can’t wait for people to test it out. It is simple, but if you give it time, you will find it very relaxing.
+https://x.com/Dilmerv/status/2116686712533385363/video/1]]></content:encoded>
+    </item>
+    <item>
       <title>XR devs, here’s a great tip and a feature I’m using on my own MR games.👇</title>
       <link>https://x.com/Dilmerv/status/2116675356937556345</link>
       <guid isPermaLink="false">2116675356937556345</guid>
@@ -102,7 +124,7 @@ Learn more about Subvocal here: https://subvocal.company]]></content:encoded>
 Hard Occlusion is cheaper but has jagged edges. Soft Occlusion produces smoother edges at a slightly higher GPU cost.
 https://x.com/Dilmerv/status/2116568461962862993/photo/1]]></content:encoded>
     </item>
-<item>
+    <item>
       <title>XR devs, here’s a quick tip for today!</title>
       <link>https://x.com/Dilmerv/status/2116542778184479108</link>
       <guid isPermaLink="false">2116542778184479108</guid>
@@ -1272,32 +1294,5 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       - Discreet open-ear speakers and 6 microphones
       https://x.com/Dilmerv/status/2112663359611121756/video/1]]></content:encoded>
     </item>
-    <item>
-      <title>I love Iron Man, and honestly, this was such a great selection.</title>
-      <link>https://x.com/Dilmerv/status/2112652056679092513</link>
-      <guid isPermaLink="false">2112652056679092513</guid>
-      <pubDate>Tue, 20 Oct 2026 21:07:56 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[I love Iron Man, and honestly, this was such a great selection. Every time I want to reference futuristic UI/UX, I just tend to watch that movie.
-      
-      引用 @specs：Lights on. 💡 Introducing SPECS x Robert Downey Jr.
-      
-      https://www.specs.com/
-      https://x.com/specs/status/2112533822013079986/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Here are a few great features to consider when building your game for Meta VR Glasses: easy transitions between MR and V</title>
-      <link>https://x.com/Dilmerv/status/2112567968731439344</link>
-      <guid isPermaLink="false">2112567968731439344</guid>
-      <pubDate>Tue, 20 Oct 2026 15:33:48 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Here are a few great features to consider when building your game for Meta VR Glasses: easy transitions between MR and VR, placement in midair or on a table, and multiple size options, especially for tabletop games. 
-      
-      This gives players more ways to enjoy your game and adapt it to their space!
-      https://x.com/Dilmerv/status/2112567968731439344/video/1
-      
-      📌 Passthrough transitioning developed by @xrdevrob is available here
-      https://developers.meta.com/vr/documentation/unity/unity-mrmotifs-passthrough-transitioning/]]></content:encoded>
-    </item>
-</channel>
+  </channel>
 </rss>
