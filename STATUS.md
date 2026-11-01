@@ -1,6 +1,6 @@
 # STATUS — XRHOT X 采集状态
 
-最后在本文件手工更新：2026-10-31 21:05 PDT（例行 2026-11-01 12:00 BJT）。
+最后在本文件手工更新：2026-11-01 01:10 PDT（例行 2026-11-01 16:00 BJT）。
 
 ## 订阅现状
 
@@ -16,13 +16,13 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-offic
 curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml | grep -c '<item>'
 ```
 
-## 本轮：2026-11-01 12:00 BJT
+## 本轮：2026-11-01 16:00 BJT
 
-- 预检 19 账号；最新 id 高于 watermark：VRChat、getVITURE、RokidGlobal、BigscreenVR、nathie、Dilmerv、SadlyItsBradley；其余等于 watermark 跳过；LensStudioDev aged-out skip（most_recent 2107190748114481270）。
-- **official 100→100（+1）：** VRChat Spookality Party Zone live NOW 2116712353378996648。丢掉最旧 1 条。getVITURE / RokidGlobal / BigscreenVR `exclude` 后 result_count 0。
-- **media-kol 100→100（+2）：** Dilmerv Meta Connect sunglasses / charger 2116723423694950836；Dilmerv Cubiques VR/MR trailer 2116686712533385363。丢掉最旧 2 条。nathie 自串回复 2116648104304824524（Hauntify 根帖已合成入库）drop；SadlyItsBradley `exclude` 后 result_count 0。
+- 预检 19 账号；最新 id 高于 watermark：VRChat、BigscreenVR、RokidGlobal、getVITURE、nathie、SadlyItsBradley；其余等于 watermark 跳过；LensStudioDev aged-out skip（most_recent 2107190748114481270）。
+- **official 100→100（+1）：** VRChat Spookality party thank-you 2116758934811738213。丢掉最旧 1 条。BigscreenVR / RokidGlobal / getVITURE `exclude` 后 result_count 0。
+- **media-kol 100 不变：** nathie 自串回复 2116648104304824524（Hauntify 根帖已入库）drop；SadlyItsBradley `exclude` 后 result_count 0。
 - 监控名单未变（official 15 / media-kol 4）。
-- 上一有变更档 2026-11-01 08:00 BJT：official +5 / media +8（HEAD d347d1b）。
+- 上一有变更档 2026-11-01 12:00 BJT：official +1 / media +2（HEAD d0ac8e8）。
 
 ## 定时更新
 
@@ -33,7 +33,7 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media
 | 旧规范「每 30 分钟」 | **已废止** |
 | 省 token | 见 `scripts/cheap_check_plan.md` |
 
-下一例行节点（北京时间）：2026-11-01 **16:00**。
+下一例行节点（北京时间）：2026-11-01 **20:00**。
 
 ## 待办
 
