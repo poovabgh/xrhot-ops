@@ -4,8 +4,105 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Sat, 31 Oct 2026 16:03:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 00:05:44 +0000</lastBuildDate>
+        <item>
+      <title>XR devs, here’s a great tip and a feature I’m using on my own MR games.👇</title>
+      <link>https://x.com/Dilmerv/status/2116675356937556345</link>
+      <guid isPermaLink="false">2116675356937556345</guid>
+      <pubDate>Sat, 31 Oct 2026 23:35:05 +0000</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[XR devs, here’s a great tip and a feature I’m using on my own MR games.👇
+
+MRUK World Locking keeps virtual content aligned with the real world by adjusting tracking space to compensate for drift.
+
+Why it matters for MR:
+- Reduces visible drift
+- Keeps objects aligned with real surfaces
+- No need to anchor every object
+
+📌 This is enabled by default when adding MRUK to your Unity scene!
+https://x.com/Dilmerv/status/2116675356937556345/video/1]]></content:encoded>
+    </item>
     <item>
+      <title>XR devs, never lose your curiosity!</title>
+      <link>https://x.com/Dilmerv/status/2116661499972227386</link>
+      <guid isPermaLink="false">2116661499972227386</guid>
+      <pubDate>Sat, 31 Oct 2026 22:40:01 +0000</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[XR devs, never lose your curiosity!
+
+Some of the most exciting things I’ve built in my career started with a simple question:
+
+“What if I tried this?”
+
+Sometimes that’s all you need to start something amazing.]]></content:encoded>
+    </item>
+    <item>
+      <title>This Meta Quest game scans your actual space and transforms it into a haunted house.</title>
+      <link>https://x.com/nathie/status/2116647626107945201</link>
+      <guid isPermaLink="false">2116647626107945201</guid>
+      <pubDate>Sat, 31 Oct 2026 21:44:54 +0000</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[This Meta Quest game scans your actual space and transforms it into a haunted house.
+https://x.com/nathie/status/2116647626107945201/video/1
+Try Hauntify yourself here: https://www.meta.com/experiences/hauntify/4130979187008353/]]></content:encoded>
+    </item>
+    <item>
+      <title>XR devs, don’t underestimate how much your work can inspire others.</title>
+      <link>https://x.com/Dilmerv/status/2116630042864165122</link>
+      <guid isPermaLink="false">2116630042864165122</guid>
+      <pubDate>Sat, 31 Oct 2026 20:35:01 +0000</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[XR devs, don’t underestimate how much your work can inspire others.
+
+That little prototype you built over the weekend might give another developer the motivation to start their own project.
+
+Keep building and sharing! 🚀]]></content:encoded>
+    </item>
+    <item>
+      <title>Would you kindly… trick or treat?</title>
+      <link>https://x.com/nathie/status/2116611485321638168</link>
+      <guid isPermaLink="false">2116611485321638168</guid>
+      <pubDate>Sat, 31 Oct 2026 19:21:17 +0000</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[Would you kindly… trick or treat?
+https://x.com/nathie/status/2116611485321638168/photo/1]]></content:encoded>
+    </item>
+    <item>
+      <title>One thing I love about XR development is that you never know where a small experiment will take you.</title>
+      <link>https://x.com/Dilmerv/status/2116602463457333520</link>
+      <guid isPermaLink="false">2116602463457333520</guid>
+      <pubDate>Sat, 31 Oct 2026 18:45:26 +0000</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[One thing I love about XR development is that you never know where a small experiment will take you.
+
+A simple interaction can turn into an entire game mechanic.
+
+Keep experimenting!
+https://x.com/Dilmerv/status/2116602463457333520/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>These new smart glasses just entered the market giving you the speed of speech without making a sound or touching a keyb</title>
+      <link>https://x.com/nathie/status/2116592500471214115</link>
+      <guid isPermaLink="false">2116592500471214115</guid>
+      <pubDate>Sat, 31 Oct 2026 18:05:51 +0000</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[These new smart glasses just entered the market giving you the speed of speech without making a sound or touching a keyboard. They track your internal speech muscles using non-contact sensing and decode silent, almost invisible mouthing into text at over 200 words per minute.
+https://x.com/nathie/status/2116592500471214115/video/1
+Learn more about Subvocal here: https://subvocal.company]]></content:encoded>
+    </item>
+    <item>
+      <title>💡Are you using Depth API? I’d recommend testing it out to create more realistic Mixed Reality experiences, then trying o</title>
+      <link>https://x.com/Dilmerv/status/2116568461962862993</link>
+      <guid isPermaLink="false">2116568461962862993</guid>
+      <pubDate>Sat, 31 Oct 2026 16:30:19 +0000</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[💡Are you using Depth API? I’d recommend testing it out to create more realistic Mixed Reality experiences, then trying out both Hard & Soft Occlusion in EnvironmentDepthManager.
+
+Hard Occlusion is cheaper but has jagged edges. Soft Occlusion produces smoother edges at a slightly higher GPU cost.
+https://x.com/Dilmerv/status/2116568461962862993/photo/1]]></content:encoded>
+    </item>
+<item>
       <title>XR devs, here’s a quick tip for today!</title>
       <link>https://x.com/Dilmerv/status/2116542778184479108</link>
       <guid isPermaLink="false">2116542778184479108</guid>
@@ -1201,122 +1298,6 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       
       📌 Passthrough transitioning developed by @xrdevrob is available here
       https://developers.meta.com/vr/documentation/unity/unity-mrmotifs-passthrough-transitioning/]]></content:encoded>
-    </item>
-    <item>
-      <title>Robert Downey Jr. is officially teaming up with Snap's SPECS AR glasses to help shape the future of wearables.</title>
-      <link>https://x.com/nathie/status/2112548527125471716</link>
-      <guid isPermaLink="false">2112548527125471716</guid>
-      <pubDate>Tue, 20 Oct 2026 14:16:32 GMT</pubDate>
-      <dc:creator>nathie</dc:creator>
-      <content:encoded><![CDATA[Robert Downey Jr. is officially teaming up with Snap's SPECS AR glasses to help shape the future of wearables.
-      
-      This could be a huge step toward making AR glasses mainstream.
-      https://x.com/nathie/status/2112548527125471716/video/1
-      
-      Learn more here: https://investor.snap.com/news/news-details/2026/Robert-Downey-Jr--Joins-SPECS-as-Chief-Customer-Experience-Officer/default.aspx]]></content:encoded>
-    </item>
-    <item>
-      <title>⏰ Last chance: UnitedXR Europe Early Bird ends 21 October, midnight CET</title>
-      <link>https://x.com/ARealityEvent/status/2112529268223926290</link>
-      <guid isPermaLink="false">2112529268223926290</guid>
-      <pubDate>Tue, 20 Oct 2026 13:00:01 GMT</pubDate>
-      <dc:creator>ARealityEvent</dc:creator>
-      <content:encoded><![CDATA[⏰ Last chance: UnitedXR Europe Early Bird ends 21 October, midnight CET
-      
-      €579 instead of €699 for the #1 XR Event in Europe.
-      📍 7–9 Dec, Brussels · by AWE & Stereopsia.
-      
-      🚀 Register now: https://unitedxr.eu/?utm_campaign=366166765-UnitedXR%20Europe%202026&utm_content=469326543&utm_medium=social&utm_source=twitter&hss_channel=tw-106035107
-      
-      #UnitedXR #XR #AR #VR
-      https://x.com/ARealityEvent/status/2112529268223926290/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>You wouldn’t download an entire Disney World garden + fountain fixture, would you?</title>
-      <link>https://x.com/SadlyItsBradley/status/2112343344919531836</link>
-      <guid isPermaLink="false">2112343344919531836</guid>
-      <pubDate>Tue, 20 Oct 2026 00:41:13 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[You wouldn’t download an entire Disney World garden + fountain fixture, would you?
-      
-      (I’m actually quite amazed how well this spatial video to splat conversion turned out)
-      https://x.com/SadlyItsBradley/status/2112343344919531836/video/1
-      
-      引用 @SadlyItsBradley：I didn't sleep the past 36 hours just so I can nail the UX for this..
-      
-      I am so unbelievably excited on how this turned out!
-      
-      My app takes headset-recorded spatial videos, and lets you grab 3D objects from within them
-      
-      You can then recolor, re-sculpt, and 3D print them afterwards!
-      https://x.com/SadlyItsBradley/status/2107596978775339154/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>This Weekend's Project: a Spatial Video capture tool inside VRChat!</title>
-      <link>https://x.com/SadlyItsBradley/status/2112098584409907622</link>
-      <guid isPermaLink="false">2112098584409907622</guid>
-      <pubDate>Mon, 19 Oct 2026 08:28:38 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[This Weekend's Project: a Spatial Video capture tool inside VRChat!
-      
-      Using the same parameters and MV-HEVC codec as what Apple uses with Vision Pro:
-      
-      This allows me to capture and create holograms of my friends and other really cool things I find in the metaverse, using Splattery
-      https://x.com/SadlyItsBradley/status/2112098584409907622/video/1
-      
-      引用 @SadlyItsBradley：I didn't sleep the past 36 hours just so I can nail the UX for this..
-      
-      I am so unbelievably excited on how this turned out!
-      
-      My app takes headset-recorded spatial videos, and lets you grab 3D objects from within them
-      
-      You can then recolor, re-sculpt, and 3D print them afterwards!
-      https://x.com/SadlyItsBradley/status/2107596978775339154/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Would you believe me if I told you I had a little portal to VRChat on my desk?</title>
-      <link>https://x.com/SadlyItsBradley/status/2112008731617624085</link>
-      <guid isPermaLink="false">2112008731617624085</guid>
-      <pubDate>Mon, 19 Oct 2026 02:31:35 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[Would you believe me if I told you I had a little portal to VRChat on my desk?
-      
-      Alongside all of my other spatial computing apps/tools/windows?
-      
-      Truly a glorious future we live in
-      https://x.com/SadlyItsBradley/status/2112008731617624085/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>⏰ Early Bird for UnitedXR Europe ends on 21 October. Register at the best price and save €120 on your pass.</title>
-      <link>https://x.com/ARealityEvent/status/2111819592423367119</link>
-      <guid isPermaLink="false">2111819592423367119</guid>
-      <pubDate>Sun, 18 Oct 2026 14:00:01 GMT</pubDate>
-      <dc:creator>ARealityEvent</dc:creator>
-      <content:encoded><![CDATA[⏰ Early Bird for UnitedXR Europe ends on 21 October. Register at the best price and save €120 on your pass.
-      
-      The #1 XR Event in Europe brings together 2,500+ XR professionals, 200+ speakers across 11 tracks and 180+ exhibitors.
-      
-      Register: https://unitedxr.eu/?utm_campaign=366166765-UnitedXR%20Europe%202026&utm_content=468912855&utm_medium=social&utm_source=twitter&hss_channel=tw-106035107
-      
-      #UnitedXR
-      https://x.com/ARealityEvent/status/2111819592423367119/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>I am building tools today to extend our SDKs, and then I am using those same tools to build new games!</title>
-      <link>https://x.com/Dilmerv/status/2111699786135130429</link>
-      <guid isPermaLink="false">2111699786135130429</guid>
-      <pubDate>Sun, 18 Oct 2026 06:03:57 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[I am building tools today to extend our SDKs, and then I am using those same tools to build new games! These are crazy times.]]></content:encoded>
-    </item>
-    <item>
-      <title>Well, it happened!</title>
-      <link>https://x.com/Dilmerv/status/2111698441219063861</link>
-      <guid isPermaLink="false">2111698441219063861</guid>
-      <pubDate>Sun, 18 Oct 2026 05:58:36 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Well, it happened! I worked on this all day and submitted it to the Meta Developer Portal! 🎉
-      https://x.com/Dilmerv/status/2111698441219063861/photo/1]]></content:encoded>
     </item>
 </channel>
 </rss>

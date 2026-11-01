@@ -1,6 +1,6 @@
 # STATUS — XRHOT X 采集状态
 
-最后在本文件手工更新：2026-10-31 09:03 PDT（例行 2026-11-01 00:00 BJT）。
+最后在本文件手工更新：2026-10-31 17:06 PDT（例行 2026-11-01 08:00 BJT）。
 
 ## 订阅现状
 
@@ -16,13 +16,13 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-offic
 curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml | grep -c '<item>'
 ```
 
-## 本轮：2026-11-01 00:00 BJT
+## 本轮：2026-11-01 08:00 BJT
 
-- 预检 19 账号；最新 id 高于 watermark：PICOXR、BigscreenVR、RokidGlobal、getVITURE、VRChat、nathie、Dilmerv；其余等于 watermark 跳过；LensStudioDev aged-out skip（most_recent 2107190748114481270）。
-- **official 100→100（+1）：** PICOXR Halloween/headset tease 2116545840953045420。丢掉最旧 1 条（2112099717358260448）。BigscreenVR / RokidGlobal / getVITURE / VRChat `exclude` 后 result_count 0（最新为回复/RT）。
-- **media-kol 100→100（+1）：** Dilmerv MRUK SceneLoadedEvent tip 2116542778184479108。丢掉最旧 1 条（2111684239154631101）。nathie 仅自串回复 App: Immerrock 2116230625548255616（parent 已在 feed）丢掉；最新 watermark 超出部分为回复/RT。
+- 预检 19 账号；最新 id 高于 watermark：XREAL_Global、getVITURE、BeatSaber、RokidGlobal、VRChat、Play_for_dream、BigscreenVR、nathie、Dilmerv；其余等于 watermark 跳过；LensStudioDev aged-out skip（most_recent 2107190748114481270）。
+- **official 100→100（+5）：** VRChat Spookality schedule change 2116677818440614017；BeatSaber Halloween tracks 2116626332566032759；VRChat Spookality Party Zone 2116624232255983762；XREAL_Global Zach Lieberman / AURA 2116576597880746022；Play_for_dream Halloween VR 2116575935931760782。丢掉最旧 5 条（2112248108507619684 … 2112115140459901216）。getVITURE / RokidGlobal / BigscreenVR `exclude` 后 result_count 0。
+- **media-kol 100→100（+8）：** Dilmerv MRUK World Locking 2116675356937556345 / curiosity 2116661499972227386 / inspire 2116630042864165122 / experiment 2116602463457333520 / Depth API Soft Occlusion 2116568461962862993；nathie Hauntify（串帖合成）2116647626107945201 / trick-or-treat 2116611485321638168 / Subvocal glasses（串帖合成）2116592500471214115。丢掉最旧 8 条。Dilmerv 泛开发者闲聊 2116584740484440186（无 XR）丢掉；nathie 自串回复并入根帖。
 - 监控名单未变（official 15 / media-kol 4）。
-- 上一有变更档 2026-10-31 20:00 BJT：official +1 XREAL 1 Pro+ small room（HEAD 8c3f6ce）。
+- 上一有变更档 2026-11-01 00:00 BJT：official +1 PICOXR / media +1 Dilmerv MRUK tip（HEAD 8e30e32）。
 
 ## 定时更新
 
@@ -33,7 +33,7 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media
 | 旧规范「每 30 分钟」 | **已废止** |
 | 省 token | 见 `scripts/cheap_check_plan.md` |
 
-下一例行节点（北京时间）：2026-11-01 **08:00**。
+下一例行节点（北京时间）：2026-11-01 **12:00**。
 
 ## 待办
 
