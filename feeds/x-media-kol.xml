@@ -4,7 +4,22 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Sun, 01 Nov 2026 04:02:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 16:05:59 +0000</lastBuildDate>
+    <item>
+      <title>📣 XR devs, here’s a useful tip for Meta VR Glasses Development!👇</title>
+      <link>https://x.com/Dilmerv/status/2116902353521549532</link>
+      <guid isPermaLink="false">2116902353521549532</guid>
+      <pubDate>Sun, 01 Nov 2026 14:37:05 +0000</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[📣 XR devs, here’s a useful tip for Meta VR Glasses Development!👇
+
+Using MRUK? Try its Scene Debugger with Immersive Debugger! 
+
+This excellent tool allows you to visualize room meshes, anchors, semantic labels, and NavMeshes directly inside the headset.
+
+Very useful for debugging Mixed Reality placement issues! 🔍
+https://x.com/Dilmerv/status/2116902353521549532/video/1]]></content:encoded>
+    </item>
     <item>
       <title>New sunglasses added to the collection! 😎</title>
       <link>https://x.com/Dilmerv/status/2116723423694950836</link>
@@ -1281,18 +1296,6 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       I previously shared placement options in another demo I built. This is a second prototype I’m working on called “Hand Skate.” It shows table placement, interactions with the skater character, hand gestures to control the skater, and a variety of skate parks and themes!
       https://x.com/Dilmerv/status/2112679677718577510/video/1]]></content:encoded>
     </item>
-    <item>
-      <title>I’m in Orange County this week and captured all of this with Meta Fury sunglasses!</title>
-      <link>https://x.com/Dilmerv/status/2112663359611121756</link>
-      <guid isPermaLink="false">2112663359611121756</guid>
-      <pubDate>Tue, 20 Oct 2026 21:52:50 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[I’m in Orange County this week and captured all of this with Meta Fury sunglasses! These are the non-Ray-Ban version, and honestly, the photos and videos look so good. Zero editing! 😎
-      
-      - 12MP camera with 3K video recording
-      - Over 8 hours of battery life
-      - Discreet open-ear speakers and 6 microphones
-      https://x.com/Dilmerv/status/2112663359611121756/video/1]]></content:encoded>
-    </item>
+    
   </channel>
 </rss>
