@@ -4,7 +4,52 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Mon, 02 Nov 2026 12:05:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 16:08:49 +0000</lastBuildDate>
+    <item>
+      <title>🎤 Join the Main Stage talks at UnitedXR Europe 2026, the #1 XR Event in Europe</title>
+      <link>https://x.com/ARealityEvent/status/2117257465423409441</link>
+      <guid isPermaLink="false">2117257465423409441</guid>
+      <pubDate>Mon, 02 Nov 2026 14:08:11 +0000</pubDate>
+      <dc:creator>ARealityEvent</dc:creator>
+      <content:encoded><![CDATA[🎤 Join the Main Stage talks at UnitedXR Europe 2026, the #1 XR Event in Europe
+
+Top XR use cases, leading companies and the trends for the year ahead.
+
+🗓️ 7–9 Dec · Brussels
+🚀 Join us: https://unitedxr.eu/?utm_campaign=366166765-UnitedXR%20Europe%202026&utm_content=474961644&utm_medium=social&utm_source=twitter&hss_channel=tw-106035107
+
+#UnitedXR #XR #AR #VR #MainStage
+https://x.com/ARealityEvent/status/2117257465423409441/photo/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Steam Hardware Survey for October shows Steam Frame shooting up to 4.13% usage among VR headsets</title>
+      <link>https://x.com/SadlyItsBradley/status/2117250717618483425</link>
+      <guid isPermaLink="false">2117250717618483425</guid>
+      <pubDate>Mon, 02 Nov 2026 13:41:22 +0000</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[Steam Hardware Survey for October shows Steam Frame shooting up to 4.13% usage among VR headsets
+https://x.com/SadlyItsBradley/status/2117250717618483425/photo/1]]></content:encoded>
+    </item>
+    <item>
+      <title>I’ve been experimenting with different pinch grab configurations in ISDK, and here’s something worth trying! 👇</title>
+      <link>https://x.com/Dilmerv/status/2117232898449326584</link>
+      <guid isPermaLink="false">2117232898449326584</guid>
+      <pubDate>Mon, 02 Nov 2026 12:30:33 +0000</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[I’ve been experimenting with different pinch grab configurations in ISDK, and here’s something worth trying! 👇
+
+Want to create pinch grab interactions in Unity? Check out the key in the HandGrabExamples scene!
+
+A few things to try:
+
+- Set Thumb and Index to Optional.
+- Set all other fingers to Ignored.
+- Set Unselect Mode to Any Released.
+- Release either finger to let go.
+
+Great for grabbing smaller objects!
+https://x.com/Dilmerv/status/2117232898449326584/photo/1]]></content:encoded>
+    </item>
     <item>
       <title>XR devs, here’s a quick ISDK tip for today! 👇</title>
       <link>https://x.com/Dilmerv/status/2117202641071542501</link>
@@ -1253,42 +1298,6 @@ https://x.com/nathie/status/2113315308299513970/video/1
 
 Definitely give KrisKalis a follow for more amazing VR content including flight, space and full-body motion simulators!
 https://linktr.ee/kriskalis?utm_source=linktree_profile_share&ltsid=663e6a49-8e6f-4f7b-85e7-a9ce9d2d4420]]></content:encoded>
-    </item>
-    <item>
-      <title>Vision Pro will soon have the most immersive PCVR streaming app..</title>
-      <link>https://x.com/SadlyItsBradley/status/2113302629606461583</link>
-      <guid isPermaLink="false">2113302629606461583</guid>
-      <pubDate>Thu, 22 Oct 2026 16:13:04 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[Vision Pro will soon have the most immersive PCVR streaming app..
-
-(Except for the lack of Eye and Face tracking APIs 🥲)
-https://x.com/SadlyItsBradley/status/2113302629606461583/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>🎟️ Only have one day for UnitedXR Europe?</title>
-      <link>https://x.com/ARealityEvent/status/2113254045658099848</link>
-      <guid isPermaLink="false">2113254045658099848</guid>
-      <pubDate>Thu, 22 Oct 2026 13:00:01 GMT</pubDate>
-      <dc:creator>ARealityEvent</dc:creator>
-      <content:encoded><![CDATA[🎟️ Only have one day for UnitedXR Europe? 
-
-Make it Wednesday, 9 December. 
-The 1-Day Pass (€185) gets you into the sessions and the expo floor with 180+ exhibitors in Brussels. 
-
-🚀 Get your 1-Day Pass: https://na2.hubs.ly/H08x3_c0 
-
-#UnitedXR
-https://x.com/ARealityEvent/status/2113254045658099848/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Here’s Inverse Kinematics (IK) in action with my Hand Grab Pose Baker tool!</title>
-      <link>https://x.com/Dilmerv/status/2113140426890993809</link>
-      <guid isPermaLink="false">2113140426890993809</guid>
-      <pubDate>Thu, 22 Oct 2026 05:28:32 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Here’s Inverse Kinematics (IK) in action with my Hand Grab Pose Baker tool! This lets you lock specific joints, and the video shows the results.
-https://x.com/Dilmerv/status/2113140426890993809/video/1]]></content:encoded>
     </item>
 
   </channel>
