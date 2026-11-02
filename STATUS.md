@@ -1,6 +1,6 @@
 # STATUS — XRHOT X 采集状态
 
-最后在本文件手工更新：2026-11-01 08:06 PDT（例行 2026-11-02 00:00 BJT）。
+最后在本文件手工更新：2026-11-01 16:05 PDT（例行 2026-11-02 08:00 BJT）。
 
 ## 订阅现状
 
@@ -16,13 +16,13 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-offic
 curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml | grep -c '<item>'
 ```
 
-## 本轮：2026-11-02 00:00 BJT
+## 本轮：2026-11-02 08:00 BJT
 
-- 预检 19 账号；最新 id 高于 watermark：PICOXR、BigscreenVR、RokidGlobal、getVITURE、nathie、Dilmerv、SadlyItsBradley；其余等于 watermark 跳过；LensStudioDev aged-out skip（most_recent 2107190748114481270）。
-- **official 100→100（+1）：** PICOXR Cave Crave / PICO Store 2116923341713858877。丢掉最旧 1 条。BigscreenVR / RokidGlobal / getVITURE `exclude` 后 result_count 0。
-- **media-kol 100→100（+1）：** Dilmerv MRUK Scene Debugger tip 2116902353521549532。丢掉最旧 1 条。Dilmerv Sunday coffee/Unity 闲聊 2116913873710133600 drop；nathie 自串回复 2116648104304824524 drop；SadlyItsBradley `exclude` 后 result_count 0。
+- 预检 19 账号；最新 id 高于 watermark：BigscreenVR、RokidGlobal、getVITURE、nathie、Dilmerv、SadlyItsBradley；其余等于 watermark 跳过；LensStudioDev aged-out skip（most_recent 2107190748114481270）。
+- **official 100 不变：** BigscreenVR / RokidGlobal / getVITURE `exclude` 后 result_count 0。
+- **media-kol 100→100（+2）：** Dilmerv MR onboarding/hand tracking 2116945994860417425；nathie Steam Frame 2116933029021049043。丢掉最旧 2 条。Dilmerv 动机/纪律闲聊 2116991246455525771 / 2116979850523050010 drop；Dilmerv coffee/Unity 2116913873710133600 drop；nathie 自串回复 2116648104304824524 drop；SadlyItsBradley `exclude` 后 result_count 0。
 - 监控名单未变（official 15 / media-kol 4）。
-- 上一有变更档 2026-11-01 20:00 BJT：official +1（HEAD a90328f）。
+- 上一有变更档 2026-11-02 00:00 BJT：official +1 / media-kol +1（HEAD db17461）。
 
 ## 定时更新
 
@@ -33,7 +33,7 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media
 | 旧规范「每 30 分钟」 | **已废止** |
 | 省 token | 见 `scripts/cheap_check_plan.md` |
 
-下一例行节点（北京时间）：2026-11-02 **08:00**。
+下一例行节点（北京时间）：2026-11-02 **12:00**。
 
 ## 待办
 

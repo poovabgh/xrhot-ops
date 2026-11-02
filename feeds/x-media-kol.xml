@@ -4,7 +4,28 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Sun, 01 Nov 2026 16:05:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 00:04:09 +0000</lastBuildDate>
+    <item>
+      <title>One thing I pay a lot of attention to when building MR games is onboarding, especially with hand tracking!</title>
+      <link>https://x.com/Dilmerv/status/2116945994860417425</link>
+      <guid isPermaLink="false">2116945994860417425</guid>
+      <pubDate>Sun, 01 Nov 2026 17:30:30 +0000</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[One thing I pay a lot of attention to when building MR games is onboarding, especially with hand tracking!
+
+Where I place the gameplay, how I introduce interactions, and how easy it is to get started.
+
+It’s important for players to know exactly what to do, feel comfortable with the interactions, enjoy the experience, and ultimately keep coming back!
+https://x.com/Dilmerv/status/2116945994860417425/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>What have you been using your Steam Frame for?</title>
+      <link>https://x.com/nathie/status/2116933029021049043</link>
+      <guid isPermaLink="false">2116933029021049043</guid>
+      <pubDate>Sun, 01 Nov 2026 16:38:59 +0000</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[What have you been using your Steam Frame for?]]></content:encoded>
+    </item>
     <item>
       <title>📣 XR devs, here’s a useful tip for Meta VR Glasses Development!👇</title>
       <link>https://x.com/Dilmerv/status/2116902353521549532</link>
@@ -1265,37 +1286,5 @@ https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded
       So far, I’m getting better results. It’s not perfect, but honestly, the improvements are so good! It now takes just 2–3 seconds to bake one object.
       https://x.com/Dilmerv/status/2112800102712775157/video/1]]></content:encoded>
     </item>
-    <item>
-      <title>I’ve been a dev for decades, but recently I’ve developed a huge passion for agentic workflows.</title>
-      <link>https://x.com/Dilmerv/status/2112769827605828079</link>
-      <guid isPermaLink="false">2112769827605828079</guid>
-      <pubDate>Wed, 21 Oct 2026 04:55:54 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[I’ve been a dev for decades, but recently I’ve developed a huge passion for agentic workflows. Combining the speed of these tools with my experience honestly feels like I can clone myself and have superpowers!
-      
-      The talented @AshrayPai shares that same passion and sat down with me for an interview at Meta Connect 2026. Hear what he had to say! 👇
-      
-      引用 @MetaVRDevs："It's a human who has to put on the headset and see if your interaction is natural or not."
-      
-      That's @AshrayPai answering a question about agentic tools from Meta developer advocate @Dilmerv in episode 1 of Unscripted, our new series where a developer and a Meta developer advocate candidly take turns answering questions about building on Meta platforms.
-      
-      In this episode, Ashray and Dilmer shared how they use agentic tools to accelerate VR development. Scaffolding, SDK and package setup, debugging and test runs all go to Ashray's agents. Comfort and interaction quality stay with him, in the headset. He sums it up as anything that needs testing can go to an agent, and anything that requires judging needs a human.
-      
-      Watch episode 1 to hear how both of them use agentic tools in their day-to-day workflows and stay tuned for more episodes 👉 https://www.youtube.com/watch?v=ZK0-t56JggU 
-      #MetaVR #MetaVRGlasses #DevTools #AICoding
-      https://x.com/MetaVRDevs/status/2112667703203021055/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Here’s another example of what you can build for Meta VR Glasses!</title>
-      <link>https://x.com/Dilmerv/status/2112679677718577510</link>
-      <guid isPermaLink="false">2112679677718577510</guid>
-      <pubDate>Tue, 20 Oct 2026 22:57:41 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Here’s another example of what you can build for Meta VR Glasses!
-      
-      I previously shared placement options in another demo I built. This is a second prototype I’m working on called “Hand Skate.” It shows table placement, interactions with the skater character, hand gestures to control the skater, and a variety of skate parks and themes!
-      https://x.com/Dilmerv/status/2112679677718577510/video/1]]></content:encoded>
-    </item>
-    
   </channel>
 </rss>
