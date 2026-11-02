@@ -4,7 +4,24 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Mon, 02 Nov 2026 00:04:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 08:05:13 +0000</lastBuildDate>
+    <item>
+      <title>Curious how I achieved the basketball collisions w/ real-world surfaces in Arcade Hoops? 🏀</title>
+      <link>https://x.com/Dilmerv/status/2117134666884886904</link>
+      <guid isPermaLink="false">2117134666884886904</guid>
+      <pubDate>Mon, 02 Nov 2026 06:00:13 +0000</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Curious how I achieved the basketball collisions w/ real-world surfaces in Arcade Hoops? 🏀
+
+I used MRUK’s EffectMesh in Unity w/ Add Colliders enabled!
+
+Few useful features:
+
+- Generates colliders from room geometry
+- Filters surfaces using semantic labels
+- Hides meshes while keeping physics active
+https://x.com/Dilmerv/status/2117134666884886904/video/1]]></content:encoded>
+    </item>
     <item>
       <title>One thing I pay a lot of attention to when building MR games is onboarding, especially with hand tracking!</title>
       <link>https://x.com/Dilmerv/status/2116945994860417425</link>
@@ -1273,18 +1290,6 @@ I’ve learned so much about building hands-first experiences, and I can’t wai
 You can download Fuse Balls for free here! 👇
 https://www.meta.com/experiences/fuse-balls/1804177597451825]]></content:encoded>
     </item>
-    <item>
-      <title>I’ve been quietly building a new Hand Pose Baking tool for Meta VR Glasses that also works with Quest devices.</title>
-      <link>https://x.com/Dilmerv/status/2112800102712775157</link>
-      <guid isPermaLink="false">2112800102712775157</guid>
-      <pubDate>Wed, 21 Oct 2026 06:56:13 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[I’ve been quietly building a new Hand Pose Baking tool for Meta VR Glasses that also works with Quest devices. I had a lot of issues when I started: one object taking 2–3 minutes to bake, fingers going through meshes, and poses that just didn’t look quite right.
-      
-      💡But why do this? Well, I think realistic hand grab poses with more variety can make interactions feel more engaging and natural, especially if we can generate them without any manual work.
-      
-      So far, I’m getting better results. It’s not perfect, but honestly, the improvements are so good! It now takes just 2–3 seconds to bake one object.
-      https://x.com/Dilmerv/status/2112800102712775157/video/1]]></content:encoded>
-    </item>
+
   </channel>
 </rss>
