@@ -2,7 +2,7 @@
   "feed": "feeds/x-official.xml",
   "feedTitle": "X · XR 官方账号",
   "policy": "Company official accounts only. Personal executive accounts require explicit user approval.",
-  "updatedAt": "2026-10-14",
+  "updatedAt": "2026-11-03",
   "accounts": [
     {
       "handle": "MetaVR_Official",
@@ -80,13 +80,6 @@
       "evidenceUrl": "https://x.com/MetaVRDevs",
       "addedAt": "2026-10-10",
       "notes": "Meta VR Developers; user-approved expansion"
-    },
-    {
-      "handle": "LensStudioDev",
-      "brand": "Snap",
-      "evidenceUrl": "https://x.com/LensStudioDev",
-      "addedAt": "2026-10-10",
-      "notes": "Lens Studio / Spectacles AR; user-approved"
     },
     {
       "handle": "magicleap",

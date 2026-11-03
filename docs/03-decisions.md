@@ -4,6 +4,12 @@
 
 ---
 
+## 2026-11-03 — 去掉 LensStudioDev
+
+- **背景：** 近窗口复盘：`LensStudioDev` 当前 feed 0 条；STATUS 连续多日 `aged-out skip`，`most_recent` 冻在 `2107190748114481270`，预检无入库。用户要求清掉。
+- **决定：** 从 `accounts/official.json` 移除；写入 `accounts/rejected.json`（dropped-from-official）；更新 channel description / 清单 / HANDOFF。feed 本无其 `<item>`，无需删帖。
+- **后果：** official 账号 15→14；例行预检从 19→18；media-kol 不变。
+
 ## 2026-10-14 — 去掉 benz145 / rayneo_global / Flat2VR / kentbye
 
 - **背景：** 近窗口（约 2026-10-12～15）噪声与入库成功率复盘：`benz145` 几乎每轮超水位但多为非 XR；`rayneo_global` / `Flat2VR` 本窗 0 入库；`kentbye` 成功率约 11%。用户要求去掉上述四家，其余保留。

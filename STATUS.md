@@ -1,6 +1,6 @@
 # STATUS — XRHOT X 采集状态
 
-最后在本文件手工更新：2026-11-03 00:07 PST（例行 2026-11-03 16:00 BJT）。
+最后在本文件手工更新：2026-11-03 02:55 PST（用户指示去掉 LensStudioDev；例行上次 16:00 BJT）。
 
 ## 订阅现状
 
@@ -22,7 +22,7 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media
 - **official 100 不变：** MetaVR_Official / BigscreenVR / XREAL_Global / VRChat / BeatSaber `exclude` 后 result_count 0。
 - **media-kol 100→100（+1）：** Dilmerv Cubiques Meta VR Developer Portal 提交（合串）2117477060298080601；丢掉最旧 1 条（2114037069341421726）。nathie / SadlyItsBradley `exclude` 后 result_count 0；Dilmerv motivation/learning drop（2117460515081367590）。
 - 中间 12:00 BJT 轮次：official/media 均无变更、无 commit（见 journal）。
-- 监控名单未变（official 15 / media-kol 4）。
+- **监控名单变更（本手工提交）：** 去掉 `LensStudioDev` → official **15→14** / media-kol 4；预检账号 19→18。写入 `accounts/rejected.json`。feed 无其条目，条数仍 100/100。
 - 上一有变更档 2026-11-03 08:00 BJT：official +2 getVITURE/MetaVRDevs；media-kol +12 Bradley/Dilmerv/nathie。
 
 ## 定时更新

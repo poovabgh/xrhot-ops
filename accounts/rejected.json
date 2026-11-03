@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-14",
+  "updatedAt": "2026-11-03",
   "entries": [
+    {
+      "handle": "LensStudioDev",
+      "status": "dropped-from-official",
+      "reason": "Feed empty (0 items); STATUS repeatedly aged-out skip with frozen most_recent 2107190748114481270; monitoring cost with no ingest",
+      "droppedAt": "2026-11-03",
+      "notes": "User directed drop 2026-11-03 (zero yield / aged-out)"
+    },
     {
       "handle": "kentbye",
       "status": "dropped-from-media-kol",

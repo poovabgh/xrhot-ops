@@ -17,7 +17,6 @@
 | Play_for_dream | Play For Dream | 2026-10-09 扩（站内另有 press Atom） |
 | PICOXR_Dev | PICO | 开发者号，官方侧 |
 | MetaVRDevs | Meta | 2026-10-10 扩；Meta VR Developers |
-| LensStudioDev | Snap | 2026-10-10 扩；Lens Studio / Spectacles |
 | magicleap | Magic Leap | 2026-10-10 扩 |
 | VRChat | VRChat | 2026-10-10 扩；平台/内容 |
 | BeatSaber | Beat Games | 2026-10-10 扩 |
@@ -25,6 +24,8 @@
 政策（用户 2026-10-09）：**只加官方公司号**；官方人员个人号（如 `boztank`）不加。2026-10-10 扩的是公司/产品官方号（含平台与头部游戏官方号）。
 
 2026-10-14 从监控去掉：`rayneo_global`（近窗口超水位但几乎无原创入库）——见 `accounts/rejected.json`。
+
+2026-11-03 从监控去掉：`LensStudioDev`（feed 0、连续 aged-out、most_recent 冻结）——见 `accounts/rejected.json`。
 
 ## Media + KOL → `feeds/x-media-kol.xml`
 
