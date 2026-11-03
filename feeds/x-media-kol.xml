@@ -4,7 +4,34 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Tue, 03 Nov 2026 00:11:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 08:06:51 +0000</lastBuildDate>
+        <item>
+      <title>I just submitted Cubiques to the Meta VR Developer Portal! 🚀🎉</title>
+      <link>https://x.com/Dilmerv/status/2117477060298080601</link>
+      <guid isPermaLink="false">2117477060298080601</guid>
+      <pubDate>Tue, 03 Nov 2026 04:40:46 +0000</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[I just submitted Cubiques to the Meta VR Developer Portal! 🚀🎉
+
+My original iOS puzzle game is coming to VR and Mixed Reality.
+
+- 70 handcrafted puzzle levels
+- Pinch, hold, and trace across multiple tiles
+- Path previews to plan your next move
+- VR environments and MR passthrough
+- Floating and real-table placement
+- Move, rotate, and resize your board
+- Minimal menus with poke, ray, and gaze-and-pinch controls
+- Five board styles and four environments
+- Achievements, leaderboards, and saved progress
+- Soft shadows, completion effects, and seven music tracks
+
+One step closer to sharing it with you!
+https://x.com/Dilmerv/status/2117477060298080601/video/1
+
+This was a great exercise to identify areas for improvement at Meta! I also learned a lot throughout this process, once again.
+https://x.com/Dilmerv/status/2117480716347035823/photo/1]]></content:encoded>
+    </item>
     <item>
       <title>Apple Vision Pro receiving some dedicated preliminary support for Steam VR Link in the PC’s driver..</title>
       <link>https://x.com/SadlyItsBradley/status/2117370134788718640</link>
@@ -1280,19 +1307,6 @@ https://x.com/SadlyItsBradley/status/2114053357493199030/video/1
 引用 @SadlyItsBradley：VRChat Workrooms
 https://x.com/SadlyItsBradley/status/1720395472286761424/video/1]]></content:encoded>
     </item>
-    <item>
-      <title>Here’s another game I built about 5 years ago for iOS and Apple TV that was featured by Apple on both platforms!</title>
-      <link>https://x.com/Dilmerv/status/2114037069341421726</link>
-      <guid isPermaLink="false">2114037069341421726</guid>
-      <pubDate>Sat, 24 Oct 2026 16:51:28 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Here’s another game I built about 5 years ago for iOS and Apple TV that was featured by Apple on both platforms!
 
-I’m now bringing it to mixed reality as a tabletop game with pinch interactions, and I’m working on adding more features with MRUK + Gaze. 🙌
-https://x.com/Dilmerv/status/2114037069341421726/video/1
-
-For reference purposes, here’s the original game. I believe this was the TVOS version, but I pulled this video from an old YouTube channel I had when I was making iOS games.
-https://x.com/Dilmerv/status/2114104864615907737/video/1]]></content:encoded>
-    </item>
   </channel>
 </rss>

@@ -1,6 +1,6 @@
 # STATUS — XRHOT X 采集状态
 
-最后在本文件手工更新：2026-11-02 16:11 PST（例行 2026-11-03 08:00 BJT）。
+最后在本文件手工更新：2026-11-03 00:07 PST（例行 2026-11-03 16:00 BJT）。
 
 ## 订阅现状
 
@@ -16,13 +16,14 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-offic
 curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml | grep -c '<item>'
 ```
 
-## 本轮：2026-11-03 08:00 BJT
+## 本轮：2026-11-03 16:00 BJT
 
-- 预检 19 账号；最新 id 高于 watermark：MetaVR_Official、MetaVRDevs、BigscreenVR、getVITURE、VRChat、BeatSaber、nathie、Dilmerv、SadlyItsBradley；其余等于 watermark 跳过；LensStudioDev aged-out skip（most_recent 2107190748114481270）。
-- **official 100→100（+2）：** getVITURE PCMag Smart Glasses Gift 2117343081527988417 / MetaVRDevs Quest 2+Pro EOF feature 2117332750395232649；丢掉最旧 2 条。MetaVR_Official / BigscreenVR / VRChat / BeatSaber `exclude` 后 result_count 0。
-- **media-kol 100→100（+12）：** SadlyItsBradley AVP SteamVR Link 2117370134788718640 / chroma passthrough 2117369162792136932 / SteamVR 2.19.1 Beta（合串）2117364399132545432 / Frame Lepton decode 2117354689872154824 / WebXR Chromium 2117327521247338568 / Huge Quest EOF quote 2117324987908440330；Dilmerv XR feature Q 2117368772201742555 / MR room adapt 2117342264556965913 / Cubiques store 2117334958565974368 / VR-MR interaction 2117316441292652799；nathie Quest EOF quote 2117346754295423294 / HZD VR mod 2117323861222162626；丢掉最旧 12 条。nathie self-thread reply drop；Dilmerv XR-devs motivation drop；Bradley patch-notes 自回复合入 Beta 根帖。
+- 预检 19 账号；最新 id 高于 watermark：MetaVR_Official、BigscreenVR、XREAL_Global、VRChat、BeatSaber、nathie、Dilmerv、SadlyItsBradley；其余等于 watermark 跳过；LensStudioDev aged-out skip（most_recent 2107190748114481270）。
+- **official 100 不变：** MetaVR_Official / BigscreenVR / XREAL_Global / VRChat / BeatSaber `exclude` 后 result_count 0。
+- **media-kol 100→100（+1）：** Dilmerv Cubiques Meta VR Developer Portal 提交（合串）2117477060298080601；丢掉最旧 1 条（2114037069341421726）。nathie / SadlyItsBradley `exclude` 后 result_count 0；Dilmerv motivation/learning drop（2117460515081367590）。
+- 中间 12:00 BJT 轮次：official/media 均无变更、无 commit（见 journal）。
 - 监控名单未变（official 15 / media-kol 4）。
-- 上一有变更档 2026-11-03 00:00 BJT：official +2 Rokid/XREAL；media-kol +3 AWE/Bradley/Dilmerv（HEAD 24c13f0）。
+- 上一有变更档 2026-11-03 08:00 BJT：official +2 getVITURE/MetaVRDevs；media-kol +12 Bradley/Dilmerv/nathie。
 
 ## 定时更新
 
@@ -33,7 +34,7 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media
 | 旧规范「每 30 分钟」 | **已废止** |
 | 省 token | 见 `scripts/cheap_check_plan.md` |
 
-下一例行节点（北京时间）：2026-11-03 **12:00**。
+下一例行节点（北京时间）：2026-11-03 **20:00**。
 
 ## 待办
 
