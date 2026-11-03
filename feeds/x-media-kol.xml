@@ -4,7 +4,171 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Mon, 02 Nov 2026 16:08:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 00:11:15 +0000</lastBuildDate>
+    <item>
+      <title>Apple Vision Pro receiving some dedicated preliminary support for Steam VR Link in the PC’s driver..</title>
+      <link>https://x.com/SadlyItsBradley/status/2117370134788718640</link>
+      <guid isPermaLink="false">2117370134788718640</guid>
+      <pubDate>Mon, 02 Nov 2026 21:35:53 +0000</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[Apple Vision Pro receiving some dedicated preliminary support for Steam VR Link in the PC’s driver..
+
+Steam Link on visionOS currently* doesn’t have a VR mode..
+
+Oh dear god I’m actually doomed beyond belief, aren’t I? 😵‍💫
+https://x.com/SadlyItsBradley/status/2117370134788718640/photo/1
+https://x.com/SadlyItsBradley/status/2117364399132545432
+
+引用 @SadlyItsBradley：SteamVR 2.19.1 Beta just dropped
+
+“Brings improvements to streamed image quality: sharper text, clearer colors, and better detail
+
+These improvements benefit all streaming VR applications, the SteamVR interface, desktop streaming, third-party overlays, and the theater screen”
+https://x.com/SadlyItsBradley/status/2117364399132545432/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>SteamVR Beta datamine shows that Valve are working on bringing chroma key passthrough support to Steam Link</title>
+      <link>https://x.com/SadlyItsBradley/status/2117369162792136932</link>
+      <guid isPermaLink="false">2117369162792136932</guid>
+      <pubDate>Mon, 02 Nov 2026 21:32:01 +0000</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[SteamVR Beta datamine shows that Valve are working on bringing chroma key passthrough support to Steam Link
+
+Because color passthrough is pretty cool and stuffs
+https://x.com/SadlyItsBradley/status/2117369162792136932/photo/1
+https://x.com/SadlyItsBradley/status/2117364399132545432
+
+引用 @SadlyItsBradley：SteamVR 2.19.1 Beta just dropped
+
+“Brings improvements to streamed image quality: sharper text, clearer colors, and better detail
+
+These improvements benefit all streaming VR applications, the SteamVR interface, desktop streaming, third-party overlays, and the theater screen”
+https://x.com/SadlyItsBradley/status/2117364399132545432/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Here’s an interesting question…</title>
+      <link>https://x.com/Dilmerv/status/2117368772201742555</link>
+      <guid isPermaLink="false">2117368772201742555</guid>
+      <pubDate>Mon, 02 Nov 2026 21:30:28 +0000</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Here’s an interesting question…
+
+What’s one 🕶️ XR feature that looks absolutely amazing in demos but you rarely find useful in actual experiences?
+
+I’m really curious about this one.]]></content:encoded>
+    </item>
+    <item>
+      <title>SteamVR 2.19.1 Beta just dropped</title>
+      <link>https://x.com/SadlyItsBradley/status/2117364399132545432</link>
+      <guid isPermaLink="false">2117364399132545432</guid>
+      <pubDate>Mon, 02 Nov 2026 21:13:06 +0000</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[SteamVR 2.19.1 Beta just dropped
+
+“Brings improvements to streamed image quality: sharper text, clearer colors, and better detail
+
+These improvements benefit all streaming VR applications, the SteamVR interface, desktop streaming, third-party overlays, and the theater screen”
+https://x.com/SadlyItsBradley/status/2117364399132545432/video/1
+
+It’s honestly a huge and detailed update
+
+Go read the full patch notes:
+
+https://store.steampowered.com/news/app/250820/view/683017363938871519
+https://x.com/SadlyItsBradley/status/2117364915606372394/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Valve is moving on enabling hardware decoding support for Steam Frame apps that use Lepton</title>
+      <link>https://x.com/SadlyItsBradley/status/2117354689872154824</link>
+      <guid isPermaLink="false">2117354689872154824</guid>
+      <pubDate>Mon, 02 Nov 2026 20:34:31 +0000</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[Valve is moving on enabling hardware decoding support for Steam Frame apps that use Lepton
+
+This is particularly useful for android-built VR apps that have a media player, like Whirligig
+
+Or a full-on VR streaming app such as Virtual Desktop
+https://x.com/SadlyItsBradley/status/2117354689872154824/photo/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Meta is officially ending feature updates for Quest 2 and Quest Pro in March 2027. Truly the end of an era.</title>
+      <link>https://x.com/nathie/status/2117346754295423294</link>
+      <guid isPermaLink="false">2117346754295423294</guid>
+      <pubDate>Mon, 02 Nov 2026 20:02:59 +0000</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[Meta is officially ending feature updates for Quest 2 and Quest Pro in March 2027. Truly the end of an era.
+https://x.com/MetaVRDevs/status/2117332750395232649
+
+引用 @MetaVRDevs：Meta Quest 2 and Meta Quest Pro are reaching the end of feature development. v2.13 is the final OS release and will reach all devices by March 2027.
+
+Your existing apps keep working, and you can keep shipping updates to them.
+
+Read the full timeline 👉  https://developers.meta.com/vr/blog/meta-quest-2-quest-pro-end-of-feature-development-what-to-know/?utm_source=social-x&utm_medium=MVRD&utm_campaign=organic&utm_content=QuestEOF
+https://x.com/MetaVRDevs/status/2117332750395232649/photo/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Would you rather play a Mixed Reality game that adapts its entire level to your real room, or one that provides the exac</title>
+      <link>https://x.com/Dilmerv/status/2117342264556965913</link>
+      <guid isPermaLink="false">2117342264556965913</guid>
+      <pubDate>Mon, 02 Nov 2026 19:45:08 +0000</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Would you rather play a Mixed Reality game that adapts its entire level to your real room, or one that provides the exact same gameplay regardless of your environment?
+
+I’m experimenting with both approaches and would love your thoughts!]]></content:encoded>
+    </item>
+    <item>
+      <title>Things have been super busy, but finally got time to upload Cubiques to the store and also finished the trailer. I’ll su</title>
+      <link>https://x.com/Dilmerv/status/2117334958565974368</link>
+      <guid isPermaLink="false">2117334958565974368</guid>
+      <pubDate>Mon, 02 Nov 2026 19:16:06 +0000</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Things have been super busy, but finally got time to upload Cubiques to the store and also finished the trailer. I’ll submit it tonight! 🚀]]></content:encoded>
+    </item>
+    <item>
+      <title>Valve seems to be working on making WebXR possible with Steam Frame’s default Chromium browser</title>
+      <link>https://x.com/SadlyItsBradley/status/2117327521247338568</link>
+      <guid isPermaLink="false">2117327521247338568</guid>
+      <pubDate>Mon, 02 Nov 2026 18:46:33 +0000</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[Valve seems to be working on making WebXR possible with Steam Frame’s default Chromium browser
+
+“Enable support for WebXR via flatpak overrides and launch options“
+https://x.com/SadlyItsBradley/status/2117327521247338568/photo/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Huge</title>
+      <link>https://x.com/SadlyItsBradley/status/2117324987908440330</link>
+      <guid isPermaLink="false">2117324987908440330</guid>
+      <pubDate>Mon, 02 Nov 2026 18:36:29 +0000</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[Huge
+https://x.com/lunayian/status/2117321797758488777
+
+引用 @lunayian：The final full feature update for Quest 2 and Pro will be Horizon OS 2.13 in March 2027, and quarterly security patches and critical bug fixes will continue through the end of 2027.
+
+New app submissions for Quest 2 and Quest Pro close December 2027.
+
+https://developers.meta.com/vr/blog/meta-quest-2-quest-pro-end-of-feature-development-what-to-know/]]></content:encoded>
+    </item>
+    <item>
+      <title>There's a Horizon Zero Dawn VR mod in the works and it already looks promising.</title>
+      <link>https://x.com/nathie/status/2117323861222162626</link>
+      <guid isPermaLink="false">2117323861222162626</guid>
+      <pubDate>Mon, 02 Nov 2026 18:32:01 +0000</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[There's a Horizon Zero Dawn VR mod in the works and it already looks promising.
+https://x.com/nathie/status/2117323861222162626/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Curious, what’s one interaction you’ve experienced in VR or MR that genuinely made you think, “This is the future!”?</title>
+      <link>https://x.com/Dilmerv/status/2117316441292652799</link>
+      <guid isPermaLink="false">2117316441292652799</guid>
+      <pubDate>Mon, 02 Nov 2026 18:02:32 +0000</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Curious, what’s one interaction you’ve experienced in VR or MR that genuinely made you think, “This is the future!”?
+
+Not necessarily an entire game, just one interaction that blew your mind.]]></content:encoded>
+    </item>
     <item>
       <title>🎤 Join the Main Stage talks at UnitedXR Europe 2026, the #1 XR Event in Europe</title>
       <link>https://x.com/ARealityEvent/status/2117257465423409441</link>
@@ -1130,175 +1294,5 @@ https://x.com/Dilmerv/status/2114037069341421726/video/1
 For reference purposes, here’s the original game. I believe this was the TVOS version, but I pulled this video from an old YouTube channel I had when I was making iOS games.
 https://x.com/Dilmerv/status/2114104864615907737/video/1]]></content:encoded>
     </item>
-    <item>
-      <title>What's the best VR mod you can play right now?</title>
-      <link>https://x.com/nathie/status/2114022656827650248</link>
-      <guid isPermaLink="false">2114022656827650248</guid>
-      <pubDate>Sat, 24 Oct 2026 15:54:12 GMT</pubDate>
-      <dc:creator>nathie</dc:creator>
-      <content:encoded><![CDATA[What's the best VR mod you can play right now?
-https://x.com/nathie/status/2114022656827650248/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>The future we’ll experience with Meta VR Glasses and all the like-minded companies building lightweight, powerful mixed </title>
-      <link>https://x.com/Dilmerv/status/2113781442945880236</link>
-      <guid isPermaLink="false">2113781442945880236</guid>
-      <pubDate>Fri, 23 Oct 2026 23:55:42 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[The future we’ll experience with Meta VR Glasses and all the like-minded companies building lightweight, powerful mixed reality devices is extremely exciting. I’m so happy that so many of us who started years ago get to experience what we’ve always dreamed of!]]></content:encoded>
-    </item>
-    <item>
-      <title>📣 XR devs, here are few more great tips!</title>
-      <link>https://x.com/Dilmerv/status/2113767854638342414</link>
-      <guid isPermaLink="false">2113767854638342414</guid>
-      <pubDate>Fri, 23 Oct 2026 23:01:43 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[📣 XR devs, here are few more great tips! 
-
-Virtual shadows and lighting can make your MR content feel like it actually belongs in your room. Think of a character casting a shadow on your floor or a virtual flame lighting up your desk. Small details, but they can make such a big difference! Meta’s MRUK Passthrough Relighting sample shows how to build these effects in Unity. 
-
-- Use MRUK room data to align effects with floors, walls, and furniture.
-
-- Add EffectMesh geometry to receive virtual shadows and highlights.
-
-- Combine directional-light shadows with point-light highlights.
-
-- Compare Scene Model geometry with Global Mesh to see what works best for your environment.
-
-- Tune shadow quality and profile on-device. Try blob shadows for a less expensive alternative.
-https://x.com/Dilmerv/status/2113767854638342414/photo/1
-
-💡 Few useful resources to help you with the implementation in your own games:
-
-- Guide and visuals: https://developers.meta.com/vr/documentation/unity/unity-passthrough-relighting
-
-- GitHub Sample project: https://github.com/oculus-samples/Unity-MRUtilityKitSample]]></content:encoded>
-    </item>
-    <item>
-      <title>CD-ROM is support coming to Steam Frame</title>
-      <link>https://x.com/SadlyItsBradley/status/2113731023645102102</link>
-      <guid isPermaLink="false">2113731023645102102</guid>
-      <pubDate>Fri, 23 Oct 2026 20:35:21 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[CD-ROM is support coming to Steam Frame
-
-..Oh my god 🤣
-https://x.com/SadlyItsBradley/status/2113731023645102102/photo/1
-
-I want to see someone mount a disc drive directly on top of their head alongside the Steam frame]]></content:encoded>
-    </item>
-    <item>
-      <title>This is exciting for XR devs!</title>
-      <link>https://x.com/Dilmerv/status/2113726842779861304</link>
-      <guid isPermaLink="false">2113726842779861304</guid>
-      <pubDate>Fri, 23 Oct 2026 20:18:45 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[This is exciting for XR devs! Khronos has published new OpenXR Spatial Container extensions for apps that can share your space and switch into fully immersive experiences. 
-
-What interests me is the common API that game engines can integrate across compatible platforms! 🙌
-
-- Switch between bounded and fully immersive modes
-- Support multitasking with multiple apps
-- Create multiple spatial containers within an app
-- Let the system manage container positioning
-- Render into containers using OpenXR composition layers
-
-The specs and sample are published; availability depends on engine and runtime support.
-https://x.com/Dilmerv/status/2113726842779861304/video/1
-
-Full announcement from Khronos 👇
-https://www.khronos.org/blog/openxr-spatial-containers]]></content:encoded>
-    </item>
-    <item>
-      <title>🤝 There’s still time to bring your XR app, meetup or side event to UnitedXR Europe, 7–9 December in Brussels.</title>
-      <link>https://x.com/ARealityEvent/status/2113676830779797755</link>
-      <guid isPermaLink="false">2113676830779797755</guid>
-      <pubDate>Fri, 23 Oct 2026 17:00:01 GMT</pubDate>
-      <dc:creator>ARealityEvent</dc:creator>
-      <content:encoded><![CDATA[🤝 There’s still time to bring your XR app, meetup or side event to UnitedXR Europe, 7–9 December in Brussels. 
-
-Activation partners may receive free passes, space and marketing support. 
-
-Share your idea: https://na2.hubs.ly/H08x4_-0 
-Deadline: 30 October
-
-#UnitedXR #XR https://x.com/ARealityEvent/status/2113676830779797755/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>🕶️ Robert Downey Jr. joins SPECS as Chief Customer Experience Officer.</title>
-      <link>https://x.com/ARealityEvent/status/2113527055493304395</link>
-      <guid isPermaLink="false">2113527055493304395</guid>
-      <pubDate>Fri, 23 Oct 2026 07:04:52 GMT</pubDate>
-      <dc:creator>ARealityEvent</dc:creator>
-      <content:encoded><![CDATA[🕶️ Robert Downey Jr. joins SPECS as Chief Customer Experience Officer. UnitedXR Europe: EU Tech Chief Henna Virkkunen to speak, European XR Awards® nominees and Booster Programs finalists announced.
-
-🔗Subscribe to the Weekly Spatial: https://na2.hubs.ly/H08zs6r0
-
-#AWE #XR #SpatialAI
-https://x.com/ARealityEvent/status/2113527055493304395/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Someone from my discord:</title>
-      <link>https://x.com/SadlyItsBradley/status/2113389888498229459</link>
-      <guid isPermaLink="false">2113389888498229459</guid>
-      <pubDate>Thu, 22 Oct 2026 21:59:48 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[Someone from my discord:
-
-“Everyone ready for the randomized queue to see when you get to purchase HLX?”]]></content:encoded>
-    </item>
-    <item>
-      <title>Submitting Fuse Balls to the Meta Store literally took minutes! The longest part was preparing the trailer, but all the </title>
-      <link>https://x.com/Dilmerv/status/2113361945302913391</link>
-      <guid isPermaLink="false">2113361945302913391</guid>
-      <pubDate>Thu, 22 Oct 2026 20:08:46 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Submitting Fuse Balls to the Meta Store literally took minutes! The longest part was preparing the trailer, but all the images, icons, and metadata were compiled from my GitHub project & interactions with the agent while converting the game from iOS to VR/MR.
-
-If you’re interested, check out this skill! 👇
-https://github.com/meta-quest/agentic-tools/blob/main/skills/hz-store-submit/SKILL.md]]></content:encoded>
-    </item>
-    <item>
-      <title>The gaming industry’s finale</title>
-      <link>https://x.com/SadlyItsBradley/status/2113333764168569138</link>
-      <guid isPermaLink="false">2113333764168569138</guid>
-      <pubDate>Thu, 22 Oct 2026 18:16:47 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[The gaming industry’s finale
-
-引用 @Tyler_McV：We have the first mention of HLX by a Valve employee.
-
-HLX files today. I'm working as quickly as I can.
-https://x.com/Tyler_McV/status/2113313815110770690/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>This PCVR Streamer will also recolor, or in some cases relight, your passthrough zones you draw out as well</title>
-      <link>https://x.com/SadlyItsBradley/status/2113318461971828770</link>
-      <guid isPermaLink="false">2113318461971828770</guid>
-      <pubDate>Thu, 22 Oct 2026 17:15:59 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[This PCVR Streamer will also recolor, or in some cases relight, your passthrough zones you draw out as well
-
-Whether this means keyboards, Sim Rigs, full desks, drinks, whatever you want
-https://x.com/SadlyItsBradley/status/2113318461971828770/video/1
-
-引用 @SadlyItsBradley：Vision Pro will soon have the most immersive PCVR streaming app..
-
-(Except for the lack of Eye and Face tracking APIs 🥲)
-https://x.com/SadlyItsBradley/status/2113302629606461583/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>This VR podracing simulator looks unreal.</title>
-      <link>https://x.com/nathie/status/2113315308299513970</link>
-      <guid isPermaLink="false">2113315308299513970</guid>
-      <pubDate>Thu, 22 Oct 2026 17:03:27 GMT</pubDate>
-      <dc:creator>nathie</dc:creator>
-      <content:encoded><![CDATA[This VR podracing simulator looks unreal.
-https://x.com/nathie/status/2113315308299513970/video/1
-
-Definitely give KrisKalis a follow for more amazing VR content including flight, space and full-body motion simulators!
-https://linktr.ee/kriskalis?utm_source=linktree_profile_share&ltsid=663e6a49-8e6f-4f7b-85e7-a9ce9d2d4420]]></content:encoded>
-    </item>
-
   </channel>
 </rss>
