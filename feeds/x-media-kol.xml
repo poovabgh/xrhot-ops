@@ -4,7 +4,25 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Tue, 03 Nov 2026 08:06:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 12:03:11 +0000</lastBuildDate>
+    <item>
+      <title>All, here’s a cool Meta VR CLI tip! 👇</title>
+      <link>https://x.com/Dilmerv/status/2117572758464761856</link>
+      <guid isPermaLink="false">2117572758464761856</guid>
+      <pubDate>Tue, 03 Nov 2026 11:01:02 +0000</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[All, here’s a cool Meta VR CLI tip! 👇
+
+Building for Meta VR Glasses but only have a Quest 3/3S?
+
+You can simulate the narrower field of view directly on your headset!
+
+Run: 
+metavr device fov-sim enable
+
+Great for testing UI visibility and content placement before the glasses arrive!
+https://x.com/Dilmerv/status/2117572758464761856/video/1]]></content:encoded>
+    </item>
         <item>
       <title>I just submitted Cubiques to the Meta VR Developer Portal! 🚀🎉</title>
       <link>https://x.com/Dilmerv/status/2117477060298080601</link>
@@ -1294,18 +1312,6 @@ This project was made for the XR design challenge by a talented dev team calling
       <content:encoded><![CDATA[X is making me think I dodged quite a few bullets by not owning a TV
 
 Now let me go back to playing vr on my trustworthy and privacy-safe meta quest]]></content:encoded>
-    </item>
-    <item>
-      <title>2026 Modernized</title>
-      <link>https://x.com/SadlyItsBradley/status/2114053357493199030</link>
-      <guid isPermaLink="false">2114053357493199030</guid>
-      <pubDate>Sat, 24 Oct 2026 17:56:12 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[2026 Modernized
-https://x.com/SadlyItsBradley/status/2114053357493199030/video/1
-
-引用 @SadlyItsBradley：VRChat Workrooms
-https://x.com/SadlyItsBradley/status/1720395472286761424/video/1]]></content:encoded>
     </item>
 
   </channel>
