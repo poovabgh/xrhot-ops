@@ -4,7 +4,24 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Wed, 04 Nov 2026 04:03:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 12:10:41 +0000</lastBuildDate>
+    <item>
+      <title>🕶️ XR devs, here’re a few components I added to support the minimalist passthrough-to-VR transitions in Cubiques, the la</title>
+      <link>https://x.com/Dilmerv/status/2117942515235963098</link>
+      <guid isPermaLink="false">2117942515235963098</guid>
+      <pubDate>Wed, 04 Nov 2026 11:30:19 +0000</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[🕶️ XR devs, here’re a few components I added to support the minimalist passthrough-to-VR transitions in Cubiques, the latest game I submitted to the Meta Store:
+
+- OVRManager + OVRPassthroughLayer: enable and render passthrough.
+
+- RoomTransition: animates the shader reveal using MaterialPropertyBlock.
+
+- CubiquesEnvironment: controls sky/floor styles and saves your selection.
+
+- QuietButton + EnvironmentSwatch: power the Settings → Environment controls and visual previews.
+https://x.com/Dilmerv/status/2117942515235963098/video/1]]></content:encoded>
+    </item>
     <item>
       <title>🤯 5,000 people have registered so far for the Meta VR Start Developer Competition! 🕶️🚀</title>
       <link>https://x.com/Dilmerv/status/2117829463849537998</link>
@@ -1321,15 +1338,6 @@ https://developers.meta.com/vr/design/eyes-best-practices/]]></content:encoded>
       <pubDate>Mon, 26 Oct 2026 00:30:05 GMT</pubDate>
       <dc:creator>Dilmerv</dc:creator>
       <content:encoded><![CDATA[Devs, what’s a project you built years ago that you would love to bring back? I’ve been turning some of my old iOS games into mixed reality experiences, and honestly, it has been so much fun! 🙌]]></content:encoded>
-    </item>
-<item>
-      <title>I’ve updated all my project details and links at https://www.learnxr.io/links. I’m very excited to finish up Cubiques VR</title>
-      <link>https://x.com/Dilmerv/status/2114511873022587104</link>
-      <guid isPermaLink="false">2114511873022587104</guid>
-      <pubDate>Mon, 26 Oct 2026 00:18:10 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[I’ve updated all my project details and links at https://www.learnxr.io/links. I’m very excited to finish up Cubiques VR/MR and Hand Skate within the next few weeks!
-https://x.com/Dilmerv/status/2114511873022587104/photo/1]]></content:encoded>
     </item>
 </channel>
 </rss>
