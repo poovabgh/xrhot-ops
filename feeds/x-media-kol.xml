@@ -4,7 +4,41 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Wed, 04 Nov 2026 00:05:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 04:03:54 +0000</lastBuildDate>
+    <item>
+      <title>🤯 5,000 people have registered so far for the Meta VR Start Developer Competition! 🕶️🚀</title>
+      <link>https://x.com/Dilmerv/status/2117829463849537998</link>
+      <guid isPermaLink="false">2117829463849537998</guid>
+      <pubDate>Wed, 04 Nov 2026 04:01:06 +0000</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[🤯 5,000 people have registered so far for the Meta VR Start Developer Competition! 🕶️🚀
+
+This is crazy! So excited to be part of the team judging all the submissions. 
+
+Can’t wait to see what everyone builds!
+https://x.com/Dilmerv/status/2117829463849537998/photo/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Steam FrameOS 0.5.7 Beta just added WebXR support inside of Chromium</title>
+      <link>https://x.com/SadlyItsBradley/status/2117781251155464370</link>
+      <guid isPermaLink="false">2117781251155464370</guid>
+      <pubDate>Wed, 04 Nov 2026 00:49:31 +0000</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[Steam FrameOS 0.5.7 Beta just added WebXR support inside of Chromium
+
+Audio, battery indicator, bindings fixes
+
+And other quality of life changes
+
+Full patchnotes: https://steamcommunity.com/games/4165890/announcements/detail/694276363007298392
+https://x.com/SadlyItsBradley/status/2117781251155464370/photo/1
+https://x.com/SadlyItsBradley/status/2117327521247338568
+
+引用 @SadlyItsBradley：Valve seems to be working on making WebXR possible with Steam Frame’s default Chromium browser
+
+“Enable support for WebXR via flatpak overrides and launch options“
+https://x.com/SadlyItsBradley/status/2117327521247338568/photo/1]]></content:encoded>
+    </item>
     <item>
       <title>All, check out Vector Tango, now available in the Meta Store! 🚀</title>
       <link>https://x.com/Dilmerv/status/2117769557595320404</link>
@@ -1297,21 +1331,5 @@ https://developers.meta.com/vr/design/eyes-best-practices/]]></content:encoded>
       <content:encoded><![CDATA[I’ve updated all my project details and links at https://www.learnxr.io/links. I’m very excited to finish up Cubiques VR/MR and Hand Skate within the next few weeks!
 https://x.com/Dilmerv/status/2114511873022587104/photo/1]]></content:encoded>
     </item>
-<item>
-      <title>One thing I’m enjoying with Cubiques is experimenting with how you interact with it in VR/MR. The game already existed, </title>
-      <link>https://x.com/Dilmerv/status/2114492224373235713</link>
-      <guid isPermaLink="false">2114492224373235713</guid>
-      <pubDate>Sun, 25 Oct 2026 23:00:06 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[One thing I’m enjoying with Cubiques is experimenting with how you interact with it in VR/MR. The game already existed, but figuring out how it should feel with mixed reality, hands, and gaze is a whole new challenge!]]></content:encoded>
-    </item>
-<item>
-      <title>Honestly, the more time I spend with lightweight VR glasses, the more I think the best experiences will be the ones you </title>
-      <link>https://x.com/Dilmerv/status/2114484389400936796</link>
-      <guid isPermaLink="false">2114484389400936796</guid>
-      <pubDate>Sun, 25 Oct 2026 22:28:58 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Honestly, the more time I spend with lightweight VR glasses, the more I think the best experiences will be the ones you forget you’re wearing. Still early, but that direction feels right.]]></content:encoded>
-    </item>
-  </channel>
+</channel>
 </rss>
