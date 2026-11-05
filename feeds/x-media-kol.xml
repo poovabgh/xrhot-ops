@@ -4,7 +4,53 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Wed, 04 Nov 2026 16:13:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 04:09:23 +0000</lastBuildDate>
+    <item>
+      <title>Here’s a cool MRUK feature worth checking out and a huge time-saver when testing Mixed Reality experiences across a vari</title>
+      <link>https://x.com/Dilmerv/status/2118131475501420989</link>
+      <guid isPermaLink="false">2118131475501420989</guid>
+      <pubDate>Thu, 05 Nov 2026 00:01:11 +0000</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Here’s a cool MRUK feature worth checking out and a huge time-saver when testing Mixed Reality experiences across a variety of rooms! 👇
+
+Did you know MRUK has a Spatial Testing framework?
+
+You can automatically run Unity tests across different room prefabs or JSON scenes using RunTestOnAllScenes().
+
+I used this heavily during the development of my game, Fuse Balls, and it helped me catch placement issues early without having to manually test every room configuration!
+https://x.com/Dilmerv/status/2118131475501420989/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>For those wondering why the default Chromium on Steam Frame still isn’t loading WebXR apps even with yesterdays beta ins</title>
+      <link>https://x.com/SadlyItsBradley/status/2118073306570007037</link>
+      <guid isPermaLink="false">2118073306570007037</guid>
+      <pubDate>Wed, 04 Nov 2026 20:10:02 +0000</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[For those wondering why the default Chromium on Steam Frame still isn’t loading WebXR apps even with yesterdays beta installed
+https://x.com/SadlyItsBradley/status/2118073306570007037/photo/1
+https://x.com/SadlyItsBradley/status/2117781251155464370
+
+引用 @SadlyItsBradley：Steam FrameOS 0.5.7 Beta just added WebXR support inside of Chromium
+
+Audio, battery indicator, bindings fixes
+
+And other quality of life changes
+
+Full patchnotes: https://steamcommunity.com/games/4165890/announcements/detail/694276363007298392
+https://x.com/SadlyItsBradley/status/2117781251155464370/photo/1
+https://x.com/SadlyItsBradley/status/2117327521247338568]]></content:encoded>
+    </item>
+    <item>
+      <title>Someone managed to get SteamOS running on the original Oculus Quest.</title>
+      <link>https://x.com/nathie/status/2118025614670037343</link>
+      <guid isPermaLink="false">2118025614670037343</guid>
+      <pubDate>Wed, 04 Nov 2026 17:00:32 +0000</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[Someone managed to get SteamOS running on the original Oculus Quest.
+https://x.com/nathie/status/2118025614670037343/video/1
+
+Learn more here: https://www.reddit.com/r/virtualreality/comments/1xnn2hq/coming_soon_steamos_on_quest_1/]]></content:encoded>
+    </item>
     <item>
       <title>Here’s another cool Meta VR CLI tip! 👇</title>
       <link>https://x.com/Dilmerv/status/2118003054620389681</link>
@@ -1317,38 +1363,6 @@ I’m happy to say that over the last 12 months, that situation has improved dra
 - Switching between MR and VR
 
 Curious which one would help you most with what you’re building! 👇]]></content:encoded>
-    </item>
-    <item>
-      <title>XR devs, what’s one part of your workflow that still takes way too much time? For me, getting hand grab poses to look ri</title>
-      <link>https://x.com/Dilmerv/status/2114563928713789607</link>
-      <guid isPermaLink="false">2114563928713789607</guid>
-      <pubDate>Mon, 26 Oct 2026 03:45:01 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[XR devs, what’s one part of your workflow that still takes way too much time? For me, getting hand grab poses to look right is what motivated me to start building my Hand Pose Baker. Curious what yours is! 👇]]></content:encoded>
-    </item>
-    <item>
-      <title>Curious, when you try a tabletop MR game, do you prefer sitting down and keeping everything within reach, or walking aro</title>
-      <link>https://x.com/Dilmerv/status/2114533728697335809</link>
-      <guid isPermaLink="false">2114533728697335809</guid>
-      <pubDate>Mon, 26 Oct 2026 01:45:01 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Curious, when you try a tabletop MR game, do you prefer sitting down and keeping everything within reach, or walking around the table to explore it from different angles? 👀]]></content:encoded>
-    </item>
-    <item>
-      <title>XR devs, here’s a detail to keep in mind when building gaze interactions for Meta VR Glasses: looking at a button doesn’</title>
-      <link>https://x.com/Dilmerv/status/2114532245495250952</link>
-      <guid isPermaLink="false">2114532245495250952</guid>
-      <pubDate>Mon, 26 Oct 2026 01:39:08 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[XR devs, here’s a detail to keep in mind when building gaze interactions for Meta VR Glasses: looking at a button doesn’t necessarily mean you want to activate it! 👀
-
-Keep hover feedback subtle, give targets enough size and spacing, and reveal additional options after an intentional action, such as a pinch. Moving or expanding your UI just because someone looks at it can make it harder to use.
-
-Small details like these can make the experience feel so much better!
-https://x.com/Dilmerv/status/2114532245495250952/video/1
-
-Take a look at all of these best practices in more detail here 👇
-https://developers.meta.com/vr/design/eyes-best-practices/]]></content:encoded>
     </item>
 </channel>
 </rss>
