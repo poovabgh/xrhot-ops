@@ -4,7 +4,45 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Thu, 05 Nov 2026 12:06:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 16:06:19 +0000</lastBuildDate>
+    <item>
+      <title>Here's a first look at Ghost of Tsushima in glorious VR.</title>
+      <link>https://x.com/nathie/status/2118358938009653285</link>
+      <guid isPermaLink="false">2118358938009653285</guid>
+      <pubDate>Thu, 05 Nov 2026 15:05:02 +0000</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[Here's a first look at Ghost of Tsushima in glorious VR.
+https://x.com/nathie/status/2118358938009653285/video/1
+
+Learn more about this mod here: https://www.reddit.com/r/ghostoftsushima/comments/1xnvmkm/ghost_of_tsushima_vr/]]></content:encoded>
+    </item>
+    <item>
+      <title>Best feeling in the world!</title>
+      <link>https://x.com/Dilmerv/status/2118350458204864968</link>
+      <guid isPermaLink="false">2118350458204864968</guid>
+      <pubDate>Thu, 05 Nov 2026 14:31:20 +0000</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Best feeling in the world! Waking up to see that my app “Cubiques” was approved after fixing a metadata rejection! 🎉
+https://x.com/Dilmerv/status/2118350458204864968/photo/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Super curious to know how many of you are participating in this year’s Meta VR Start Developer Competition!</title>
+      <link>https://x.com/Dilmerv/status/2118335116887863461</link>
+      <guid isPermaLink="false">2118335116887863461</guid>
+      <pubDate>Thu, 05 Nov 2026 13:30:23 +0000</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Super curious to know how many of you are participating in this year’s Meta VR Start Developer Competition! 🚀 
+
+I’d also love to see what you’ve been building and how your projects are coming along!]]></content:encoded>
+    </item>
+    <item>
+      <title>I wonder how long it'll take modders to get the new Zelda game running in first-person VR.</title>
+      <link>https://x.com/nathie/status/2118316089738469467</link>
+      <guid isPermaLink="false">2118316089738469467</guid>
+      <pubDate>Thu, 05 Nov 2026 12:14:46 +0000</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[I wonder how long it'll take modders to get the new Zelda game running in first-person VR.]]></content:encoded>
+    </item>
     <item>
       <title>Developers, what’s one thing you still don’t trust AI coding agents to do without your supervision?</title>
       <link>https://x.com/Dilmerv/status/2118289756500984279</link>
@@ -1339,51 +1377,6 @@ Previously this was only enabled for Steam Frame’s standalone build]]></conten
 Getting into the weeds is so important to me. Honestly, this time away from YouTube has been the best investment in making better videos. I’ve learned so much by building and testing.
 
 I’m planning to resume tutorials this week, and I can’t wait to share what I’ve learned!]]></content:encoded>
-    </item>
-    <item>
-      <title>🚨 If you are a VR developer, how likely are you to use Meta's developer tools and platforms in the next 12 months?</title>
-      <link>https://x.com/Dilmerv/status/2114779142151721244</link>
-      <guid isPermaLink="false">2114779142151721244</guid>
-      <pubDate>Mon, 26 Oct 2026 18:00:12 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[🚨 If you are a VR developer, how likely are you to use Meta's developer tools and platforms in the next 12 months?
-
-Note: This is very important to help us drive efforts internally at Meta. Be sure to vote and reply to the follow-up questions below!]]></content:encoded>
-    </item>
-    <item>
-      <title>I can build a lot faster with agents, but I still spend a lot of time testing how everything feels. Especially with hand</title>
-      <link>https://x.com/Dilmerv/status/2114769028463951906</link>
-      <guid isPermaLink="false">2114769028463951906</guid>
-      <pubDate>Mon, 26 Oct 2026 17:20:01 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[I can build a lot faster with agents, but I still spend a lot of time testing how everything feels. Especially with hands, getting something to work is only part of it. The interaction has to feel right too.]]></content:encoded>
-    </item>
-    <item>
-      <title>Worked on something this weekend that turned this prototype into a fully useful workflow</title>
-      <link>https://x.com/SadlyItsBradley/status/2114758759394484335</link>
-      <guid isPermaLink="false">2114758759394484335</guid>
-      <pubDate>Mon, 26 Oct 2026 16:39:13 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[Worked on something this weekend that turned this prototype into a fully useful workflow
-
-Finally tapping into the Spatial Accessories Framework introduced in visionOS 27
-
-Will produce/edit/render my next YouTube video ENTIRELY in spatial, on headset, with this project
-https://x.com/SadlyItsBradley/status/2066586183694455175
-
-引用 @SadlyItsBradley：I have the first prototype running
-
-After seeing the early results, definitely going to continue this project and add WAY more polish to it
-
-Planning to add cropping, stereo output (from dual fisheye feed), auto viewfinder rotate via head position, and persona view for Vloggin’]]></content:encoded>
-    </item>
-    <item>
-      <title>Quick question for devs: what are you building for Meta VR Glasses right now, and what tools or examples would help you?</title>
-      <link>https://x.com/Dilmerv/status/2114741454429950462</link>
-      <guid isPermaLink="false">2114741454429950462</guid>
-      <pubDate>Mon, 26 Oct 2026 15:30:27 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Quick question for devs: what are you building for Meta VR Glasses right now, and what tools or examples would help you? I want to keep sharing things that help you build and ship your ideas! 🚀]]></content:encoded>
     </item>
 
 </channel>
