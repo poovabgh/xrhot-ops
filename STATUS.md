@@ -1,13 +1,13 @@
 # STATUS — XRHOT X 采集状态
 
-最后在本文件手工更新：2026-11-05 20:02 PST（例行 12:00 BJT 2026-11-06）。
+最后在本文件手工更新：2026-11-06 00:13 PST（例行 16:00 BJT 2026-11-06）。
 
 ## 订阅现状
 
 | Feed | Items | lastBuildDate (GMT) | Raw URL |
 |------|------:|---------------------|---------|
-| x-official.xml | 100 | Fri, 06 Nov 2026 04:02:36 +0000 | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-official.xml |
-| x-media-kol.xml | 100 | Fri, 06 Nov 2026 04:02:36 +0000 | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml |
+| x-official.xml | 100 | Fri, 06 Nov 2026 08:12:11 +0000 | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-official.xml |
+| x-media-kol.xml | 100 | Fri, 06 Nov 2026 08:12:11 +0000 | https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml |
 
 核对命令：
 
@@ -16,13 +16,13 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-offic
 curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media-kol.xml | grep -c '<item>'
 ```
 
-## 本轮：2026-11-06 12:00 BJT
+## 本轮：2026-11-06 16:00 BJT
 
-- 预检 18 账号；最新 id 高于 watermark：MetaVR_Official、BigscreenVR、XREAL_Global、VRChat、Dilmerv、SadlyItsBradley；其余等于 watermark 跳过（含 MetaVRDevs / PICOXR / PICOXR_Dev / htcvive / RokidGlobal / getVITURE / pimaxofficial / Play_for_dream / magicleap / BeatSaber / ARealityEvent / nathie）。
-- **official 100→100（+1）：** XREAL_Global Open Brush AURA（再发视频版）2118530694037029289；丢掉最旧 1 条。MetaVR_Official / BigscreenVR `exclude` 后 result_count 0。VRChat 2118457404153020801 为 Dev Update 串帖续帖（缩略图），已在 2118457400784998664 合并，跳过。
-- **media-kol 100→100（+1）：** Dilmerv hands-first table-top 串帖合并 Stickman 2118536859144052741；丢掉最旧 1 条。SadlyItsBradley `exclude` 后 result_count 0（最新为 RT）。
-- top-6 guid 抽查均在（含新 XREAL Open Brush / Dilmerv table-top；旧 XREAL Demeo / VRChat Dev Update / nathie VRChat reviews / Dilmerv Sphenomenon 等仍在）。
-- 上一有变更档：2026-11-06 08:00 BJT official +8；media-kol +5。
+- 预检 18 账号；最新 id 高于 watermark：MetaVR_Official、PICOXR、BigscreenVR、XREAL_Global、VRChat、Dilmerv、SadlyItsBradley；其余等于 watermark 跳过（含 MetaVRDevs / PICOXR_Dev / htcvive / RokidGlobal / getVITURE / pimaxofficial / Play_for_dream / magicleap / BeatSaber / ARealityEvent / nathie）。
+- **official 100→100（+1 restore）：** PICOXR Leave the familiar 2118372937203884362（12:00 轮误删，本轮按规则恢复；作者未删帖）；丢掉最旧 1 条。MetaVR_Official / BigscreenVR / XREAL_Global `exclude` 后 result_count 0。VRChat 2118457404153020801 为 Dev Update 串帖续帖（缩略图），已在 2118457400784998664 合并，跳过。
+- **media-kol 100→100（+1）：** Dilmerv Hand Skate hand interactions 2118583354283217102；丢掉最旧 1 条。Dilmerv 2118538535573795286 为已入订阅 table-top/Stickman 串帖续帖，跳过。SadlyItsBradley `exclude` 后 result_count 0。
+- top-6 guid 抽查均在（含新 Dilmerv Hand Skate / 恢复 PICOXR Leave the familiar；旧 XREAL Open Brush / XREAL Demeo / VRChat Dev Update / Dilmerv table-top / nathie VRChat reviews 等仍在）。
+- 上一有变更档：2026-11-06 12:00 BJT official +1 Open Brush；media-kol +1 Dilmerv hands-first。
 
 ## 定时更新
 
@@ -33,7 +33,7 @@ curl -sL https://raw.githubusercontent.com/poovabgh/xrhot-ops/main/feeds/x-media
 | 旧规范「每 30 分钟」 | **已废止** |
 | 省 token | 见 `scripts/cheap_check_plan.md` |
 
-下一例行节点（北京时间）：2026-11-06 **16:00**。
+下一例行节点（北京时间）：2026-11-06 **20:00**。
 
 ## 待办
 

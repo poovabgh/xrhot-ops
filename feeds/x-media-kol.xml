@@ -4,7 +4,18 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Fri, 06 Nov 2026 04:02:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 08:12:11 GMT</lastBuildDate>
+    <item>
+      <title>Here’s how the hand interactions work so far in “Hand Skate”, still very, very rough, but I made a lot of improvements t</title>
+      <link>https://x.com/Dilmerv/status/2118583354283217102</link>
+      <guid isPermaLink="false">2118583354283217102</guid>
+      <pubDate>Fri, 06 Nov 2026 05:56:47 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Here’s how the hand interactions work so far in “Hand Skate”, still very, very rough, but I made a lot of improvements tonight!
+
+I plan to add a cool onboarding experience this weekend and keep experimenting with different gestures and gravity tweaks until the interactions feel
+https://x.com/Dilmerv/status/2118583354283217102/video/1]]></content:encoded>
+    </item>
     <item>
       <title>Trying to come up with a fun way to play this table-top game by using a hands-first approach, still not very happy about</title>
       <link>https://x.com/Dilmerv/status/2118536859144052741</link>
@@ -1389,21 +1400,6 @@ https://x.com/ARealityEvent/status/2115096228669366736/photo/1]]></content:encod
       <pubDate>Tue, 27 Oct 2026 14:30:23 GMT</pubDate>
       <dc:creator>Dilmerv</dc:creator>
       <content:encoded><![CDATA[Honestly, you don’t need to have the whole project figured out to start. Pick one XR interaction or mechanic you’re curious about and see where it takes you. I have dozens of unfinished projects, but many of them helped me find just the right idea to push another project to the finish line.]]></content:encoded>
-    </item>
-    <item>
-      <title>XR devs, here’s a quick tip for today! 👇</title>
-      <link>https://x.com/Dilmerv/status/2115066911163646220</link>
-      <guid isPermaLink="false">2115066911163646220</guid>
-      <pubDate>Tue, 27 Oct 2026 13:03:42 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[XR devs, here’s a quick tip for today! 👇
-
-Preparing a Unity app for Meta VR Glasses? With Meta XR Core SDK v207+, open:
-
-Window → Meta → Tools → Device Readiness Check.
-
-The standard scan checks project setup and looks for controller-only input in your C# scripts. A useful starting point!
-https://x.com/Dilmerv/status/2115066911163646220/photo/1]]></content:encoded>
     </item>
   </channel>
 </rss>
