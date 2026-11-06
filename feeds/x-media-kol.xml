@@ -4,8 +4,80 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Thu, 05 Nov 2026 16:06:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 00:09:39 +0000</lastBuildDate>
+        <item>
+      <title>What’s going on with VRChat? Its recent Steam reviews have turned mostly negative.</title>
+      <link>https://x.com/nathie/status/2118484164303605977</link>
+      <guid isPermaLink="false">2118484164303605977</guid>
+      <pubDate>Thu, 05 Nov 2026 23:22:38 +0000</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[What’s going on with VRChat? Its recent Steam reviews have turned mostly negative.
+https://x.com/nathie/status/2118484164303605977/photo/1]]></content:encoded>
+    </item>
     <item>
+      <title>Want to get some inspiration from the best of the best when it comes to creating Mixed Reality experiences that feel mag</title>
+      <link>https://x.com/Dilmerv/status/2118469739966247365</link>
+      <guid isPermaLink="false">2118469739966247365</guid>
+      <pubDate>Thu, 05 Nov 2026 22:25:19 +0000</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Want to get some inspiration from the best of the best when it comes to creating Mixed Reality experiences that feel magical? ✨
+
+Check out this post by Greg Madison, where he shares his work on an experience called “Sphenomenon”! 👇
+https://x.com/GregMadison/status/2118404312976273757
+
+引用 @GregMadison：“I’ve never felt such a strong sense of presence in mixed reality.” A sentiment echoed by nearly 100 people who’ve tried Sphenomenon.
+I built a hands-on playground for creators to feel why the physical world is the ultimate foundation for tomorrow’s augmented interfaces.
+#astra @OpenAI]]></content:encoded>
+    </item>
+    <item>
+      <title>One hand interaction I think more developers should explore is HandGrabUse in ISDK! 👇</title>
+      <link>https://x.com/Dilmerv/status/2118448333538595246</link>
+      <guid isPermaLink="false">2118448333538595246</guid>
+      <pubDate>Thu, 05 Nov 2026 21:00:16 +0000</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[One hand interaction I think more developers should explore is HandGrabUse in ISDK! 👇
+
+It allows you hold an object while performing a second action with your fingers, like squeezing a spray bottle trigger.
+
+Check out the WaterSpray example in HandGrabUseExamples, which is part of the Meta ISDK Samples package for Unity.
+https://x.com/Dilmerv/status/2118448333538595246/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>This terrifying Meta Quest app lets you make your walls and ceiling close in on you.</title>
+      <link>https://x.com/nathie/status/2118443855779615149</link>
+      <guid isPermaLink="false">2118443855779615149</guid>
+      <pubDate>Thu, 05 Nov 2026 20:42:28 +0000</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[This terrifying Meta Quest app lets you make your walls and ceiling close in on you.
+https://x.com/nathie/status/2118443855779615149/video/1
+
+Learn more here: https://www.reddit.com/r/augmentedreality/comments/1xmrmrs/move_real_walls_in_ar_feels_like_magic/]]></content:encoded>
+    </item>
+    <item>
+      <title>Cubiques is NOW AVAILABLE on the Meta Store, completely FREE! 🕶️🎉</title>
+      <link>https://x.com/Dilmerv/status/2118384006245003336</link>
+      <guid isPermaLink="false">2118384006245003336</guid>
+      <pubDate>Thu, 05 Nov 2026 16:44:39 +0000</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Cubiques is NOW AVAILABLE on the Meta Store, completely FREE! 🕶️🎉
+
+Get it now from: https://www.meta.com/experiences/cubiques/1816185436251041/
+
+I built this to showcase our SDK features for mixed reality, bringing an existing iOS game into VR/MR through hand tracking, passthrough, and spatial interactions. 🙌
+
+- 70 handcrafted puzzles with path previews
+- Hand tracking with pinch-and-trace controls
+- Smooth passthrough transitions and four VR environments
+- Floating or tabletop placement with move, rotate, and resize controls
+- Five board styles and minimal interactive menus
+- Achievements, leaderboards, saved progress, and seven relaxing tracks
+
+Note: Cubiques was originally built for iOS and fully ported to VR/MR.
+
+#mixedreality #developers
+https://x.com/Dilmerv/status/2118384006245003336/video/1]]></content:encoded>
+    </item>
+<item>
       <title>Here's a first look at Ghost of Tsushima in glorious VR.</title>
       <link>https://x.com/nathie/status/2118358938009653285</link>
       <guid isPermaLink="false">2118358938009653285</guid>
@@ -1332,52 +1404,5 @@ Window → Meta → Tools → Device Readiness Check.
 The standard scan checks project setup and looks for controller-only input in your C# scripts. A useful starting point!
 https://x.com/Dilmerv/status/2115066911163646220/photo/1]]></content:encoded>
     </item>
-    <item>
-      <title>Half-Life Alyx just added Foveated Rendering for all SteamVR headsets on Desktop</title>
-      <link>https://x.com/SadlyItsBradley/status/2114856770480799894</link>
-      <guid isPermaLink="false">2114856770480799894</guid>
-      <pubDate>Mon, 26 Oct 2026 23:08:40 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[Half-Life Alyx just added Foveated Rendering for all SteamVR headsets on Desktop
-
-Previously this was only enabled for Steam Frame’s standalone build]]></content:encoded>
-    </item>
-    <item>
-      <title>My two favorite Apple devices at the moment.</title>
-      <link>https://x.com/nathie/status/2114824469566890131</link>
-      <guid isPermaLink="false">2114824469566890131</guid>
-      <pubDate>Mon, 26 Oct 2026 21:00:19 GMT</pubDate>
-      <dc:creator>nathie</dc:creator>
-      <content:encoded><![CDATA[My two favorite Apple devices at the moment.]]></content:encoded>
-    </item>
-    <item>
-      <title>I love building tools that solve something I personally struggled with. That’s how my Hand Pose Baker started, and hones</title>
-      <link>https://x.com/Dilmerv/status/2114801777832812778</link>
-      <guid isPermaLink="false">2114801777832812778</guid>
-      <pubDate>Mon, 26 Oct 2026 19:30:09 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[I love building tools that solve something I personally struggled with. That’s how my Hand Pose Baker started, and honestly, seeing the poses improve has been just as exciting as building a game!]]></content:encoded>
-    </item>
-    <item>
-      <title>I am building something extremely cool 🤯 between calls today. Already have a prototype and can’t wait to share more! It </title>
-      <link>https://x.com/Dilmerv/status/2114798895385698736</link>
-      <guid isPermaLink="false">2114798895385698736</guid>
-      <pubDate>Mon, 26 Oct 2026 19:18:42 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[I am building something extremely cool 🤯 between calls today. Already have a prototype and can’t wait to share more! It will use Mixed Reality unlike anything I have seen so far.]]></content:encoded>
-    </item>
-    <item>
-      <title>It’s been a while since my last YouTube tutorial! I’ve been heads down building new VR/MR games and creating developer c</title>
-      <link>https://x.com/Dilmerv/status/2114790506978803856</link>
-      <guid isPermaLink="false">2114790506978803856</guid>
-      <pubDate>Mon, 26 Oct 2026 18:45:22 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[It’s been a while since my last YouTube tutorial! I’ve been heads down building new VR/MR games and creating developer content for Meta Connect, so finding time for my own videos has been hard.
-
-Getting into the weeds is so important to me. Honestly, this time away from YouTube has been the best investment in making better videos. I’ve learned so much by building and testing.
-
-I’m planning to resume tutorials this week, and I can’t wait to share what I’ve learned!]]></content:encoded>
-    </item>
-
 </channel>
 </rss>
