@@ -4,8 +4,64 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Sat, 07 Nov 2026 04:09:48 GMT</lastBuildDate>
-            <item>
+    <lastBuildDate>Sat, 07 Nov 2026 08:08:09 GMT</lastBuildDate>
+                <item>
+      <title>I was able to force SteamVR to render its new chroma key pipeline so that I could activate Room View on my Vision Pro</title>
+      <link>https://x.com/SadlyItsBradley/status/2118956794714411412</link>
+      <guid isPermaLink="false">2118956794714411412</guid>
+      <pubDate>Sat, 07 Nov 2026 06:40:42 GMT</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[I was able to force SteamVR to render its new chroma key pipeline so that I could activate Room View on my Vision Pro
+
+If you are wondering why Valve is doing it via the way in the quoted tweet. THIS is why
+
+They want to enable PCXR for all of the headsets that have Steam VR Link
+https://x.com/SadlyItsBradley/status/2118956794714411412/video/1
+https://x.com/SadlyItsBradley/status/2118907013640184068
+
+引用 @SadlyItsBradley：Oh so THAT’S what Valve is doing to enable this!? 😵
+https://x.com/SadlyItsBradley/status/2118907013640184068/photo/1
+https://x.com/SadlyItsBradley/status/2118882146219893178]]></content:encoded>
+    </item>
+    <item>
+      <title>One of the best “start here” resources I’ve seen for Meta VR Glasses!</title>
+      <link>https://x.com/Dilmerv/status/2118926207756714255</link>
+      <guid isPermaLink="false">2118926207756714255</guid>
+      <pubDate>Sat, 07 Nov 2026 04:39:10 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[One of the best “start here” resources I’ve seen for Meta VR Glasses! 
+
+The Quad Views and foveated rendering sections are especially useful. Anyone experimenting with Gaze + Pinch fallbacks yet?
+https://x.com/unitygames/status/2118780547635843446
+
+引用 @unitygames：Building for Meta VR Glasses or bringing an existing Quest experience over? 🥽
+
+Learn how to set up eye and hand interactions, test without hardware, and optimize performance with Unity’s XR tools in our latest e-book. It covers XRI, OpenXR, Quad Views, foveated rendering, Unity CLI workflows, and more.
+
+🔗 Read the full e-book: https://on.unity.com/MetaXR_Ebook
+
+#Unity #MetaVRGlasses | @MetaforDevs
+https://x.com/unitygames/status/2118780547635843446/photo/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Great video by @MKBHD! 🚀🕶️</title>
+      <link>https://x.com/Dilmerv/status/2118919611269939252</link>
+      <guid isPermaLink="false">2118919611269939252</guid>
+      <pubDate>Sat, 07 Nov 2026 04:12:57 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Great video by @MKBHD! 🚀🕶️
+
+I use Meta VR Glasses every single day, and they still blow my mind. There’s truly nothing quite like them today!
+
+Incredible how far technology has come in just a few years!
+https://x.com/nathie/status/2118827306160377980
+
+引用 @nathie：We got an exclusive first look at the light blockers for the upcoming Meta VR glasses. 
+
+Credit: @MKBHD
+https://x.com/nathie/status/2118827306160377980/video/1]]></content:encoded>
+    </item>
+<item>
       <title>Oh so THAT’S what Valve is doing to enable this!? 😵</title>
       <link>https://x.com/SadlyItsBradley/status/2118907013640184068</link>
       <guid isPermaLink="false">2118907013640184068</guid>
@@ -1402,44 +1458,5 @@ I feel it makes more sense than tapping a laptop screen tbh
 引用 @neilcybart：A closer look at how window controls in macOS respond to touch.
 https://x.com/neilcybart/status/2115503830268055874/video/1]]></content:encoded>
     </item>
-    <item>
-      <title>I got to play Half-Life: Alyx on an omnidirectional treadmill that was used in the movie "Ready Player One."</title>
-      <link>https://x.com/nathie/status/2115511377552916534</link>
-      <guid isPermaLink="false">2115511377552916534</guid>
-      <pubDate>Wed, 28 Oct 2026 18:29:51 GMT</pubDate>
-      <dc:creator>nathie</dc:creator>
-      <content:encoded><![CDATA[I got to play Half-Life: Alyx on an omnidirectional treadmill that was used in the movie "Ready Player One."
-https://x.com/nathie/status/2115511377552916534/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Get a preview of the Enterprise VIP Program at the #1 XR Event in Europe</title>
-      <link>https://x.com/ARealityEvent/status/2115458570737385579</link>
-      <guid isPermaLink="false">2115458570737385579</guid>
-      <pubDate>Wed, 28 Oct 2026 15:00:01 GMT</pubDate>
-      <dc:creator>ARealityEvent</dc:creator>
-      <content:encoded><![CDATA[Get a preview of the Enterprise VIP Program at the #1 XR Event in Europe
-See how enterprises use XR to cut costs, boost productivity and deliver real ROI.
-🗓️ 4 Nov · 4 PM CET
-Join us: https://na2.hubs.ly/H08GwFl0 
-
-UnitedXR Europe is organized by AWE and Stereopsia.
-
-#UnitedXR
-https://x.com/ARealityEvent/status/2115458570737385579/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>The full video of him explaining their entire 4DGS workflow is truly even more incredible</title>
-      <link>https://x.com/SadlyItsBradley/status/2115451725603885397</link>
-      <guid isPermaLink="false">2115451725603885397</guid>
-      <pubDate>Wed, 28 Oct 2026 14:32:49 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[The full video of him explaining their entire 4DGS workflow is truly even more incredible
-
-https://youtu.be/4IlGywDGasA
-https://x.com/mediastorm_en/status/2114688637904552243
-
-引用 @mediastorm_en：Vogue. Shot on 70 iPhone 18 Pro
-https://x.com/mediastorm_en/status/2114688637904552243/video/1]]></content:encoded>
-    </item>
-  </channel>
+      </channel>
 </rss>
