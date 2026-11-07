@@ -4,7 +4,53 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Sat, 07 Nov 2026 08:08:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 16:05:24 GMT</lastBuildDate>
+    <item>
+      <title>One thing that still amazes me about Meta VR Glasses is how much technology we’ve managed to fit into such a small form </title>
+      <link>https://x.com/Dilmerv/status/2119086815366029414</link>
+      <guid isPermaLink="false">2119086815366029414</guid>
+      <pubDate>Sat, 07 Nov 2026 15:17:22 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[One thing that still amazes me about Meta VR Glasses is how much technology we’ve managed to fit into such a small form factor, with the rest packed into a sleek, compact, beautifully designed puck.
+
+Around 100 grams 🤯, and an entire VR/MR experience right in front of your eyes!
+
+Once you start running your own apps & games on them, you’ll be blown away by how light and powerful they are!
+
+I honestly believe this is a huge step forward for VR/MR! 🕶️🚀
+https://x.com/Dilmerv/status/2119086815366029414/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>One thing that still amazes me about Meta VR Glasses is how much technology we’ve managed to fit into such a small form </title>
+      <link>https://x.com/Dilmerv/status/2119085860763381791</link>
+      <guid isPermaLink="false">2119085860763381791</guid>
+      <pubDate>Sat, 07 Nov 2026 15:13:34 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[One thing that still amazes me about Meta VR Glasses is how much technology we’ve managed to fit into such a small form factor, with the rest packed into a sleek, compact, beautifully designed puck.
+
+Around 100 grams 🤯, and an entire VR/MR experience right in front of your eyes!
+
+Once you start running your own apps & games on them, you’ll be blown away by how light and powerful they are!
+
+I honestly believe this is a huge step forward for VR/MR! 🕶️🚀
+https://x.com/Dilmerv/status/2119085860763381791/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>What excites me most about Meta VR Glasses isn’t just the hardware, but what devs will create with it!</title>
+      <link>https://x.com/Dilmerv/status/2119080565253271975</link>
+      <guid isPermaLink="false">2119080565253271975</guid>
+      <pubDate>Sat, 07 Nov 2026 14:52:32 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[What excites me most about Meta VR Glasses isn’t just the hardware, but what devs will create with it!
+
+Seeing @MKBHD experience them reminds me why I love working in XR.
+
+There’s so much potential here, and I can’t wait to see what developers create for the Meta VR Start Developer Competition! 🚀🕶️
+https://x.com/MKBHD/status/2119075928299257969
+
+引用 @MKBHD：Taking a bit longer with my PROLED MacBook Pro review (spoiler: it's really good) but in the meantime, I got hands on with Meta's newest VR Glasses and they are also GOOD: https://youtu.be/_x58r9TBois
+https://x.com/MKBHD/status/2119075928299257969/photo/1]]></content:encoded>
+    </item>
                 <item>
       <title>I was able to force SteamVR to render its new chroma key pipeline so that I could activate Room View on my Vision Pro</title>
       <link>https://x.com/SadlyItsBradley/status/2118956794714411412</link>
@@ -1402,61 +1448,6 @@ With Immersive Debugger enabled in Unity, open Custom Inspectors → FoV Simulat
 
 Toggle and adjust the simulated Meta VR Glasses view while your app runs. Useful for catching clipped menus early!
 https://x.com/Dilmerv/status/2115599523791708495/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Valve had some pretty candid comments about how they see VR</title>
-      <link>https://x.com/SadlyItsBradley/status/2115536547873542470</link>
-      <guid isPermaLink="false">2115536547873542470</guid>
-      <pubDate>Wed, 28 Oct 2026 20:09:52 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[Valve had some pretty candid comments about how they see VR
-
-Talking about how Steam Frame is only a small piece of the much larger VR ecosystem they want to support
-
-And how users are already using Steam Frame to play regular games rather than just VR-only games
-https://x.com/SadlyItsBradley/status/2115536547873542470/photo/1
-
-From: https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones]]></content:encoded>
-    </item>
-    <item>
-      <title>XR devs, here’s a tip for today! 👇</title>
-      <link>https://x.com/Dilmerv/status/2115515222660149571</link>
-      <guid isPermaLink="false">2115515222660149571</guid>
-      <pubDate>Wed, 28 Oct 2026 18:45:08 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[XR devs, here’s a tip for today! 👇
-
-With Meta VR CLI installed, you can search the docs right from your terminal:
-
-metavr docs search “passthrough rendering”
-
-It searches docs & API references.
-
-👨🏻‍💻 Setup:
-macOS/Linux:
-curl -fsSL https://developers.meta.com/horizon/install-cli/ | sh
-
-Windows:
-iwr -useb https://developers.meta.com/horizon/install-cli/windows/ | iex
-https://x.com/Dilmerv/status/2115515222660149571/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Okay Apple</title>
-      <link>https://x.com/SadlyItsBradley/status/2115514674250936756</link>
-      <guid isPermaLink="false">2115514674250936756</guid>
-      <pubDate>Wed, 28 Oct 2026 18:42:57 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[Okay Apple
-
-Apply this, and the spread out context menus: to eye gaze hovers for Mac Virtual Display on visionOS
-
-This might be good enough UX for a fallback if you are streaming your Mac in a room separately from your keyboard/mouse
-https://x.com/neilcybart/status/2115503830268055874
-
-I feel it makes more sense than tapping a laptop screen tbh
-
-引用 @neilcybart：A closer look at how window controls in macOS respond to touch.
-https://x.com/neilcybart/status/2115503830268055874/video/1]]></content:encoded>
     </item>
       </channel>
 </rss>
