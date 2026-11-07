@@ -4,8 +4,58 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Sat, 07 Nov 2026 00:13:49 +0000</lastBuildDate>
-        <item>
+    <lastBuildDate>Sat, 07 Nov 2026 04:09:48 GMT</lastBuildDate>
+            <item>
+      <title>Oh so THAT’S what Valve is doing to enable this!? 😵</title>
+      <link>https://x.com/SadlyItsBradley/status/2118907013640184068</link>
+      <guid isPermaLink="false">2118907013640184068</guid>
+      <pubDate>Sat, 07 Nov 2026 03:22:54 GMT</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[Oh so THAT’S what Valve is doing to enable this!? 😵
+https://x.com/SadlyItsBradley/status/2118907013640184068/photo/1
+https://x.com/SadlyItsBradley/status/2118882146219893178
+
+引用 @SadlyItsBradley：Latest Steam Frame Beta now lets you actually keep your Room View when you’re viewing remote frames/overlays being streamed from your PC
+
+It will also add mixed reality support to OpenXR titles that can support it
+
+And of course Chroma Key passthrough when Steam Link update drops
+https://x.com/SadlyItsBradley/status/2118882146219893178/photo/1
+
+Circa 2023
+https://x.com/SadlyItsBradley/status/1716847904218898462
+
+引用 @SadlyItsBradley：Never settle for ONLY VR or AR
+
+The true power of these headsets lie with the ability to switch between either reality; keeping your persistent Apps/overlays
+https://x.com/SadlyItsBradley/status/1716847904218898462/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Latest Steam Frame Beta now lets you actually keep your Room View when you’re viewing remote frames/overlays being strea</title>
+      <link>https://x.com/SadlyItsBradley/status/2118882146219893178</link>
+      <guid isPermaLink="false">2118882146219893178</guid>
+      <pubDate>Sat, 07 Nov 2026 01:44:05 GMT</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[Latest Steam Frame Beta now lets you actually keep your Room View when you’re viewing remote frames/overlays being streamed from your PC
+
+It will also add mixed reality support to OpenXR titles that can support it
+
+And of course Chroma Key passthrough when Steam Link update drops
+https://x.com/SadlyItsBradley/status/2118882146219893178/photo/1]]></content:encoded>
+    </item>
+    <item>
+      <title>The more I experiment with hand interactions in my MR skating game, Hand Skate, the more I realize how important it is t</title>
+      <link>https://x.com/Dilmerv/status/2118879326447800539</link>
+      <guid isPermaLink="false">2118879326447800539</guid>
+      <pubDate>Sat, 07 Nov 2026 01:32:52 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[The more I experiment with hand interactions in my MR skating game, Hand Skate, the more I realize how important it is to make interactions forgiving.
+
+Players shouldn’t have to perform a gesture perfectly every single time.
+
+Making something feel natural is such a fun challenge!]]></content:encoded>
+    </item>
+<item>
       <title>Excited to keep working on my new tabletop skating game in MR this weekend! 🛹</title>
       <link>https://x.com/Dilmerv/status/2118846537744716044</link>
       <guid isPermaLink="false">2118846537744716044</guid>
@@ -1390,44 +1440,6 @@ https://x.com/mediastorm_en/status/2114688637904552243
 
 引用 @mediastorm_en：Vogue. Shot on 70 iPhone 18 Pro
 https://x.com/mediastorm_en/status/2114688637904552243/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>With all these moves toward AI, I feel like we still need people doing walkthroughs/tutorials of how SDKs, APIs, and too</title>
-      <link>https://x.com/Dilmerv/status/2115444591390507201</link>
-      <guid isPermaLink="false">2115444591390507201</guid>
-      <pubDate>Wed, 28 Oct 2026 14:04:28 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[With all these moves toward AI, I feel like we still need people doing walkthroughs/tutorials of how SDKs, APIs, and tools work.
-
-💡Would you agree that walkthroughs are still very relevant for learning how SDKs/tools work, what APIs are available, and how to use them?
-
-Before you vote, think about this. This is something that is always in my mind. 
-
-If we as devs don’t understand the underlying systems, what will happen to our knowledge years from now?
-
-For additional context, I am struggling to find out if I should go back and do step-by-step tutorials on YouTube or more high-level “I Built this with AI & here is what I learned”.]]></content:encoded>
-    </item>
-    <item>
-      <title>I always try to look at my work this way: I have many unfinished XR projects, but they’ve taught me lessons I’ll use for</title>
-      <link>https://x.com/Dilmerv/status/2115437691823067382</link>
-      <guid isPermaLink="false">2115437691823067382</guid>
-      <pubDate>Wed, 28 Oct 2026 13:37:03 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[I always try to look at my work this way: I have many unfinished XR projects, but they’ve taught me lessons I’ll use for years.
-
-Keep those lessons. You’ll bring them into the next project and, ultimately, the game or app you release! 🙌]]></content:encoded>
-    </item>
-    <item>
-      <title>Room reflections at runtime with a Quest 3 look amazing! 👇🔥</title>
-      <link>https://x.com/Dilmerv/status/2115314617933283528</link>
-      <guid isPermaLink="false">2115314617933283528</guid>
-      <pubDate>Wed, 28 Oct 2026 05:28:00 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Room reflections at runtime with a Quest 3 look amazing! 👇🔥
-https://x.com/ElasticSea/status/2115099841198215602
-
-引用 @ElasticSea：Capturing room reflections at runtime on Quest 3. I noticed AVP adds studio highlights up to 5 times brighter than pure white for that nice bright specular light.
-https://x.com/ElasticSea/status/2115099841198215602/video/1]]></content:encoded>
     </item>
   </channel>
 </rss>
