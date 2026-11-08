@@ -4,7 +4,67 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Sat, 07 Nov 2026 16:05:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 00:15:46 GMT</lastBuildDate>
+    <item>
+      <title>Here’s a cool Unity tip for gaze + pinch UI! 👀</title>
+      <link>https://x.com/Dilmerv/status/2119195793881981396</link>
+      <guid isPermaLink="false">2119195793881981396</guid>
+      <pubDate>Sat, 07 Nov 2026 22:30:24 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Here’s a cool Unity tip for gaze + pinch UI! 👀
+
+With Meta ISDK, the key components are:
+
+• EyeGaze + GazeConecaster
+• GazeInteractor (rig)
+• GazeInteractable + ConecastableCanvas
+• PointableCanvas + GraphicRaycaster
+• PointableCanvasModule (EventSystem)
+
+💡 Easier setup? Right-click your World Space Canvas → Interaction SDK → Add Gaze Interaction to Canvas.
+
+The wizard configures the required components for you!
+https://x.com/Dilmerv/status/2119195793881981396/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>I was about to ask Lucas about a Quest 3 version of his incredible vital demo, and look at what he did today! 🤯👇</title>
+      <link>https://x.com/Dilmerv/status/2119156585301983395</link>
+      <guid isPermaLink="false">2119156585301983395</guid>
+      <pubDate>Sat, 07 Nov 2026 19:54:36 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[I was about to ask Lucas about a Quest 3 version of his incredible vital demo, and look at what he did today! 🤯👇
+https://x.com/lucas_martinic/status/2119155027696918691
+
+引用 @lucas_martinic：A promise is a promise.
+https://github.com/lucas-martinic/mario64mr
+Working in Quest 2 (untested), Quest 3 and Quest 3s at 90 fps.
+
+Important: no ROMs, no Nintendo code. The app contains none of the game. You need your own Super Mario 64 (USA) ROM, and a script in the repo builds the game from it on your computer and pushes it to the headset.
+https://x.com/lucas_martinic/status/2119155027696918691/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>This Meta Quest game lets you teleport through your own house.</title>
+      <link>https://x.com/nathie/status/2119132001953325177</link>
+      <guid isPermaLink="false">2119132001953325177</guid>
+      <pubDate>Sat, 07 Nov 2026 18:16:55 GMT</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[This Meta Quest game lets you teleport through your own house.
+https://x.com/nathie/status/2119132001953325177/video/1
+
+Wishlist it here: https://www.meta.com/experiences/hole-wall/1382614211598316/?srsltid=AYCX9vIVBYp2ZLgkjDMjfuVihRrnUJoWiHoZIxOy2P6cWS4Pngp2yk-r]]></content:encoded>
+    </item>
+    <item>
+      <title>Something I find really exciting about Meta VR Glasses is that developers don’t have to start from scratch!</title>
+      <link>https://x.com/Dilmerv/status/2119105199612584096</link>
+      <guid isPermaLink="false">2119105199612584096</guid>
+      <pubDate>Sat, 07 Nov 2026 16:30:25 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Something I find really exciting about Meta VR Glasses is that developers don’t have to start from scratch!
+
+Your existing Quest apps can be adapted using the same Meta Horizon OS and v207 SDKs.
+
+Imagine all the new hands-first experiences we can build from what already exists!]]></content:encoded>
+    </item>
     <item>
       <title>One thing that still amazes me about Meta VR Glasses is how much technology we’ve managed to fit into such a small form </title>
       <link>https://x.com/Dilmerv/status/2119086815366029414</link>
@@ -1374,80 +1434,6 @@ https://x.com/Dilmerv/status/2115624302724948032/video/1
 
 Here are a few screenshots of the UI direction, device, and creature.
 https://x.com/Dilmerv/status/2115624308458590433/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Would love to see this level of quality on XR devices. I can already picture this being available in the near future! 🤯</title>
-      <link>https://x.com/Dilmerv/status/2115611906186911782</link>
-      <guid isPermaLink="false">2115611906186911782</guid>
-      <pubDate>Thu, 29 Oct 2026 01:09:19 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Would love to see this level of quality on XR devices. I can already picture this being available in the near future! 🤯
-https://x.com/diveshnaidoo/status/2115477721455214623
-
-引用 @diveshnaidoo：Introducing Reality-Aware Rendering in @Simulon, a completely new way to create with the real world.
-
-Place neural assets with your phone and act out the scene. When you stop recording, Simulon renders the take, reading everything in it (what you do, what you say and the place around you), and your assets respond to all of it.
-
-The final is regenerated from your recording: a new performance of the scene, not a copy of the footage.
-
-Available now on iPhone. Coming to Android soon.
-https://x.com/diveshnaidoo/status/2115477721455214623/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Congratulations to the XREAL and Android XR teams! Great to see new products launching and more on the way across XR. Lo</title>
-      <link>https://x.com/Dilmerv/status/2115605676869431672</link>
-      <guid isPermaLink="false">2115605676869431672</guid>
-      <pubDate>Thu, 29 Oct 2026 00:44:34 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Congratulations to the XREAL and Android XR teams! Great to see new products launching and more on the way across XR. Love seeing some familiar titles here that are also available on Meta devices!
-https://x.com/XREAL_Global/status/2115580072698462386
-
-引用 @XREAL_Global：Your favorite apps. A whole new dimension.
-With XREAL AURA, powered by Android XR, discover more ways to work, watch, play, and explore.
-Bring familiar apps into your spatial workspace, enjoy entertainment on an expansive virtual screen, and discover experiences built specifically for XR.
-With access to millions of mobile and tablet apps from Google Play and over 150 experiences
-designed specifically for XR, there's always something new to discover.
-Which experience would you try first?
-#XREAL #AURA #AndroidXR
-Android XR and Google Play are trademarks of Google LLC.
-https://x.com/XREAL_Global/status/2115580072698462386/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>The best PCVR Streamer App for Vision Pro has just entered TestFlight!</title>
-      <link>https://x.com/SadlyItsBradley/status/2115599863455035570</link>
-      <guid isPermaLink="false">2115599863455035570</guid>
-      <pubDate>Thu, 29 Oct 2026 00:21:28 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[The best PCVR Streamer App for Vision Pro has just entered TestFlight!
-
-If you gave up on previous solutions for one reason or another, I STRONGLY suggest trying this one out
-
-It’s FANTASTIC. And not just due to my constant feedback to make it PEAK 🤣
-
-https://testflight.apple.com/join/UDAxV9M5
-https://x.com/SadlyItsBradley/status/2112008731617624085
-
-Discord Server here for feedback, bug reports, and suggestions: https://discord.gg/mTMrR9YJYK
-
-引用 @SadlyItsBradley：Would you believe me if I told you I had a little portal to VRChat on my desk?
-
-Alongside all of my other spatial computing apps/tools/windows?
-
-Truly a glorious future we live in
-https://x.com/SadlyItsBradley/status/2112008731617624085/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>XR devs, this is very useful for Meta VR Glasses development! 👇</title>
-      <link>https://x.com/Dilmerv/status/2115599523791708495</link>
-      <guid isPermaLink="false">2115599523791708495</guid>
-      <pubDate>Thu, 29 Oct 2026 00:20:07 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[XR devs, this is very useful for Meta VR Glasses development! 👇
-
-With Immersive Debugger enabled in Unity, open Custom Inspectors → FoV Simulator.
-
-Toggle and adjust the simulated Meta VR Glasses view while your app runs. Useful for catching clipped menus early!
-https://x.com/Dilmerv/status/2115599523791708495/photo/1]]></content:encoded>
     </item>
       </channel>
 </rss>
