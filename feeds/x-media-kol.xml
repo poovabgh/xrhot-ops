@@ -4,7 +4,28 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Sun, 08 Nov 2026 00:15:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 04:11:46 GMT</lastBuildDate>
+    <item>
+      <title>When I worked on Arcade Hoops, music visualizers were a big part of the experience.</title>
+      <link>https://x.com/Dilmerv/status/2119278281421725959</link>
+      <guid isPermaLink="false">2119278281421725959</guid>
+      <pubDate>Sun, 08 Nov 2026 03:58:11 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[When I worked on Arcade Hoops, music visualizers were a big part of the experience. Well, I’ve added them to Hand Skate too! Here’s how they look in the gameplay area. I also added an option to display them on the Mixed Reality walls!
+https://x.com/Dilmerv/status/2119278281421725959/video/1
+
+Subtle music visualizer also for this boombox.
+https://x.com/Dilmerv/status/2119278282386378861/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Added 13 animations to “Hand Skate” coming to Quest &amp; Meta VR Glasses and have been tweaking the look and feel of the ga</title>
+      <link>https://x.com/Dilmerv/status/2119273069147455708</link>
+      <guid isPermaLink="false">2119273069147455708</guid>
+      <pubDate>Sun, 08 Nov 2026 03:37:28 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Added 13 animations to “Hand Skate” coming to Quest & Meta VR Glasses and have been tweaking the look and feel of the game. Can’t wait to show you the latest version! Here are a few sample animations, rigged and rendered in Blender and fully working in Unity.
+https://x.com/Dilmerv/status/2119273069147455708/video/1]]></content:encoded>
+    </item>
     <item>
       <title>Here’s a cool Unity tip for gaze + pinch UI! 👀</title>
       <link>https://x.com/Dilmerv/status/2119195793881981396</link>
@@ -1406,34 +1427,5 @@ I already do a lot of my prototype work right from my phone using remote agent a
 
 Personally, I’m looking forward to sharing more about my workflow on Meta VR Glasses once they’re available to the public. 🚀🕶️]]></content:encoded>
     </item>
-    <item>
-      <title>XR devs, a FAST dev iteration tip for today! 👇</title>
-      <link>https://x.com/Dilmerv/status/2115636246148005981</link>
-      <guid isPermaLink="false">2115636246148005981</guid>
-      <pubDate>Thu, 29 Oct 2026 02:46:02 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[XR devs, a FAST dev iteration tip for today! 👇
-
-Enable Immersive Debugger in Unity and expose a float with [DebugMember(Min = 0, Max = 1)].
-
-You can tune that value inside the headset while your app runs. Super useful for testing interactions!
-https://x.com/Dilmerv/status/2115636246148005981/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>I’ve been playing with this concept all week. It’s still extremely early, but I’m working on a spooky pet you can play w</title>
-      <link>https://x.com/Dilmerv/status/2115624302724948032</link>
-      <guid isPermaLink="false">2115624302724948032</guid>
-      <pubDate>Thu, 29 Oct 2026 01:58:34 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[I’ve been playing with this concept all week. It’s still extremely early, but I’m working on a spooky pet you can play with (hands-first) and feed for Halloween. If you feed it and keep it happy, it’ll look happy. Otherwise, it turns into a monster.
-
-I don’t show it in this video, but you can hold out your hand, palm up, and the creature will jump toward it. You can also grab it, and when you let go, it lands beautifully in the MR room, just like a spider.
-
-💡Let me know if you like to see anything in particular? Or feature?
-https://x.com/Dilmerv/status/2115624302724948032/video/1
-
-Here are a few screenshots of the UI direction, device, and creature.
-https://x.com/Dilmerv/status/2115624308458590433/photo/1]]></content:encoded>
-    </item>
-      </channel>
+  </channel>
 </rss>
