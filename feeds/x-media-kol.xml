@@ -4,7 +4,45 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Mon, 09 Nov 2026 00:07:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 04:09:01 GMT</lastBuildDate>
+    <item>
+      <title>Made a lot of progress with Hand Skate today!</title>
+      <link>https://x.com/Dilmerv/status/2119631229108494348</link>
+      <guid isPermaLink="false">2119631229108494348</guid>
+      <pubDate>Mon, 09 Nov 2026 03:20:40 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Made a lot of progress with Hand Skate today! I can now extend the gameplay area, and it feels extremely good in VR/MR!
+
+I also spent a lot of time testing and improving the hand gestures, added a bunch of decorations, and made some other improvements.
+
+Watch until the end to see how I can now pick up the little skater dude and have him watch Tony Hawk with me! 😆
+https://x.com/Dilmerv/status/2119631229108494348/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>One thing I keep thinking about with Meta VR Glasses is how much the experience changes when the hardware becomes so lig</title>
+      <link>https://x.com/Dilmerv/status/2119612215275721005</link>
+      <guid isPermaLink="false">2119612215275721005</guid>
+      <pubDate>Mon, 09 Nov 2026 02:05:07 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[One thing I keep thinking about with Meta VR Glasses is how much the experience changes when the hardware becomes so light!
+
+It makes me want to rethink everything, from how we interact with UI to how we design entire games.
+
+We’re not just making VR hardware smaller. We’re opening the door to completely new experiences!
+https://x.com/Dilmerv/status/2119612215275721005/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>If you’ve been playing with VR, check out Meta’s Interaction SDK.</title>
+      <link>https://x.com/Dilmerv/status/2119585780775420250</link>
+      <guid isPermaLink="false">2119585780775420250</guid>
+      <pubDate>Mon, 09 Nov 2026 00:20:04 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[If you’ve been playing with VR, check out Meta’s Interaction SDK. To start, here is a great tip.
+
+Pair Distance Grab with Snap. Pinch to pull a prop across the room, then open your hand to dock it.
+
+Try the Distance Grab sample in ISDK v207. Unity setup at the end 👇 https://x.com/Dilmerv/status/2119585780775420250/video/1]]></content:encoded>
+    </item>
     <item>
       <title>It’s crazy to see how much excitement there is around Meta VR Glasses!</title>
       <link>https://x.com/Dilmerv/status/2119558130342244796</link>
@@ -1384,56 +1422,6 @@ https://x.com/nathie/status/2116229244195926044/video/1]]></content:encoded>
 
 This demo shows you the baked hand grab poses when grabbing the creature home device, new creature animations, a new palm menu UI, and you can also use two hands when interacting with the device.
 https://x.com/Dilmerv/status/2116227340229660770/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>🤝 These sponsors are already on board for UnitedXR Europe 2026</title>
-      <link>https://x.com/ARealityEvent/status/2116183348976795833</link>
-      <guid isPermaLink="false">2116183348976795833</guid>
-      <pubDate>Fri, 30 Oct 2026 15:00:01 +0000</pubDate>
-      <dc:creator>ARealityEvent</dc:creator>
-      <content:encoded><![CDATA[🤝 These sponsors are already on board for UnitedXR Europe 2026
-
-Come meet them on the expo floor, alongside 180+ exhibitors and 2,500+ XR professionals. 
-🗓️ 7–9 December 2026 · Brussels
-👉 Explore the sponsors list: https://na2.hubs.ly/H08Kf5Y0
-
-#UnitedXR #XR #AR #VR #Sponsors
-https://x.com/ARealityEvent/status/2116183348976795833/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>🕶️ XREAL Aura Launches as Android XR’s First AR Glasses, CoStar to Acquire Vexcel for $730M</title>
-      <link>https://x.com/ARealityEvent/status/2116084259748511796</link>
-      <guid isPermaLink="false">2116084259748511796</guid>
-      <pubDate>Fri, 30 Oct 2026 08:26:17 GMT</pubDate>
-      <dc:creator>ARealityEvent</dc:creator>
-      <content:encoded><![CDATA[🕶️ XREAL Aura Launches as Android XR’s First AR Glasses, CoStar to Acquire Vexcel for $730M
-
-Get the biggest XR and Spatial AI news in your inbox every Friday morning.
-🔗 Subscribe to the Weekly Spatial: https://na2.hubs.ly/H08Kdx70 
-
-#AWE #WeeklySpatial #XR #AR #VR #SpatialAI
-https://x.com/ARealityEvent/status/2116084259748511796/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>I can now export Canon RAW Video files to the offical Apple Immersive Video format.</title>
-      <link>https://x.com/SadlyItsBradley/status/2115980670640259525</link>
-      <guid isPermaLink="false">2115980670640259525</guid>
-      <pubDate>Fri, 30 Oct 2026 01:34:39 +0000</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[I can now export Canon RAW Video files to the offical Apple Immersive Video format. NOT 180° video. But full-on AIVU with metadata and everything
-
-All of it is nicely previewed, tweaked, rendered, and exported all on the Vision Pro itself
-
-Already awesome. But I have more plans!
-https://x.com/SadlyItsBradley/status/2115980670640259525/video/1
-https://x.com/SadlyItsBradley/status/2115112480229712201
-
-引用 @SadlyItsBradley：Exporting Canon R5C RAW video to Spatial Video (MV-HEVC) from my Dual Fisheye Lens ENTIRELY on headset
-
-It shows me exactly how the final footage will look. Color Grading, level, and depth
-
-I can also apply these lens-calibrated views LIVE from my camera to confirm the framing
-https://x.com/SadlyItsBradley/status/2115112480229712201/video/1]]></content:encoded>
     </item>
   </channel>
 </rss>
