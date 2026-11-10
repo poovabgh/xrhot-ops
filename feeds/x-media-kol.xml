@@ -4,7 +4,33 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Tue, 10 Nov 2026 00:15:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 04:06:00 GMT</lastBuildDate>
+    <item>
+      <title>I’m having way too much fun developing Hand Skate for VR/MR!</title>
+      <link>https://x.com/Dilmerv/status/2119988459481837926</link>
+      <guid isPermaLink="false">2119988459481837926</guid>
+      <pubDate>Tue, 10 Nov 2026 03:00:10 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[I’m having way too much fun developing Hand Skate for VR/MR!
+
+Tonight, I added a variety of environmental objects. Yes, there’s a lot going on here, but this is just a test to showcase all the ideas I’ve been adding to the game!
+
+The spectator and cat will appear randomly as you play, while the TV only shows up in Mixed Reality if you have it enabled.
+
+I also added a variety of fully interactive posters that can be placed on walls and doors in MR!
+https://x.com/Dilmerv/status/2119988459481837926/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>I’ve been experimenting with stretching the skatepark in HandSkate 🛹 Just grab both sides and pull it wider in mixed rea</title>
+      <link>https://x.com/Dilmerv/status/2119959907835290104</link>
+      <guid isPermaLink="false">2119959907835290104</guid>
+      <pubDate>Tue, 10 Nov 2026 01:06:43 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[I’ve been experimenting with stretching the skatepark in HandSkate 🛹 Just grab both sides and pull it wider in mixed reality!
+
+I tried 9 different effects for the stretch. Here they are at 2× speed.
+https://x.com/Dilmerv/status/2119959907835290104/video/1]]></content:encoded>
+    </item>
     <item>
       <title>This weekend I finally added an edit mode to my Splattery App with some whimsy!</title>
       <link>https://x.com/SadlyItsBradley/status/2119866605794382181</link>
@@ -1392,27 +1418,6 @@ A simple interaction can turn into an entire game mechanic.
 
 Keep experimenting!
 https://x.com/Dilmerv/status/2116602463457333520/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>These new smart glasses just entered the market giving you the speed of speech without making a sound or touching a keyb</title>
-      <link>https://x.com/nathie/status/2116592500471214115</link>
-      <guid isPermaLink="false">2116592500471214115</guid>
-      <pubDate>Sat, 31 Oct 2026 18:05:51 +0000</pubDate>
-      <dc:creator>nathie</dc:creator>
-      <content:encoded><![CDATA[These new smart glasses just entered the market giving you the speed of speech without making a sound or touching a keyboard. They track your internal speech muscles using non-contact sensing and decode silent, almost invisible mouthing into text at over 200 words per minute.
-https://x.com/nathie/status/2116592500471214115/video/1
-Learn more about Subvocal here: https://subvocal.company]]></content:encoded>
-    </item>
-    <item>
-      <title>💡Are you using Depth API? I’d recommend testing it out to create more realistic Mixed Reality experiences, then trying o</title>
-      <link>https://x.com/Dilmerv/status/2116568461962862993</link>
-      <guid isPermaLink="false">2116568461962862993</guid>
-      <pubDate>Sat, 31 Oct 2026 16:30:19 +0000</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[💡Are you using Depth API? I’d recommend testing it out to create more realistic Mixed Reality experiences, then trying out both Hard & Soft Occlusion in EnvironmentDepthManager.
-
-Hard Occlusion is cheaper but has jagged edges. Soft Occlusion produces smoother edges at a slightly higher GPU cost.
-https://x.com/Dilmerv/status/2116568461962862993/photo/1]]></content:encoded>
     </item>
   </channel>
 </rss>
