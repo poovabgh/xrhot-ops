@@ -4,7 +4,47 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Tue, 10 Nov 2026 08:10:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 12:10:00 GMT</lastBuildDate>
+    <item>
+      <title>New leaks suggest the PICO Space Pro could launch on December 2.</title>
+      <link>https://x.com/nathie/status/2120119315223679136</link>
+      <guid isPermaLink="false">2120119315223679136</guid>
+      <pubDate>Tue, 10 Nov 2026 11:40:09 GMT</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[New leaks suggest the PICO Space Pro could launch on December 2. I'm expecting a premium price.
+https://x.com/nathie/status/2120119315223679136/photo/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Unity XR devs, when would you choose Meta ISDK over Unity XRI + XR Hands? 👇</title>
+      <link>https://x.com/Dilmerv/status/2120118049395089869</link>
+      <guid isPermaLink="false">2120118049395089869</guid>
+      <pubDate>Tue, 10 Nov 2026 11:35:07 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Unity XR devs, when would you choose Meta ISDK over Unity XRI + XR Hands? 👇
+
+Both support many of the same core interactions, including grabbing, poking, rays, and locomotion.
+
+For me, it comes down to the platform, available tools, and how much customization I need.
+
+Unity XRI is great for cross-platform development, while ISDK offers specialized hand interactions and deeper Meta integration.
+
+And remember, ISDK Essentials works with Unity XR Hands too!
+
+💡Curious which one you’re using and why?
+https://x.com/Dilmerv/status/2120118049395089869/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>If you’re developing for Meta VR Glasses, what’s the ONE interaction you’re most excited to experiment with?</title>
+      <link>https://x.com/Dilmerv/status/2120096642191778049</link>
+      <guid isPermaLink="false">2120096642191778049</guid>
+      <pubDate>Tue, 10 Nov 2026 10:10:03 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[If you’re developing for Meta VR Glasses, what’s the ONE interaction you’re most excited to experiment with?
+
+Gaze, pinch, microgestures, or something completely different?
+
+I’d love to hear your ideas!]]></content:encoded>
+    </item>
     <item>
       <title>Super excited to be heading to Japan this Friday! 🇯🇵🚀</title>
       <link>https://x.com/Dilmerv/status/2120065176833544478</link>
@@ -1392,42 +1432,6 @@ Why it matters for MR:
 
 📌 This is enabled by default when adding MRUK to your Unity scene!
 https://x.com/Dilmerv/status/2116675356937556345/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>XR devs, never lose your curiosity!</title>
-      <link>https://x.com/Dilmerv/status/2116661499972227386</link>
-      <guid isPermaLink="false">2116661499972227386</guid>
-      <pubDate>Sat, 31 Oct 2026 22:40:01 +0000</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[XR devs, never lose your curiosity!
-
-Some of the most exciting things I’ve built in my career started with a simple question:
-
-“What if I tried this?”
-
-Sometimes that’s all you need to start something amazing.]]></content:encoded>
-    </item>
-    <item>
-      <title>This Meta Quest game scans your actual space and transforms it into a haunted house.</title>
-      <link>https://x.com/nathie/status/2116647626107945201</link>
-      <guid isPermaLink="false">2116647626107945201</guid>
-      <pubDate>Sat, 31 Oct 2026 21:44:54 +0000</pubDate>
-      <dc:creator>nathie</dc:creator>
-      <content:encoded><![CDATA[This Meta Quest game scans your actual space and transforms it into a haunted house.
-https://x.com/nathie/status/2116647626107945201/video/1
-Try Hauntify yourself here: https://www.meta.com/experiences/hauntify/4130979187008353/]]></content:encoded>
-    </item>
-    <item>
-      <title>XR devs, don’t underestimate how much your work can inspire others.</title>
-      <link>https://x.com/Dilmerv/status/2116630042864165122</link>
-      <guid isPermaLink="false">2116630042864165122</guid>
-      <pubDate>Sat, 31 Oct 2026 20:35:01 +0000</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[XR devs, don’t underestimate how much your work can inspire others.
-
-That little prototype you built over the weekend might give another developer the motivation to start their own project.
-
-Keep building and sharing! 🚀]]></content:encoded>
     </item>
 
   </channel>
