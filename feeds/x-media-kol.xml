@@ -4,7 +4,38 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Tue, 10 Nov 2026 12:10:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 16:10:00 GMT</lastBuildDate>
+    <item>
+      <title>Scott, CEO of Combat Waffle Studios, best known for Ghosts of Tabor, just shared a message painting a grim picture of wh</title>
+      <link>https://x.com/nathie/status/2120186765088817533</link>
+      <guid isPermaLink="false">2120186765088817533</guid>
+      <pubDate>Tue, 10 Nov 2026 16:08:10 GMT</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[Scott, CEO of Combat Waffle Studios, best known for Ghosts of Tabor, just shared a message painting a grim picture of what lies ahead for VR game studios.
+
+Are we about to see a big wave of studio closures?
+https://x.com/nathie/status/2120186765088817533/photo/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Bought some Infrared-transparent 3D printer filament that I HAD to experiment with</title>
+      <link>https://x.com/SadlyItsBradley/status/2120154827783094651</link>
+      <guid isPermaLink="false">2120154827783094651</guid>
+      <pubDate>Tue, 10 Nov 2026 14:01:16 GMT</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[Bought some Infrared-transparent 3D printer filament that I HAD to experiment with
+https://x.com/SadlyItsBradley/status/2120154827783094651/photo/1]]></content:encoded>
+    </item>
+    <item>
+      <title>I made a few tweaks to the main character!</title>
+      <link>https://x.com/Dilmerv/status/2120154603945632197</link>
+      <guid isPermaLink="false">2120154603945632197</guid>
+      <pubDate>Tue, 10 Nov 2026 14:00:22 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[I made a few tweaks to the main character! You probably know by now that I love a minimalistic style in everything I create, but I also felt like the original design was a bit too simple.
+
+💡Curious, which one do you like best, A, B, or C?
+https://x.com/Dilmerv/status/2120154603945632197/video/1]]></content:encoded>
+    </item>
     <item>
       <title>New leaks suggest the PICO Space Pro could launch on December 2.</title>
       <link>https://x.com/nathie/status/2120119315223679136</link>
@@ -1392,46 +1423,6 @@ This excellent tool allows you to visualize room meshes, anchors, semantic label
 
 Very useful for debugging Mixed Reality placement issues! 🔍
 https://x.com/Dilmerv/status/2116902353521549532/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>New sunglasses added to the collection! 😎</title>
-      <link>https://x.com/Dilmerv/status/2116723423694950836</link>
-      <guid isPermaLink="false">2116723423694950836</guid>
-      <pubDate>Sun, 01 Nov 2026 02:46:05 +0000</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[New sunglasses added to the collection! 😎
-
-I finally got around to unboxing these after Meta Connect 2026. They’re the special edition sold at the event!
-
-Also, I’ve been using the external charger a lot more than I thought I would. It’s so convenient to just drop the glasses into place and let them charge.
-https://x.com/Dilmerv/status/2116723423694950836/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Well, I am about to start recording a small trailer in VR/MR for Cubiques, which I am bringing to the Meta store complet</title>
-      <link>https://x.com/Dilmerv/status/2116686712533385363</link>
-      <guid isPermaLink="false">2116686712533385363</guid>
-      <pubDate>Sun, 01 Nov 2026 00:20:13 +0000</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Well, I am about to start recording a small trailer in VR/MR for Cubiques, which I am bringing to the Meta store completely free. I am very proud of this little game and can’t wait for people to test it out. It is simple, but if you give it time, you will find it very relaxing.
-https://x.com/Dilmerv/status/2116686712533385363/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>XR devs, here’s a great tip and a feature I’m using on my own MR games.👇</title>
-      <link>https://x.com/Dilmerv/status/2116675356937556345</link>
-      <guid isPermaLink="false">2116675356937556345</guid>
-      <pubDate>Sat, 31 Oct 2026 23:35:05 +0000</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[XR devs, here’s a great tip and a feature I’m using on my own MR games.👇
-
-MRUK World Locking keeps virtual content aligned with the real world by adjusting tracking space to compensate for drift.
-
-Why it matters for MR:
-- Reduces visible drift
-- Keeps objects aligned with real surfaces
-- No need to anchor every object
-
-📌 This is enabled by default when adding MRUK to your Unity scene!
-https://x.com/Dilmerv/status/2116675356937556345/video/1]]></content:encoded>
     </item>
 
   </channel>
