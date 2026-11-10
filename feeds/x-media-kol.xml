@@ -4,7 +4,58 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Mon, 09 Nov 2026 12:05:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 00:15:00 GMT</lastBuildDate>
+    <item>
+      <title>This weekend I finally added an edit mode to my Splattery App with some whimsy!</title>
+      <link>https://x.com/SadlyItsBradley/status/2119866605794382181</link>
+      <guid isPermaLink="false">2119866605794382181</guid>
+      <pubDate>Mon, 09 Nov 2026 18:55:58 GMT</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[This weekend I finally added an edit mode to my Splattery App with some whimsy!
+
+It integrates Logitech Muse support which includes its pressure sensitive button for finely closing the shears
+
+Unfortunately for my VRChat friends, I decided to test this functionality on them first
+https://x.com/SadlyItsBradley/status/2119866605794382181/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Every time I put on my Apple Vision Pro it feels like stepping into a holodeck.</title>
+      <link>https://x.com/nathie/status/2119864306376589352</link>
+      <guid isPermaLink="false">2119864306376589352</guid>
+      <pubDate>Mon, 09 Nov 2026 18:46:50 GMT</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[Every time I put on my Apple Vision Pro it feels like stepping into a holodeck.
+https://x.com/nathie/status/2119864306376589352/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Really excited about Unity 7!</title>
+      <link>https://x.com/Dilmerv/status/2119852941209489491</link>
+      <guid isPermaLink="false">2119852941209489491</guid>
+      <pubDate>Mon, 09 Nov 2026 18:01:40 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Really excited about Unity 7! 🚀 I’ve already been experimenting with CoreCLR, and I can’t wait to test MethodReload and the new URP improvements with my VR/MR dev workflows.
+https://twitter.com/unitygames/status/2119782374292476287
+
+引用 @unitygames：Unity 7 is coming 👀
+
+From CoreCLR prep and URP graphics upgrades to MethodReload, here is how the Engine evolves into the next generation. 
+
+Which feature are you benchmarking first?
+https://x.com/unitygames/status/2119782374292476287/photo/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Curious about developing for Meta VR Glasses?</title>
+      <link>https://x.com/Dilmerv/status/2119833998067163309</link>
+      <guid isPermaLink="false">2119833998067163309</guid>
+      <pubDate>Mon, 09 Nov 2026 16:46:24 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Curious about developing for Meta VR Glasses? Check out this tip 🔥
+
+Use two-hand grab transformers to stretch a prop along one axis or turn a valve that stops at ±45°.
+
+Built with Meta’s Interaction SDK v207. Unity setup at the end 👇
+https://x.com/Dilmerv/status/2119833998067163309/video/1]]></content:encoded>
+    </item>
     <item>
       <title>I doubt there are many people out there who spend more time in Unity experimenting with XR than I do. 😆</title>
       <link>https://x.com/Dilmerv/status/2119720444798382280</link>
@@ -1362,75 +1413,6 @@ Learn more about Subvocal here: https://subvocal.company]]></content:encoded>
 
 Hard Occlusion is cheaper but has jagged edges. Soft Occlusion produces smoother edges at a slightly higher GPU cost.
 https://x.com/Dilmerv/status/2116568461962862993/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>XR devs, here’s a quick tip for today!</title>
-      <link>https://x.com/Dilmerv/status/2116542778184479108</link>
-      <guid isPermaLink="false">2116542778184479108</guid>
-      <pubDate>Sat, 31 Oct 2026 14:48:16 +0000</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[XR devs, here’s a quick tip for today!
-
-Using MRUK in Unity? Subscribe to MRUK.Instance.SceneLoadedEvent before initializing room-dependent content.
-
-This helps ensure your room anchors and surfaces are ready before you start placing objects!
-https://x.com/Dilmerv/status/2116542778184479108/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>I’ve been prototyping for the last two months, and even though it feels awesome to have games in the store, I miss teach</title>
-      <link>https://x.com/Dilmerv/status/2116363312963194911</link>
-      <guid isPermaLink="false">2116363312963194911</guid>
-      <pubDate>Sat, 31 Oct 2026 02:55:08 +0000</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[I’ve been prototyping for the last two months, and even though it feels awesome to have games in the store, I miss teaching the community through YouTube videos.
-
-I’m setting my alarm extra early for Saturday morning so I can get back to it!]]></content:encoded>
-    </item>
-    <item>
-      <title>🎃 Here’s v1 of the Spider Web feature. The creature generates webs from time to time. I can also rip them off with hand </title>
-      <link>https://x.com/Dilmerv/status/2116315964350591037</link>
-      <guid isPermaLink="false">2116315964350591037</guid>
-      <pubDate>Fri, 30 Oct 2026 23:46:59 +0000</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[🎃 Here’s v1 of the Spider Web feature. The creature generates webs from time to time. I can also rip them off with hand tracking, and it’ll start repairing them.
-
-The fun part is that if it needs to cross a gap, like the space between a table and a chair, it’ll generate a web to get across.
-https://x.com/Dilmerv/status/2116315964350591037/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>🎉 Last night, I finished the full conversion of Cubiques from iOS to VR, and honestly, it blows my mind how great it fee</title>
-      <link>https://x.com/Dilmerv/status/2116239926434140561</link>
-      <guid isPermaLink="false">2116239926434140561</guid>
-      <pubDate>Fri, 30 Oct 2026 18:44:50 +0000</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[🎉 Last night, I finished the full conversion of Cubiques from iOS to VR, and honestly, it blows my mind how great it feels in VR!
-
-Everything was adapted: touch inputs became hand gestures and pokes, the UI became spatial, and iOS Game Center was replaced with Platform SDK achievements and leaderboards.
-
-📌 Here’s a breakdown of everything I’ve added. I’ll be shipping the game this weekend!
-
-- 𝟳𝟬 𝗩𝗥 𝗹𝗲𝘃𝗲𝗹𝘀: Original puzzles adapted for spatial play, with saved progress, undo, and retry.
-
-- 𝗛𝗮𝗻𝗱 𝘁𝗿𝗮𝗰𝗸𝗶𝗻𝗴: Pinch, trace multiple tiles, and release to stop.
-
-- 𝗣𝗮𝘁𝗵 𝗽𝗿𝗲𝘃𝗶𝗲𝘄𝘀: A red line and endpoint show your destination.
-
-- 𝗩𝗥 𝗮𝗻𝗱 𝗠𝗥: Play in virtual environments or passthrough, floating or on real tables.
-
-- 𝗕𝗼𝗮𝗿𝗱 𝗮𝗱𝗷𝘂𝘀𝘁𝗺𝗲𝗻𝘁: Move, rotate, and resize with handles and synchronized UI.
-
-- 𝗤𝘂𝗶𝗲𝘁 𝗗𝗼𝗰𝗸 𝗨𝗜: Redesigned menus and tutorials with sharp icons and poke, ray, or gaze-and-pinch controls.
-
-- 𝗖𝘂𝘀𝘁𝗼𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻: Five board styles and four minimal environments.
-
-- 𝗩𝗶𝘀𝘂𝗮𝗹𝘀 𝗮𝗻𝗱 𝗮𝘂𝗱𝗶𝗼: Smooth animations, soft shadows, completion effects, and seven crossfading music tracks.
-
-- 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁𝘀 𝗮𝗻𝗱 𝗹𝗲𝗮𝗱𝗲𝗿𝗯𝗼𝗮𝗿𝗱𝘀: Eight achievements, puzzle rankings, and offline progress saving.
-
-- 𝗤𝘂𝗲𝘀𝘁 𝗽𝘂𝗯𝗹𝗶𝘀𝗵𝗶𝗻𝗴: Automated signed builds and beta uploads, headset checks, and store media with a spatial icon.
-
-💡 If you have any questions about this process, let me know.
-https://x.com/Dilmerv/status/2116239926434140561/video/1]]></content:encoded>
     </item>
   </channel>
 </rss>
