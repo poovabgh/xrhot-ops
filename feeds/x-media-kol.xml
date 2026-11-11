@@ -4,7 +4,38 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Wed, 11 Nov 2026 04:06:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 08:06:00 GMT</lastBuildDate>
+    <item>
+      <title>Here’s a Unity XR shader tip! 👇</title>
+      <link>https://x.com/Dilmerv/status/2120396165338239472</link>
+      <guid isPermaLink="false">2120396165338239472</guid>
+      <pubDate>Wed, 11 Nov 2026 06:00:15 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Here’s a Unity XR shader tip! 👇
+
+Does your custom shader work in the Editor but render incorrectly in one eye on the headset?
+
+Check its Single-Pass Instanced rendering support!
+
+Make sure you’re using Unity’s stereo macros, including UNITY_VERTEX_OUTPUT_STEREO and UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO.
+
+A great example is shown in this video! The AI agent identified missing stereo macros in my shader. Even though everything looked correct locally, it wasn’t rendering properly on the headset until those fixes were applied.
+
+A good reminder of why testing on the actual device is so important!
+https://x.com/Dilmerv/status/2120396165338239472/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Cutting floaters off of Gaussian Splats like this is unironically a really meditative experience!</title>
+      <link>https://x.com/SadlyItsBradley/status/2120380979940602035</link>
+      <guid isPermaLink="false">2120380979940602035</guid>
+      <pubDate>Wed, 11 Nov 2026 04:59:55 GMT</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[Cutting floaters off of Gaussian Splats like this is unironically a really meditative experience!
+https://x.com/SadlyItsBradley/status/2120380979940602035/video/1
+
+Just finished trimming all the hedges
+https://x.com/SadlyItsBradley/status/2120380985594503197/photo/1]]></content:encoded>
+    </item>
     <item>
       <title>📣 All, here is another great XR Dev Tip!</title>
       <link>https://x.com/Dilmerv/status/2120344565781614941</link>
@@ -1436,30 +1467,6 @@ I’m experimenting with both approaches and would love your thoughts!]]></conte
 
 “Enable support for WebXR via flatpak overrides and launch options“
 https://x.com/SadlyItsBradley/status/2117327521247338568/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Huge</title>
-      <link>https://x.com/SadlyItsBradley/status/2117324987908440330</link>
-      <guid isPermaLink="false">2117324987908440330</guid>
-      <pubDate>Mon, 02 Nov 2026 18:36:29 +0000</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[Huge
-https://x.com/lunayian/status/2117321797758488777
-
-引用 @lunayian：The final full feature update for Quest 2 and Pro will be Horizon OS 2.13 in March 2027, and quarterly security patches and critical bug fixes will continue through the end of 2027.
-
-New app submissions for Quest 2 and Quest Pro close December 2027.
-
-https://developers.meta.com/vr/blog/meta-quest-2-quest-pro-end-of-feature-development-what-to-know/]]></content:encoded>
-    </item>
-    <item>
-      <title>There's a Horizon Zero Dawn VR mod in the works and it already looks promising.</title>
-      <link>https://x.com/nathie/status/2117323861222162626</link>
-      <guid isPermaLink="false">2117323861222162626</guid>
-      <pubDate>Mon, 02 Nov 2026 18:32:01 +0000</pubDate>
-      <dc:creator>nathie</dc:creator>
-      <content:encoded><![CDATA[There's a Horizon Zero Dawn VR mod in the works and it already looks promising.
-https://x.com/nathie/status/2117323861222162626/video/1]]></content:encoded>
     </item>
   </channel>
 </rss>
