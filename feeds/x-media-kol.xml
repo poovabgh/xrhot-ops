@@ -4,7 +4,20 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Wed, 11 Nov 2026 08:06:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 12:06:00 GMT</lastBuildDate>
+    <item>
+      <title>I found another super cool feature in the MetaVR CLI! 👇</title>
+      <link>https://x.com/Dilmerv/status/2120433962115801496</link>
+      <guid isPermaLink="false">2120433962115801496</guid>
+      <pubDate>Wed, 11 Nov 2026 08:30:26 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[I found another super cool feature in the MetaVR CLI! 👇
+
+You can simulate bad Wi-Fi on Quest and see how your multiplayer app handles 150 ms of added delay each way.
+
+> metavr device network-impairment on --ingress-delay 150 --egress-delay 150 --watch
+https://x.com/Dilmerv/status/2120433962115801496/video/1]]></content:encoded>
+    </item>
     <item>
       <title>Here’s a Unity XR shader tip! 👇</title>
       <link>https://x.com/Dilmerv/status/2120396165338239472</link>
@@ -1456,17 +1469,6 @@ I’m experimenting with both approaches and would love your thoughts!]]></conte
       <pubDate>Mon, 02 Nov 2026 19:16:06 +0000</pubDate>
       <dc:creator>Dilmerv</dc:creator>
       <content:encoded><![CDATA[Things have been super busy, but finally got time to upload Cubiques to the store and also finished the trailer. I’ll submit it tonight! 🚀]]></content:encoded>
-    </item>
-    <item>
-      <title>Valve seems to be working on making WebXR possible with Steam Frame’s default Chromium browser</title>
-      <link>https://x.com/SadlyItsBradley/status/2117327521247338568</link>
-      <guid isPermaLink="false">2117327521247338568</guid>
-      <pubDate>Mon, 02 Nov 2026 18:46:33 +0000</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[Valve seems to be working on making WebXR possible with Steam Frame’s default Chromium browser
-
-“Enable support for WebXR via flatpak overrides and launch options“
-https://x.com/SadlyItsBradley/status/2117327521247338568/photo/1]]></content:encoded>
     </item>
   </channel>
 </rss>
