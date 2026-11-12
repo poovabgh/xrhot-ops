@@ -4,8 +4,50 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Thu, 12 Nov 2026 00:06:00 GMT</lastBuildDate>
-        <item>
+    <lastBuildDate>Thu, 12 Nov 2026 08:08:00 GMT</lastBuildDate>
+    <item>
+      <title>I had a pretty great day at the Apple Immersive event</title>
+      <link>https://x.com/SadlyItsBradley/status/2120785521983246782</link>
+      <guid isPermaLink="false">2120785521983246782</guid>
+      <pubDate>Thu, 12 Nov 2026 07:47:25 GMT</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[I had a pretty great day at the Apple Immersive event
+
+Thanks to everyone for their kindness toward me at the venue
+
+And extra thanks to those doing behind the scenes work to bring all of these once-impossible technologies/workflows to the next level
+https://x.com/SadlyItsBradley/status/2120785521983246782/photo/1]]></content:encoded>
+    </item>
+    <item>
+      <title>I gave a presentation today about fast iteration tools for Meta VR Glasses developers, and honestly, I’m so glad I decid</title>
+      <link>https://x.com/Dilmerv/status/2120759750212067586</link>
+      <guid isPermaLink="false">2120759750212067586</guid>
+      <pubDate>Thu, 12 Nov 2026 06:05:00 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[I gave a presentation today about fast iteration tools for Meta VR Glasses developers, and honestly, I’m so glad I decided to include several live demos!
+
+I kept switching between my slides and Unity to show the tools in action.
+
+We need more of this as an industry. Less polished, heavily edited demos and more real workflows that show what developers actually experience, including the challenges along the way!]]></content:encoded>
+    </item>
+    <item>
+      <title>Guys, I found another very cool feature for Quest &amp; Meta VR Glasses devs! 👇</title>
+      <link>https://x.com/Dilmerv/status/2120735420891717650</link>
+      <guid isPermaLink="false">2120735420891717650</guid>
+      <pubDate>Thu, 12 Nov 2026 04:28:20 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Guys, I found another very cool feature for Quest & Meta VR Glasses devs! 👇
+
+OVR Metrics Tool lets you add your own metrics in Unity C# and see them alongside FPS, CPU, and GPU. For Hand Skate, I’d track how many tricks the player lands.
+
+Register the metric once with `DefineAppMetric`, then update it whenever the game confirms a landing.
+
+`OVRMetricsToolSDK.Instance.UpdateAppMetric("tricks_landed", total);`
+
+You can see the counter live in the headset with Metrics HUD or save it to CSV with Metrics Recording in Meta VR Developer Hub.
+https://x.com/Dilmerv/status/2120735420891717650/video/1]]></content:encoded>
+    </item>
+    <item>
       <title>This is how Apple records all of their first person content Vision Pro trailers/app previews on device</title>
       <link>https://x.com/SadlyItsBradley/status/2120667515097620923</link>
       <guid isPermaLink="false">2120667515097620923</guid>
@@ -1423,40 +1465,6 @@ https://x.com/Dilmerv/status/2117731139238465617/photo/1]]></content:encoded>
       <content:encoded><![CDATA[Mmm, I think I released enough VR/MR games in the last few months! Time to share all my learnings on YouTube. 
 
 💡Also, if you have specific questions based on the games and prototypes I’ve been sharing, just drop them below. Thanks everyone!]]></content:encoded>
-    </item>
-    <item>
-      <title>This Chinese streamer cut the Apple Vision Pro’s weight in half using a helium balloon.</title>
-      <link>https://x.com/nathie/status/2117696562482823659</link>
-      <guid isPermaLink="false">2117696562482823659</guid>
-      <pubDate>Tue, 03 Nov 2026 19:13:00 +0000</pubDate>
-      <dc:creator>nathie</dc:creator>
-      <content:encoded><![CDATA[This Chinese streamer cut the Apple Vision Pro’s weight in half using a helium balloon.
-https://x.com/nathie/status/2117696562482823659/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>I’ve been working really hard on something</title>
-      <link>https://x.com/SadlyItsBradley/status/2117690988823027712</link>
-      <guid isPermaLink="false">2117690988823027712</guid>
-      <pubDate>Tue, 03 Nov 2026 18:50:51 +0000</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[I’ve been working really hard on something
-
-I am extremely proud of how it’s going, and believe that in the long term, I can turn it into the Final Cut Pro for Spatial and Immersive video
-
-Here is only a little taste. Stay Tuned!
-https://x.com/SadlyItsBradley/status/2117690988823027712/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>VR is not dead, nor do I believe I picked the wrong niche.</title>
-      <link>https://x.com/Dilmerv/status/2117651887616856389</link>
-      <guid isPermaLink="false">2117651887616856389</guid>
-      <pubDate>Tue, 03 Nov 2026 16:15:28 +0000</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[VR is not dead, nor do I believe I picked the wrong niche. To me, we’re just getting started!
-
-Yes, there are things that haven’t worked well in the past, but without learning from those experiences, how can an ecosystem improve? How can hardware get better?
-
-Focus on the good! I truly believe this next wave of VR/MR devices will shape our future like never before! 🚀]]></content:encoded>
     </item>
   </channel>
 </rss>
