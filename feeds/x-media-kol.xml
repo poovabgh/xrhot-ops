@@ -4,7 +4,167 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Wed, 11 Nov 2026 12:06:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 00:06:00 GMT</lastBuildDate>
+        <item>
+      <title>This is how Apple records all of their first person content Vision Pro trailers/app previews on device</title>
+      <link>https://x.com/SadlyItsBradley/status/2120667515097620923</link>
+      <guid isPermaLink="false">2120667515097620923</guid>
+      <pubDate>Wed, 11 Nov 2026 23:58:30 GMT</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[This is how Apple records all of their first person content Vision Pro trailers/app previews on device
+
+By attaching the headset to a special cage, connected to a large crane to keep it completely stabilized!
+
+They also combine this with SharePlay for 3rd person views like below:
+https://x.com/SadlyItsBradley/status/2120667515097620923/photo/1
+
+If you want to record clips in the same way, just add Local SharePlay to your apps
+https://x.com/SadlyItsBradley/status/2091583290029314227
+
+引用 @SadlyItsBradley：Two headsets Networking the same 4DGB Emulator in real time
+
+With all of the rendering options able to be changed independently from each other
+
+This is so epic, I am going to cry 😭
+https://x.com/SadlyItsBradley/status/2091583290029314227/video/1
+https://x.com/SadlyItsBradley/status/2091552845157871831]]></content:encoded>
+    </item>
+    <item>
+      <title>I found the magical Spatial Audio orb</title>
+      <link>https://x.com/SadlyItsBradley/status/2120655657011716574</link>
+      <guid isPermaLink="false">2120655657011716574</guid>
+      <pubDate>Wed, 11 Nov 2026 23:11:23 GMT</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[I found the magical Spatial Audio orb
+
+Speak into it and let it tell you the future of this medium
+https://x.com/SadlyItsBradley/status/2120655657011716574/photo/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Q&amp;A just started, and they picked the most important question to lead with:</title>
+      <link>https://x.com/SadlyItsBradley/status/2120639294364921992</link>
+      <guid isPermaLink="false">2120639294364921992</guid>
+      <pubDate>Wed, 11 Nov 2026 22:06:22 GMT</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[Q&A just started, and they picked the most important question to lead with:
+
+Is Apple committed to this platform?
+
+“Yes and we think this event is a testament to that” (paraphrased)
+https://x.com/SadlyItsBradley/status/2120568267370909746
+
+引用 @SadlyItsBradley：I’m live from Apple Developer Center
+
+Where they’re holding an event focused on Immersive media experiences
+
+And of course they have a BlackMagic Cine Ursa Immersive pointed at the stage
+https://x.com/SadlyItsBradley/status/2120568267370909746/photo/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Guys, I found another very cool feature in the Meta VR CLI! 👇</title>
+      <link>https://x.com/Dilmerv/status/2120622649965416657</link>
+      <guid isPermaLink="false">2120622649965416657</guid>
+      <pubDate>Wed, 11 Nov 2026 21:00:13 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Guys, I found another very cool feature in the Meta VR CLI! 👇
+
+You can switch between a game room, bedroom, and living room in Meta XR Simulator to test your mixed reality app in different layouts.
+
+> metavr xrsim env set --id Bedroom
+
+👨‍💻 Restart your XR app after switching.
+
+> unity command editor.playmode stop  
+> unity command editor.playmode start
+https://x.com/Dilmerv/status/2120622649965416657/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>If you could recommend someone one VR headset this Black Friday which one would you pick?</title>
+      <link>https://x.com/nathie/status/2120616892054335974</link>
+      <guid isPermaLink="false">2120616892054335974</guid>
+      <pubDate>Wed, 11 Nov 2026 20:37:20 GMT</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[If you could recommend someone one VR headset this Black Friday which one would you pick?]]></content:encoded>
+    </item>
+    <item>
+      <title>One of my favorite things about VR/MR development is how much the scale of an experience can change how it feels.</title>
+      <link>https://x.com/Dilmerv/status/2120616320957915253</link>
+      <guid isPermaLink="false">2120616320957915253</guid>
+      <pubDate>Wed, 11 Nov 2026 20:35:04 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[One of my favorite things about VR/MR development is how much the scale of an experience can change how it feels.
+
+A tiny world on your desk versus walking through that exact same world at full scale.
+
+Same environment, completely different experience!
+
+This is exactly what I’ve been experimenting with and adding to my last few VR/MR games, and I absolutely love the possibilities it opens up!
+
+Have you experimented with this?]]></content:encoded>
+    </item>
+    <item>
+      <title>$1695 USD, launches in December</title>
+      <link>https://x.com/SadlyItsBradley/status/2120589411197059112</link>
+      <guid isPermaLink="false">2120589411197059112</guid>
+      <pubDate>Wed, 11 Nov 2026 18:48:08 GMT</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[$1695 USD, launches in December
+
+Allows you to record just via a single USB-C cable. Even just connected to an iPhone
+https://x.com/SadlyItsBradley/status/2120589411197059112/photo/1
+https://x.com/SadlyItsBradley/status/2120586432079450245
+
+引用 @SadlyItsBradley：Apple and BlackMagic announced a new Ambisonic microphone designed for insanely high fidelity Spatial Audio
+https://x.com/SadlyItsBradley/status/2120586432079450245/photo/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Apple and BlackMagic announced a new Ambisonic microphone designed for insanely high fidelity Spatial Audio</title>
+      <link>https://x.com/SadlyItsBradley/status/2120586432079450245</link>
+      <guid isPermaLink="false">2120586432079450245</guid>
+      <pubDate>Wed, 11 Nov 2026 18:36:18 GMT</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[Apple and BlackMagic announced a new Ambisonic microphone designed for insanely high fidelity Spatial Audio
+https://x.com/SadlyItsBradley/status/2120586432079450245/photo/1]]></content:encoded>
+    </item>
+    <item>
+      <title>💡Curious, for those building hands-first VR/MR games, what’s been your biggest challenge?</title>
+      <link>https://x.com/Dilmerv/status/2120586123080577356</link>
+      <guid isPermaLink="false">2120586123080577356</guid>
+      <pubDate>Wed, 11 Nov 2026 18:35:04 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[💡Curious, for those building hands-first VR/MR games, what’s been your biggest challenge?
+
+Gesture recognition, grabbing objects, UI interactions, gaze, or something completely different?
+
+I’ve been experimenting with all of these lately and would love to hear your thoughts!]]></content:encoded>
+    </item>
+    <item>
+      <title>I’m live from Apple Developer Center</title>
+      <link>https://x.com/SadlyItsBradley/status/2120568267370909746</link>
+      <guid isPermaLink="false">2120568267370909746</guid>
+      <pubDate>Wed, 11 Nov 2026 17:24:07 GMT</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[I’m live from Apple Developer Center
+
+Where they’re holding an event focused on Immersive media experiences
+
+And of course they have a BlackMagic Cine Ursa Immersive pointed at the stage
+https://x.com/SadlyItsBradley/status/2120568267370909746/photo/1]]></content:encoded>
+    </item>
+    <item>
+      <title>One thing I love about Mixed Reality is that we don’t have to follow traditional game design rules.</title>
+      <link>https://x.com/Dilmerv/status/2120554737913192491</link>
+      <guid isPermaLink="false">2120554737913192491</guid>
+      <pubDate>Wed, 11 Nov 2026 16:30:22 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[One thing I love about Mixed Reality is that we don’t have to follow traditional game design rules.
+
+This is something I’ve been thinking about quite a bit while designing my last few MR games.
+
+What if your walls became part of a puzzle? Or your furniture changed how a level plays?
+
+There’s so much room to experiment with ideas that wouldn’t make sense on a flat screen!]]></content:encoded>
+    </item>
     <item>
       <title>I found another super cool feature in the MetaVR CLI! 👇</title>
       <link>https://x.com/Dilmerv/status/2120433962115801496</link>
@@ -1297,178 +1457,6 @@ https://x.com/SadlyItsBradley/status/2117690988823027712/video/1]]></content:enc
 Yes, there are things that haven’t worked well in the past, but without learning from those experiences, how can an ecosystem improve? How can hardware get better?
 
 Focus on the good! I truly believe this next wave of VR/MR devices will shape our future like never before! 🚀]]></content:encoded>
-    </item>
-    <item>
-      <title>You would almost forget that Google still needs to launch its smart glasses in collab with Warby Parker and Gentle Monster.</title>
-      <link>https://x.com/nathie/status/2117637628967239874</link>
-      <guid isPermaLink="false">2117637628967239874</guid>
-      <pubDate>Tue, 03 Nov 2026 15:18:49 +0000</pubDate>
-      <dc:creator>nathie</dc:creator>
-      <content:encoded><![CDATA[You would almost forget that Google still needs to launch its smart glasses in collab with Warby Parker and Gentle Monster.]]></content:encoded>
-    </item>
-    <item>
-      <title>All, here’s a cool Meta VR CLI tip! 👇</title>
-      <link>https://x.com/Dilmerv/status/2117572758464761856</link>
-      <guid isPermaLink="false">2117572758464761856</guid>
-      <pubDate>Tue, 03 Nov 2026 11:01:02 +0000</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[All, here’s a cool Meta VR CLI tip! 👇
-
-Building for Meta VR Glasses but only have a Quest 3/3S?
-
-You can simulate the narrower field of view directly on your headset!
-
-Run: 
-metavr device fov-sim enable
-
-Great for testing UI visibility and content placement before the glasses arrive!
-https://x.com/Dilmerv/status/2117572758464761856/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>I just submitted Cubiques to the Meta VR Developer Portal! 🚀🎉</title>
-      <link>https://x.com/Dilmerv/status/2117477060298080601</link>
-      <guid isPermaLink="false">2117477060298080601</guid>
-      <pubDate>Tue, 03 Nov 2026 04:40:46 +0000</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[I just submitted Cubiques to the Meta VR Developer Portal! 🚀🎉
-
-My original iOS puzzle game is coming to VR and Mixed Reality.
-
-- 70 handcrafted puzzle levels
-- Pinch, hold, and trace across multiple tiles
-- Path previews to plan your next move
-- VR environments and MR passthrough
-- Floating and real-table placement
-- Move, rotate, and resize your board
-- Minimal menus with poke, ray, and gaze-and-pinch controls
-- Five board styles and four environments
-- Achievements, leaderboards, and saved progress
-- Soft shadows, completion effects, and seven music tracks
-
-One step closer to sharing it with you!
-https://x.com/Dilmerv/status/2117477060298080601/video/1
-
-This was a great exercise to identify areas for improvement at Meta! I also learned a lot throughout this process, once again.
-https://x.com/Dilmerv/status/2117480716347035823/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Apple Vision Pro receiving some dedicated preliminary support for Steam VR Link in the PC’s driver..</title>
-      <link>https://x.com/SadlyItsBradley/status/2117370134788718640</link>
-      <guid isPermaLink="false">2117370134788718640</guid>
-      <pubDate>Mon, 02 Nov 2026 21:35:53 +0000</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[Apple Vision Pro receiving some dedicated preliminary support for Steam VR Link in the PC’s driver..
-
-Steam Link on visionOS currently* doesn’t have a VR mode..
-
-Oh dear god I’m actually doomed beyond belief, aren’t I? 😵‍💫
-https://x.com/SadlyItsBradley/status/2117370134788718640/photo/1
-https://x.com/SadlyItsBradley/status/2117364399132545432
-
-引用 @SadlyItsBradley：SteamVR 2.19.1 Beta just dropped
-
-“Brings improvements to streamed image quality: sharper text, clearer colors, and better detail
-
-These improvements benefit all streaming VR applications, the SteamVR interface, desktop streaming, third-party overlays, and the theater screen”
-https://x.com/SadlyItsBradley/status/2117364399132545432/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>SteamVR Beta datamine shows that Valve are working on bringing chroma key passthrough support to Steam Link</title>
-      <link>https://x.com/SadlyItsBradley/status/2117369162792136932</link>
-      <guid isPermaLink="false">2117369162792136932</guid>
-      <pubDate>Mon, 02 Nov 2026 21:32:01 +0000</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[SteamVR Beta datamine shows that Valve are working on bringing chroma key passthrough support to Steam Link
-
-Because color passthrough is pretty cool and stuffs
-https://x.com/SadlyItsBradley/status/2117369162792136932/photo/1
-https://x.com/SadlyItsBradley/status/2117364399132545432
-
-引用 @SadlyItsBradley：SteamVR 2.19.1 Beta just dropped
-
-“Brings improvements to streamed image quality: sharper text, clearer colors, and better detail
-
-These improvements benefit all streaming VR applications, the SteamVR interface, desktop streaming, third-party overlays, and the theater screen”
-https://x.com/SadlyItsBradley/status/2117364399132545432/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Here’s an interesting question…</title>
-      <link>https://x.com/Dilmerv/status/2117368772201742555</link>
-      <guid isPermaLink="false">2117368772201742555</guid>
-      <pubDate>Mon, 02 Nov 2026 21:30:28 +0000</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Here’s an interesting question…
-
-What’s one 🕶️ XR feature that looks absolutely amazing in demos but you rarely find useful in actual experiences?
-
-I’m really curious about this one.]]></content:encoded>
-    </item>
-    <item>
-      <title>SteamVR 2.19.1 Beta just dropped</title>
-      <link>https://x.com/SadlyItsBradley/status/2117364399132545432</link>
-      <guid isPermaLink="false">2117364399132545432</guid>
-      <pubDate>Mon, 02 Nov 2026 21:13:06 +0000</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[SteamVR 2.19.1 Beta just dropped
-
-“Brings improvements to streamed image quality: sharper text, clearer colors, and better detail
-
-These improvements benefit all streaming VR applications, the SteamVR interface, desktop streaming, third-party overlays, and the theater screen”
-https://x.com/SadlyItsBradley/status/2117364399132545432/video/1
-
-It’s honestly a huge and detailed update
-
-Go read the full patch notes:
-
-https://store.steampowered.com/news/app/250820/view/683017363938871519
-https://x.com/SadlyItsBradley/status/2117364915606372394/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Valve is moving on enabling hardware decoding support for Steam Frame apps that use Lepton</title>
-      <link>https://x.com/SadlyItsBradley/status/2117354689872154824</link>
-      <guid isPermaLink="false">2117354689872154824</guid>
-      <pubDate>Mon, 02 Nov 2026 20:34:31 +0000</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[Valve is moving on enabling hardware decoding support for Steam Frame apps that use Lepton
-
-This is particularly useful for android-built VR apps that have a media player, like Whirligig
-
-Or a full-on VR streaming app such as Virtual Desktop
-https://x.com/SadlyItsBradley/status/2117354689872154824/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Meta is officially ending feature updates for Quest 2 and Quest Pro in March 2027. Truly the end of an era.</title>
-      <link>https://x.com/nathie/status/2117346754295423294</link>
-      <guid isPermaLink="false">2117346754295423294</guid>
-      <pubDate>Mon, 02 Nov 2026 20:02:59 +0000</pubDate>
-      <dc:creator>nathie</dc:creator>
-      <content:encoded><![CDATA[Meta is officially ending feature updates for Quest 2 and Quest Pro in March 2027. Truly the end of an era.
-https://x.com/MetaVRDevs/status/2117332750395232649
-
-引用 @MetaVRDevs：Meta Quest 2 and Meta Quest Pro are reaching the end of feature development. v2.13 is the final OS release and will reach all devices by March 2027.
-
-Your existing apps keep working, and you can keep shipping updates to them.
-
-Read the full timeline 👉  https://developers.meta.com/vr/blog/meta-quest-2-quest-pro-end-of-feature-development-what-to-know/?utm_source=social-x&utm_medium=MVRD&utm_campaign=organic&utm_content=QuestEOF
-https://x.com/MetaVRDevs/status/2117332750395232649/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Would you rather play a Mixed Reality game that adapts its entire level to your real room, or one that provides the exac</title>
-      <link>https://x.com/Dilmerv/status/2117342264556965913</link>
-      <guid isPermaLink="false">2117342264556965913</guid>
-      <pubDate>Mon, 02 Nov 2026 19:45:08 +0000</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Would you rather play a Mixed Reality game that adapts its entire level to your real room, or one that provides the exact same gameplay regardless of your environment?
-
-I’m experimenting with both approaches and would love your thoughts!]]></content:encoded>
-    </item>
-    <item>
-      <title>Things have been super busy, but finally got time to upload Cubiques to the store and also finished the trailer. I’ll su</title>
-      <link>https://x.com/Dilmerv/status/2117334958565974368</link>
-      <guid isPermaLink="false">2117334958565974368</guid>
-      <pubDate>Mon, 02 Nov 2026 19:16:06 +0000</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Things have been super busy, but finally got time to upload Cubiques to the store and also finished the trailer. I’ll submit it tonight! 🚀]]></content:encoded>
     </item>
   </channel>
 </rss>
