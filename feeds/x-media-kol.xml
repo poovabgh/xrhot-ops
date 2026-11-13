@@ -4,7 +4,24 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Fri, 13 Nov 2026 00:13:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 04:07:51 GMT</lastBuildDate>
+    <item>
+      <title>Here’s a cool Unity XR tip worth trying! 👇</title>
+      <link>https://x.com/Dilmerv/status/2121067263709020610</link>
+      <guid isPermaLink="false">2121067263709020610</guid>
+      <pubDate>Fri, 13 Nov 2026 02:26:57 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Here’s a cool Unity XR tip worth trying! 👇
+
+Did you know Meta’s Interaction SDK supports curved UI panels?
+
+Try the RayExamples scene and experiment with CanvasCylinder!
+
+You can create curved menus, interact using hand rays and pinch, and even use compositor layers for sharper UI.
+
+Great for VR/MR interfaces! 🙌
+https://x.com/Dilmerv/status/2121067263709020610/video/1]]></content:encoded>
+    </item>
     <item>
       <title>I’ve been experimenting with a variety of hand gestures for Hand Skate, and I already have over a dozen integrated for d</title>
       <link>https://x.com/Dilmerv/status/2121024016471171584</link>
@@ -1445,26 +1462,6 @@ You can automatically run Unity tests across different room prefabs or JSON scen
 
 I used this heavily during the development of my game, Fuse Balls, and it helped me catch placement issues early without having to manually test every room configuration!
 https://x.com/Dilmerv/status/2118131475501420989/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>For those wondering why the default Chromium on Steam Frame still isn’t loading WebXR apps even with yesterdays beta ins</title>
-      <link>https://x.com/SadlyItsBradley/status/2118073306570007037</link>
-      <guid isPermaLink="false">2118073306570007037</guid>
-      <pubDate>Wed, 04 Nov 2026 20:10:02 +0000</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[For those wondering why the default Chromium on Steam Frame still isn’t loading WebXR apps even with yesterdays beta installed
-https://x.com/SadlyItsBradley/status/2118073306570007037/photo/1
-https://x.com/SadlyItsBradley/status/2117781251155464370
-
-引用 @SadlyItsBradley：Steam FrameOS 0.5.7 Beta just added WebXR support inside of Chromium
-
-Audio, battery indicator, bindings fixes
-
-And other quality of life changes
-
-Full patchnotes: https://steamcommunity.com/games/4165890/announcements/detail/694276363007298392
-https://x.com/SadlyItsBradley/status/2117781251155464370/photo/1
-https://x.com/SadlyItsBradley/status/2117327521247338568]]></content:encoded>
     </item>
   </channel>
 </rss>
