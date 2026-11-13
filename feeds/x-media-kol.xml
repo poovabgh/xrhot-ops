@@ -4,7 +4,19 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Fri, 13 Nov 2026 04:07:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 08:03:51 GMT</lastBuildDate>
+    <item>
+      <title>AWE launches @phaiworld, a new event co-located with AWE USA 2027, @Meta Quest App Store revenue in 2026 steady compared</title>
+      <link>https://x.com/ARealityEvent/status/2121141198962467113</link>
+      <guid isPermaLink="false">2121141198962467113</guid>
+      <pubDate>Fri, 13 Nov 2026 07:20:45 GMT</pubDate>
+      <dc:creator>ARealityEvent</dc:creator>
+      <content:encoded><![CDATA[AWE launches @phaiworld, a new event co-located with AWE USA 2027, @Meta Quest App Store revenue in 2026 steady compared with last year.
+
+ 🔗 Subscribe to the Weekly Spatial: https://na2.hubs.ly/H08-Q5H0 
+
+#AWE #WeeklySpatial #XR #AR #VR #SpatialAI https://x.com/ARealityEvent/status/2121141198962467113/video/1]]></content:encoded>
+    </item>
     <item>
       <title>Here’s a cool Unity XR tip worth trying! 👇</title>
       <link>https://x.com/Dilmerv/status/2121067263709020610</link>
@@ -1447,21 +1459,6 @@ https://x.com/Dilmerv/status/2118219230751653981/video/1
 📌 To get ready for Meta VR Glasses, check out this video: https://developers.meta.com/resources/videos/pick-your-path-building-for-meta-vr-and-ai-glasses
 
 👨🏻‍💻 Join our Meta VR Start Hackathon: https://start-developer-competition-26.devpost.com]]></content:encoded>
-    </item>
-    <item>
-      <title>Here’s a cool MRUK feature worth checking out and a huge time-saver when testing Mixed Reality experiences across a vari</title>
-      <link>https://x.com/Dilmerv/status/2118131475501420989</link>
-      <guid isPermaLink="false">2118131475501420989</guid>
-      <pubDate>Thu, 05 Nov 2026 00:01:11 +0000</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Here’s a cool MRUK feature worth checking out and a huge time-saver when testing Mixed Reality experiences across a variety of rooms! 👇
-
-Did you know MRUK has a Spatial Testing framework?
-
-You can automatically run Unity tests across different room prefabs or JSON scenes using RunTestOnAllScenes().
-
-I used this heavily during the development of my game, Fuse Balls, and it helped me catch placement issues early without having to manually test every room configuration!
-https://x.com/Dilmerv/status/2118131475501420989/video/1]]></content:encoded>
     </item>
   </channel>
 </rss>
