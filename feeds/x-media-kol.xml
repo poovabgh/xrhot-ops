@@ -4,7 +4,30 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Fri, 13 Nov 2026 08:03:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 16:07:00 GMT</lastBuildDate>
+    <item>
+      <title>Are you buying the XREAL Aura this holiday season or waiting for the Meta VR Glasses?</title>
+      <link>https://x.com/nathie/status/2121246381192904761</link>
+      <guid isPermaLink="false">2121246381192904761</guid>
+      <pubDate>Fri, 13 Nov 2026 14:18:42 GMT</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[Are you buying the XREAL Aura this holiday season or waiting for the Meta VR Glasses?]]></content:encoded>
+    </item>
+    <item>
+      <title>On my way to Japan! 🇯🇵✈️</title>
+      <link>https://x.com/Dilmerv/status/2121233793038135521</link>
+      <guid isPermaLink="false">2121233793038135521</guid>
+      <pubDate>Fri, 13 Nov 2026 13:28:41 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[On my way to Japan! 🇯🇵✈️
+
+So excited to be heading to Unite Tokyo! Can’t wait to meet Japanese devs, share what we’ve been building at Meta, and talk about all the exciting opportunities with Meta VR Glasses.
+
+We’ll also be running a hackathon after the event!
+
+Looking forward to an amazing week!
+https://x.com/Dilmerv/status/2121233793038135521/photo/1]]></content:encoded>
+    </item>
     <item>
       <title>AWE launches @phaiworld, a new event co-located with AWE USA 2027, @Meta Quest App Store revenue in 2026 steady compared</title>
       <link>https://x.com/ARealityEvent/status/2121141198962467113</link>
@@ -1411,54 +1434,6 @@ I’d also love to see what you’ve been building and how your projects are com
       <content:encoded><![CDATA[Developers, what’s one thing you still don’t trust AI coding agents to do without your supervision?
 
 Especially curious about game engines and VR/MR development! 👀]]></content:encoded>
-    </item>
-    <item>
-      <title>💡Curious, what’s the biggest frustration you still have with hand tracking in VR/MR?</title>
-      <link>https://x.com/Dilmerv/status/2118259619923378372</link>
-      <guid isPermaLink="false">2118259619923378372</guid>
-      <pubDate>Thu, 05 Nov 2026 08:30:23 +0000</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[💡Curious, what’s the biggest frustration you still have with hand tracking in VR/MR?
-
-I’ve been experimenting with so many different interactions lately, and I’d love to hear your experiences!]]></content:encoded>
-    </item>
-    <item>
-      <title>📣 Calling all developers! You don’t have to wait for Meta VR Glasses to launch to start building! 🕶️🚀</title>
-      <link>https://x.com/Dilmerv/status/2118219230751653981</link>
-      <guid isPermaLink="false">2118219230751653981</guid>
-      <pubDate>Thu, 05 Nov 2026 05:49:53 +0000</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[📣 Calling all developers! You don’t have to wait for Meta VR Glasses to launch to start building! 🕶️🚀
-
-There are so many development paths available today!
-
-👨🏻‍💻 Build with:
-• Unity + Meta XR SDK
-• Unreal Engine
-• Native / OpenXR
-• Android Apps + Spatial SDK
-• WebXR + Immersive Web SDK
-• Web Apps / PWAs
-
-🛠️ No Meta VR Glasses? No problem!
-
-You can start developing and testing with:
-• Meta XR Simulator
-• Meta Spatial Simulator
-• Immersive Web Emulator
-• FoV Simulation on Quest 3/3S
-• Meta VR CLI
-• Meta XR Operator
-• Immersive Debugger
-
-I’m very excited about what developers will create with these tools!
-
-The hardware isn’t here yet, but the opportunity to start learning, experimenting, and building is here TODAY!
-https://x.com/Dilmerv/status/2118219230751653981/video/1
-
-📌 To get ready for Meta VR Glasses, check out this video: https://developers.meta.com/resources/videos/pick-your-path-building-for-meta-vr-and-ai-glasses
-
-👨🏻‍💻 Join our Meta VR Start Hackathon: https://start-developer-competition-26.devpost.com]]></content:encoded>
     </item>
   </channel>
 </rss>
