@@ -4,7 +4,20 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Sat, 14 Nov 2026 04:03:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 08:12:00 GMT</lastBuildDate>
+    <item>
+      <title>I’ve been reading through the replies to my latest Meta VR Glasses post, and honestly, I love seeing all the different p</title>
+      <link>https://x.com/Dilmerv/status/2121499633079787732</link>
+      <guid isPermaLink="false">2121499633079787732</guid>
+      <pubDate>Sat, 14 Nov 2026 07:05:02 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[I’ve been reading through the replies to my latest Meta VR Glasses post, and honestly, I love seeing all the different perspectives!
+
+A few things keep coming up: excitement around the lighter form factor for longer sessions, questions about pricing, and new use cases like sports training, tabletop games, and experiences beyond traditional VR.
+
+Super curious, what excites you most about this next wave of XR devices? What concerns do you still have?
+https://x.com/Dilmerv/status/2121499633079787732/photo/1]]></content:encoded>
+    </item>
     <item>
       <title>Personal take: Most XR developers are still underestimating how big Meta VR Glasses could be for the industry.</title>
       <link>https://x.com/Dilmerv/status/2121430048804585886</link>
@@ -1432,19 +1445,6 @@ https://x.com/GregMadison/status/2118404312976273757
 引用 @GregMadison：“I’ve never felt such a strong sense of presence in mixed reality.” A sentiment echoed by nearly 100 people who’ve tried Sphenomenon.
 I built a hands-on playground for creators to feel why the physical world is the ultimate foundation for tomorrow’s augmented interfaces.
 #astra @OpenAI]]></content:encoded>
-    </item>
-    <item>
-      <title>One hand interaction I think more developers should explore is HandGrabUse in ISDK! 👇</title>
-      <link>https://x.com/Dilmerv/status/2118448333538595246</link>
-      <guid isPermaLink="false">2118448333538595246</guid>
-      <pubDate>Thu, 05 Nov 2026 21:00:16 +0000</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[One hand interaction I think more developers should explore is HandGrabUse in ISDK! 👇
-
-It allows you hold an object while performing a second action with your fingers, like squeezing a spray bottle trigger.
-
-Check out the WaterSpray example in HandGrabUseExamples, which is part of the Meta ISDK Samples package for Unity.
-https://x.com/Dilmerv/status/2118448333538595246/video/1]]></content:encoded>
     </item>
   </channel>
 </rss>
