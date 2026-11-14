@@ -4,7 +4,43 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Fri, 13 Nov 2026 16:07:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 00:12:00 GMT</lastBuildDate>
+    <item>
+      <title>Razer just announced a gaming chair with built-in haptic feedback.</title>
+      <link>https://x.com/nathie/status/2121383921552416861</link>
+      <guid isPermaLink="false">2121383921552416861</guid>
+      <pubDate>Fri, 13 Nov 2026 23:25:14 GMT</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[Razer just announced a gaming chair with built-in haptic feedback. You can actually feel explosions, impacts, and other in-game effects while playing.
+
+I wonder how well this would work with VR games.
+https://x.com/nathie/status/2121383921552416861/photo/1]]></content:encoded>
+    </item>
+    <item>
+      <title>All, I’m using TapeDeck in Meta VR CLI to test the same Hand Skate tricks over and over! 🛹</title>
+      <link>https://x.com/Dilmerv/status/2121299006085091438</link>
+      <guid isPermaLink="false">2121299006085091438</guid>
+      <pubDate>Fri, 13 Nov 2026 17:47:49 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[All, I’m using TapeDeck in Meta VR CLI to test the same Hand Skate tricks over and over! 🛹
+
+I record a hand gesture once, then replay it to see how the trick behaves across builds.
+
+You can do the same in your own games. It’s pretty powerful for reproducing those bugs that only happen with a specific gesture.
+
+> metavr tapedeck record
+> metavr tapedeck replay
+https://x.com/Dilmerv/status/2121299006085091438/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Here's a first look at the new Gentle Monster smart glasses in action with features like video calls, live translation a</title>
+      <link>https://x.com/nathie/status/2121297122897305604</link>
+      <guid isPermaLink="false">2121297122897305604</guid>
+      <pubDate>Fri, 13 Nov 2026 17:40:20 GMT</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[Here's a first look at the new Gentle Monster smart glasses in action with features like video calls, live translation and asking Gemini for directions.
+https://x.com/nathie/status/2121297122897305604/video/1]]></content:encoded>
+    </item>
     <item>
       <title>Are you buying the XREAL Aura this holiday season or waiting for the Meta VR Glasses?</title>
       <link>https://x.com/nathie/status/2121246381192904761</link>
@@ -1406,34 +1442,6 @@ https://x.com/Dilmerv/status/2118384006245003336/video/1]]></content:encoded>
       <dc:creator>Dilmerv</dc:creator>
       <content:encoded><![CDATA[Best feeling in the world! Waking up to see that my app “Cubiques” was approved after fixing a metadata rejection! 🎉
 https://x.com/Dilmerv/status/2118350458204864968/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Super curious to know how many of you are participating in this year’s Meta VR Start Developer Competition!</title>
-      <link>https://x.com/Dilmerv/status/2118335116887863461</link>
-      <guid isPermaLink="false">2118335116887863461</guid>
-      <pubDate>Thu, 05 Nov 2026 13:30:23 +0000</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Super curious to know how many of you are participating in this year’s Meta VR Start Developer Competition! 🚀 
-
-I’d also love to see what you’ve been building and how your projects are coming along!]]></content:encoded>
-    </item>
-    <item>
-      <title>I wonder how long it'll take modders to get the new Zelda game running in first-person VR.</title>
-      <link>https://x.com/nathie/status/2118316089738469467</link>
-      <guid isPermaLink="false">2118316089738469467</guid>
-      <pubDate>Thu, 05 Nov 2026 12:14:46 +0000</pubDate>
-      <dc:creator>nathie</dc:creator>
-      <content:encoded><![CDATA[I wonder how long it'll take modders to get the new Zelda game running in first-person VR.]]></content:encoded>
-    </item>
-    <item>
-      <title>Developers, what’s one thing you still don’t trust AI coding agents to do without your supervision?</title>
-      <link>https://x.com/Dilmerv/status/2118289756500984279</link>
-      <guid isPermaLink="false">2118289756500984279</guid>
-      <pubDate>Thu, 05 Nov 2026 10:30:08 +0000</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Developers, what’s one thing you still don’t trust AI coding agents to do without your supervision?
-
-Especially curious about game engines and VR/MR development! 👀]]></content:encoded>
     </item>
   </channel>
 </rss>
