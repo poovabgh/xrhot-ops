@@ -4,7 +4,54 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Sat, 14 Nov 2026 00:12:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 04:03:00 GMT</lastBuildDate>
+    <item>
+      <title>Personal take: Most XR developers are still underestimating how big Meta VR Glasses could be for the industry.</title>
+      <link>https://x.com/Dilmerv/status/2121430048804585886</link>
+      <guid isPermaLink="false">2121430048804585886</guid>
+      <pubDate>Sat, 14 Nov 2026 02:28:32 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Personal take: Most XR developers are still underestimating how big Meta VR Glasses could be for the industry.
+
+Not because the hardware is perfect right now, but because the form factor removes one of the biggest barriers that has held VR back for years.
+
+If experiences can work well on both Quest and Glasses with the same core interactions, the potential audience gets a lot bigger.
+
+Do you think Glasses will actually move the needle for indie developers in the next 18 months, or is it still too early?
+
+Curious what people are actually building for them right now.
+https://x.com/Dilmerv/status/2121430048804585886/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>I spend a lot of time experimenting with AI tools and VR/MR development, and I’m curious how much others are using AI in</title>
+      <link>https://x.com/Dilmerv/status/2121419120281583758</link>
+      <guid isPermaLink="false">2121419120281583758</guid>
+      <pubDate>Sat, 14 Nov 2026 01:45:06 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[I spend a lot of time experimenting with AI tools and VR/MR development, and I’m curious how much others are using AI in their XR workflows.
+
+💡Are you using AI for VR/MR development today?
+
+Share your favorite tools in the replies!]]></content:encoded>
+    </item>
+    <item>
+      <title>I honestly can’t imagine doing anything else.</title>
+      <link>https://x.com/Dilmerv/status/2121416659160248770</link>
+      <guid isPermaLink="false">2121416659160248770</guid>
+      <pubDate>Sat, 14 Nov 2026 01:35:20 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[I honestly can’t imagine doing anything else. I really love XR, and here’s why!
+
+There’s something magical about building an experience that goes beyond a screen and becomes part of the world around you.
+
+What blows my mind even more is taking a game that originally ran on a 2D screen and bringing it into Mixed Reality!
+
+I’ve now converted several of my small iOS games into fully playable MR experiences, and honestly, it’s crazy how different they feel when you can interact with them in your own environment.
+
+After all these years of developing VR/MR games and teaching XR development on YouTube, I still get excited every time I put on a headset and interact with something I created.
+
+That feeling never goes away, and I honestly believe we’re just scratching the surface of what’s possible!]]></content:encoded>
+    </item>
     <item>
       <title>Razer just announced a gaming chair with built-in haptic feedback.</title>
       <link>https://x.com/nathie/status/2121383921552416861</link>
@@ -1398,50 +1445,6 @@ It allows you hold an object while performing a second action with your fingers,
 
 Check out the WaterSpray example in HandGrabUseExamples, which is part of the Meta ISDK Samples package for Unity.
 https://x.com/Dilmerv/status/2118448333538595246/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>This terrifying Meta Quest app lets you make your walls and ceiling close in on you.</title>
-      <link>https://x.com/nathie/status/2118443855779615149</link>
-      <guid isPermaLink="false">2118443855779615149</guid>
-      <pubDate>Thu, 05 Nov 2026 20:42:28 +0000</pubDate>
-      <dc:creator>nathie</dc:creator>
-      <content:encoded><![CDATA[This terrifying Meta Quest app lets you make your walls and ceiling close in on you.
-https://x.com/nathie/status/2118443855779615149/video/1
-
-Learn more here: https://www.reddit.com/r/augmentedreality/comments/1xmrmrs/move_real_walls_in_ar_feels_like_magic/]]></content:encoded>
-    </item>
-    <item>
-      <title>Cubiques is NOW AVAILABLE on the Meta Store, completely FREE! 🕶️🎉</title>
-      <link>https://x.com/Dilmerv/status/2118384006245003336</link>
-      <guid isPermaLink="false">2118384006245003336</guid>
-      <pubDate>Thu, 05 Nov 2026 16:44:39 +0000</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Cubiques is NOW AVAILABLE on the Meta Store, completely FREE! 🕶️🎉
-
-Get it now from: https://www.meta.com/experiences/cubiques/1816185436251041/
-
-I built this to showcase our SDK features for mixed reality, bringing an existing iOS game into VR/MR through hand tracking, passthrough, and spatial interactions. 🙌
-
-- 70 handcrafted puzzles with path previews
-- Hand tracking with pinch-and-trace controls
-- Smooth passthrough transitions and four VR environments
-- Floating or tabletop placement with move, rotate, and resize controls
-- Five board styles and minimal interactive menus
-- Achievements, leaderboards, saved progress, and seven relaxing tracks
-
-Note: Cubiques was originally built for iOS and fully ported to VR/MR.
-
-#mixedreality #developers
-https://x.com/Dilmerv/status/2118384006245003336/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Best feeling in the world!</title>
-      <link>https://x.com/Dilmerv/status/2118350458204864968</link>
-      <guid isPermaLink="false">2118350458204864968</guid>
-      <pubDate>Thu, 05 Nov 2026 14:31:20 +0000</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Best feeling in the world! Waking up to see that my app “Cubiques” was approved after fixing a metadata rejection! 🎉
-https://x.com/Dilmerv/status/2118350458204864968/photo/1]]></content:encoded>
     </item>
   </channel>
 </rss>
