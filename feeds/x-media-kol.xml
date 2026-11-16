@@ -4,7 +4,33 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Sun, 15 Nov 2026 12:05:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 00:15:00 GMT</lastBuildDate>
+    <item>
+      <title>You don't need VR experience to build for Meta VR Glasses.</title>
+      <link>https://x.com/Dilmerv/status/2122105069483270207</link>
+      <guid isPermaLink="false">2122105069483270207</guid>
+      <pubDate>Sun, 15 Nov 2026 23:10:50 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[You don't need VR experience to build for Meta VR Glasses.
+
+If you know Android, Unity, Unreal, Godot, or web dev, you're already halfway there.
+
+What's your background, and what would you build first? 👇
+https://x.com/Dilmerv/status/2122105069483270207/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Apple's upcoming smart glasses will reportedly run a version of visionOS and be powered by a custom chip based on Apple </title>
+      <link>https://x.com/nathie/status/2122003944838762897</link>
+      <guid isPermaLink="false">2122003944838762897</guid>
+      <pubDate>Sun, 15 Nov 2026 16:29:00 GMT</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[Apple's upcoming smart glasses will reportedly run a version of visionOS and be powered by a custom chip based on Apple Watch technology.
+
+Always knew Apple Vision Pro was just the start of something much bigger.
+https://x.com/nathie/status/2122003944838762897/photo/1
+
+Learn more here! https://www.iclarified.com/103539/apple-smart-glasses-prototypes-reportedly-run-visionos-28]]></content:encoded>
+    </item>
     <item>
       <title>I just tested the latest version of “HandSkate” with a bunch of new improvements, shaders, tricks, environments, and wow</title>
       <link>https://x.com/Dilmerv/status/2121895188209836160</link>
@@ -1425,39 +1451,6 @@ https://x.com/LaserDanceGame/status/2118394356612600165/video/1]]></content:enco
 https://x.com/nathie/status/2118776605954969882/video/1
 
 Learn more about the new Viture Pro 2 Dock Mini pack here: https://www.viture.com/product/viture-pro-2-dock-mini-pack?color=Jet+Black?discount=Nathie&utm_source=nathie&utm_medium=youtube&utm_campaign=product-pro2-november]]></content:encoded>
-    </item>
-    <item>
-      <title>XR Devs, here is a cool ISDK feature worth exploring! 👇</title>
-      <link>https://x.com/Dilmerv/status/2118773045976338503</link>
-      <guid isPermaLink="false">2118773045976338503</guid>
-      <pubDate>Fri, 06 Nov 2026 18:30:33 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[XR Devs, here is a cool ISDK feature worth exploring! 👇
-
-Did you know Multimodal lets you use hands and controllers simultaneously in Unity?
-
-Try the ConcurrentHandsControllersExamples scene!
-
-You can:
-• Hold a paddle with a controller
-• Interact with your free hand
-• Poke UI while holding a controller
-
-This is great for more natural VR interactions!
-https://x.com/Dilmerv/status/2118773045976338503/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>I finished my RAW Framing/Color Grading UX for my own Spatial/Immersive Video editing app using "passive haptics"</title>
-      <link>https://x.com/SadlyItsBradley/status/2118766214667255991</link>
-      <guid isPermaLink="false">2118766214667255991</guid>
-      <pubDate>Fri, 06 Nov 2026 18:03:25 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[I finished my RAW Framing/Color Grading UX for my own Spatial/Immersive Video editing app using "passive haptics"
-
-Heres a video showing many of its features
-
-I'd like to see if Siri AI's new app intents could apply "smart gradings", but my priority for now is adding full editing
-https://x.com/SadlyItsBradley/status/2118766214667255991/video/1]]></content:encoded>
     </item>
   </channel>
 </rss>
