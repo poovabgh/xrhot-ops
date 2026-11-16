@@ -4,7 +4,34 @@
     <title>X · XR 官方账号</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>MetaVR_Official / PICOXR / htcvive / BigscreenVR / XREAL_Global / RokidGlobal / getVITURE / pimaxofficial / Play_for_dream / PICOXR_Dev / MetaVRDevs / magicleap / VRChat / BeatSaber 的帖子</description>
-    <lastBuildDate>Mon, 16 Nov 2026 00:15:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 12:10:00 GMT</lastBuildDate>
+    <item>
+      <title>PICO CLI 0.7.0 is out.</title>
+      <link>https://x.com/PICOXR_Dev/status/2122242336612896857</link>
+      <guid isPermaLink="false">2122242336612896857</guid>
+      <pubDate>Mon, 16 Nov 2026 08:16:17 GMT</pubDate>
+      <dc:creator>PICOXR_Dev</dc:creator>
+      <content:encoded><![CDATA[PICO CLI 0.7.0 is out.
+Generate 3D assets, then ship your app to PICO Vibe Lab — draft, preview, submit — from your AI agent.
+New: project detect/configure, camera control, accessibility & interact, knowledge pinning, plus Auth/Release/SGS/APS CLIs.
+https://developer.picoxr.com/document/pico-cli/release-notes/
+https://x.com/PICOXR_Dev/status/2122242336612896857/photo/1
+
+PICO Spatial SDK 6.2.8 is out.
+New: scene capture to render texture, dynamic shadows, RawMesh, procedural skeletal animation, 3D accessibility.
+Heads-up: SpatialUI breaking changes; hand / mesh / plane tracking now need user permission.
+https://developer.picoxr.com/document/spatial-sdk/release-notes/
+
+Tooling updates — PICO Spatial Toolkit 6.2.x:
+· Spatial Editor: 3D Gaussian Splatting component, .usdz → .bundle packaging, audio trim / fade
+· PICO Emulator: hand-tracking debug panel, lower memory usage
+· Spatial Plugin: one-click .usdz export to Spatial Editor
+
+Also out today:
+· PICO Unity SDK 6.2.0 — image tracking, Unity dynamic lighting in PICO Spatial
+· PICO Unreal SDK 6.2.1 — image tracking, plus the new PICOUnrealMCP plugin for AI agents
+https://developer.picoxr.com/en/document/pico-unity-release-notes/https://developer.picoxr.com/en/document/pico-unreal-release-notes/]]></content:encoded>
+    </item>
     <item>
       <title>Your table is about to become a living world.</title>
       <link>https://x.com/XREAL_Global/status/2122013034847596781</link>
@@ -1334,23 +1361,6 @@ https://x.com/XREAL_Global/status/2117240872991342991/photo/1]]></content:encode
 
 Find Cave Crave on the PICO Store: https://store-global.picoxr.com/global/detail/1/7622972597738913845
 https://x.com/PICOXR/status/2116923341713858877/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>XREAL 1 Pro+ | Gesture Tracking+ ✨</title>
-      <link>https://x.com/XREAL_Global/status/2116863143917899876</link>
-      <guid isPermaLink="false">2116863143917899876</guid>
-      <pubDate>Sun, 01 Nov 2026 12:01:17 +0000</pubDate>
-      <dc:creator>XREAL_Global</dc:creator>
-      <content:encoded><![CDATA[XREAL 1 Pro+ | Gesture Tracking+ ✨
-
-With XREAL Eye, interact with your spatial display using intuitive hand gestures! 
-
-Take your AR experience to the next level. 
-
-https://us.shop.xreal.com/products/xreal-1-pro?utm_source=x&utm_medium=organic&utm_campaign=1pro+launch&utm_content=handtrack
-
-#XREAL #XREAL1ProPlus #SpatialDisplay #BigScreenExperience
-https://x.com/XREAL_Global/status/2116863143917899876/photo/1]]></content:encoded>
     </item>
   </channel>
 </rss>
