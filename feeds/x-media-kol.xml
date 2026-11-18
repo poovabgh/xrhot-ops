@@ -4,7 +4,57 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Wed, 18 Nov 2026 04:09:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 08:04:41 GMT</lastBuildDate>
+    <item>
+      <title>Some of the Meta VR Start Developer Competition submissions I've seen are wild! 🕶️</title>
+      <link>https://x.com/Dilmerv/status/2122937962174575027</link>
+      <guid isPermaLink="false">2122937962174575027</guid>
+      <pubDate>Wed, 18 Nov 2026 06:20:27 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Some of the Meta VR Start Developer Competition submissions I've seen are wild! 🕶️
+
+Hands-first interactions, totally new ideas for Meta VR Glasses, things I've never seen in XR before.
+
+If you've entered: reply with a clip, link, or screenshot of yours 👇 I want to see them all!
+https://x.com/Dilmerv/status/2122937962174575027/photo/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Looking forward to testing Puzzleform!</title>
+      <link>https://x.com/Dilmerv/status/2122930855438057722</link>
+      <guid isPermaLink="false">2122930855438057722</guid>
+      <pubDate>Wed, 18 Nov 2026 05:52:12 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Looking forward to testing Puzzleform! A beautiful minimalistic VR/MR game by Danny, who worked for years as part of the Interaction SDK team! 👇
+https://x.com/dannyaroslavski/status/2122860983307874806
+
+引用 @dannyaroslavski：Just submitted my game for the Meta VR Start competition! Puzzleform: the puzzles of the future, today!
+https://x.com/dannyaroslavski/status/2122860983307874806/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>We heckin’ love stereo view CV in this house</title>
+      <link>https://x.com/SadlyItsBradley/status/2122912338483257751</link>
+      <guid isPermaLink="false">2122912338483257751</guid>
+      <pubDate>Wed, 18 Nov 2026 04:38:37 GMT</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[We heckin’ love stereo view CV in this house
+https://x.com/SadlyItsBradley/status/2122912338483257751/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>A couple of my coworkers at Meta, and honestly, some very inspiring friends!</title>
+      <link>https://x.com/Dilmerv/status/2122910259853594833</link>
+      <guid isPermaLink="false">2122910259853594833</guid>
+      <pubDate>Wed, 18 Nov 2026 04:30:22 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[A couple of my coworkers at Meta, and honestly, some very inspiring friends!
+
+Yesterday was awesome! The reception to Meta VR Glasses has been incredible.
+
+We had developers and business professionals stopping by our booth, where we gave them hands-on guidance on how to build for Meta VR Glasses using our various SDKs and simulation tools.
+
+I absolutely love being part of this! 
+🇯🇵🚀🕶️
+https://x.com/Dilmerv/status/2122910259853594833/video/1]]></content:encoded>
+    </item>
     <item>
       <title>I interviewed a couple of people yesterday at Unity Unite Tokyo 🇯🇵 after they tried Meta VR Glasses for the first time, </title>
       <link>https://x.com/Dilmerv/status/2122880029013004659</link>
@@ -1369,78 +1419,6 @@ Once you start running your own apps & games on them, you’ll be blown away by 
 
 I honestly believe this is a huge step forward for VR/MR! 🕶️🚀
 https://x.com/Dilmerv/status/2119085860763381791/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>What excites me most about Meta VR Glasses isn’t just the hardware, but what devs will create with it!</title>
-      <link>https://x.com/Dilmerv/status/2119080565253271975</link>
-      <guid isPermaLink="false">2119080565253271975</guid>
-      <pubDate>Sat, 07 Nov 2026 14:52:32 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[What excites me most about Meta VR Glasses isn’t just the hardware, but what devs will create with it!
-
-Seeing @MKBHD experience them reminds me why I love working in XR.
-
-There’s so much potential here, and I can’t wait to see what developers create for the Meta VR Start Developer Competition! 🚀🕶️
-https://x.com/MKBHD/status/2119075928299257969
-
-引用 @MKBHD：Taking a bit longer with my PROLED MacBook Pro review (spoiler: it's really good) but in the meantime, I got hands on with Meta's newest VR Glasses and they are also GOOD: https://youtu.be/_x58r9TBois
-https://x.com/MKBHD/status/2119075928299257969/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>I was able to force SteamVR to render its new chroma key pipeline so that I could activate Room View on my Vision Pro</title>
-      <link>https://x.com/SadlyItsBradley/status/2118956794714411412</link>
-      <guid isPermaLink="false">2118956794714411412</guid>
-      <pubDate>Sat, 07 Nov 2026 06:40:42 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[I was able to force SteamVR to render its new chroma key pipeline so that I could activate Room View on my Vision Pro
-
-If you are wondering why Valve is doing it via the way in the quoted tweet. THIS is why
-
-They want to enable PCXR for all of the headsets that have Steam VR Link
-https://x.com/SadlyItsBradley/status/2118956794714411412/video/1
-https://x.com/SadlyItsBradley/status/2118907013640184068
-
-引用 @SadlyItsBradley：Oh so THAT’S what Valve is doing to enable this!? 😵
-https://x.com/SadlyItsBradley/status/2118907013640184068/photo/1
-https://x.com/SadlyItsBradley/status/2118882146219893178]]></content:encoded>
-    </item>
-    <item>
-      <title>One of the best “start here” resources I’ve seen for Meta VR Glasses!</title>
-      <link>https://x.com/Dilmerv/status/2118926207756714255</link>
-      <guid isPermaLink="false">2118926207756714255</guid>
-      <pubDate>Sat, 07 Nov 2026 04:39:10 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[One of the best “start here” resources I’ve seen for Meta VR Glasses! 
-
-The Quad Views and foveated rendering sections are especially useful. Anyone experimenting with Gaze + Pinch fallbacks yet?
-https://x.com/unitygames/status/2118780547635843446
-
-引用 @unitygames：Building for Meta VR Glasses or bringing an existing Quest experience over? 🥽
-
-Learn how to set up eye and hand interactions, test without hardware, and optimize performance with Unity’s XR tools in our latest e-book. It covers XRI, OpenXR, Quad Views, foveated rendering, Unity CLI workflows, and more.
-
-🔗 Read the full e-book: https://on.unity.com/MetaXR_Ebook
-
-#Unity #MetaVRGlasses | @MetaforDevs
-https://x.com/unitygames/status/2118780547635843446/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Great video by @MKBHD! 🚀🕶️</title>
-      <link>https://x.com/Dilmerv/status/2118919611269939252</link>
-      <guid isPermaLink="false">2118919611269939252</guid>
-      <pubDate>Sat, 07 Nov 2026 04:12:57 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Great video by @MKBHD! 🚀🕶️
-
-I use Meta VR Glasses every single day, and they still blow my mind. There’s truly nothing quite like them today!
-
-Incredible how far technology has come in just a few years!
-https://x.com/nathie/status/2118827306160377980
-
-引用 @nathie：We got an exclusive first look at the light blockers for the upcoming Meta VR glasses. 
-
-Credit: @MKBHD
-https://x.com/nathie/status/2118827306160377980/video/1]]></content:encoded>
     </item>
   </channel>
 </rss>
