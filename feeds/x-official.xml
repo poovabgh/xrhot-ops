@@ -4,8 +4,83 @@
     <title>X · XR 官方账号</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>MetaVR_Official / PICOXR / htcvive / BigscreenVR / XREAL_Global / RokidGlobal / getVITURE / pimaxofficial / Play_for_dream / PICOXR_Dev / MetaVRDevs / magicleap / VRChat / BeatSaber 的帖子</description>
-    <lastBuildDate>Fri, 20 Nov 2026 12:03:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 00:13:33 GMT</lastBuildDate>
     
+    <item>
+      <title>With Meta Quest, you can watch the LSU Tigers take on the #9 Tennessee Volunteers from an immersive 180° sideline view t</title>
+      <link>https://x.com/MetaVR_Official/status/2123918298136158415</link>
+      <guid isPermaLink="false">2123918298136158415</guid>
+      <pubDate>Fri, 20 Nov 2026 23:15:57 GMT</pubDate>
+      <dc:creator>MetaVR_Official</dc:creator>
+      <content:encoded><![CDATA[With Meta Quest, you can watch the LSU Tigers take on the #9 Tennessee Volunteers from an immersive 180° sideline view this weekend!
+
+https://www.meta.com/quest/entertainment/lsu-vs-tennessee/1662797701963879/
+https://x.com/MetaVR_Official/status/2123918298136158415/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>At Unite Tokyo, we used Meta Quest 3 to demonstrate how developers can use familiar workflows to build for Meta VR Glass</title>
+      <link>https://x.com/MetaVRDevs/status/2123899966762668519</link>
+      <guid isPermaLink="false">2123899966762668519</guid>
+      <pubDate>Fri, 20 Nov 2026 22:03:06 GMT</pubDate>
+      <dc:creator>MetaVRDevs</dc:creator>
+      <content:encoded><![CDATA[At Unite Tokyo, we used Meta Quest 3 to demonstrate how developers can use familiar workflows to build for Meta VR Glasses.
+
+Teams building in @unity don't have to wait for new hardware to start working through input and layout decisions. With Quest 3 and Meta XR Simulator, you can explore those choices early and get a head start on refining how your apps look and feel before launch.
+
+Read the recap from Unite Tokyo 👉 https://developers.meta.com/vr/blog/unite-tokyo-2026-highlights-building-for-meta-vr-glasses/?utm_source=social-x&utm_medium=MVRD&utm_campaign=organic&utm_content=unitetokyo
+
+#MetaVR #MetaVRGlasses #Unity
+https://x.com/MetaVRDevs/status/2123899966762668519/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>🪗 "Signal Jammer" by @EEWK_ is basically a trip to Finland:</title>
+      <link>https://x.com/BeatSaber/status/2123847813150691377</link>
+      <guid isPermaLink="false">2123847813150691377</guid>
+      <pubDate>Fri, 20 Nov 2026 18:35:52 GMT</pubDate>
+      <dc:creator>BeatSaber</dc:creator>
+      <content:encoded><![CDATA[🪗 "Signal Jammer" by @EEWK_ is basically a trip to Finland:
+
+🎶 Two Finnish polkas mixed with metal and electro house
+❄️ A lightshow that turns into a snowy Finnish winter, with pine trees and traditional patterns
+❗And one more for the sharp-eyed: when the polka kicks in, the walls turn into exclamation marks. 
+
+Now go play it and find them. 😏
+https://x.com/BeatSaber/status/2123847813150691377/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>More November updates 🎁</title>
+      <link>https://x.com/MetaVRDevs/status/2123846165892583875</link>
+      <guid isPermaLink="false">2123846165892583875</guid>
+      <pubDate>Fri, 20 Nov 2026 18:29:19 GMT</pubDate>
+      <dc:creator>MetaVRDevs</dc:creator>
+      <content:encoded><![CDATA[More November updates 🎁
+
+This week's highlights help Unity apps account for Meta Quest 3's angled displays and make panels move like the system UI. If you're building WebXR experiences, Meta Quest Browser now supports WebGPU too.
+
+Explore the thread below. 🧵 See all of the latest release notes 👉 https://developers.meta.com/vr/release-notes/?utm_source=social-x&utm_medium=MVRD&utm_campaign=organic&utm_content=releasenotes1120
+
+#MetaVR #VRDev #XR #MetaVRGlasses
+
+2/ Core SDK 🛠️
+
+Core SDK v209's new Use Forward Head Pose setting helps distribute rendered pixels more evenly across Quest 3's angled displays. It's on by default and works with OpenXR.
+
+If you're building for Meta VR Glasses, the FOV Simulator now includes a design-area guideline in OVRManager and Immersive Debugger to help you check where essential content sits within the field of view.
+
+Explore the Core SDK update 👉 https://developers.meta.com/vr/downloads/package/meta-xr-core-sdk/?utm_source=social-x&utm_medium=MVRD&utm_campaign=organic&utm_content=releasenotes1120
+
+3/ Interaction SDK 🖐️
+
+Interaction SDK's OSPanelTransformer makes your app panels move like the system UI does. As a panel follows the user's head, it keeps the same apparent size even when its distance changes.
+
+Explore the Interaction SDK update 👉  https://developers.meta.com/vr/downloads/package/meta-xr-interaction-sdk-ovr-integration/?utm_source=social-x&utm_medium=MVRD&utm_campaign=organic&utm_content=releasenotes1120
+
+4/ Meta Quest Browser 🌐
+
+Meta Quest Browser v156 adds WebGPU as a rendering option for your WebXR experiences. It also introduces an experimental way to update WebView without a full OS update, although that feature isn't available to all users.
+
+Explore the Browser update 👉  https://developers.meta.com/vr/downloads/package/browser/156.0/?utm_source=social-x&utm_medium=MVRD&utm_campaign=organic&utm_content=releasenotes1120]]></content:encoded>
+    </item>
     <item>
       <title>🇰🇷 한국 전시회 1일 차 성황리에 종료! ✨</title>
       <link>https://x.com/pimaxofficial/status/2123716020217225505</link>
@@ -1364,63 +1439,6 @@ sunset hike, no airfare. #XREAL #AURA
 #BRINKTraveler #AndroidXR 
 Android XR is a trademark of Google LLC
 https://x.com/XREAL_Global/status/2119143981422362899/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Front row, from your living room.</title>
-      <link>https://x.com/XREAL_Global/status/2119113739777487009</link>
-      <guid isPermaLink="false">2119113739777487009</guid>
-      <pubDate>Sat, 07 Nov 2026 17:04:21 GMT</pubDate>
-      <dc:creator>XREAL_Global</dc:creator>
-      <content:encoded><![CDATA[Front row, from your living room. AMAZE VR 
-Concerts brings performances from global 
-artists to XREAL AURA in a private, cinema 
-size view. #XREAL #AURA #AmazeVR 
-#AndroidXR 
-Android XR is a trademark of Google LLC
-https://x.com/XREAL_Global/status/2119113739777487009/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>🎲 Virtual Dice Party 2026 is now open in VRChat!</title>
-      <link>https://x.com/VRChat/status/2119082451100205331</link>
-      <guid isPermaLink="false">2119082451100205331</guid>
-      <pubDate>Sat, 07 Nov 2026 15:00:01 GMT</pubDate>
-      <dc:creator>VRChat</dc:creator>
-      <content:encoded><![CDATA[🎲 Virtual Dice Party 2026 is now open in VRChat!
-
-Explore tabletop RPG dioramas and exhibitor booths, join board game events, and enjoy live music through Nov 15 (JST).
-
-Free admission! Event details and how to join:
-https://event.virtualparty.jp/en/
-https://x.com/VRChat/status/2119082451100205331/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Cast your line anywhere.</title>
-      <link>https://x.com/XREAL_Global/status/2118811392945824160</link>
-      <guid isPermaLink="false">2118811392945824160</guid>
-      <pubDate>Fri, 06 Nov 2026 21:02:56 GMT</pubDate>
-      <dc:creator>XREAL_Global</dc:creator>
-      <content:encoded><![CDATA[Cast your line anywhere. Real VR Fishing 
-brings the lake to your living room on XREAL 
-AURA. Kick back, find a quiet spot, and wait 
-for the bite. #XREAL #AURA #RealVRFishing 
-#AndroidXR 
-Android XR is a trademark of Google LLC
-https://x.com/XREAL_Global/status/2118811392945824160/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Pull up a seat, the board is already on your table.</title>
-      <link>https://x.com/XREAL_Global/status/2118781280980537391</link>
-      <guid isPermaLink="false">2118781280980537391</guid>
-      <pubDate>Fri, 06 Nov 2026 19:03:17 GMT</pubDate>
-      <dc:creator>XREAL_Global</dc:creator>
-      <content:encoded><![CDATA[Pull up a seat, the board is already on your 
-table. Oh My Galaxy! brings tabletop gaming 
-to your living room on XREAL AURA, with 
-6DoF anchoring that keeps the game where 
-you put it. #XREAL #AURA #OhMyGalaxy 
-#AndroidXR 
-Android XR is a trademark of Google LLC
-https://x.com/XREAL_Global/status/2118781280980537391/video/1]]></content:encoded>
     </item>
     
   </channel>
