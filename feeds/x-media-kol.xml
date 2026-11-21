@@ -4,8 +4,21 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Sat, 21 Nov 2026 04:04:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 12:06:06 GMT</lastBuildDate>
     
+    <item>
+      <title>I’ve been discovering so many interesting projects from devs participating in the Meta VR Start Developer Competition!</title>
+      <link>https://x.com/Dilmerv/status/2124094675485364351</link>
+      <guid isPermaLink="false">2124094675485364351</guid>
+      <pubDate>Sat, 21 Nov 2026 10:56:49 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[I’ve been discovering so many interesting projects from devs participating in the Meta VR Start Developer Competition!
+
+Check out what “Tejas Shroff” built for Meta VR Glasses and Quest! 🕶️
+
+It is awesome to see developers experiment with new hands-first interactions.
+https://x.com/Dilmerv/status/2124094675485364351/video/1]]></content:encoded>
+    </item>
     <item>
       <title>You agree?</title>
       <link>https://x.com/nathie/status/2123945466383753670</link>
@@ -1429,19 +1442,6 @@ From CoreCLR prep and URP graphics upgrades to MethodReload, here is how the Eng
 
 Which feature are you benchmarking first?
 https://x.com/unitygames/status/2119782374292476287/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Curious about developing for Meta VR Glasses?</title>
-      <link>https://x.com/Dilmerv/status/2119833998067163309</link>
-      <guid isPermaLink="false">2119833998067163309</guid>
-      <pubDate>Mon, 09 Nov 2026 16:46:24 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Curious about developing for Meta VR Glasses? Check out this tip 🔥
-
-Use two-hand grab transformers to stretch a prop along one axis or turn a valve that stops at ±45°.
-
-Built with Meta’s Interaction SDK v207. Unity setup at the end 👇
-https://x.com/Dilmerv/status/2119833998067163309/video/1]]></content:encoded>
     </item>
     
   </channel>
