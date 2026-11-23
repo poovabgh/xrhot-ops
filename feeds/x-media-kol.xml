@@ -4,8 +4,51 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Mon, 23 Nov 2026 00:04:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 08:09:52 GMT</lastBuildDate>
     
+    <item>
+      <title>Well, one pair of hands and so far 30 ways to interact! 🤯🛹</title>
+      <link>https://x.com/Dilmerv/status/2124759765721227728</link>
+      <guid isPermaLink="false">2124759765721227728</guid>
+      <pubDate>Mon, 23 Nov 2026 06:59:38 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Well, one pair of hands and so far 30 ways to interact! 🤯🛹
+
+I'm making huge progress on Hand Skate, my hand-tracking skate game, and I’ll be releasing soon! Here's the latest character look plus a few of the controls:
+
+✊ Close a fist to accelerate, open to coast
+🖐️ Turn your wrist to steer, flick for kickflips
+🤏 Pinch for grabs and grinds
+✋ Offer your palm to pick up the skater
+🙌 Use two hands to resize the park
+
+What's one interaction you'd add next? I might build your suggestions! 👇
+https://x.com/Dilmerv/status/2124759765721227728/video/1
+
+Full list so far: swipe for shuvits, tilt your fingertips for manuals and nose manuals, tilt your palm to drop the skater, two hands to extend the park, plus poke buttons, ray-select, drag sliders and move panels for UI.]]></content:encoded>
+    </item>
+
+    <item>
+      <title>I’m so excited about the possibilities for entertainment on Meta VR Glasses, especially with Mixed Reality! 🕶️🚀</title>
+      <link>https://x.com/Dilmerv/status/2124727300780601750</link>
+      <guid isPermaLink="false">2124727300780601750</guid>
+      <pubDate>Mon, 23 Nov 2026 04:50:38 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[I’m so excited about the possibilities for entertainment on Meta VR Glasses, especially with Mixed Reality! 🕶️🚀
+
+Check out Unframed by @xrdevrob:
+
+- Movies expanding into your room
+- Hand-tracked characters you can feed
+- Interactive scenes synchronized with the film
+- Immersive environments you can explore while seated
+
+Love seeing developers experiment with ideas like this!
+https://x.com/Dilmerv/status/2124727300780601750/video/1
+
+📌More details about Roberto’s submission https://devpost.com/software/unframed-mys018]]></content:encoded>
+    </item>
+
     <item>
       <title>There’s nothing like having an idea and being able to bring it to life right away!</title>
       <link>https://x.com/Dilmerv/status/2124578623839518752</link>
@@ -1506,39 +1549,6 @@ https://x.com/Dilmerv/status/2120154603945632197/video/1]]></content:encoded>
       <dc:creator>nathie</dc:creator>
       <content:encoded><![CDATA[New leaks suggest the PICO Space Pro could launch on December 2. I'm expecting a premium price.
 https://x.com/nathie/status/2120119315223679136/photo/1]]></content:encoded>
-    </item>
-
-    <item>
-      <title>Unity XR devs, when would you choose Meta ISDK over Unity XRI + XR Hands? 👇</title>
-      <link>https://x.com/Dilmerv/status/2120118049395089869</link>
-      <guid isPermaLink="false">2120118049395089869</guid>
-      <pubDate>Tue, 10 Nov 2026 11:35:07 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Unity XR devs, when would you choose Meta ISDK over Unity XRI + XR Hands? 👇
-
-Both support many of the same core interactions, including grabbing, poking, rays, and locomotion.
-
-For me, it comes down to the platform, available tools, and how much customization I need.
-
-Unity XRI is great for cross-platform development, while ISDK offers specialized hand interactions and deeper Meta integration.
-
-And remember, ISDK Essentials works with Unity XR Hands too!
-
-💡Curious which one you’re using and why?
-https://x.com/Dilmerv/status/2120118049395089869/video/1]]></content:encoded>
-    </item>
-
-    <item>
-      <title>If you’re developing for Meta VR Glasses, what’s the ONE interaction you’re most excited to experiment with?</title>
-      <link>https://x.com/Dilmerv/status/2120096642191778049</link>
-      <guid isPermaLink="false">2120096642191778049</guid>
-      <pubDate>Tue, 10 Nov 2026 10:10:03 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[If you’re developing for Meta VR Glasses, what’s the ONE interaction you’re most excited to experiment with?
-
-Gaze, pinch, microgestures, or something completely different?
-
-I’d love to hear your ideas!]]></content:encoded>
     </item>
   </channel>
 </rss>
