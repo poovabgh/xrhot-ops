@@ -4,8 +4,23 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Tue, 24 Nov 2026 00:07:40 GMT</lastBuildDate>
-    <item>
+    <lastBuildDate>Tue, 24 Nov 2026 12:16:56 GMT</lastBuildDate>
+        <item>
+      <title>I’m recording a YouTube video for a new series that I’ve been envisioning for months</title>
+      <link>https://x.com/SadlyItsBradley/status/2125173193891856768</link>
+      <guid isPermaLink="false">2125173193891856768</guid>
+      <pubDate>Tue, 24 Nov 2026 10:22:27 GMT</pubDate>
+      <dc:creator>SadlyItsBradley</dc:creator>
+      <content:encoded><![CDATA[I’m recording a YouTube video for a new series that I’ve been envisioning for months
+
+It will reboot my enthusiasm for posting content regularly again
+
+I’ve practically lived in a VR device for YEARS now
+
+I want to show how empowering these devices are quickly becoming
+https://x.com/SadlyItsBradley/status/2125173193891856768/photo/1]]></content:encoded>
+    </item>
+<item>
       <title>XR devs, super excited to share a new guide I wrote on how to get started with Meta VR Glasses development in Unity! 🚀🕶️</title>
       <link>https://x.com/Dilmerv/status/2125010915313827884</link>
       <guid isPermaLink="false">2125010915313827884</guid>
@@ -1441,42 +1456,6 @@ https://x.com/ARealityEvent/status/2120230014729990421/photo/1]]></content:encod
 
 Freaking Awesome
 https://x.com/SadlyItsBradley/status/2120211061886595180/video/1]]></content:encoded>
-    </item>
-<item>
-      <title>Here’s a VR rendering technique every XR developer should know about! 👇</title>
-      <link>https://x.com/Dilmerv/status/2120192393039184290</link>
-      <guid isPermaLink="false">2120192393039184290</guid>
-      <pubDate>Tue, 10 Nov 2026 16:30:32 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Here’s a VR rendering technique every XR developer should know about! 👇
-
-Foveated Rendering reduces GPU workload by rendering less detail in your peripheral vision while keeping the important areas sharp.
-
-There are three approaches worth exploring:
-
-• Fixed Foveation: Keeps the center sharp while reducing detail toward the edges.
-• Eye-Tracked Foveation: Moves the high-detail region wherever your eyes look.
-• Dynamic Foveation: Adjusts foveation strength based on GPU load.
-
-This is especially interesting for Meta VR Glasses, where eye tracking can help developers optimize rendering without sacrificing detail where players are looking!
-
-In Unity, using Meta XR Core SDK, you can enable fixed and dynamic foveation with:
-
-OVRManager.foveatedRenderingLevel =
-    OVRManager.FoveatedRenderingLevel.High;
-OVRManager.useDynamicFoveatedRendering = true;
-
-For supported eye-tracking devices:
-
-OVRManager.eyeTrackedFoveatedRenderingSupported
-OVRManager.eyeTrackedFoveatedRenderingEnabled = true;
-
-Eye-tracked foveation also requires the correct project configuration and eye-tracking permission.
-
-More rendering headroom means more opportunities to create visually impressive VR/MR experiences!
-
-Check out the animation to see how these techniques work!
-https://x.com/Dilmerv/status/2120192393039184290/video/1]]></content:encoded>
     </item>
   </channel>
 </rss>
