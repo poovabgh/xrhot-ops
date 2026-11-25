@@ -4,7 +4,32 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Wed, 25 Nov 2026 08:14:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 16:13:20 GMT</lastBuildDate>
+    <item>
+      <title>One thing I hope every dev gets to experience: waking up genuinely excited about what they're building.</title>
+      <link>https://x.com/Dilmerv/status/2125605830888165521</link>
+      <guid isPermaLink="false">2125605830888165521</guid>
+      <pubDate>Wed, 25 Nov 2026 15:01:36 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[One thing I hope every dev gets to experience: waking up genuinely excited about what they're building.
+
+This week it's Hand Skate for me. I keep waking up thinking about new hand gestures and features to add 🛹
+
+It's such a cool feeling when your work and your passion come together. Don't lose that excitement. It's worth protecting!
+
+What are you excited to build right now? 👇]]></content:encoded>
+    </item>
+    <item>
+      <title>You can officially start voting for VR Game of the Year!</title>
+      <link>https://x.com/nathie/status/2125587072400384338</link>
+      <guid isPermaLink="false">2125587072400384338</guid>
+      <pubDate>Wed, 25 Nov 2026 13:47:04 GMT</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[You can officially start voting for VR Game of the Year! Which title will you be nominating?
+https://x.com/nathie/status/2125587072400384338/photo/1
+
+Vote here: https://store.steampowered.com/steamawards/nominations/2026?snr=1_4_4__118&snr=1_4_4__118]]></content:encoded>
+    </item>
     <item>
       <title>Daniel didn’t get enough visibility on this, but honestly, this is INSANELY good! 🤯</title>
       <link>https://x.com/Dilmerv/status/2125501625792147675</link>
@@ -1429,35 +1454,5 @@ In Unity, you can start and stop requesting live depth when mixed reality states
 depth.enabled = inMR && EnvironmentDepthManager.IsSupported;
 https://x.com/Dilmerv/status/2120344565781614941/video/1]]></content:encoded>
     </item>
-    <item>
-      <title>Here’s a cool tip if you’re developing for Meta VR Glasses! 🕶️👇</title>
-      <link>https://x.com/Dilmerv/status/2120328228577436006</link>
-      <guid isPermaLink="false">2120328228577436006</guid>
-      <pubDate>Wed, 11 Nov 2026 01:30:18 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Here’s a cool tip if you’re developing for Meta VR Glasses! 🕶️👇
-
-You can simulate their field of view directly on your Quest 3/3S!
-
-Meta VR CLI generates a visual mask that gives you a sense of what players will see through the glasses.
-
-Super useful for testing UI placement and gameplay without having the device! 🙌
-https://x.com/Dilmerv/status/2120328228577436006/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Honestly, if you’ve been thinking about developing for Meta VR Glasses, I really encourage you to give it a try!</title>
-      <link>https://x.com/Dilmerv/status/2120313165699281006</link>
-      <guid isPermaLink="false">2120313165699281006</guid>
-      <pubDate>Wed, 11 Nov 2026 00:30:26 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Honestly, if you’ve been thinking about developing for Meta VR Glasses, I really encourage you to give it a try!
-
-I’ve been using the latest SDKs and simulation tools quite a bit, and it’s incredible how much you can build and test without even having the device.
-
-We also have the Meta VR Start Developer Competition running right now, which is a great opportunity to get started!
-
-Don’t miss it. I’m so excited to see what everyone builds! 🚀🕶️
-https://x.com/Dilmerv/status/2120313165699281006/photo/1]]></content:encoded>
-    </item>
-  </channel>
+</channel>
 </rss>
