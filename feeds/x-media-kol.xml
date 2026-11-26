@@ -4,7 +4,20 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Thu, 26 Nov 2026 00:09:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 04:08:05 GMT</lastBuildDate>
+    <item>
+      <title>Added an optional Comic Look to Hand Skate 🛹</title>
+      <link>https://x.com/Dilmerv/status/2125767482640076866</link>
+      <guid isPermaLink="false">2125767482640076866</guid>
+      <pubDate>Thu, 26 Nov 2026 01:43:57 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Added an optional Comic Look to Hand Skate 🛹
+
+Bold colors, ink outlines, and printed shadows, with a toggle to switch it on or off.
+
+XR devs, what do you think? Would you play with this enabled, stick with the original, or try another visual style?
+https://x.com/Dilmerv/status/2125767482640076866/video/1]]></content:encoded>
+    </item>
     <item>
       <title>Something I’ve been wondering about lately…</title>
       <link>https://x.com/Dilmerv/status/2125733794116186138</link>
@@ -1430,18 +1443,6 @@ https://x.com/SadlyItsBradley/status/2120586432079450245/photo/1]]></content:enc
       <dc:creator>SadlyItsBradley</dc:creator>
       <content:encoded><![CDATA[Apple and BlackMagic announced a new Ambisonic microphone designed for insanely high fidelity Spatial Audio
 https://x.com/SadlyItsBradley/status/2120586432079450245/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>💡Curious, for those building hands-first VR/MR games, what’s been your biggest challenge?</title>
-      <link>https://x.com/Dilmerv/status/2120586123080577356</link>
-      <guid isPermaLink="false">2120586123080577356</guid>
-      <pubDate>Wed, 11 Nov 2026 18:35:04 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[💡Curious, for those building hands-first VR/MR games, what’s been your biggest challenge?
-
-Gesture recognition, grabbing objects, UI interactions, gaze, or something completely different?
-
-I’ve been experimenting with all of these lately and would love to hear your thoughts!]]></content:encoded>
     </item>
 </channel>
 </rss>
