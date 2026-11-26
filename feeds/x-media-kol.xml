@@ -4,7 +4,92 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Wed, 25 Nov 2026 16:13:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 00:09:22 GMT</lastBuildDate>
+    <item>
+      <title>Something I’ve been wondering about lately…</title>
+      <link>https://x.com/Dilmerv/status/2125733794116186138</link>
+      <guid isPermaLink="false">2125733794116186138</guid>
+      <pubDate>Wed, 25 Nov 2026 23:30:05 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Something I’ve been wondering about lately…
+
+Will lightweight VR glasses attract more traditional game developers, mobile developers, or web developers into XR?
+
+I personally think we’re going to see a very interesting mix of all three.
+
+Curious what everyone thinks, especially those who haven’t built for VR before!
+https://x.com/Dilmerv/status/2125733794116186138/photo/1]]></content:encoded>
+    </item>
+    <item>
+      <title>I just finished a guide on developing VR/MR experiences using Muse Code + Meta VR CLI + Unity CLI! 🛠️</title>
+      <link>https://x.com/Dilmerv/status/2125723311925604424</link>
+      <guid isPermaLink="false">2125723311925604424</guid>
+      <pubDate>Wed, 25 Nov 2026 22:48:26 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[I just finished a guide on developing VR/MR experiences using Muse Code + Meta VR CLI + Unity CLI! 🛠️
+
+Really excited to share it with you all soon on our official Meta developer blog!
+
+I kept it practical and easy to follow, with step-by-step instructions, screenshots, videos, and a sample GitHub repository to help you build your own VR/MR projects! 🚀]]></content:encoded>
+    </item>
+    <item>
+      <title>For the next 2–3 weeks, I’m going to be extremely busy!</title>
+      <link>https://x.com/Dilmerv/status/2125685976349421768</link>
+      <guid isPermaLink="false">2125685976349421768</guid>
+      <pubDate>Wed, 25 Nov 2026 20:20:04 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[For the next 2–3 weeks, I’m going to be extremely busy!
+
+I just wrapped up a new blog post for our VR/MR developers, and next up is Episode 2 of VR Level Up on our official Meta Developer channel to wrap up the year, an internal hackathon, an internal takeaways video for our big Reality Labs Content meeting, releasing my Hand Skate game, and a surprise video I’ll be creating with Valem (Quentin) in person in New York!
+
+So much to do, but I’m incredibly excited about all of it. This is what makes the work so fun and rewarding!]]></content:encoded>
+    </item>
+    <item>
+      <title>Can we just take a moment to appreciate the VR hands in Batman: Arkham Shadow?</title>
+      <link>https://x.com/nathie/status/2125682080684134443</link>
+      <guid isPermaLink="false">2125682080684134443</guid>
+      <pubDate>Wed, 25 Nov 2026 20:04:35 GMT</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[Can we just take a moment to appreciate the VR hands in Batman: Arkham Shadow?
+https://x.com/nathie/status/2125682080684134443/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>We all know AI makes XR better.</title>
+      <link>https://x.com/ARealityEvent/status/2125650804950626629</link>
+      <guid isPermaLink="false">2125650804950626629</guid>
+      <pubDate>Wed, 25 Nov 2026 18:00:19 GMT</pubDate>
+      <dc:creator>ARealityEvent</dc:creator>
+      <content:encoded><![CDATA[We all know AI makes XR better.
+
+But AI needs XR even more: it needs real-world data to keep getting smarter, and XR delivers it.
+
+XR builds spatial intelligence for people. Physical AI builds it for machines.
+
+June 14–17, 2027 · Long Beach
+➡️https://phai.world/manifesto?utm_campaign=395898569-PHAI%20World%2027&utm_content=486014682&utm_medium=social&utm_source=twitter&hss_channel=tw-106035107
+
+#PhAI #XR
+https://x.com/ARealityEvent/status/2125650804950626629/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>All, if you’re working with Meta XR SDKs, you can search our official developer docs directly from your terminal using M</title>
+      <link>https://x.com/Dilmerv/status/2125649965460414943</link>
+      <guid isPermaLink="false">2125649965460414943</guid>
+      <pubDate>Wed, 25 Nov 2026 17:56:59 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[All, if you’re working with Meta XR SDKs, you can search our official developer docs directly from your terminal using Meta VR CLI!
+
+Here are a few examples:
+
+metavr docs search "hand tracking"
+metavr docs search "MRUK anchors"
+metavr docs search "gaze interactions"
+metavr docs search "foveated rendering"
+
+This is very useful when working with AI coding agents, as they can look up documentation and SDK references while helping you build and debug VR/MR apps.
+
+Are you using this feature? 👇]]></content:encoded>
+    </item>
     <item>
       <title>One thing I hope every dev gets to experience: waking up genuinely excited about what they're building.</title>
       <link>https://x.com/Dilmerv/status/2125605830888165521</link>
@@ -1357,102 +1442,6 @@ https://x.com/SadlyItsBradley/status/2120586432079450245/photo/1]]></content:enc
 Gesture recognition, grabbing objects, UI interactions, gaze, or something completely different?
 
 I’ve been experimenting with all of these lately and would love to hear your thoughts!]]></content:encoded>
-    </item>
-    <item>
-      <title>I’m live from Apple Developer Center</title>
-      <link>https://x.com/SadlyItsBradley/status/2120568267370909746</link>
-      <guid isPermaLink="false">2120568267370909746</guid>
-      <pubDate>Wed, 11 Nov 2026 17:24:07 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[I’m live from Apple Developer Center
-
-Where they’re holding an event focused on Immersive media experiences
-
-And of course they have a BlackMagic Cine Ursa Immersive pointed at the stage
-https://x.com/SadlyItsBradley/status/2120568267370909746/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>One thing I love about Mixed Reality is that we don’t have to follow traditional game design rules.</title>
-      <link>https://x.com/Dilmerv/status/2120554737913192491</link>
-      <guid isPermaLink="false">2120554737913192491</guid>
-      <pubDate>Wed, 11 Nov 2026 16:30:22 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[One thing I love about Mixed Reality is that we don’t have to follow traditional game design rules.
-
-This is something I’ve been thinking about quite a bit while designing my last few MR games.
-
-What if your walls became part of a puzzle? Or your furniture changed how a level plays?
-
-There’s so much room to experiment with ideas that wouldn’t make sense on a flat screen!]]></content:encoded>
-    </item>
-    <item>
-      <title>I found another super cool feature in the MetaVR CLI! 👇</title>
-      <link>https://x.com/Dilmerv/status/2120433962115801496</link>
-      <guid isPermaLink="false">2120433962115801496</guid>
-      <pubDate>Wed, 11 Nov 2026 08:30:26 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[I found another super cool feature in the MetaVR CLI! 👇
-
-You can simulate bad Wi-Fi on Quest and see how your multiplayer app handles 150 ms of added delay each way.
-
-> metavr device network-impairment on --ingress-delay 150 --egress-delay 150 --watch
-https://x.com/Dilmerv/status/2120433962115801496/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Here’s a Unity XR shader tip! 👇</title>
-      <link>https://x.com/Dilmerv/status/2120396165338239472</link>
-      <guid isPermaLink="false">2120396165338239472</guid>
-      <pubDate>Wed, 11 Nov 2026 06:00:15 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Here’s a Unity XR shader tip! 👇
-
-Does your custom shader work in the Editor but render incorrectly in one eye on the headset?
-
-Check its Single-Pass Instanced rendering support!
-
-Make sure you’re using Unity’s stereo macros, including UNITY_VERTEX_OUTPUT_STEREO and UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO.
-
-A great example is shown in this video! The AI agent identified missing stereo macros in my shader. Even though everything looked correct locally, it wasn’t rendering properly on the headset until those fixes were applied.
-
-A good reminder of why testing on the actual device is so important!
-https://x.com/Dilmerv/status/2120396165338239472/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Cutting floaters off of Gaussian Splats like this is unironically a really meditative experience!</title>
-      <link>https://x.com/SadlyItsBradley/status/2120380979940602035</link>
-      <guid isPermaLink="false">2120380979940602035</guid>
-      <pubDate>Wed, 11 Nov 2026 04:59:55 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[Cutting floaters off of Gaussian Splats like this is unironically a really meditative experience!
-https://x.com/SadlyItsBradley/status/2120380979940602035/video/1
-
-Just finished trimming all the hedges
-https://x.com/SadlyItsBradley/status/2120380985594503197/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>📣 All, here is another great XR Dev Tip!</title>
-      <link>https://x.com/Dilmerv/status/2120344565781614941</link>
-      <guid isPermaLink="false">2120344565781614941</guid>
-      <pubDate>Wed, 11 Nov 2026 02:35:13 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[📣 All, here is another great XR Dev Tip!
-
-I’m adding occlusion to Hand Skate. This concept video compares:
-
-- Static: MRUK wall and ceiling planes are cheaper to draw than dense room meshes
-
-- Dynamic: Meta Depth API for moving objects. Hard edges cost less GPU time, while soft edges look smoother
-
-- Hands: Tracked meshes preserve finger gaps with an extra depth pass
-
-ℹ️ You can use Meta’s Depth API for both static and dynamic occlusion, or combine MRUK room meshes for static surfaces with live depth for moving objects.
-
-The C# component is: EnvironmentDepthManager, under Scripts/EnvironmentDepth in the Meta XR Core SDK (com.meta.xr.sdk.core). Unity 6 OpenXR projects also need the Unity OpenXR Meta package (com.unity.xr.meta-openxr). 
-
-In Unity, you can start and stop requesting live depth when mixed reality states change.
-
-depth.enabled = inMR && EnvironmentDepthManager.IsSupported;
-https://x.com/Dilmerv/status/2120344565781614941/video/1]]></content:encoded>
     </item>
 </channel>
 </rss>
