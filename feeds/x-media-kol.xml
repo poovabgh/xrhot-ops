@@ -4,7 +4,54 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Thu, 26 Nov 2026 04:08:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 08:16:59 GMT</lastBuildDate>
+    <item>
+      <title>This is such a cool crossover of AI agents and Quest 👏</title>
+      <link>https://x.com/Dilmerv/status/2125845038898843959</link>
+      <guid isPermaLink="false">2125845038898843959</guid>
+      <pubDate>Thu, 26 Nov 2026 06:52:08 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[This is such a cool crossover of AI agents and Quest 👏
+
+@StefanMaier built a connecting app so their Hermes agent can work in VR on Quest 3 / 3S, and they're already thinking about Meta VR Glasses too.
+
+Love seeing devs experiment like this. Go give it some love 🙌
+https://x.com/StefanMaier/status/2125603661950886344
+
+引用 @StefanMaier：As a VR guy I wanted to have my @NousResearch Hermes Agent Talaria also in VR - so I made a connecting app for Meta Quest 3 / 3S for fun. But it already runs pretty good and could be also a good fit for the new Meta VR Glasses (and other devices) 😀
+AI and VR are a great fit!
+https://x.com/StefanMaier/status/2125603661950886344/video/1
+https://x.com/StefanMaier/status/2125243511830110590]]></content:encoded>
+    </item>
+    <item>
+      <title>Here’s a quick Meta VR Glasses / Quest performance tip! 👇</title>
+      <link>https://x.com/Dilmerv/status/2125836978537025765</link>
+      <guid isPermaLink="false">2125836978537025765</guid>
+      <pubDate>Thu, 26 Nov 2026 06:20:06 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Here’s a quick Meta VR Glasses / Quest performance tip! 👇 
+
+If your VR game is stuttering, capture a 10-second Perfetto trace to help investigate CPU and GPU bottlenecks.
+
+> metavr perf capture --duration 10000
+https://x.com/Dilmerv/status/2125836978537025765/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>I’ve been thinking about this quite a bit while polishing my latest MR games.</title>
+      <link>https://x.com/Dilmerv/status/2125816855403073832</link>
+      <guid isPermaLink="false">2125816855403073832</guid>
+      <pubDate>Thu, 26 Nov 2026 05:00:08 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[I’ve been thinking about this quite a bit while polishing my latest MR games.
+
+Imagine someone tries your VR/MR game for the first time. You have just 60 seconds to convince them to keep playing.
+
+What’s the ONE thing you’d focus on?
+
+For me, it’s onboarding! Making sure players immediately understand the core mechanics, experience what makes the game fun, and feel excited to keep playing.
+
+Curious what everyone thinks!]]></content:encoded>
+    </item>
     <item>
       <title>Added an optional Comic Look to Hand Skate 🛹</title>
       <link>https://x.com/Dilmerv/status/2125767482640076866</link>
@@ -1404,45 +1451,5 @@ https://x.com/Dilmerv/status/2120622649965416657/video/1]]></content:encoded>
       <dc:creator>nathie</dc:creator>
       <content:encoded><![CDATA[If you could recommend someone one VR headset this Black Friday which one would you pick?]]></content:encoded>
     </item>
-    <item>
-      <title>One of my favorite things about VR/MR development is how much the scale of an experience can change how it feels.</title>
-      <link>https://x.com/Dilmerv/status/2120616320957915253</link>
-      <guid isPermaLink="false">2120616320957915253</guid>
-      <pubDate>Wed, 11 Nov 2026 20:35:04 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[One of my favorite things about VR/MR development is how much the scale of an experience can change how it feels.
-
-A tiny world on your desk versus walking through that exact same world at full scale.
-
-Same environment, completely different experience!
-
-This is exactly what I’ve been experimenting with and adding to my last few VR/MR games, and I absolutely love the possibilities it opens up!
-
-Have you experimented with this?]]></content:encoded>
-    </item>
-    <item>
-      <title>$1695 USD, launches in December</title>
-      <link>https://x.com/SadlyItsBradley/status/2120589411197059112</link>
-      <guid isPermaLink="false">2120589411197059112</guid>
-      <pubDate>Wed, 11 Nov 2026 18:48:08 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[$1695 USD, launches in December
-
-Allows you to record just via a single USB-C cable. Even just connected to an iPhone
-https://x.com/SadlyItsBradley/status/2120589411197059112/photo/1
-https://x.com/SadlyItsBradley/status/2120586432079450245
-
-引用 @SadlyItsBradley：Apple and BlackMagic announced a new Ambisonic microphone designed for insanely high fidelity Spatial Audio
-https://x.com/SadlyItsBradley/status/2120586432079450245/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Apple and BlackMagic announced a new Ambisonic microphone designed for insanely high fidelity Spatial Audio</title>
-      <link>https://x.com/SadlyItsBradley/status/2120586432079450245</link>
-      <guid isPermaLink="false">2120586432079450245</guid>
-      <pubDate>Wed, 11 Nov 2026 18:36:18 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[Apple and BlackMagic announced a new Ambisonic microphone designed for insanely high fidelity Spatial Audio
-https://x.com/SadlyItsBradley/status/2120586432079450245/photo/1]]></content:encoded>
-    </item>
-</channel>
+  </channel>
 </rss>
