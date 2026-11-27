@@ -4,7 +4,23 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Fri, 27 Nov 2026 12:18:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 16:12:15 GMT</lastBuildDate>
+
+    <item>
+      <title>Here’s a question I’ve been thinking about while developing for Meta VR Glasses! 🕶️</title>
+      <link>https://x.com/Dilmerv/status/2126300464446624068</link>
+      <guid isPermaLink="false">2126300464446624068</guid>
+      <pubDate>Fri, 27 Nov 2026 13:01:50 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Here’s a question I’ve been thinking about while developing for Meta VR Glasses! 🕶️
+
+Are we still going to need traditional monitors and desktop workflows to build VR/MR games?
+
+Imagine designing, coding, and testing your entire game without ever taking the glasses off.
+
+💡Would you actually want to work this way, or is developing inside VR overrated?
+https://x.com/Dilmerv/status/2126300464446624068/video/1]]></content:encoded>
+    </item>
     <item>
       <title>One thing I’ve really enjoyed while experimenting with Meta VR Glasses is how comfortable it feels to spend more time wo</title>
       <link>https://x.com/Dilmerv/status/2126247190381162935</link>
@@ -1446,14 +1462,6 @@ In case you missed my initial post, here are the specs:
 
 What a beast of a machine!
 https://x.com/Dilmerv/status/2120948514062536849/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Last night, I applied a bunch of changes to the HandSkate game I am building.</title>
-      <link>https://x.com/Dilmerv/status/2120933406611538381</link>
-      <guid isPermaLink="false">2120933406611538381</guid>
-      <pubDate>Thu, 12 Nov 2026 17:35:03 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Last night, I applied a bunch of changes to the HandSkate game I am building. It feels way more polished, and the hand gestures for tricks worked very well. If I feel better later today, I will begin populating the metadata and publishing it to the developer portal. It would be cool to show the game running on Meta VR Glasses during our time in Japan at Unity Unite.]]></content:encoded>
     </item>
   </channel>
 </rss>
