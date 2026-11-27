@@ -4,7 +4,101 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Thu, 26 Nov 2026 16:14:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 00:07:35 GMT</lastBuildDate>
+    <item>
+      <title>If you're starting a Meta VR Glasses prototype in Unity, start with one tiny interaction before you build the whole game</title>
+      <link>https://x.com/Dilmerv/status/2126096239372431852</link>
+      <guid isPermaLink="false">2126096239372431852</guid>
+      <pubDate>Thu, 26 Nov 2026 23:30:19 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[If you're starting a Meta VR Glasses prototype in Unity, start with one tiny interaction before you build the whole game 😉
+
+In my getting-started guide, I used a simple coffee cup to test hands-first and gaze interactions first.
+
+📖 Walkthrough, sample project, and videos:
+https://developers.meta.com/vr/blog/start-building-for-meta-vr-glasses-with-dilmer-valecillos/
+https://x.com/Dilmerv/status/2126096239372431852/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Hand Skate for Meta VR Glasses just got its first NPC 🛹</title>
+      <link>https://x.com/Dilmerv/status/2126096153372701104</link>
+      <guid isPermaLink="false">2126096153372701104</guid>
+      <pubDate>Thu, 26 Nov 2026 23:29:58 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Hand Skate for Meta VR Glasses just got its first NPC 🛹
+
+Added a character to the park to give the game more life, so it doesn't feel empty anymore. I also redesigned the tricks UI, and hand gestures are a lot more reliable now (still polishing).
+
+I may have the NPC challenge the player, coach the player, or perhaps I may just leave it to keep the game more alive. Thoughts?
+https://x.com/Dilmerv/status/2126096153372701104/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Using Codex, Muse, or Claude for Quest dev? Connect it to the Meta VR CLI's MCP server.</title>
+      <link>https://x.com/Dilmerv/status/2126058519543546367</link>
+      <guid isPermaLink="false">2126058519543546367</guid>
+      <pubDate>Thu, 26 Nov 2026 21:00:25 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Using Codex, Muse, or Claude for Quest dev? Connect it to the Meta VR CLI's MCP server.
+
+Now it can install your build, launch it, grab a headset screenshot and read the logs on its own.
+
+These are the commands it runs for you 👇
+https://x.com/Dilmerv/status/2126058519543546367/photo/1
+
+Check your setup and device:
+
+metavr doctor
+metavr device list
+metavr device health-check
+
+Install and launch:
+
+metavr app install build.apk -r
+metavr app launch com[.]your[.]app --verify
+
+--verify checks the logs for a launch crash.
+
+See what's happening:
+
+metavr capture screenshot
+metavr log -l E -n 200
+
+Bonus, no headset needed:
+
+metavr docs search "passthrough"
+metavr asset search "office chair"
+
+Docs: https://developers.meta.com/vr/essentials/metavr-overview/]]></content:encoded>
+    </item>
+    <item>
+      <title>XR devs, if you're using an AI coding agent with Meta XR SDKs, install the official Meta VR agent skills so it has real </title>
+      <link>https://x.com/Dilmerv/status/2126013737739911372</link>
+      <guid isPermaLink="false">2126013737739911372</guid>
+      <pubDate>Thu, 26 Nov 2026 18:02:29 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[XR devs, if you're using an AI coding agent with Meta XR SDKs, install the official Meta VR agent skills so it has real workflow context 👏
+
+A simple way to do it:
+
+> metavr skills install --all
+
+That gives your agent the steps for common VR/MR tasks, instead of guessing.
+
+Docs here: https://developers.meta.com/vr/essentials/agent-skills/
+
+Have you tried this with Muse, Claude, or Codex yet?]]></content:encoded>
+    </item>
+    <item>
+      <title>VR gaming has officially peaked</title>
+      <link>https://x.com/nathie/status/2126000134173475057</link>
+      <guid isPermaLink="false">2126000134173475057</guid>
+      <pubDate>Thu, 26 Nov 2026 17:08:25 GMT</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[VR gaming has officially peaked
+https://x.com/nathie/status/2126000134173475057/video/1
+
+More here! https://www.meta.com/experiences/sock-puppet-superstar/26292615863707429/?srsltid=AYCX9vLYCgcuoxhUAUB3KqJTJu16nzzTBS9SaNszwN6H842SHaHH9FXb]]></content:encoded>
+    </item>
     <item>
       <title>Came across this mixed reality clip and love the hand interactions!</title>
       <link>https://x.com/Dilmerv/status/2125953232375570693</link>
@@ -1369,96 +1463,6 @@ https://x.com/SadlyItsBradley/status/2120785521983246782/photo/1]]></content:enc
 I kept switching between my slides and Unity to show the tools in action.
 
 We need more of this as an industry. Less polished, heavily edited demos and more real workflows that show what developers actually experience, including the challenges along the way!]]></content:encoded>
-    </item>
-    <item>
-      <title>Guys, I found another very cool feature for Quest &amp; Meta VR Glasses devs! 👇</title>
-      <link>https://x.com/Dilmerv/status/2120735420891717650</link>
-      <guid isPermaLink="false">2120735420891717650</guid>
-      <pubDate>Thu, 12 Nov 2026 04:28:20 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Guys, I found another very cool feature for Quest & Meta VR Glasses devs! 👇
-
-OVR Metrics Tool lets you add your own metrics in Unity C# and see them alongside FPS, CPU, and GPU. For Hand Skate, I’d track how many tricks the player lands.
-
-Register the metric once with `DefineAppMetric`, then update it whenever the game confirms a landing.
-
-`OVRMetricsToolSDK.Instance.UpdateAppMetric("tricks_landed", total);`
-
-You can see the counter live in the headset with Metrics HUD or save it to CSV with Metrics Recording in Meta VR Developer Hub.
-https://x.com/Dilmerv/status/2120735420891717650/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>This is how Apple records all of their first person content Vision Pro trailers/app previews on device</title>
-      <link>https://x.com/SadlyItsBradley/status/2120667515097620923</link>
-      <guid isPermaLink="false">2120667515097620923</guid>
-      <pubDate>Wed, 11 Nov 2026 23:58:30 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[This is how Apple records all of their first person content Vision Pro trailers/app previews on device
-
-By attaching the headset to a special cage, connected to a large crane to keep it completely stabilized!
-
-They also combine this with SharePlay for 3rd person views like below:
-https://x.com/SadlyItsBradley/status/2120667515097620923/photo/1
-
-If you want to record clips in the same way, just add Local SharePlay to your apps
-https://x.com/SadlyItsBradley/status/2091583290029314227
-
-引用 @SadlyItsBradley：Two headsets Networking the same 4DGB Emulator in real time
-
-With all of the rendering options able to be changed independently from each other
-
-This is so epic, I am going to cry 😭
-https://x.com/SadlyItsBradley/status/2091583290029314227/video/1
-https://x.com/SadlyItsBradley/status/2091552845157871831]]></content:encoded>
-    </item>
-    <item>
-      <title>I found the magical Spatial Audio orb</title>
-      <link>https://x.com/SadlyItsBradley/status/2120655657011716574</link>
-      <guid isPermaLink="false">2120655657011716574</guid>
-      <pubDate>Wed, 11 Nov 2026 23:11:23 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[I found the magical Spatial Audio orb
-
-Speak into it and let it tell you the future of this medium
-https://x.com/SadlyItsBradley/status/2120655657011716574/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Q&amp;A just started, and they picked the most important question to lead with:</title>
-      <link>https://x.com/SadlyItsBradley/status/2120639294364921992</link>
-      <guid isPermaLink="false">2120639294364921992</guid>
-      <pubDate>Wed, 11 Nov 2026 22:06:22 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[Q&A just started, and they picked the most important question to lead with:
-
-Is Apple committed to this platform?
-
-“Yes and we think this event is a testament to that” (paraphrased)
-https://x.com/SadlyItsBradley/status/2120568267370909746
-
-引用 @SadlyItsBradley：I’m live from Apple Developer Center
-
-Where they’re holding an event focused on Immersive media experiences
-
-And of course they have a BlackMagic Cine Ursa Immersive pointed at the stage
-https://x.com/SadlyItsBradley/status/2120568267370909746/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Guys, I found another very cool feature in the Meta VR CLI! 👇</title>
-      <link>https://x.com/Dilmerv/status/2120622649965416657</link>
-      <guid isPermaLink="false">2120622649965416657</guid>
-      <pubDate>Wed, 11 Nov 2026 21:00:13 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Guys, I found another very cool feature in the Meta VR CLI! 👇
-
-You can switch between a game room, bedroom, and living room in Meta XR Simulator to test your mixed reality app in different layouts.
-
-> metavr xrsim env set --id Bedroom
-
-👨‍💻 Restart your XR app after switching.
-
-> unity command editor.playmode stop  
-> unity command editor.playmode start
-https://x.com/Dilmerv/status/2120622649965416657/video/1]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,48 @@
     <title>X · XR 官方账号</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>MetaVR_Official / PICOXR / htcvive / BigscreenVR / XREAL_Global / RokidGlobal / getVITURE / pimaxofficial / Play_for_dream / PICOXR_Dev / MetaVRDevs / magicleap / VRChat / BeatSaber 的帖子</description>
-    <lastBuildDate>Thu, 26 Nov 2026 16:14:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 00:07:35 GMT</lastBuildDate>
+    <item>
+      <title>When they had buddy playing VR in the trailer I didn't expect THIS.</title>
+      <link>https://x.com/BigscreenVR/status/2126093369474748569</link>
+      <guid isPermaLink="false">2126093369474748569</guid>
+      <pubDate>Thu, 26 Nov 2026 23:18:54 GMT</pubDate>
+      <dc:creator>BigscreenVR</dc:creator>
+      <content:encoded><![CDATA[When they had buddy playing VR in the trailer I didn't expect THIS.
+https://x.com/BigscreenVR/status/2126093369474748569/photo/1
+
+- Get a free Audio Strap or Custom Fit Cushion with your headset 
+- 25% off Accessories and Lens Inserts 
+- Sale Ends November 30th.  
+More Details Here 👇
+https://store.bigscreenvr.com/blogs/beyond/beyond-2-black-friday-2026]]></content:encoded>
+    </item>
+    <item>
+      <title>Grateful for the worlds we explore and the people we share them with. 🧡</title>
+      <link>https://x.com/Play_for_dream/status/2126013122859221062</link>
+      <guid isPermaLink="false">2126013122859221062</guid>
+      <pubDate>Thu, 26 Nov 2026 18:00:02 GMT</pubDate>
+      <dc:creator>Play_for_dream</dc:creator>
+      <content:encoded><![CDATA[Grateful for the worlds we explore and the people we share them with. 🧡
+Thank you to our community, developers, and partners for being part of the journey.
+Happy Thanksgiving! 🍂
+
+#PlayForDream #Thanksgiving #VR
+https://x.com/Play_for_dream/status/2126013122859221062/photo/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Grateful for every moment. 🧡</title>
+      <link>https://x.com/XREAL_Global/status/2125998268635115626</link>
+      <guid isPermaLink="false">2125998268635115626</guid>
+      <pubDate>Thu, 26 Nov 2026 17:01:01 GMT</pubDate>
+      <dc:creator>XREAL_Global</dc:creator>
+      <content:encoded><![CDATA[Grateful for every moment. 🧡
+For the moments we see, the memories we make, and the people we share them with.
+Here's to seeing more, feeling more, and sharing more.
+Happy Thanksgiving from XREAL! 🦃
+#XREAL #Thanksgiving #ARGlasses
+https://x.com/XREAL_Global/status/2125998268635115626/photo/1]]></content:encoded>
+    </item>
     <item>
       <title>310 BPM. "Flameblade" by @cametek.</title>
       <link>https://x.com/BeatSaber/status/2125978970055135606</link>
@@ -1447,67 +1488,6 @@ https://x.com/getVITURE/status/2121362184106385433/video/1]]></content:encoded>
       <dc:creator>MetaVR_Official</dc:creator>
       <content:encoded><![CDATA[Missed the Eastern Conference showdown between the 76ers and the Celtics? We got immersive highlights for you right here: https://www.meta.com/quest/entertainment/celtics-vs-76ers-highlights/1721714489537297/
 https://x.com/MetaVR_Official/status/2121347262102265922/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Before they made "LFG", @whoisconfetti were Beat Saber players. 😎</title>
-      <link>https://x.com/BeatSaber/status/2121308812963438930</link>
-      <guid isPermaLink="false">2121308812963438930</guid>
-      <pubDate>Fri, 13 Nov 2026 18:26:47 GMT</pubDate>
-      <dc:creator>BeatSaber</dc:creator>
-      <content:encoded><![CDATA[Before they made "LFG", @whoisconfetti were Beat Saber players. 😎
-
-So they wrote the most fun Confetti song they could imagine playing themselves.
-
-Now it's your turn. Let’s freaking goooo! 🔥
-https://x.com/BeatSaber/status/2121308812963438930/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Fresh release notes here! 📣📰</title>
-      <link>https://x.com/MetaVRDevs/status/2121305089449308635</link>
-      <guid isPermaLink="false">2121305089449308635</guid>
-      <pubDate>Fri, 13 Nov 2026 18:11:59 GMT</pubDate>
-      <dc:creator>MetaVRDevs</dc:creator>
-      <content:encoded><![CDATA[Fresh release notes here! 📣📰
-
-The latest updates give you more detailed camera input and clearer hand-gesture debugging, with fixes that cut per-frame allocations. Our weekly release-note roundup starts with November highlights.
-
-See the full release notes 👉 https://developers.meta.com/vr/release-notes/?utm_source=social-x&utm_medium=MVRD&utm_campaign=organic&utm_content=releasenotes
-
-Explore highlights below 🧵
-
-2/ Passthrough Camera API 📷
-
-Mixed Reality Utility Kit (MRUK) v209 adds 1728×1728 camera input on Quest 3/3S with OS v209, plus dynamic capture metadata. This gives computer-vision features more image detail.
-
-Explore MRUK 👉  https://developers.meta.com/vr/downloads/package/meta-xr-mr-utility-kit-upm/?utm_source=social-x&utm_medium=MVRD&utm_campaign=organic&utm_content=releasenotes
-
-3/ Interaction SDK 🖐️
-
-Now you can see pinch strength and gesture states while testing hand input. The new DebugInputView overlay shows OS-provided pinch and microgesture states and logs.
-
-See what’s new with Interaction SDK 👉  https://developers.meta.com/vr/downloads/package/meta-xr-interaction-sdk-ovr-integration/?utm_source=social-x&utm_medium=MVRD&utm_campaign=organic&utm_content=releasenotes
-
-4/ FOV Simulator 👓
-
-Keep essential UI in view on Meta VR Glasses. Core SDK adds a design-area guideline in OVRManager and Immersive Debugger, so you can check placement in Unity before hardware ships.
-
-Try FOV simulation 👉  https://developers.meta.com/vr/downloads/package/meta-xr-core-sdk/?utm_source=social-x&utm_medium=MVRD&utm_campaign=organic&utm_content=releasenotes
-
-5/ Platform SDK 🛠️
-
-Provider initialization now runs off the startup path, reducing 'app not responding' events. This update also fixes Group Presence result mix-ups and large-response failures.
-
-Review platform updates 👉  https://developers.meta.com/vr/downloads/package/meta-xr-platform-sdk/?utm_source=social-x&utm_medium=MVRD&utm_campaign=organic&utm_content=releasenotes]]></content:encoded>
-    </item>
-    <item>
-      <title>What’s your longest drive?</title>
-      <link>https://x.com/MetaVR_Official/status/2121289448939987427</link>
-      <guid isPermaLink="false">2121289448939987427</guid>
-      <pubDate>Fri, 13 Nov 2026 17:09:50 GMT</pubDate>
-      <dc:creator>MetaVR_Official</dc:creator>
-      <content:encoded><![CDATA[What’s your longest drive? Don’t lie.
-
-We’ll start: 550 yards but we forgot to film it.]]></content:encoded>
     </item>
   </channel>
 </rss>
