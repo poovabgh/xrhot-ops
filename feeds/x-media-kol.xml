@@ -4,7 +4,62 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Fri, 27 Nov 2026 00:07:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 04:16:07 GMT</lastBuildDate>
+    <item>
+      <title>So many incredible submissions to the Meta VR Start Developer Competition! 🤯</title>
+      <link>https://x.com/Dilmerv/status/2126165750318571737</link>
+      <guid isPermaLink="false">2126165750318571737</guid>
+      <pubDate>Fri, 27 Nov 2026 04:06:31 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[So many incredible submissions to the Meta VR Start Developer Competition! 🤯
+
+Honestly, the level of innovation was amazing! Developers really took their ideas to another level, and I’m blown away by the creativity!
+
+If you worked on one of these projects, share it below! I’d love for the world to see what you’ve created!
+https://x.com/Dilmerv/status/2126165750318571737/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>At Unite Tokyo, I watched people put on Meta VR Glasses for the first time.</title>
+      <link>https://x.com/Dilmerv/status/2126150066008129565</link>
+      <guid isPermaLink="false">2126150066008129565</guid>
+      <pubDate>Fri, 27 Nov 2026 03:04:12 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[At Unite Tokyo, I watched people put on Meta VR Glasses for the first time. Those reactions stuck with me.
+
+I'm so bullish on the hand experiences developers are going to bring into this headset. Eyes and hands as the input. No controllers needed. This is going to be special.
+https://x.com/Dilmerv/status/2126150066008129565/photo/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Guys, three useful Meta VR CLI checks before testing your Quest app! 👇</title>
+      <link>https://x.com/Dilmerv/status/2126126411886805144</link>
+      <guid isPermaLink="false">2126126411886805144</guid>
+      <pubDate>Fri, 27 Nov 2026 01:30:12 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Guys, three useful Meta VR CLI checks before testing your Quest app! 👇
+
+> metavr doctor
+Finds installed dev tools, including Unity, Java, and the Android SDK.
+
+> metavr device health-check
+Checks Quest connectivity, battery, storage, and UI responsiveness.
+
+> metavr app launch com.example.myapp --verify
+Launches your app and checks recent logs for startup crash signals.
+
+Very useful for catching setup and launch issues early!
+https://x.com/Dilmerv/status/2126126411886805144/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Someone made it possible to play GTA 6 inside GTA Vice City entirely in VR.</title>
+      <link>https://x.com/nathie/status/2126104578647290142</link>
+      <guid isPermaLink="false">2126104578647290142</guid>
+      <pubDate>Fri, 27 Nov 2026 00:03:27 GMT</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[Someone made it possible to play GTA 6 inside GTA Vice City entirely in VR.
+https://x.com/nathie/status/2126104578647290142/video/1
+
+Source: https://www.reddit.com/r/virtualreality/s/gVGjpdAzjJ]]></content:encoded>
+    </item>
     <item>
       <title>If you're starting a Meta VR Glasses prototype in Unity, start with one tiny interaction before you build the whole game</title>
       <link>https://x.com/Dilmerv/status/2126096239372431852</link>
@@ -1401,68 +1456,6 @@ https://na2.hubs.ly/H08ZLdj0
 
 #AWE2027 #PhysicalAI
 https://x.com/ARealityEvent/status/2120924636741525698/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>All, here’s a Unity VR tip worth checking out!</title>
-      <link>https://x.com/Dilmerv/status/2120912928798859353</link>
-      <guid isPermaLink="false">2120912928798859353</guid>
-      <pubDate>Thu, 12 Nov 2026 16:13:41 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[All, here’s a Unity VR tip worth checking out!
-
-Have you experimented with Late Latching on Meta Quest?
-
-It updates head and controller tracking poses just before rendering, reducing perceived latency and making VR interactions feel more responsive!
-
-👨🏻‍💻To enable it in Unity:
-- Use Vulkan + Multiview
-- Open XR Plug-in Management → OpenXR
-- Meta Quest Support → Enable Late Latching
-
-One important detail: Late Latching updates rendering poses, not gameplay physics, so be sure to test your interactions on the headset.
-
-You can even measure the improvement using:
-
-adb logcat -s VrApi
-
-Compare the Prd values with Late Latching enabled and disabled to see the difference!
-https://x.com/Dilmerv/status/2120912928798859353/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Gentle Monster just launched its smart glasses bringing fashion and technology one step closer together.</title>
-      <link>https://x.com/nathie/status/2120906374301315571</link>
-      <guid isPermaLink="false">2120906374301315571</guid>
-      <pubDate>Thu, 12 Nov 2026 15:47:38 GMT</pubDate>
-      <dc:creator>nathie</dc:creator>
-      <content:encoded><![CDATA[Gentle Monster just launched its smart glasses bringing fashion and technology one step closer together.
-
-Developed in partnership with Google and Samsung, they offer real-time translation, navigation and AI-powered contextual assistance. Price starts at $449.
-https://x.com/nathie/status/2120906374301315571/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>I had a pretty great day at the Apple Immersive event</title>
-      <link>https://x.com/SadlyItsBradley/status/2120785521983246782</link>
-      <guid isPermaLink="false">2120785521983246782</guid>
-      <pubDate>Thu, 12 Nov 2026 07:47:25 GMT</pubDate>
-      <dc:creator>SadlyItsBradley</dc:creator>
-      <content:encoded><![CDATA[I had a pretty great day at the Apple Immersive event
-
-Thanks to everyone for their kindness toward me at the venue
-
-And extra thanks to those doing behind the scenes work to bring all of these once-impossible technologies/workflows to the next level
-https://x.com/SadlyItsBradley/status/2120785521983246782/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>I gave a presentation today about fast iteration tools for Meta VR Glasses developers, and honestly, I’m so glad I decid</title>
-      <link>https://x.com/Dilmerv/status/2120759750212067586</link>
-      <guid isPermaLink="false">2120759750212067586</guid>
-      <pubDate>Thu, 12 Nov 2026 06:05:00 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[I gave a presentation today about fast iteration tools for Meta VR Glasses developers, and honestly, I’m so glad I decided to include several live demos!
-
-I kept switching between my slides and Unity to show the tools in action.
-
-We need more of this as an industry. Less polished, heavily edited demos and more real workflows that show what developers actually experience, including the challenges along the way!]]></content:encoded>
     </item>
   </channel>
 </rss>
