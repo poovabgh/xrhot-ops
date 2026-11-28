@@ -4,8 +4,93 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Fri, 27 Nov 2026 16:12:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 00:14:29 GMT</lastBuildDate>
 
+    <item>
+      <title>📣 Guys, check out another project from the Meta VR Start Developer Competition! 👇</title>
+      <link>https://x.com/Dilmerv/status/2126451174521942146</link>
+      <guid isPermaLink="false">2126451174521942146</guid>
+      <pubDate>Fri, 27 Nov 2026 23:00:42 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[📣 Guys, check out another project from the Meta VR Start Developer Competition! 👇
+
+Sphenomenon by “Greg Madison” is a Mixed Reality experience built around a physical sphere, where digital content comes to life and hand gestures extend the experience onto your walls.
+
+Greg’s tech stack:
+
+- Meta Spatial SDK
+- OpenXR
+- MRUK + Scene API
+- Hand tracking + Passthrough
+- Spatial Audio
+- Kotlin, C++, OpenGL ES
+
+Hope this inspires some ideas for your own future MR projects!
+https://x.com/Dilmerv/status/2126451174521942146/video/1
+
+📌 Here is @GregMadison submission with a lot more details https://devpost.com/software/sphenomenon]]></content:encoded>
+    </item>
+    <item>
+      <title>One thing I’ve been paying a lot of attention to while developing Hand Skate is how much physical effort hand gestures r</title>
+      <link>https://x.com/Dilmerv/status/2126428408917742041</link>
+      <guid isPermaLink="false">2126428408917742041</guid>
+      <pubDate>Fri, 27 Nov 2026 21:30:14 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[One thing I’ve been paying a lot of attention to while developing Hand Skate is how much physical effort hand gestures require.
+
+I’ve designed too many hand gestures for different skating tricks, so I’m going to scale back and refine them to work with smaller, more subtle movements.
+
+A gesture might feel amazing the first few times, but what happens after repeating it hundreds of times?
+
+I’ve also been thinking about using microgestures in my other MR games, where even less effort is needed to interact.
+
+Honestly, I think comfort is just as important as making an interaction feel natural, especially for hands-first VR/MR experiences!
+https://x.com/Dilmerv/status/2126428408917742041/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>The next few years in XR are going to come in faster than a lot of people think.</title>
+      <link>https://x.com/Dilmerv/status/2126383274041749975</link>
+      <guid isPermaLink="false">2126383274041749975</guid>
+      <pubDate>Fri, 27 Nov 2026 18:30:53 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[The next few years in XR are going to come in faster than a lot of people think.
+
+Glasses-class form factors. Hands and eyes as the input. Agents helping us build the experiences.
+
+It sounds like science fiction until you look at how fast the tools, hardware, and devs are moving today. 
+
+Really good time to be building. 🚀🕶️
+https://x.com/Dilmerv/status/2126383274041749975/photo/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Love seeing more devs build for Meta VR Glasses! 🕶️</title>
+      <link>https://x.com/Dilmerv/status/2126376893016662093</link>
+      <guid isPermaLink="false">2126376893016662093</guid>
+      <pubDate>Fri, 27 Nov 2026 18:05:32 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Love seeing more devs build for Meta VR Glasses! 🕶️
+
+@sergeyglkn made a little puzzle game designed to feel relaxing, almost meditative, for players of any XR experience level (Quest supported too)
+
+Take a look 👇 and show him some love! https://x.com/sergeyglkn/status/2125902301969752386
+
+引用 @sergeyglkn：I've built a little puzzle game for Meta VR glasses (Meta Quest is supported, ofc).
+
+I wanted it to be a fun, relaxing, almost meditative experience for people of any XR experience level. Whether I managed that is for you to judge.
+https://x.com/sergeyglkn/status/2125902301969752386/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>One thing that makes XR agents a lot better: examples.</title>
+      <link>https://x.com/Dilmerv/status/2126353069193490892</link>
+      <guid isPermaLink="false">2126353069193490892</guid>
+      <pubDate>Fri, 27 Nov 2026 16:30:52 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[One thing that makes XR agents a lot better: examples.
+
+If your agent only knows generic UI, you'll get generic hand menus and panels. Point it at real samples or a skill with interactions you actually like, and the results jump.
+
+Package the taste once. Reuse it on the next project.]]></content:encoded>
+    </item>
     <item>
       <title>Here’s a question I’ve been thinking about while developing for Meta VR Glasses! 🕶️</title>
       <link>https://x.com/Dilmerv/status/2126300464446624068</link>
@@ -1379,89 +1464,6 @@ https://x.com/Dilmerv/status/2121233793038135521/photo/1]]></content:encoded>
  🔗 Subscribe to the Weekly Spatial: https://na2.hubs.ly/H08-Q5H0 
 
 #AWE #WeeklySpatial #XR #AR #VR #SpatialAI https://x.com/ARealityEvent/status/2121141198962467113/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Here’s a cool Unity XR tip worth trying! 👇</title>
-      <link>https://x.com/Dilmerv/status/2121067263709020610</link>
-      <guid isPermaLink="false">2121067263709020610</guid>
-      <pubDate>Fri, 13 Nov 2026 02:26:57 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Here’s a cool Unity XR tip worth trying! 👇
-
-Did you know Meta’s Interaction SDK supports curved UI panels?
-
-Try the RayExamples scene and experiment with CanvasCylinder!
-
-You can create curved menus, interact using hand rays and pinch, and even use compositor layers for sharper UI.
-
-Great for VR/MR interfaces! 🙌
-https://x.com/Dilmerv/status/2121067263709020610/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>I’ve been experimenting with a variety of hand gestures for Hand Skate, and I already have over a dozen integrated for d</title>
-      <link>https://x.com/Dilmerv/status/2121024016471171584</link>
-      <guid isPermaLink="false">2121024016471171584</guid>
-      <pubDate>Thu, 12 Nov 2026 23:35:06 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[I’ve been experimenting with a variety of hand gestures for Hand Skate, and I already have over a dozen integrated for different tricks!
-
-Here’s an example of one that works really well for performing a kickflip! 🛹
-https://x.com/Dilmerv/status/2121024016471171584/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>To be honest, when I first started working at Meta, it was very challenging.</title>
-      <link>https://x.com/Dilmerv/status/2121004826334986327</link>
-      <guid isPermaLink="false">2121004826334986327</guid>
-      <pubDate>Thu, 12 Nov 2026 22:18:51 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[To be honest, when I first started working at Meta, it was very challenging. But like any new job, I knew I had to keep pushing, learning, helping across the organization, and doing what I do best: creating content and educating developers.
-
-Nowadays, it feels like home. I’ve gotten used to the work, but it’s still very challenging, and that’s what keeps me excited!
-
-I also love that I’m building more than ever. It’s not just meetings. I actually get to spend a lot of time building things and sharing what I learn, both internally and externally.
-
-I honestly don’t think I could have asked for a better place to work. I get to meet incredibly smart people, work with extremely talented developers building for XR, and even better, I get to openly share my excitement and experiences on social media.
-
-I’m genuinely grateful for all of it!
-https://x.com/Dilmerv/status/2121004826334986327/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>This photo was taken before Meta VR Glasses were officially announced, and I remember how excited I was to tell develope</title>
-      <link>https://x.com/Dilmerv/status/2120999787629518873</link>
-      <guid isPermaLink="false">2120999787629518873</guid>
-      <pubDate>Thu, 12 Nov 2026 21:58:50 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[This photo was taken before Meta VR Glasses were officially announced, and I remember how excited I was to tell developers about the crazy technology we were building!
-
-Every time I put them on, I get even more excited about the future of VR!
-
-I honestly believe lightweight glasses will bring a completely new wave of developers into the Meta VR ecosystem, including people who have never built for VR before.
-
-When I think about the future of computing, this is exactly the kind of technology I imagine.
-
-I can’t wait to see what everyone builds! 🕶️🚀
-https://x.com/Dilmerv/status/2120999787629518873/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Having this extremely powerful Mac Studio has been mind-blowing!</title>
-      <link>https://x.com/Dilmerv/status/2120948514062536849</link>
-      <guid isPermaLink="false">2120948514062536849</guid>
-      <pubDate>Thu, 12 Nov 2026 18:35:05 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[Having this extremely powerful Mac Studio has been mind-blowing!
-
-Yesterday, during a live demo presentation, I had 4 instances of Unity running alongside Zoom and Meta XR Simulator across multiple projects. Everything ran so smoothly! 🤯
-
-It’s crazy how much more productive this machine makes me. I can focus on building and testing without constantly worrying about crashes or performance issues.
-
-In case you missed my initial post, here are the specs:
-
-💻 M4 Max
-🚀 128GB of unified memory
-💾 1TB of storage
-
-What a beast of a machine!
-https://x.com/Dilmerv/status/2120948514062536849/photo/1]]></content:encoded>
     </item>
   </channel>
 </rss>
