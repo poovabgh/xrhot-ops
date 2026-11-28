@@ -4,8 +4,46 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Sat, 28 Nov 2026 12:09:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 16:13:17 GMT</lastBuildDate>
 
+    <item>
+      <title>XR devs using Codex, Muse, or Claude for Quest?</title>
+      <link>https://x.com/Dilmerv/status/2126707835245408261</link>
+      <guid isPermaLink="false">2126707835245408261</guid>
+      <pubDate>Sat, 28 Nov 2026 16:00:34 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[XR devs using Codex, Muse, or Claude for Quest?
+
+One command sets up the official Meta VR skills (34 of them) and the metavr MCP server for the agents you already have:
+
+metavr init
+
+A few of the included skills I like to highlight:
+- Unity project setup
+- Spatial SDK
+- Perfetto
+https://x.com/Dilmerv/status/2126707835245408261/photo/1
+
+The GitHub repo is available here
+https://github.com/meta-quest/agentic-tools]]></content:encoded>
+    </item>
+    <item>
+      <title>📣 Love this mixed reality koi pond from @8bitbob_dev, part of his Meta VR Start Developer Competition entry.</title>
+      <link>https://x.com/Dilmerv/status/2126662568848625776</link>
+      <guid isPermaLink="false">2126662568848625776</guid>
+      <pubDate>Sat, 28 Nov 2026 13:00:42 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[📣 Love this mixed reality koi pond from @8bitbob_dev, part of his Meta VR Start Developer Competition entry.
+
+You pinch and trace the pond onto your floor, lift and move the water, play with the glow, and even feed the fish. All with hand tracking. 👇 https://x.com/8bitbob_dev/status/2123642777430790531
+
+引用 @8bitbob_dev：My mixed reality Koi pond is one part of my entry into the Meta VR Start Developer competition.
+
+I wanted an intuitive way to create the pond, play with the bioluminescence and then water bend with the hand tracking. And of course you can feed the fish!
+
+What do people think?
+https://x.com/8bitbob_dev/status/2123642777430790531/video/1]]></content:encoded>
+    </item>
     <item>
       <title>📣 XR devs, have you explored what you can do with Unity’s XR Interaction Toolkit (XRI) &amp; XR Hands?</title>
       <link>https://x.com/Dilmerv/status/2126610831609667988</link>
@@ -1463,31 +1501,6 @@ That feeling never goes away, and I honestly believe we’re just scratching the
 
 I wonder how well this would work with VR games.
 https://x.com/nathie/status/2121383921552416861/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>All, I’m using TapeDeck in Meta VR CLI to test the same Hand Skate tricks over and over! 🛹</title>
-      <link>https://x.com/Dilmerv/status/2121299006085091438</link>
-      <guid isPermaLink="false">2121299006085091438</guid>
-      <pubDate>Fri, 13 Nov 2026 17:47:49 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[All, I’m using TapeDeck in Meta VR CLI to test the same Hand Skate tricks over and over! 🛹
-
-I record a hand gesture once, then replay it to see how the trick behaves across builds.
-
-You can do the same in your own games. It’s pretty powerful for reproducing those bugs that only happen with a specific gesture.
-
-> metavr tapedeck record
-> metavr tapedeck replay
-https://x.com/Dilmerv/status/2121299006085091438/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Here's a first look at the new Gentle Monster smart glasses in action with features like video calls, live translation a</title>
-      <link>https://x.com/nathie/status/2121297122897305604</link>
-      <guid isPermaLink="false">2121297122897305604</guid>
-      <pubDate>Fri, 13 Nov 2026 17:40:20 GMT</pubDate>
-      <dc:creator>nathie</dc:creator>
-      <content:encoded><![CDATA[Here's a first look at the new Gentle Monster smart glasses in action with features like video calls, live translation and asking Gemini for directions.
-https://x.com/nathie/status/2121297122897305604/video/1]]></content:encoded>
     </item>
   </channel>
 </rss>
