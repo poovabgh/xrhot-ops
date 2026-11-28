@@ -4,8 +4,36 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Sat, 28 Nov 2026 08:15:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 12:09:02 GMT</lastBuildDate>
 
+    <item>
+      <title>📣 XR devs, have you explored what you can do with Unity’s XR Interaction Toolkit (XRI) &amp; XR Hands?</title>
+      <link>https://x.com/Dilmerv/status/2126610831609667988</link>
+      <guid isPermaLink="false">2126610831609667988</guid>
+      <pubDate>Sat, 28 Nov 2026 09:35:07 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[📣 XR devs, have you explored what you can do with Unity’s XR Interaction Toolkit (XRI) & XR Hands?
+
+Here are a few cool features worth experimenting with when building hands-first VR/MR experiences:
+https://x.com/Dilmerv/status/2126610831609667988/video/1
+
+- XR Interaction Simulator: Simulate head, hand, and controller inputs directly in the Unity Editor using your mouse and keyboard.
+
+- XR Hands Debugger: Visualize hand joints and inspect finger curl, pinch, and spread values to fine-tune your gesture recognition.
+
+- Two-Hand Scaling: Set XRGrabInteractable to Multiple selection, enable Track Scale, and enable two-hand scaling in XRGeneralGrabTransformer. Set the Scale Multiplier to 1 for direct distance-based scaling.
+
+Combine these with poke interactions, sliders, sockets, and custom hand gestures to create more natural and intuitive experiences!
+
+One tip I always recommend: prototype in the simulator, inspect your hand data, refine your interactions, and validate on the actual hardware.
+
+Small improvements to hand interactions can make a HUGE difference in how natural an experience feels!
+
+📌 Here is more information about these features
+
+https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.7/manual/xr-interaction-simulator-overview.html
+https://docs.unity3d.com/Packages/com.unity.xr.hands@1.10/manual/gestures/gesture-debugger.html]]></content:encoded>
+    </item>
     <item>
       <title>The biggest speedup I've had with Codex, Muse, or Claude isn't a better prompt.</title>
       <link>https://x.com/Dilmerv/status/2126568039466328208</link>
@@ -1460,14 +1488,6 @@ https://x.com/Dilmerv/status/2121299006085091438/video/1]]></content:encoded>
       <dc:creator>nathie</dc:creator>
       <content:encoded><![CDATA[Here's a first look at the new Gentle Monster smart glasses in action with features like video calls, live translation and asking Gemini for directions.
 https://x.com/nathie/status/2121297122897305604/video/1]]></content:encoded>
-    </item>
-    <item>
-      <title>Are you buying the XREAL Aura this holiday season or waiting for the Meta VR Glasses?</title>
-      <link>https://x.com/nathie/status/2121246381192904761</link>
-      <guid isPermaLink="false">2121246381192904761</guid>
-      <pubDate>Fri, 13 Nov 2026 14:18:42 GMT</pubDate>
-      <dc:creator>nathie</dc:creator>
-      <content:encoded><![CDATA[Are you buying the XREAL Aura this holiday season or waiting for the Meta VR Glasses?]]></content:encoded>
     </item>
   </channel>
 </rss>
