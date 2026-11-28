@@ -4,8 +4,39 @@
     <title>X · XR 媒体和 KOL</title>
     <link>https://github.com/poovabgh/xrhot-ops</link>
     <description>ARealityEvent / nathie / Dilmerv / SadlyItsBradley 的帖子</description>
-    <lastBuildDate>Sat, 28 Nov 2026 00:14:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 08:15:07 GMT</lastBuildDate>
 
+    <item>
+      <title>The biggest speedup I've had with Codex, Muse, or Claude isn't a better prompt.</title>
+      <link>https://x.com/Dilmerv/status/2126568039466328208</link>
+      <guid isPermaLink="false">2126568039466328208</guid>
+      <pubDate>Sat, 28 Nov 2026 06:45:04 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[The biggest speedup I've had with Codex, Muse, or Claude isn't a better prompt.
+
+It's giving the agent a way to check its own work: run the build, run the tests, read the logs.
+
+For XR development, using simulators has been life changing. The agent can test changes without me putting on a headset every time.
+
+An agent that can verify is an agent you can trust with bigger tasks.
+
+💡 How are you letting your agent test its changes?]]></content:encoded>
+    </item>
+    <item>
+      <title>A glasses-class device at about 100 grams changes the kinds of experiences worth building.</title>
+      <link>https://x.com/Dilmerv/status/2126550410022298038</link>
+      <guid isPermaLink="false">2126550410022298038</guid>
+      <pubDate>Sat, 28 Nov 2026 05:35:01 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[A glasses-class device at about 100 grams changes the kinds of experiences worth building.
+
+Not just short sessions. Things people might actually keep on while they work, watch, or move around their space.
+
+Eyes and hands as the input. A screen wherever you are.
+
+💡 What would you build for it?
+https://x.com/Dilmerv/status/2126550410022298038/photo/1]]></content:encoded>
+    </item>
     <item>
       <title>📣 Guys, check out another project from the Meta VR Start Developer Competition! 👇</title>
       <link>https://x.com/Dilmerv/status/2126451174521942146</link>
@@ -1437,33 +1468,6 @@ https://x.com/nathie/status/2121297122897305604/video/1]]></content:encoded>
       <pubDate>Fri, 13 Nov 2026 14:18:42 GMT</pubDate>
       <dc:creator>nathie</dc:creator>
       <content:encoded><![CDATA[Are you buying the XREAL Aura this holiday season or waiting for the Meta VR Glasses?]]></content:encoded>
-    </item>
-    <item>
-      <title>On my way to Japan! 🇯🇵✈️</title>
-      <link>https://x.com/Dilmerv/status/2121233793038135521</link>
-      <guid isPermaLink="false">2121233793038135521</guid>
-      <pubDate>Fri, 13 Nov 2026 13:28:41 GMT</pubDate>
-      <dc:creator>Dilmerv</dc:creator>
-      <content:encoded><![CDATA[On my way to Japan! 🇯🇵✈️
-
-So excited to be heading to Unite Tokyo! Can’t wait to meet Japanese devs, share what we’ve been building at Meta, and talk about all the exciting opportunities with Meta VR Glasses.
-
-We’ll also be running a hackathon after the event!
-
-Looking forward to an amazing week!
-https://x.com/Dilmerv/status/2121233793038135521/photo/1]]></content:encoded>
-    </item>
-    <item>
-      <title>AWE launches @phaiworld, a new event co-located with AWE USA 2027, @Meta Quest App Store revenue in 2026 steady compared</title>
-      <link>https://x.com/ARealityEvent/status/2121141198962467113</link>
-      <guid isPermaLink="false">2121141198962467113</guid>
-      <pubDate>Fri, 13 Nov 2026 07:20:45 GMT</pubDate>
-      <dc:creator>ARealityEvent</dc:creator>
-      <content:encoded><![CDATA[AWE launches @phaiworld, a new event co-located with AWE USA 2027, @Meta Quest App Store revenue in 2026 steady compared with last year.
-
- 🔗 Subscribe to the Weekly Spatial: https://na2.hubs.ly/H08-Q5H0 
-
-#AWE #WeeklySpatial #XR #AR #VR #SpatialAI https://x.com/ARealityEvent/status/2121141198962467113/video/1]]></content:encoded>
     </item>
   </channel>
 </rss>
